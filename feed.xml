@@ -9,12 +9,12 @@
             <link>https://ricomanifesto.github.io/SentryDigest/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 May 2025 03:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 05:11:31 GMT</lastBuildDate>
         <atom:link href="https://ricomanifesto.github.io/SentryDigest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 May 2025 03:46:34 GMT</pubDate>
+        <pubDate>Thu, 29 May 2025 05:11:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
-        <comment>News aggregated from: Krebs on Security, The Hacker News, Threatpost, Bleeping Computer, Dark Reading, ZDNet Security</comment>
+        <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading</comment>
         <item>
             <title><![CDATA[Windows 10 KB5058481 update brings seconds back to calendar flyout]]></title>
             <description><![CDATA[Microsoft has released the optional KB5058481 preview cumulative update for Windows 10 22H2 with seven changes, including restoring seconds to the time display in the calendar flyout for those who pre...]]></description>
@@ -93,29 +93,6 @@
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[Pakistan Arrests 21 in ‘Heartsender’ Malware Service]]></title>
-            <description><![CDATA[Authorities in Pakistan have arrested 21 individuals accused of operating "Heartsender," a once popular spam and malware dissemination service that operated for more than a decade. The main clientele ...]]></description>
-            <link>https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/</link>
-            <guid isPermaLink="false">https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/</guid>
-            <category><![CDATA[Krebs on Security]]></category>
-            <dc:creator><![CDATA[Krebs on Security]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 17:41:47 GMT</pubDate>
-            <dc:source>Krebs on Security</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore]]></title>
-            <description><![CDATA[An Iranian national has pleaded guilty in the U.S. over his involvement in an international ransomware and extortion scheme involving the Robbinhood ransomware.
-Sina Gholinejad (aka Sina Ghaaf), 37, a...]]></description>
-            <link>https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 17:20:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor]]></title>
             <description><![CDATA[Over 9,000 ASUS routers are compromised by a novel botnet dubbed "AyySSHush" that was also observed targeting SOHO routers from Cisco, D-Link, and Linksys. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/</link>
@@ -138,18 +115,6 @@ Sina Gholinejad (aka Sina Ghaaf), 37, a...]]></description>
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack]]></title>
-            <description><![CDATA[The Czech Republic on Wednesday formally accused a threat actor associated with the People's Republic of China (PRC) of targeting its Ministry of Foreign Affairs.
-In a public statement, the government...]]></description>
-            <link>https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 16:01:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Cellcom Restores Regional Mobile Services After Cyberattack]]></title>
             <description><![CDATA[Customers in parts of Wisconsin and Michigan could not make calls or send text messages for nearly a week after an incident on May 14, and service is still intermittent in some areas....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack</link>
@@ -158,17 +123,6 @@ In a public statement, the government...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 28 May 2025 15:33:33 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Is that extension safe? This free tool lets you know before you install]]></title>
-            <description><![CDATA[Don't install that unknown extension until you've checked out its reputation. Here's how to do that....]]></description>
-            <link>https://www.zdnet.com/article/is-that-extension-safe-this-free-site-lets-you-know-before-you-install/</link>
-            <guid isPermaLink="false">https://www.zdnet.com/article/is-that-extension-safe-this-free-site-lets-you-know-before-you-install/</guid>
-            <category><![CDATA[ZDNet Security]]></category>
-            <dc:creator><![CDATA[ZDNet Security]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 14:54:09 GMT</pubDate>
-            <dc:source>ZDNet Security</dc:source>
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
@@ -194,17 +148,6 @@ In a public statement, the government...]]></description>
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File]]></title>
-            <description><![CDATA[Cybersecurity researchers have discovered a security flaw in Microsoft's OneDrive File Picker that, if successfully exploited, could allow websites to access a user's entire cloud storage content, as ...]]></description>
-            <link>https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 13:41:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Microsoft introduces new Windows backup tool for businesses]]></title>
             <description><![CDATA[Microsoft has introduced Windows Backup for Organizations, a new backup tool for enterprises that simplifies backups and makes the transition to Windows 11 easier. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/</link>
@@ -224,18 +167,6 @@ In a public statement, the government...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 28 May 2025 13:08:37 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto]]></title>
-            <description><![CDATA[Embedded Linux-based Internet of Things (IoT) devices have become the target of a new botnet dubbed PumaBot.
-Written in Go, the botnet is designed to conduct brute-force attacks against SSH instances ...]]></description>
-            <link>https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 12:30:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
@@ -261,29 +192,6 @@ Written in Go, the botnet is designed to conduct brute-force attacks against SSH
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign]]></title>
-            <description><![CDATA[Stealer malware no longer just steals passwords. In 2025, it steals live sessions—and attackers are moving faster and more efficiently than ever.
-While many associate account takeovers with personal s...]]></description>
-            <link>https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 11:25:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware]]></title>
-            <description><![CDATA[A financially motivated threat actor has been observed exploiting a recently disclosed remote code execution flaw affecting the Craft Content Management System (CMS) to deploy multiple payloads, inclu...]]></description>
-            <link>https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 11:00:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Apple blocked over $9 billion in App Store fraud in five years]]></title>
             <description><![CDATA[Apple says it blocked over $9 billion in fraudulent App Store transactions over the last five years, with over $2 billion in potentially fraudulent sanctions prevented in 2024 alone. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/</link>
@@ -292,52 +200,6 @@ While many associate account takeovers with personal s...]]></description>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Wed, 28 May 2025 10:18:34 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[How 'Browser-in-the-Middle' Attacks Steal Sessions in Seconds]]></title>
-            <description><![CDATA[Would you expect an end user to log on to a cybercriminal’s computer, open their browser, and type in their usernames and passwords? Hopefully not! But that’s essentially what happens if they fall vic...]]></description>
-            <link>https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 09:32:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[How to disable ACR on your TV (and why you shouldn't wait to do it)]]></title>
-            <description><![CDATA[Smarter TV operating systems offer added convenience, but they also introduce new privacy concerns, particularly around automatic content recognition (ACR)....]]></description>
-            <link>https://www.zdnet.com/article/how-to-disable-acr-on-your-tv-and-why-you-shouldnt-wait-to-do-it/</link>
-            <guid isPermaLink="false">https://www.zdnet.com/article/how-to-disable-acr-on-your-tv-and-why-you-shouldnt-wait-to-do-it/</guid>
-            <category><![CDATA[ZDNet Security]]></category>
-            <dc:creator><![CDATA[ZDNet Security]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 09:30:14 GMT</pubDate>
-            <dc:source>ZDNet Security</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch]]></title>
-            <description><![CDATA[Cybersecurity researchers have disclosed details of a coordinated cloud-based scanning activity that targeted 75 distinct "exposure points" earlier this month.
-The activity, observed by GreyNoise on M...]]></description>
-            <link>https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 09:23:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats]]></title>
-            <description><![CDATA[Apple on Tuesday revealed that it prevented over $9 billion in fraudulent transactions in the last five years, including more than $2 billion in 2024 alone.
-The company said the App Store is confronte...]]></description>
-            <link>https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 06:11:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
@@ -350,6 +212,927 @@ The company said the App Store is confronte...]]></description>
             <pubDate>Wed, 28 May 2025 03:30:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[DragonForce ransomware abuses SimpleHelp in MSP supply chain attack]]></title>
+            <description><![CDATA[The DragonForce ransomware operation successfully breached a managed service provider and used its SimpleHelp remote monitoring and management (RMM) platform to steal data and deploy encryptors on dow...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 21:44:15 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Adidas Falls Victim to Third-Party Data Breach]]></title>
+            <description><![CDATA[Though Adidas said that no payment or financial information was affected in the breach, individuals who contacted the compamy's customer service help desk were impacted....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/adidas-victim-third-party-data-breach</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/adidas-victim-third-party-data-breach</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 21:38:05 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CISA Warns of Attacks Targeting Commvault SaaS Environment]]></title>
+            <description><![CDATA[A threat actor has gained access to Microsoft 365 environments of a small number of customers of Commvault's Metallic service....]]></description>
+            <link>https://www.darkreading.com/cloud-security/cisa-warns-attacks-commvault-saas-environment</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/cisa-warns-attacks-commvault-saas-environment</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 21:22:27 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[DragonForce Ransomware Strikes MSP in Supply Chain Attack]]></title>
+            <description><![CDATA[DragonForce, a ransomware "cartel" that has gained significant popularity since its debut in 2023, attacked an MSP as part of a recent supply chain attack, via known SimpleHelp bugs....]]></description>
+            <link>https://www.darkreading.com/application-security/dragonforce-ransomware-msp-supply-chain-attack</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/dragonforce-ransomware-msp-supply-chain-attack</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 20:15:31 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years]]></title>
+            <description><![CDATA[An Iranian national has pleaded guilty to participating in the Robbinhood ransomware operation, which was used to breach the networks, steal data, and encrypt devices of U.S. cities and organizations ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 19:14:56 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[MathWorks, Creator of MATLAB, Confirms Ransomware Attack]]></title>
+            <description><![CDATA[The attack dirsupted MathWorks' systems and online applications, but it remains unclear which ransomware group targeted the software company and whether they stole any data....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/mathworks-confirms-ransomware-attack</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/mathworks-confirms-ransomware-attack</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 17:27:19 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[FBI: Silent Ransom Group Adopts Vishing Campaign Against Law Firms]]></title>
+            <description><![CDATA[The non-ransomware extortion group has switched up tactics and victimology in a deliberate and focused campaign similar to those of other attackers focused on stealing sensitive data....]]></description>
+            <link>https://www.darkreading.com/endpoint-security/fbi-silent-ransom-group-vishing-law-firms</link>
+            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/fbi-silent-ransom-group-vishing-law-firms</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 16:58:22 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[How the New Hacker Millionaire Class Was Built]]></title>
+            <description><![CDATA[Once dismissed as Internet miscreants in hoodies, ethical hackers have hit the big time, earning millions from blue-chip firms. And they say it's their diverse backgrounds that make them top-tier bug ...]]></description>
+            <link>https://www.darkreading.com/remote-workforce/hacker-millionaire-class-built</link>
+            <guid isPermaLink="false">https://www.darkreading.com/remote-workforce/hacker-millionaire-class-built</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 16:12:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Danabot Takedown Deals Blow to Russian Cybercrime]]></title>
+            <description><![CDATA[A multiyear investigation by a public-private partnership has resulted in the seizure of the botnet's US-based infrastructure and indictments for its key players, significantly disrupting a vast cyber...]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/danabot-takedown-russian-cybercrime</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/danabot-takedown-russian-cybercrime</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 15:53:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CVE Uncertainty Underlines Importance of Cyber Resilience]]></title>
+            <description><![CDATA[Organizations need to broaden their strategy to manage vulnerabilities more effectively and strengthen network cyber resilience....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/cve-uncertainty-underlines-importance-cyber-resilience</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/cve-uncertainty-underlines-importance-cyber-resilience</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 27 May 2025 14:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[3 Critical Pillars of Cyber-Resilience]]></title>
+            <description><![CDATA[Encryption, collaboration, and AI can help organizations build up essential protection against ransomware....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/three-critical-pillars-of-cyber-resilience</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/three-critical-pillars-of-cyber-resilience</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 23 May 2025 16:33:26 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[How AI Is Transforming SASE, Zero Trust for Modern Enterprises]]></title>
+            <description><![CDATA[By automating security policies and threat detection while coaching users on data protection, companies will be better able to take control of and protect their data....]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/how-ai-transform-sase-zero-trust-networks-security</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/how-ai-transform-sase-zero-trust-networks-security</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 23 May 2025 14:06:01 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking Data Privacy in the Age of Generative AI]]></title>
+            <description><![CDATA[The key to navigating this new GenAI landscape is a balanced approach — one that fosters transparency, strengthens regulatory frameworks, and embraces privacy-enhancing technologies....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 23 May 2025 14:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[3 Severe Bugs Patched in Versa's Concerto Orchestrator]]></title>
+            <description><![CDATA[Three zero-days could have allowed an attacker to completely compromise the Concerto application and the host system running it....]]></description>
+            <link>https://www.darkreading.com/endpoint-security/critical-bugs-patched-versa-sd-wan-platform</link>
+            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/critical-bugs-patched-versa-sd-wan-platform</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 23 May 2025 13:30:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Companies Look to AI to Tame the Chaos of Event Security, Operations]]></title>
+            <description><![CDATA[As the summer event season kicks off, venue managers and security firms aim to make AI part of the solution for keeping control of crowds and protecting against cyber-physical threats....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/companies-ai-tame-chaos-event-security-operations</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/companies-ai-tame-chaos-event-security-operations</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 23 May 2025 13:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Picus Launches Exposure Validation to Safely Deprioritize CVEs]]></title>
+            <description><![CDATA[No summary available]]></description>
+            <link>https://www.darkreading.com/application-security/picus-launches-exposure-validation-to-safely-deprioritize-cves</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/picus-launches-exposure-validation-to-safely-deprioritize-cves</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 21:22:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Following Data Breach, Multiple Stalkerware Apps Go Offline]]></title>
+            <description><![CDATA[The same easily exploitable vulnerability was found in three of the apps that led to the compromise of victims' data....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/following-data-breach-stalkerware-apps-offline</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/following-data-breach-stalkerware-apps-offline</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 20:59:32 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Russian Threat Actor TAG-110 Goes Phishing in Tajikistan]]></title>
+            <description><![CDATA[While Ukraine remains Russia's major target for cyberattacks, TAG-110 is part of a strategy to preserve "a post-Soviet sphere of influence" by embedding itself in other countries' infrastructures....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/russian-threat-actor-tag-110-phishing-tajikistan</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/russian-threat-actor-tag-110-phishing-tajikistan</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 20:53:11 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[3AM Ransomware Adopts Email Bombing, Vishing Combo Attack]]></title>
+            <description><![CDATA[The emerging threat group is the latest to adopt the combo attack tactic, which Black Basta and other groups already are using to gain initial access for ransomware deployment....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/3am-ransomware-adopts-email-bombing-vishing</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/3am-ransomware-adopts-email-bombing-vishing</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 19:30:23 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[UK Retail Cyberattacks May Drive Up US Insurance Premiums]]></title>
+            <description><![CDATA[Insurance experts weigh in on how the recent barrage of attacks against UK retailers could affect premium rates and policy requirements, as well as how to work toward improving risk assessment....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/uk-retail-attacks-drive-cyber-insurance-premiums</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/uk-retail-attacks-drive-cyber-insurance-premiums</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 19:22:45 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CISA: Russia's Fancy Bear Targeting Logistics, IT Firms]]></title>
+            <description><![CDATA[The mission is to gather information that could help Russia in its war against Ukraine....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/cisa-russia-fancy-bear-targeting-logistics-it-firms</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/cisa-russia-fancy-bear-targeting-logistics-it-firms</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 17:14:48 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Blurring Lines Between Scattered Spider &amp; Russian Cybercrime]]></title>
+            <description><![CDATA[The loosely affiliated hacking group has shifted closer to ransomware gangs, raising questions about Scattered Spider's ties to the Russian cybercrime underground....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/blurring-lines-scattered-spider-russian-cybercrime</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/blurring-lines-scattered-spider-russian-cybercrime</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 15:56:21 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Security Threats of Open Source AI Exposed by DeepSeek]]></title>
+            <description><![CDATA[DeepSeek's risks must be carefully considered, and ultimately mitigated, in order to enjoy the many benefits of generative AI in a manner that is safe and secure for all organizations and users....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/security-threats-open-source-ai-deepseek</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/security-threats-open-source-ai-deepseek</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 14:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Keeping LLMs on the Rails Poses Design, Engineering Challenges]]></title>
+            <description><![CDATA[Despite adding alignment training, guardrails, and filters, large language models continue to give up secrets, make unfiltered statements, and provide dangerous information....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/llms-on-rails-design-engineering-challenges</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/llms-on-rails-design-engineering-challenges</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 13:54:39 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[GitLab's AI Assistant Opened Devs to Code Theft]]></title>
+            <description><![CDATA[Prompt injection risks in GitLab's AI assistant could have allowed attackers to steal source code, or indirectly deliver developers malware, dirty links, and more....]]></description>
+            <link>https://www.darkreading.com/application-security/gitlab-ai-assistant-opened-devs-to-code-theft</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/gitlab-ai-assistant-opened-devs-to-code-theft</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 10:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SideWinder APT Caught Spying on India's Neighbor Gov'ts]]></title>
+            <description><![CDATA[A recent spear-phishing campaign against countries in South Asia aligns with broader political tensions in the region....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/sidewinder-apt-spying-indias-neighbor-govts</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/sidewinder-apt-spying-indias-neighbor-govts</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 22 May 2025 03:30:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Experts Chart Path to Creating Safer Online Spaces for Women]]></title>
+            <description><![CDATA[Gaps in laws, technology, and corporate accountability continue to put women's safety and privacy online at risk....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/experts-path-creating-safer-online-spaces</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/experts-path-creating-safer-online-spaces</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 22:24:05 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Lumma Stealer Takedown Reveals Sprawling Operation]]></title>
+            <description><![CDATA[The FBI and partners have disrupted "the world's most popular malware," a sleek enterprise with thousands of moving parts, responsible for millions of cyberattacks in every part of the world....]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/lumma-stealer-takedown-sprawling-operation</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/lumma-stealer-takedown-sprawling-operation</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 21:51:17 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ivanti EPMM Exploitation Tied to Previous Zero-Day Attacks]]></title>
+            <description><![CDATA[Wiz researchers found an opportunistic threat actor has been targeting vulnerable edge devices, including Ivanti VPNs and Palo Alto firewalls....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/ivanti-epmm-exploitation-previous-zero-day-attacks</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ivanti-epmm-exploitation-previous-zero-day-attacks</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 21:24:57 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Marks &amp; Spencer Projects Cyberattack Cost of $400M]]></title>
+            <description><![CDATA[The company expects it will continue to struggle with online disruptions until at least July, due to the attack....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/marks-spencer-400m-loss-after-cyberattack</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/marks-spencer-400m-loss-after-cyberattack</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 21:01:48 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Pandas Galore: Chinese Hackers Boost Attacks in Latin America]]></title>
+            <description><![CDATA[Vixen Panda, Aquatic Panda — both Beijing-sponsored APTs and financially motivated criminal groups continued to pose the biggest threat to organizations in Central and South America last year, says Cr...]]></description>
+            <link>https://www.darkreading.com/cyber-risk/pandas-galore-chinese-hackers-attacks-latin-america</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/pandas-galore-chinese-hackers-attacks-latin-america</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 20:34:53 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Unimicron, Presto Attacks Mark Industrial Ransomware Surge]]></title>
+            <description><![CDATA[A number of major industrial organizations suffered ransomware attacks last quarter, such as PCB manufacturer Unimicron, appliance maker Presto, and more — a harbinger of a rapidly developing and dive...]]></description>
+            <link>https://www.darkreading.com/ics-ot-security/unimicron-presto-attacks-industrial-ransomware-surge</link>
+            <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/unimicron-presto-attacks-industrial-ransomware-surge</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 19:36:03 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Breach Compromises Nearly 70K Customers' Information]]></title>
+            <description><![CDATA[Coinbase asserts that this number is only a small fraction of the number of its verified users, though it's still offering a $20 million reward to catch the criminals....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/coinbase-breach-compromises-70k-customers</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/coinbase-breach-compromises-70k-customers</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 16:27:54 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Unpatched Windows Server Flaw Threatens Active Directory Users]]></title>
+            <description><![CDATA[Attackers can exploit a vulnerability present in the delegated Managed Service Account (dMSA) feature that fumbles permission handling and is present by default....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/unpatched-windows-server-flaw-threatens-active-directory-users</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/unpatched-windows-server-flaw-threatens-active-directory-users</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 16:01:24 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[NIST's 'LEV' Equation to Determine Likelihood a Bug Was Exploited]]></title>
+            <description><![CDATA[The new 'Likely Exploited Vulnerabilities' metric could be a game-changer for SecOps teams and vulnerability patch prioritization....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/nist-lev-equation-determine-likelihood-bug-exploited</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/nist-lev-equation-determine-likelihood-bug-exploited</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 15:26:31 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Cybersecurity Risks of M&amp;A]]></title>
+            <description><![CDATA[Merger and acquisition due diligence typically focuses on financials, legal risks, and operational efficiencies. Cybersecurity is often an afterthought — and that's a problem....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/hidden-cybersecurity-risks-mergers-acquisitions</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/hidden-cybersecurity-risks-mergers-acquisitions</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 14:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Dark Reading Confidential: The Day I Found an APT Group in the Most Unlikely Place]]></title>
+            <description><![CDATA[Dark Reading Confidential Episode 6: Threat hunters Ismael Valenzuela and Vitor Ventura share stories about the tricks they used to track down advanced persistent threat groups, and the surprises they...]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/the-day-i-found-an-apt-group-in-the-most-unlikely-place</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/the-day-i-found-an-apt-group-in-the-most-unlikely-place</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 14:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Asia Produces More APT Actors, as Focus Expands Globally]]></title>
+            <description><![CDATA[China- and North Korea-aligned groups account for more than half of global attacks, and an increasing number of countries look to cyber to balance power in the region....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/asia-apt-actors-focus-expands-globally</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/asia-apt-actors-focus-expands-globally</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 21 May 2025 01:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Fake Kling AI Malvertisements Lure Victims With False Promises]]></title>
+            <description><![CDATA[Researchers noted that they found several similar websites, two of which are still operating and require the same kind of behavior on behalf of the victim....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/fake-kling-ai-malvertisements-lure-victims</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/fake-kling-ai-malvertisements-lure-victims</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 20 May 2025 21:29:25 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Virgin Media 02 Vuln Exposes Call Recipient Location]]></title>
+            <description><![CDATA[A hacker exploiting the security flaw in the mobile provider's network could have potentially located a call recipient with accuracy of up to 100 square meters....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/virgin-media-02-call-recipient-location</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/virgin-media-02-call-recipient-location</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 20 May 2025 18:41:36 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Tenable Adds Third-Party Connectors to Exposure Management Platform]]></title>
+            <description><![CDATA[Tenable One now pulls in data from AWS, Microsoft, and competitors to provide a holistic security view of an organization's attack surface....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/tenable-third-party-connectors-exposure-management</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/tenable-third-party-connectors-exposure-management</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 20 May 2025 18:04:17 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Regeneron Pledges Privacy Protection in $256M Bid for 23andMe]]></title>
+            <description><![CDATA[Regeneron's planned acquisition of 23andMe raises significant privacy concerns as experts warn about the lack of comprehensive federal regulations governing the transfer of genetic information....]]></description>
+            <link>https://www.darkreading.com/data-privacy/regeneron-pledge-privacy-23andme-acquisition</link>
+            <guid isPermaLink="false">https://www.darkreading.com/data-privacy/regeneron-pledge-privacy-23andme-acquisition</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 20 May 2025 17:04:28 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bumblebee Malware Takes Flight via Trojanized VMware Utility]]></title>
+            <description><![CDATA[An employee inadvertently downloaded a malicious version of the legitimate RVTools utility, which launched an investigation into an attempted supply chain attack aimed at delivering the recently reviv...]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/bumblebee-malware-trojanized-vmware-utility</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/bumblebee-malware-trojanized-vmware-utility</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 20 May 2025 16:21:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Large Retailers Land in Scattered Spider's Ransomware Web]]></title>
+            <description><![CDATA[The threat group games IT help desks to gain entry into retailer networks, and signs show it has shifted its attention from the UK to US targets....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/large-retailers-scattered-spider-ransomware-web</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/large-retailers-scattered-spider-ransomware-web</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 20 May 2025 15:27:36 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['Hazy Hawk' Cybercrime Gang Swoops In for Cloud Resources]]></title>
+            <description><![CDATA[Since December 2023, the threat group has preyed on domains belonging to the US Centers for Disease Control and Prevention (CDC) and numerous other reputable organizations worldwide to redirect users ...]]></description>
+            <link>https://www.darkreading.com/cloud-security/hazy-hawk-cybercrime-gang-cloud-resources</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/hazy-hawk-cybercrime-gang-cloud-resources</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 20 May 2025 15:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Japanese village turns to NFTs to help older adults ]]></title>
+            <description><![CDATA[Yamakoshi, a secluded Japanese village nestled in the Niigata mountains, has attracted 1,700 “digital citizens” through the sale of non-fungible tokens (NFTs) in an initiative aimed at supporting and ...]]></description>
+            <link>https://cointelegraph.com/news/japan-village-nfts-help-aging-population?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/japan-village-nfts-help-aging-population?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 26 Jun 2024 23:00:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2024-06-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Iggy Azalea’s MOTHER memecoin triumphs over scandal-ridden IGGY ]]></title>
+            <description><![CDATA[Australian musician Iggy Azalea’s recently launched memecoin surged to a market capitalization of over $28 million on May 29, surpassing a token named after her by Sahil Arora, who has been accused of...]]></description>
+            <link>https://cointelegraph.com/news/iggy-azalea-memecoin-mother-sahil-arora?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/iggy-azalea-memecoin-mother-sahil-arora?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 29 May 2024 12:37:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2024-05-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Student Loan Breach Exposes 2.5M Records]]></title>
+            <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line....]]></description>
+            <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
+            <guid isPermaLink="false">https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Wed, 31 Aug 2022 12:57:48 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-31</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Watering Hole Attacks Push ScanBox Keylogger]]></title>
+            <description><![CDATA[Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool....]]></description>
+            <link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
+            <guid isPermaLink="false">https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Tue, 30 Aug 2022 16:00:43 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms]]></title>
+            <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system....]]></description>
+            <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+            <guid isPermaLink="false">https://threatpost.com/0ktapus-victimize-130-firms/180487/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Mon, 29 Aug 2022 14:56:19 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ransomware Attacks are on the Rise]]></title>
+            <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group....]]></description>
+            <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
+            <guid isPermaLink="false">https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Fri, 26 Aug 2022 16:44:27 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cybercriminals Are Selling Access to Chinese Surveillance Cameras]]></title>
+            <description><![CDATA[Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed....]]></description>
+            <link>https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</link>
+            <guid isPermaLink="false">https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Thu, 25 Aug 2022 18:47:15 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Twitter Whistleblower Complaint: The TL;DR Version]]></title>
+            <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk....]]></description>
+            <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
+            <guid isPermaLink="false">https://threatpost.com/twitter-whistleblower-tldr-version/180472/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Wed, 24 Aug 2022 14:17:04 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Firewall Bug Under Active Attack Triggers CISA Warning]]></title>
+            <description><![CDATA[CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP....]]></description>
+            <link>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</link>
+            <guid isPermaLink="false">https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Tue, 23 Aug 2022 13:19:58 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Fake Reservation Links Prey on Weary Travelers]]></title>
+            <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels....]]></description>
+            <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
+            <guid isPermaLink="false">https://threatpost.com/reservation-links-prey-on-travelers/180462/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Mon, 22 Aug 2022 13:59:06 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[iPhone Users Urged to Update to Patch 2 Zero-Days]]></title>
+            <description><![CDATA[Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack....]]></description>
+            <link>https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</link>
+            <guid isPermaLink="false">https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Fri, 19 Aug 2022 15:25:56 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Google Patches Chrome’s Fifth Zero-Day of the Year]]></title>
+            <description><![CDATA[An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack....]]></description>
+            <link>https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</link>
+            <guid isPermaLink="false">https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</guid>
+            <category><![CDATA[Threatpost]]></category>
+            <dc:creator><![CDATA[Threatpost]]></dc:creator>
+            <pubDate>Thu, 18 Aug 2022 14:31:38 GMT</pubDate>
+            <dc:source>Threatpost</dc:source>
+            <dc:date>2022-08-18</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Yale Research Proposes Factors for Crypto Price Prediction ]]></title>
+            <description><![CDATA[Yale University financial experts have suggested a system of factors to predict price trends in major cryptocurrencies, according to an official statement by YaleNews Aug. 6.
+The new study was conduct...]]></description>
+            <link>https://cointelegraph.com/news/yale-research-proposes-factors-for-crypto-price-prediction?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/yale-research-proposes-factors-for-crypto-price-prediction?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 08 Aug 2018 22:15:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-08-08</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Chinese Gov’t Reiterates Strict Stance On Crypto, Focuses On Illegal Fundraising ]]></title>
+            <description><![CDATA[The Chinese government has recently reiterated its negative stance towards Initial Coins Offerings (ICOs) and cryptocurrency exchanges at a news conference in Beijing, claiming that financial authorit...]]></description>
+            <link>https://cointelegraph.com/news/chinese-govt-reiterates-strict-stance-on-crypto-focuses-on-illegal-fundraising?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/chinese-govt-reiterates-strict-stance-on-crypto-focuses-on-illegal-fundraising?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Mon, 23 Apr 2018 22:28:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-04-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ UK National Cyber Security Centre Includes Cryptojacking In Report On Cyber Threats ]]></title>
+            <description><![CDATA[On April 10, the UK National Cyber Security Centre (NCSC) released a report analyzing how nefarious cyber activity influenced the business environment in Great Britain over the past year.
+
+
+The repo...]]></description>
+            <link>https://cointelegraph.com/news/uk-national-cyber-security-centre-includes-cryptojacking-in-report-on-cyber-threats?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/uk-national-cyber-security-centre-includes-cryptojacking-in-report-on-cyber-threats?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 11 Apr 2018 01:06:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-04-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ How Anonymous Is the Purchase of Crypto? Regulations, Practice, Risks ]]></title>
+            <description><![CDATA[This article does not contain investment advice or recommendations. Every investment and trading move involves risk, you should conduct your own research when making a decision.
+
+
+In a worldwide env...]]></description>
+            <link>https://cointelegraph.com/news/how-anonymous-is-the-purchase-of-crypto-regulations-practice-risks?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/how-anonymous-is-the-purchase-of-crypto-regulations-practice-risks?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Mon, 09 Apr 2018 17:10:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-04-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Coinbase Bug Allowed Users To Steal Unlimited ETH, Wallet Paid $10K Bounty For Discovery ]]></title>
+            <description><![CDATA[Major US crypto wallet provider and exchange service Coinbase has rewarded a Dutch company with a $10,000 bounty after it discovered a smart contract glitch allowing users to steal “as much as they wa...]]></description>
+            <link>https://cointelegraph.com/news/coinbase-bug-allowed-users-to-steal-unlimited-eth-wallet-paid-10k-bounty-for-discovery?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/coinbase-bug-allowed-users-to-steal-unlimited-eth-wallet-paid-10k-bounty-for-discovery?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 21 Mar 2018 21:21:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-03-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Bitcoin Thieves No Longer Just an Online Threat, How to Stay Safe ]]></title>
+            <description><![CDATA[Cryptocurrencies, as the product of the digital realm, have always existed in the ether - no pun intended - meaning that physically there was nothing to hold, or to lose/have stolen. The threat for Bi...]]></description>
+            <link>https://cointelegraph.com/news/bitcoin-thieves-no-longer-just-an-online-threat-how-to-stay-safe?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-thieves-no-longer-just-an-online-threat-how-to-stay-safe?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Thu, 15 Mar 2018 23:45:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-03-15</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Bitfury Launches New Software To Fight Bitcoin Crime ]]></title>
+            <description><![CDATA[Blockchain tech group Bitfury, founded in 2011 as a Bitcoin mining company, has launched a software stack called Crystal that is designed to help fight crimes involving Bitcoin, according to a press r...]]></description>
+            <link>https://cointelegraph.com/news/bitfury-launches-new-software-to-fight-bitcoin-crime?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/bitfury-launches-new-software-to-fight-bitcoin-crime?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 31 Jan 2018 13:26:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-01-31</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Encryption Becoming &#039;Public Safety Issue&#039; - FBI ]]></title>
+            <description><![CDATA[Encryption technology has reached a stage where even government agencies like the FBI don’t have the technology to unlock hidden data. In fact, it’s mathematically impossible to break many advanced fo...]]></description>
+            <link>https://cointelegraph.com/news/encryption-becoming-public-safety-issue-fbi?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/encryption-becoming-public-safety-issue-fbi?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Thu, 11 Jan 2018 12:30:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-01-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Texas Regulator Orders Bitconnect to Cease and Desist Marketing ‘Securities’ ]]></title>
+            <description><![CDATA[The Texas Securities Commissioner issued an Emergency Cease and Desist Order on Jan. 4 against Bitconnect for the selling of unlicensed securities. According to the Texas State Securities Board news r...]]></description>
+            <link>https://cointelegraph.com/news/texas-regulator-orders-bitconnect-to-cease-and-desist-marketing-securities?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/texas-regulator-orders-bitconnect-to-cease-and-desist-marketing-securities?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2018 03:20:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-01-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ NiceHash CEO Quits After 4,000 BTC Hack, Service To Continue Work ]]></title>
+            <description><![CDATA[Slovenian mining service NiceHash has swapped CEOs several weeks after hackers stole Bitcoins worth around $63 mln in 2017’s last major attack.
+After the embattled platform relaunched Dec. 22, local n...]]></description>
+            <link>https://cointelegraph.com/news/nicehash-ceo-quits-after-4000-btc-hack-service-to-continue-work?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/nicehash-ceo-quits-after-4000-btc-hack-service-to-continue-work?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Mon, 01 Jan 2018 18:42:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2018-01-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Kidnapping of Bitcoin Exchange Executive Showed Importance of Financial Privacy ]]></title>
+            <description><![CDATA[The recent abduction of UK-based Bitcoin and cryptocurrency exchange Exmo Operator Pavel Lerner has demonstrated the importance of financial privacy for cryptocurrency users.
+
+
+Earlier this week, BB...]]></description>
+            <link>https://cointelegraph.com/news/kidnapping-of-bitcoin-exchange-executive-showed-importance-of-financial-privacy?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/kidnapping-of-bitcoin-exchange-executive-showed-importance-of-financial-privacy?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Sun, 31 Dec 2017 15:11:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-12-31</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Uber Hacked, User Data Compromised, Wallets At Risk? ]]></title>
+            <description><![CDATA[In a recent revelation, Uber has announced that the personal information of its drivers and many of its users was hacked, releasing the private information of over 57 mln individuals to the attackers....]]></description>
+            <link>https://cointelegraph.com/news/uber-hacked-user-data-compromised-wallets-at-risk?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/uber-hacked-user-data-compromised-wallets-at-risk?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 22 Nov 2017 13:45:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-11-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Hackers Attack Sacramento Transit System for 1 BTC Ransom ]]></title>
+            <description><![CDATA[A hacker has attacked and crippled the Sacramento Regional Transit (SacRT) system for a ransom of 1 Bitcoin, or about $8,000 at today’s market value. The attack erased important programs that are nece...]]></description>
+            <link>https://cointelegraph.com/news/hackers-attack-sacramento-transit-system-for-1-btc-ransom?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/hackers-attack-sacramento-transit-system-for-1-btc-ransom?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 21 Nov 2017 14:40:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-11-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ ECB Ends Covered Deposit Protection, Free Withdrawal ]]></title>
+            <description><![CDATA[In a move that may wrinkle some noses, the European Central Bank (ECB) has announced that they will no longer be offering protection for covered deposits and that withdrawals will be limited when a ba...]]></description>
+            <link>https://cointelegraph.com/news/ecb-ends-covered-deposit-protection-free-withdrawal?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/ecb-ends-covered-deposit-protection-free-withdrawal?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 21 Nov 2017 13:25:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-11-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Blockchain to Secure Digital Crime Evidence, British Ministry of Justice Official ]]></title>
+            <description><![CDATA[Great Britain’s Ministry of Justice technical architecture lead, Alistair Davidson, has claimed that Blockchain or distributed ledger technology (DLT) has great potential as a tool for securing and ve...]]></description>
+            <link>https://cointelegraph.com/news/blockchain-to-secure-digital-crime-evidence-british-ministry-of-justice-official?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/blockchain-to-secure-digital-crime-evidence-british-ministry-of-justice-official?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 08 Nov 2017 13:55:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-11-08</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Fork Supporters Prepare to Implement SegWit2x Fork ]]></title>
+            <description><![CDATA[Fork supporters and developers are preparing to implement the SegWit2x fork by Nov. 16.
+The new fork is considered as the largest and least understood software to the top-dog virtual currency so far.
+...]]></description>
+            <link>https://cointelegraph.com/news/fork-supporters-prepare-to-implement-segwit2x-fork?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/fork-supporters-prepare-to-implement-segwit2x-fork?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 07 Nov 2017 15:10:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ 5 Simple Tips To Stay Secure in the Wild West of Bitcoin ]]></title>
+            <description><![CDATA[Perhaps calling the Bitcoin ecosystem ‘The Wild West’ is a little over the top as the environment has become a lot more secure and come a lot more into the light of the mainstream. However, its decent...]]></description>
+            <link>https://cointelegraph.com/news/5-simple-tips-to-stay-secure-in-the-wild-west-of-bitcoin?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/5-simple-tips-to-stay-secure-in-the-wild-west-of-bitcoin?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Mon, 06 Nov 2017 12:05:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-11-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Will Decentralized Exchanges Replace Peer-to-Peer Exchanges Completely? ]]></title>
+            <description><![CDATA[The continuous growth of cryptocurrencies is a journey that has had multiple roadblocks along its way. Not only are technical difficulties bound to happen, but there are also several problems that are...]]></description>
+            <link>https://cointelegraph.com/news/will-decentralized-exchanges-replace-peer-to-peer-exchanges-completely?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/will-decentralized-exchanges-replace-peer-to-peer-exchanges-completely?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Fri, 20 Oct 2017 14:35:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-10-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Why We Need ‘Trustless’ Cryptocurrency Exchanges ]]></title>
+            <description><![CDATA[The emergence of cryptocurrency exchange platforms and websites where you can buy, sell, or exchange cryptocurrencies has absolutely everything to do with the recent phenomenon of initial coin offerin...]]></description>
+            <link>https://cointelegraph.com/news/why-we-need-trustless-cryptocurrency-exchanges?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/why-we-need-trustless-cryptocurrency-exchanges?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 18 Oct 2017 14:50:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-10-18</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Jamaican Police Take Aim at Human Traffickers’ Bitcoin Pockets ]]></title>
+            <description><![CDATA[As part of their strategy to attack the scourge of human trafficking, the Jamaican police are refining their activities to strike at those criminal who are seeking haven in Bitcoin and digital payment...]]></description>
+            <link>https://cointelegraph.com/news/jamaican-police-take-aim-at-human-traffickers-bitcoin-pockets?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/jamaican-police-take-aim-at-human-traffickers-bitcoin-pockets?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 11 Oct 2017 12:30:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-10-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ How Big Data And Artificial Intelligence are Changing Online Lending ]]></title>
+            <description><![CDATA[As digital lending continues to grow in size, companies are looking for ways to make their services more efficient and profitable to both lenders and borrowers. And they believe artificial intelligenc...]]></description>
+            <link>https://cointelegraph.com/news/how-big-data-and-artificial-intelligence-are-changing-online-lending?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/how-big-data-and-artificial-intelligence-are-changing-online-lending?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 04 Oct 2017 17:30:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-10-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Europol: Zcash, Monero and Ethereum Follow Bitcoin in Cybercrime ]]></title>
+            <description><![CDATA[Europol, the law enforcement agency of the European Union (EU), has warned that the virtual currencies Zcash, Monero, and Ethereum are increasingly being used in the digital underground market. The ag...]]></description>
+            <link>https://cointelegraph.com/news/europol-zcash-monero-and-ethereum-follow-bitcoin-in-cybercrime?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/europol-zcash-monero-and-ethereum-follow-bitcoin-in-cybercrime?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 04 Oct 2017 13:00:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-10-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ If Bitcoin Goes Mainstream, Will Ransomware Go Mainstream Too? ]]></title>
+            <description><![CDATA[Bitcoin and other digital currencies are experiencing new highs and a record $166 billion of total market capitalization. More stores worldwide are starting to accept Bitcoin as method of payments and...]]></description>
+            <link>https://cointelegraph.com/news/if-bitcoin-goes-mainstream-will-ransomware-go-mainstream-too?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/if-bitcoin-goes-mainstream-will-ransomware-go-mainstream-too?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Wed, 30 Aug 2017 21:45:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-08-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Hacker Pleads Guilty of Stealing  $365,000 Worth of Bitcoin From Darknet Criminals ]]></title>
+            <description><![CDATA[Hacker Michael Richo, who was arrested on October 5, 2016, has admitted that he stole a total of $365,000 worth of Bitcoin from darknet marketplaces, News 8 reports.
+
+
+For this crime, Richo could se...]]></description>
+            <link>https://cointelegraph.com/news/hacker-pleads-guilty-of-stealing-365000-worth-of-bitcoin-from-darknet-criminals?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/hacker-pleads-guilty-of-stealing-365000-worth-of-bitcoin-from-darknet-criminals?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Thu, 06 Jul 2017 23:26:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-07-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ South Korean Cryptocurrency Exchange Bithumb to Compensate Users Following the Hacking ]]></title>
+            <description><![CDATA[Bithumb, one of the leading cryptocurrency exchange platforms in South Korea, announces that it will compensate its customers whose accounts were compromised during an attack on its data systems.
+
+
+...]]></description>
+            <link>https://cointelegraph.com/news/south-korean-cryptocurrency-exchange-bithumb-to-compensate-users-following-the-hacking?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/south-korean-cryptocurrency-exchange-bithumb-to-compensate-users-following-the-hacking?utm_source=rss_feed&amp;utm_medium=rss_category_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Thu, 06 Jul 2017 23:06:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2017-07-06</dc:date>
         </item>
     </channel>
 </rss>
