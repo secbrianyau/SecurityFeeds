@@ -1,10 +1,45 @@
 [
   {
+    "title": "Victoria’s Secret takes down website after security incident",
+    "link": "https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/",
+    "date": "2025-05-29T11:30:41.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Victoria's Secret, the fashion giant, has taken down its website and some store services because of an ongoing security incident [...]..."
+  },
+  {
+    "title": " Bubblemaps launches ‘Time Travel’ tool for insider activity, rug pulls ",
+    "link": "https://cointelegraph.com/news/bubblemaps-time-travel-for-insider-activity-rug-pulls?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
+    "date": "2025-05-29T10:45:00.000Z",
+    "source": "Cointelegraph - Security",
+    "summary": "Blockchain intelligence platform Bubblemaps has launched the public version of its v2 product, offering new tools to help users detect insider activity and prevent memecoin-related scams.\nAnnounced on..."
+  },
+  {
+    "title": "'Haozi' Gang Sells Turnkey Phishing Tools to Amateurs",
+    "link": "https://www.darkreading.com/threat-intelligence/haozi-gang-sells-turnkey-phishing-tools-amateurs",
+    "date": "2025-05-29T10:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "The phishing operation is using Telegram groups to sell a phishing-as-a-service kit with customer service, a mascot, and infrastructure that requires little technical knowledge to install...."
+  },
+  {
+    "title": "Microsoft: Windows 11 might fail to start after installing KB5058405",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/",
+    "date": "2025-05-29T09:59:54.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft has confirmed that some Windows 11 systems might fail to start after installing the KB5058405 security update released during this month's Patch Tuesday. [...]..."
+  },
+  {
     "title": "Data broker LexisNexis discloses data breach affecting 364,000 people",
     "link": "https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/",
     "date": "2025-05-29T08:28:25.000Z",
     "source": "Bleeping Computer",
     "summary": "Data broker giant LexisNexis Risk Solutions has revealed that unknown attackers stole the personal information of over 364,000 individuals in a December breach. [...]..."
+  },
+  {
+    "title": "Certified Randomness Uses Quantum Cryptography to Make Stronger Keys",
+    "link": "https://www.darkreading.com/endpoint-security/certified-randomnes-squantum-cryptography-stronger-keys",
+    "date": "2025-05-29T00:47:17.000Z",
+    "source": "Dark Reading",
+    "summary": "Researchers are using quantum computers to generate keys that are truly random to strengthen data encryption...."
   },
   {
     "title": "Windows 10 KB5058481 update brings seconds back to calendar flyout",
@@ -33,6 +68,13 @@
     "date": "2025-05-28T21:36:00.000Z",
     "source": "Dark Reading",
     "summary": "Researchers at Oasis Security say the problem has to do with OneDrive File Picker having overly broad permissions...."
+  },
+  {
+    "title": "CISA Issues SOAR, SIEM Implementation Guidance",
+    "link": "https://www.darkreading.com/cybersecurity-operations/cisa-soar-siem-implementation-guidance",
+    "date": "2025-05-28T20:56:41.000Z",
+    "source": "Dark Reading",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) and Australian Cyber Security Centre (ACSC) recommend that organizations conduct thorough testing and manage costs, which can be hefty, befo..."
   },
   {
     "title": "New PumaBot botnet brute forces SSH credentials to breach devices",
@@ -133,13 +175,6 @@
     "summary": "Microsoft has introduced a new update orchestration platform built on the existing Windows Update infrastructure, which aims to unify the updating system for all apps, drivers, and system components o..."
   },
   {
-    "title": "Apple blocked over $9 billion in App Store fraud in five years",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/",
-    "date": "2025-05-28T10:18:34.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Apple says it blocked over $9 billion in fraudulent App Store transactions over the last five years, with over $2 billion in potentially fraudulent sanctions prevented in 2024 alone. [...]..."
-  },
-  {
     "title": " Fungible cryptos in secondary sales are not securities, Ripple tells SEC ",
     "link": "https://cointelegraph.com/news/ripple-sec-letter-crypto-not-securities?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
     "date": "2025-05-28T09:59:06.000Z",
@@ -159,13 +194,6 @@
     "date": "2025-05-28T03:30:00.000Z",
     "source": "Dark Reading",
     "summary": "The region offers attractive conditions: a large pool of tech workers, economic disparity, and weak enforcement of cybercrime laws — all of which attract businesses legitimate and shady...."
-  },
-  {
-    "title": "DragonForce ransomware abuses SimpleHelp in MSP supply chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/",
-    "date": "2025-05-27T21:44:15.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The DragonForce ransomware operation successfully breached a managed service provider and used its SimpleHelp remote monitoring and management (RMM) platform to steal data and deploy encryptors on dow..."
   },
   {
     "title": "Adidas Falls Victim to Third-Party Data Breach",
@@ -390,33 +418,5 @@
     "date": "2025-05-21T19:36:03.000Z",
     "source": "Dark Reading",
     "summary": "A number of major industrial organizations suffered ransomware attacks last quarter, such as PCB manufacturer Unimicron, appliance maker Presto, and more — a harbinger of a rapidly developing and dive..."
-  },
-  {
-    "title": "Coinbase Breach Compromises Nearly 70K Customers' Information",
-    "link": "https://www.darkreading.com/threat-intelligence/coinbase-breach-compromises-70k-customers",
-    "date": "2025-05-21T16:27:54.000Z",
-    "source": "Dark Reading",
-    "summary": "Coinbase asserts that this number is only a small fraction of the number of its verified users, though it's still offering a $20 million reward to catch the criminals...."
-  },
-  {
-    "title": "Unpatched Windows Server Flaw Threatens Active Directory Users",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/unpatched-windows-server-flaw-threatens-active-directory-users",
-    "date": "2025-05-21T16:01:24.000Z",
-    "source": "Dark Reading",
-    "summary": "Attackers can exploit a vulnerability present in the delegated Managed Service Account (dMSA) feature that fumbles permission handling and is present by default...."
-  },
-  {
-    "title": "NIST's 'LEV' Equation to Determine Likelihood a Bug Was Exploited",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/nist-lev-equation-determine-likelihood-bug-exploited",
-    "date": "2025-05-21T15:26:31.000Z",
-    "source": "Dark Reading",
-    "summary": "The new 'Likely Exploited Vulnerabilities' metric could be a game-changer for SecOps teams and vulnerability patch prioritization...."
-  },
-  {
-    "title": " AI tool claims 97% efficacy in preventing ‘address poisoning’ attacks ",
-    "link": "https://cointelegraph.com/news/ai-system-has-97-claimed-efficacy-in-preventing-address-poisoning-attacks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2025-05-21T14:00:55.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "Crypto cybersecurity firm Trugard and onchain trust protocol Webacy have developed an artificial intelligence-based system for detecting crypto wallet address poisoning.\nAccording to a May 21 announce..."
   }
 ]
