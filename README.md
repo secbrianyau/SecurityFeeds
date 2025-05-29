@@ -1,10 +1,12 @@
-# Cybersecurity News Aggregator
+# Security Feeds
 
 This repository contains a GitHub Pages website that automatically aggregates and displays the latest cybersecurity news from multiple sources. The site is automatically updated every 3 hours using GitHub Actions.
 
+Original Project: https://github.com/ricomanifesto/SentryInsight
+
 ## Live Site
 
-**[View the Live Cybersecurity News Dashboard](https://ricomanifesto.github.io/SentryDigest/)**
+**[View the Live Cybersecurity News Dashboard](https://secbrianyau.github.io/SecurityFeeds/)**
 
 ## News Sources Configuration
 
