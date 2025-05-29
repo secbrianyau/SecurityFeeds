@@ -24,9 +24,9 @@ function generateRSSFeed() {
     const feed = new RSS({
       title: 'Cybersecurity News Aggregator',
       description: 'Latest cybersecurity news from top sources',
-      feed_url: 'https://ricomanifesto.github.io/SentryDigest/feed.xml',
-      site_url: 'https://ricomanifesto.github.io/SentryDigest/',
-      image_url: 'https://ricomanifesto.github.io/SentryDigest/icon.png',
+      feed_url: 'https://secbrianyau.github.io/SecurityFeeds/feed.xml',
+      site_url: 'https://secbrianyau.github.io/SecurityFeeds/',
+      image_url: 'https://secbrianyau.github.io/SecurityFeeds/icon.png',
       language: 'en',
       pubDate: new Date(),
       ttl: '180', // Time to live in minutes (3 hours)
@@ -70,7 +70,7 @@ function generateRSSFeed() {
     // Create a JSON file with RSS feed information (for reference)
     const feedInfo = {
       title: 'Cybersecurity News Aggregator RSS Feed',
-      url: 'https://ricomanifesto.github.io/SentryDigest/feed.xml',
+      url: 'https://secbrianyau.github.io/SecurityFeeds/feed.xml',
       itemCount: newsData.length,
       sources: activeSources.split(', '),
       lastUpdated: new Date().toISOString()
