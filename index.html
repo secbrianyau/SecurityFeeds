@@ -1,0 +1,332 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cybersecurity News Aggregator</title>
+  <meta name="description" content="Latest cybersecurity news from top sources">
+  <link rel="alternate" type="application/rss+xml" title="Cybersecurity News RSS Feed" href="./feed.xml" />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1rem;
+      background-color: #f8f9fa;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      border-radius: 5px;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      margin: 0;
+    }
+    .last-updated {
+      font-size: 0.9rem;
+      color: #eee;
+      margin-top: 0.5rem;
+    }
+    .sources-info {
+      font-size: 0.9rem;
+      color: #eee;
+      margin-top: 0.2rem;
+    }
+    .news-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+    }
+    .news-item {
+      background-color: white;
+      border-radius: 5px;
+      padding: 1.5rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s;
+    }
+    .news-item:hover {
+      transform: translateY(-5px);
+    }
+    .news-source {
+      display: inline-block;
+      background-color: #e9ecef;
+      padding: 0.25rem 0.5rem;
+      border-radius: 3px;
+      font-size: 0.8rem;
+      margin-bottom: 0.5rem;
+    }
+    .news-title {
+      font-size: 1.1rem;
+      margin: 0.5rem 0;
+    }
+    .news-title a {
+      color: #2c3e50;
+      text-decoration: none;
+    }
+    .news-title a:hover {
+      text-decoration: underline;
+    }
+    .news-date {
+      color: #6c757d;
+      font-size: 0.8rem;
+    }
+    .news-summary {
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+      color: #495057;
+    }
+    footer {
+      margin-top: 2rem;
+      text-align: center;
+      color: #6c757d;
+      font-size: 0.9rem;
+    }
+    .rss-link {
+      display: inline-block;
+      margin-left: 10px;
+      vertical-align: middle;
+    }
+    .rss-link img {
+      height: 16px;
+      width: 16px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cybersecurity News Aggregator <a href="./feed.xml" class="rss-link" title="Subscribe to RSS feed"><img src="https://i.imgur.com/QxNpgm5.png" alt="RSS" /></a></h1>
+    <p class="last-updated">Last updated: 5/29/2025, 3:46:34 AM</p>
+  </header>
+  
+  <div class="news-container">
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/" target="_blank" rel="noopener">Windows 10 KB5058481 update brings seconds back to calendar flyout</a></h2>
+        <div class="news-date">May 28, 2025 - 10:57 PM</div>
+        <p class="news-summary">Microsoft has released the optional KB5058481 preview cumulative update for Windows 10 22H2 with seven changes, including restoring seconds to the time display in the calendar flyout for those who pre...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/" target="_blank" rel="noopener">Windows 11 KB5058499 update rolls out new Share and Click to Do features</a></h2>
+        <div class="news-date">May 28, 2025 - 10:19 PM</div>
+        <p class="news-summary">​​Microsoft has released the KB5058499 preview cumulative update for Windows 11 24H2 with forty-eight new features or changes, with many gradually rolling out, such as the new Windows Share feature an...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/" target="_blank" rel="noopener">APT41 malware abuses Google Calendar for stealthy C2 communication</a></h2>
+        <div class="news-date">May 28, 2025 - 10:04 PM</div>
+        <p class="news-summary">The Chinese APT41 hacking group uses a new malware named 'ToughProgress' that abuses Google Calendar for command-and-control (C2) operations, hiding malicious activity behind a trusted cloud service. ...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Dark Reading</span>
+        <h2 class="news-title"><a href="https://www.darkreading.com/application-security/hundreds-web-apps-full-access-onedrive-files" target="_blank" rel="noopener">Hundreds of Web Apps Have Full Access to Microsoft OneDrive Files</a></h2>
+        <div class="news-date">May 28, 2025 - 9:36 PM</div>
+        <p class="news-summary">Researchers at Oasis Security say the problem has to do with OneDrive File Picker having overly broad permissions....</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/" target="_blank" rel="noopener">New PumaBot botnet brute forces SSH credentials to breach devices</a></h2>
+        <div class="news-date">May 28, 2025 - 7:59 PM</div>
+        <p class="news-summary">A newly discovered Go-based Linux botnet malware named PumaBot is brute-forcing SSH credentials on embedded IoT devices to deploy malicious payloads. [...]...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-deploys-new-nodesnake-rat-on-universities/" target="_blank" rel="noopener">Interlock ransomware gang deploys new NodeSnake RAT on universities</a></h2>
+        <div class="news-date">May 28, 2025 - 6:14 PM</div>
+        <p class="news-summary">The Interlock ransomware gang is deploying a previously undocumented remote access trojan (RAT) named NodeSnake against educational institutes for persistent access to corporate networks. [...]...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Dark Reading</span>
+        <h2 class="news-title"><a href="https://www.darkreading.com/vulnerabilities-threats/secure-design-principles-ai" target="_blank" rel="noopener">Implementing Secure by Design Principles for AI</a></h2>
+        <div class="news-date">May 28, 2025 - 6:00 PM</div>
+        <p class="news-summary">Harnessing AI's full transformative potential safely and securely requires more than an incremental enhancement of existing cybersecurity practices. A Secure by Design approach represents the best pat...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Krebs on Security</span>
+        <h2 class="news-title"><a href="https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/" target="_blank" rel="noopener">Pakistan Arrests 21 in ‘Heartsender’ Malware Service</a></h2>
+        <div class="news-date">May 28, 2025 - 5:41 PM</div>
+        <p class="news-summary">Authorities in Pakistan have arrested 21 individuals accused of operating "Heartsender," a once popular spam and malware dissemination service that operated for more than a decade. The main clientele ...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html" target="_blank" rel="noopener">Iranian Hacker Pleads Guilty in $19 Million Robbinhood Ransomware Attack on Baltimore</a></h2>
+        <div class="news-date">May 28, 2025 - 5:20 PM</div>
+        <p class="news-summary">An Iranian national has pleaded guilty in the U.S. over his involvement in an international ransomware and extortion scheme involving the Robbinhood ransomware.
+Sina Gholinejad (aka Sina Ghaaf), 37, a...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/" target="_blank" rel="noopener">Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor</a></h2>
+        <div class="news-date">May 28, 2025 - 4:44 PM</div>
+        <p class="news-summary">Over 9,000 ASUS routers are compromised by a novel botnet dubbed "AyySSHush" that was also observed targeting SOHO routers from Cisco, D-Link, and Linksys. [...]...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/" target="_blank" rel="noopener">Dark Partners cybercrime gang fuels large-scale crypto heists</a></h2>
+        <div class="news-date">May 28, 2025 - 4:39 PM</div>
+        <p class="news-summary">A sprawling network of fake AI, VPN, and crypto software download sites is being used by the "Dark Partner" threat actors to conduct a crypto theft attacks worldwide. [...]...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html" target="_blank" rel="noopener">Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack</a></h2>
+        <div class="news-date">May 28, 2025 - 4:01 PM</div>
+        <p class="news-summary">The Czech Republic on Wednesday formally accused a threat actor associated with the People's Republic of China (PRC) of targeting its Ministry of Foreign Affairs.
+In a public statement, the government...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Dark Reading</span>
+        <h2 class="news-title"><a href="https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack" target="_blank" rel="noopener">Cellcom Restores Regional Mobile Services After Cyberattack</a></h2>
+        <div class="news-date">May 28, 2025 - 3:33 PM</div>
+        <p class="news-summary">Customers in parts of Wisconsin and Michigan could not make calls or send text messages for nearly a week after an incident on May 14, and service is still intermittent in some areas....</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">ZDNet Security</span>
+        <h2 class="news-title"><a href="https://www.zdnet.com/article/is-that-extension-safe-this-free-site-lets-you-know-before-you-install/" target="_blank" rel="noopener">Is that extension safe? This free tool lets you know before you install</a></h2>
+        <div class="news-date">May 28, 2025 - 2:54 PM</div>
+        <p class="news-summary">Don't install that unknown extension until you've checked out its reputation. Here's how to do that....</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/" target="_blank" rel="noopener">Czechia blames China for Ministry of Foreign Affairs cyberattack</a></h2>
+        <div class="news-date">May 28, 2025 - 2:39 PM</div>
+        <p class="news-summary">The Czech Republic says the Chinese-backed APT31 hacking group was behind cyberattacks targeting the country's Ministry of Foreign Affairs and critical infrastructure organizations. [...]...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Dark Reading</span>
+        <h2 class="news-title"><a href="https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity" target="_blank" rel="noopener">Why Take9 Won't Improve Cybersecurity</a></h2>
+        <div class="news-date">May 28, 2025 - 2:00 PM</div>
+        <p class="news-summary">The latest cybersecurity awareness campaign asks users to pause for nine seconds before clicking — but this approach misplaces responsibility and ignores the real problems of system design....</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html" target="_blank" rel="noopener">Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File</a></h2>
+        <div class="news-date">May 28, 2025 - 1:41 PM</div>
+        <p class="news-summary">Cybersecurity researchers have discovered a security flaw in Microsoft's OneDrive File Picker that, if successfully exploited, could allow websites to access a user's entire cloud storage content, as ...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/" target="_blank" rel="noopener">Microsoft introduces new Windows backup tool for businesses</a></h2>
+        <div class="news-date">May 28, 2025 - 1:09 PM</div>
+        <p class="news-summary">Microsoft has introduced Windows Backup for Organizations, a new backup tool for enterprises that simplifies backups and makes the transition to Windows 11 easier. [...]...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Dark Reading</span>
+        <h2 class="news-title"><a href="https://www.darkreading.com/threat-intelligence/have-your-say-dark-reading-seeks-your-input" target="_blank" rel="noopener">Have Your Say: Dark Reading Seeks Your Input</a></h2>
+        <div class="news-date">May 28, 2025 - 1:08 PM</div>
+        <p class="news-summary">Dark Reading is offering its readers the opportunity to tell us how we're doing via a new survey....</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html" target="_blank" rel="noopener">New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto</a></h2>
+        <div class="news-date">May 28, 2025 - 12:30 PM</div>
+        <p class="news-summary">Embedded Linux-based Internet of Things (IoT) devices have become the target of a new botnet dubbed PumaBot.
+Written in Go, the botnet is designed to conduct brute-force attacks against SSH instances ...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Dark Reading</span>
+        <h2 class="news-title"><a href="https://www.darkreading.com/threat-intelligence/zscaler-announces-deal-acquire-red-canary" target="_blank" rel="noopener">Zscaler Announces Deal to Acquire Red Canary</a></h2>
+        <div class="news-date">May 28, 2025 - 12:23 PM</div>
+        <p class="news-summary">The August acquisition will bring together Red Canary's extensive integration ecosystem with Zscaler's cloud transaction data to deliver an AI-powered security operations platform....</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/" target="_blank" rel="noopener">Microsoft wants Windows to update all software on your PC</a></h2>
+        <div class="news-date">May 28, 2025 - 12:15 PM</div>
+        <p class="news-summary">Microsoft has introduced a new update orchestration platform built on the existing Windows Update infrastructure, which aims to unify the updating system for all apps, drivers, and system components o...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/from-infection-to-access-24-hour.html" target="_blank" rel="noopener">From Infection to Access: A 24-Hour Timeline of a Modern Stealer Campaign</a></h2>
+        <div class="news-date">May 28, 2025 - 11:25 AM</div>
+        <p class="news-summary">Stealer malware no longer just steals passwords. In 2025, it steals live sessions—and attackers are moving faster and more efficiently than ever.
+While many associate account takeovers with personal s...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/mimo-hackers-exploit-cve-2025-32432-in.html" target="_blank" rel="noopener">Mimo Hackers Exploit CVE-2025-32432 in Craft CMS to Deploy Cryptominer and Proxyware</a></h2>
+        <div class="news-date">May 28, 2025 - 11:00 AM</div>
+        <p class="news-summary">A financially motivated threat actor has been observed exploiting a recently disclosed remote code execution flaw affecting the Craft Content Management System (CMS) to deploy multiple payloads, inclu...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Bleeping Computer</span>
+        <h2 class="news-title"><a href="https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/" target="_blank" rel="noopener">Apple blocked over $9 billion in App Store fraud in five years</a></h2>
+        <div class="news-date">May 28, 2025 - 10:18 AM</div>
+        <p class="news-summary">Apple says it blocked over $9 billion in fraudulent App Store transactions over the last five years, with over $2 billion in potentially fraudulent sanctions prevented in 2024 alone. [...]...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/how-browser-in-middle-attacks-steal.html" target="_blank" rel="noopener">How 'Browser-in-the-Middle' Attacks Steal Sessions in Seconds</a></h2>
+        <div class="news-date">May 28, 2025 - 9:32 AM</div>
+        <p class="news-summary">Would you expect an end user to log on to a cybercriminal’s computer, open their browser, and type in their usernames and passwords? Hopefully not! But that’s essentially what happens if they fall vic...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">ZDNet Security</span>
+        <h2 class="news-title"><a href="https://www.zdnet.com/article/how-to-disable-acr-on-your-tv-and-why-you-shouldnt-wait-to-do-it/" target="_blank" rel="noopener">How to disable ACR on your TV (and why you shouldn't wait to do it)</a></h2>
+        <div class="news-date">May 28, 2025 - 9:30 AM</div>
+        <p class="news-summary">Smarter TV operating systems offer added convenience, but they also introduce new privacy concerns, particularly around automatic content recognition (ACR)....</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/251-amazon-hosted-ips-used-in-exploit.html" target="_blank" rel="noopener">251 Amazon-Hosted IPs Used in Exploit Scan Targeting ColdFusion, Struts, and Elasticsearch</a></h2>
+        <div class="news-date">May 28, 2025 - 9:23 AM</div>
+        <p class="news-summary">Cybersecurity researchers have disclosed details of a coordinated cloud-based scanning activity that targeted 75 distinct "exposure points" earlier this month.
+The activity, observed by GreyNoise on M...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">The Hacker News</span>
+        <h2 class="news-title"><a href="https://thehackernews.com/2025/05/apple-blocks-9-billion-in-fraud-over-5.html" target="_blank" rel="noopener">Apple Blocks $9 Billion in Fraud Over 5 Years Amid Rising App Store Threats</a></h2>
+        <div class="news-date">May 28, 2025 - 6:11 AM</div>
+        <p class="news-summary">Apple on Tuesday revealed that it prevented over $9 billion in fraudulent transactions in the last five years, including more than $2 billion in 2024 alone.
+The company said the App Store is confronte...</p>
+      </div>
+    
+      <div class="news-item">
+        <span class="news-source">Dark Reading</span>
+        <h2 class="news-title"><a href="https://www.darkreading.com/cyberattacks-data-breaches/indian-police-arrest-cybercrime-gang-copycats-myanmar-biz-model" target="_blank" rel="noopener">Indian Police Arrest Cybercrime Gang Copycats of Myanmar Biz Model</a></h2>
+        <div class="news-date">May 28, 2025 - 3:30 AM</div>
+        <p class="news-summary">The region offers attractive conditions: a large pool of tech workers, economic disparity, and weak enforcement of cybercrime laws — all of which attract businesses legitimate and shady....</p>
+      </div>
+    
+  </div>
+  
+  <footer>
+    <p>Powered by GitHub Actions | Automatically updates every 3 hours | <a href="./feed.xml">RSS Feed</a></p>
+  </footer>
+</body>
+</html>
+  

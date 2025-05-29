@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "name": "Cointelegraph - Security",
+      "url": "https://cointelegraph.com/rss/category/security",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Threatpost",
+      "url": "https://threatpost.com/feed/",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Bleeping Computer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com/rss.xml",
+      "type": "rss",
+      "enabled": true
+    }
+  ],
+  "settings": {
+    "maxNewsItems": 100,
+    "lastUpdated": "2025-05-29T03:46:34.365Z"
+  }
+}
