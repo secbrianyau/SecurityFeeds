@@ -2,7 +2,7 @@
   "sources": [
     {
       "name": "Cointelegraph - Security",
-      "url": "https://cointelegraph.com/rss/category/security",
+      "url": "https://cointelegraph.com/rss/tag/security",
       "type": "rss",
       "enabled": true
     },
@@ -26,7 +26,7 @@
     }
   ],
   "settings": {
-    "maxNewsItems": 100,
+    "maxNewsItems": 60,
     "lastUpdated": "2025-05-29T03:46:34.365Z"
   }
 }
