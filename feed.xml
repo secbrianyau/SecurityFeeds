@@ -9,12 +9,34 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 May 2025 21:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 01:21:11 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 May 2025 21:16:28 GMT</pubDate>
+        <pubDate>Fri, 30 May 2025 01:21:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading</comment>
+        <item>
+            <title><![CDATA[Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs]]></title>
+            <description><![CDATA[Mozilla has rolled out an emergency Firefox 139.0.1 update after the Tuesday release caused graphical artifacts on PCs with NVIDIA GPUs. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 29 May 2025 23:58:04 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-05-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Authenticator now warns to export passwords before July cutoff]]></title>
+            <description><![CDATA[The Microsoft Authenticator app is now issuing notifications warning that the password autofill feature is being deprecated in July, suggesting users move to Microsoft Edge instead. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 29 May 2025 23:49:49 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-05-29</dc:date>
+        </item>
         <item>
             <title><![CDATA[Victoria's Secret Goes Offline After 'Incident' Claims]]></title>
             <description><![CDATA[The lingerie retailer isn't revealing much about the security incident it's dealing with but has brought in third-party experts to address the issue....]]></description>
@@ -23,6 +45,17 @@
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 29 May 2025 20:52:37 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New Botnet Plants Persistent Backdoors in ASUS Routers]]></title>
+            <description><![CDATA[Thousands of ASUS routers have been infected and are believed to be part of a wide-ranging ORB network affecting devices from Linksys, D-Link, QNAP, and Araknis Network....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/botnet-persistent-backdoors-asus-routers</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/botnet-persistent-backdoors-asus-routers</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 29 May 2025 20:49:09 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-29</dc:date>
         </item>
@@ -45,6 +78,17 @@
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 29 May 2025 20:18:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[APT41 Uses Google Calendar Events for C2]]></title>
+            <description><![CDATA[APT41, a Chinese state-sponsored threat actor also known as "Double Dragon," used Google Calendar as command-and-control infrastructure during a campaign last fall....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 29 May 2025 20:10:15 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-29</dc:date>
         </item>
@@ -247,17 +291,6 @@
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[APT41 malware abuses Google Calendar for stealthy C2 communication]]></title>
-            <description><![CDATA[The Chinese APT41 hacking group uses a new malware named 'ToughProgress' that abuses Google Calendar for command-and-control (C2) operations, hiding malicious activity behind a trusted cloud service. ...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 22:04:04 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Hundreds of Web Apps Have Full Access to Microsoft OneDrive Files]]></title>
             <description><![CDATA[Researchers at Oasis Security say the problem has to do with OneDrive File Picker having overly broad permissions....]]></description>
             <link>https://www.darkreading.com/application-security/hundreds-web-apps-full-access-onedrive-files</link>
@@ -277,17 +310,6 @@
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 28 May 2025 20:56:41 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New PumaBot botnet brute forces SSH credentials to breach devices]]></title>
-            <description><![CDATA[A newly discovered Go-based Linux botnet malware named PumaBot is brute-forcing SSH credentials on embedded IoT devices to deploy malicious payloads. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 28 May 2025 19:59:38 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-05-28</dc:date>
         </item>
         <item>
@@ -650,28 +672,6 @@
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 22 May 2025 14:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Keeping LLMs on the Rails Poses Design, Engineering Challenges]]></title>
-            <description><![CDATA[Despite adding alignment training, guardrails, and filters, large language models continue to give up secrets, make unfiltered statements, and provide dangerous information....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/llms-on-rails-design-engineering-challenges</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/llms-on-rails-design-engineering-challenges</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 22 May 2025 13:54:39 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[GitLab's AI Assistant Opened Devs to Code Theft]]></title>
-            <description><![CDATA[Prompt injection risks in GitLab's AI assistant could have allowed attackers to steal source code, or indirectly deliver developers malware, dirty links, and more....]]></description>
-            <link>https://www.darkreading.com/application-security/gitlab-ai-assistant-opened-devs-to-code-theft</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/gitlab-ai-assistant-opened-devs-to-code-theft</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 22 May 2025 10:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-22</dc:date>
         </item>

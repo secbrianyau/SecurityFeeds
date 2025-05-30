@@ -1,10 +1,31 @@
 [
   {
+    "title": "Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs",
+    "link": "https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/",
+    "date": "2025-05-29T23:58:04.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Mozilla has rolled out an emergency Firefox 139.0.1 update after the Tuesday release caused graphical artifacts on PCs with NVIDIA GPUs. [...]..."
+  },
+  {
+    "title": "Microsoft Authenticator now warns to export passwords before July cutoff",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/",
+    "date": "2025-05-29T23:49:49.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The Microsoft Authenticator app is now issuing notifications warning that the password autofill feature is being deprecated in July, suggesting users move to Microsoft Edge instead. [...]..."
+  },
+  {
     "title": "Victoria's Secret Goes Offline After 'Incident' Claims",
     "link": "https://www.darkreading.com/endpoint-security/victoria-secret-website-security-incident",
     "date": "2025-05-29T20:52:37.000Z",
     "source": "Dark Reading",
     "summary": "The lingerie retailer isn't revealing much about the security incident it's dealing with but has brought in third-party experts to address the issue...."
+  },
+  {
+    "title": "New Botnet Plants Persistent Backdoors in ASUS Routers",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/botnet-persistent-backdoors-asus-routers",
+    "date": "2025-05-29T20:49:09.000Z",
+    "source": "Dark Reading",
+    "summary": "Thousands of ASUS routers have been infected and are believed to be part of a wide-ranging ORB network affecting devices from Linksys, D-Link, QNAP, and Araknis Network...."
   },
   {
     "title": "SentinelOne Reports Services Are Back Online After Global Outage",
@@ -19,6 +40,13 @@
     "date": "2025-05-29T20:18:00.000Z",
     "source": "Dark Reading",
     "summary": "Red Canary's MDR portfolio complements Zscaler's purchase last year of Israeli startup Avalor, which automates collection, curation, and enrichment of security data...."
+  },
+  {
+    "title": "APT41 Uses Google Calendar Events for C2",
+    "link": "https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2",
+    "date": "2025-05-29T20:10:15.000Z",
+    "source": "Dark Reading",
+    "summary": "APT41, a Chinese state-sponsored threat actor also known as \"Double Dragon,\" used Google Calendar as command-and-control infrastructure during a campaign last fall...."
   },
   {
     "title": "ConnectWise breached in cyberattack linked to nation-state hackers",
@@ -147,13 +175,6 @@
     "summary": "​​Microsoft has released the KB5058499 preview cumulative update for Windows 11 24H2 with forty-eight new features or changes, with many gradually rolling out, such as the new Windows Share feature an..."
   },
   {
-    "title": "APT41 malware abuses Google Calendar for stealthy C2 communication",
-    "link": "https://www.bleepingcomputer.com/news/security/apt41-malware-abuses-google-calendar-for-stealthy-c2-communication/",
-    "date": "2025-05-28T22:04:04.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The Chinese APT41 hacking group uses a new malware named 'ToughProgress' that abuses Google Calendar for command-and-control (C2) operations, hiding malicious activity behind a trusted cloud service. ..."
-  },
-  {
     "title": "Hundreds of Web Apps Have Full Access to Microsoft OneDrive Files",
     "link": "https://www.darkreading.com/application-security/hundreds-web-apps-full-access-onedrive-files",
     "date": "2025-05-28T21:36:00.000Z",
@@ -166,13 +187,6 @@
     "date": "2025-05-28T20:56:41.000Z",
     "source": "Dark Reading",
     "summary": "Among the recommendations, organizations should conduct thorough testing and manage costs, which can be hefty, before implementing the platforms...."
-  },
-  {
-    "title": "New PumaBot botnet brute forces SSH credentials to breach devices",
-    "link": "https://www.bleepingcomputer.com/news/security/new-pumabot-botnet-brute-forces-ssh-credentials-to-breach-devices/",
-    "date": "2025-05-28T19:59:38.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A newly discovered Go-based Linux botnet malware named PumaBot is brute-forcing SSH credentials on embedded IoT devices to deploy malicious payloads. [...]..."
   },
   {
     "title": "Implementing Secure by Design Principles for AI",
@@ -404,19 +418,5 @@
     "date": "2025-05-22T14:00:00.000Z",
     "source": "Dark Reading",
     "summary": "DeepSeek's risks must be carefully considered, and ultimately mitigated, in order to enjoy the many benefits of generative AI in a manner that is safe and secure for all organizations and users...."
-  },
-  {
-    "title": "Keeping LLMs on the Rails Poses Design, Engineering Challenges",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/llms-on-rails-design-engineering-challenges",
-    "date": "2025-05-22T13:54:39.000Z",
-    "source": "Dark Reading",
-    "summary": "Despite adding alignment training, guardrails, and filters, large language models continue to give up secrets, make unfiltered statements, and provide dangerous information...."
-  },
-  {
-    "title": "GitLab's AI Assistant Opened Devs to Code Theft",
-    "link": "https://www.darkreading.com/application-security/gitlab-ai-assistant-opened-devs-to-code-theft",
-    "date": "2025-05-22T10:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "Prompt injection risks in GitLab's AI assistant could have allowed attackers to steal source code, or indirectly deliver developers malware, dirty links, and more...."
   }
 ]
