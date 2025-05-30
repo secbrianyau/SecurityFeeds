@@ -9,12 +9,56 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 May 2025 18:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 21:15:23 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 May 2025 18:24:03 GMT</pubDate>
+        <pubDate>Fri, 30 May 2025 21:15:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading</comment>
+        <item>
+            <title><![CDATA['Earth Lamia' Exploits Known SQL, RCE Bugs Across Asia]]></title>
+            <description><![CDATA[A "highly active" Chinese threat group is taking proverbial candy from babies, exploiting known bugs in exposed servers to steal data from organizations in sensitive sectors....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/earth-lamia-exploits-sql-rce-bugs-asia</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/earth-lamia-exploits-sql-rce-bugs-asia</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 30 May 2025 20:13:59 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers are exploiting critical flaw in vBulletin forum software]]></title>
+            <description><![CDATA[Two critical vulnerabilities affecting the open-source forum software vBulletin have been discovered, with one confirmed to be actively exploited in the wild. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 30 May 2025 19:26:06 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-05-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[FBI Warns of Filipino Tech Company Running Sprawling Crypto Scams]]></title>
+            <description><![CDATA[The US Treasury said cryptocurrency investment schemes like the ones facilitated by Funnull Technology Inc. have cost Americans billions of dollars annually....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/fbi-warns-tech-company-crypto-scams</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/fbi-warns-tech-company-crypto-scams</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 30 May 2025 18:44:02 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft now testing Notepad text formatting in Windows 11]]></title>
+            <description><![CDATA[Microsoft announced today that the Windows 11 Notepad application is getting a text formatting feature supporting Markdown-style input. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 30 May 2025 18:41:24 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-05-30</dc:date>
+        </item>
         <item>
             <title><![CDATA[Police takes down AVCheck site used by cybercriminals to scan malware]]></title>
             <description><![CDATA[An international law enforcement operation has taken down AVCheck, a service used by cybercriminals to test whether their malware is detected by commercial antivirus software before deploying it in th...]]></description>
@@ -335,17 +379,6 @@
             <dc:date>2025-05-29</dc:date>
         </item>
         <item>
-            <title><![CDATA[Victoria’s Secret takes down website after security incident]]></title>
-            <description><![CDATA[Victoria's Secret, the fashion giant, has taken down its website and some store services because of an ongoing security incident [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 11:30:41 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
             <title><![CDATA[ Bubblemaps launches ‘Time Travel’ tool for insider activity, rug pulls ]]></title>
             <description><![CDATA[Bubblemaps aims to offer forensic-grade analytics tools for Web3 users to help navigate the rise of insider scams and rug pulls in the crypto industry....]]></description>
             <link>https://cointelegraph.com/news/bubblemaps-time-travel-for-insider-activity-rug-pulls?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
@@ -639,39 +672,6 @@
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 23 May 2025 14:06:01 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking Data Privacy in the Age of Generative AI]]></title>
-            <description><![CDATA[The key to navigating this new GenAI landscape is a balanced approach — one that fosters transparency, strengthens regulatory frameworks, and embraces privacy-enhancing technologies....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 23 May 2025 14:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[3 Severe Bugs Patched in Versa's Concerto Orchestrator]]></title>
-            <description><![CDATA[Three zero-days could have allowed an attacker to completely compromise the Concerto application and the host system running it....]]></description>
-            <link>https://www.darkreading.com/endpoint-security/critical-bugs-patched-versa-sd-wan-platform</link>
-            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/critical-bugs-patched-versa-sd-wan-platform</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 23 May 2025 13:30:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Companies Look to AI to Tame the Chaos of Event Security, Operations]]></title>
-            <description><![CDATA[As the summer event season kicks off, venue managers and security firms aim to make AI part of the solution for keeping control of crowds and protecting against cyber-physical threats....]]></description>
-            <link>https://www.darkreading.com/threat-intelligence/companies-ai-tame-chaos-event-security-operations</link>
-            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/companies-ai-tame-chaos-event-security-operations</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 23 May 2025 13:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-23</dc:date>
         </item>
