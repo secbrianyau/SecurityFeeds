@@ -1,10 +1,31 @@
 [
   {
-    "title": " AI-powered OSINT tool profiles YouTube commenters, raising privacy concerns ",
+    "title": "Police takes down AVCheck site used by cybercriminals to scan malware",
+    "link": "https://www.bleepingcomputer.com/news/security/police-takes-down-avcheck-antivirus-site-used-by-cybercriminals/",
+    "date": "2025-05-30T16:46:02.000Z",
+    "source": "Bleeping Computer",
+    "summary": "An international law enforcement operation has taken down AVCheck, a service used by cybercriminals to test whether their malware is detected by commercial antivirus software before deploying it in th..."
+  },
+  {
+    "title": "Germany doxxes Conti ransomware and TrickBot ring leader",
+    "link": "https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/",
+    "date": "2025-05-30T15:57:26.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The Federal Criminal Police Office of Germany (Bundeskriminalamt or BKA) claims that Stern, the leader of the Trickbot and Conti cybercrime gangs, is a 36-year-old Russian named Vitaly Nikolaevich Kov..."
+  },
+  {
+    "title": " AI-powered OSINT tool profiles YouTube users, raising privacy concerns ",
     "link": "https://cointelegraph.com/news/ai-youtube-comment-profiling-privacy-risk?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
     "date": "2025-05-30T15:05:40.000Z",
     "source": "Cointelegraph - Security",
     "summary": "An OSINT platform, Lolarchiver, offers AI-powered tools that can rapidly profile YouTube commenters based on their activity, raising major privacy and legal concerns...."
+  },
+  {
+    "title": "Getting Exposure Management Right: Insights from 500 CISOs ",
+    "link": "https://www.bleepingcomputer.com/news/security/getting-exposure-management-right-insights-from-500-cisos/",
+    "date": "2025-05-30T14:00:00.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Pentesting isn't just about finding flaws — it's about knowing which ones matter. Pentera's 2025 State of Pentesting report uncovers which assets attackers target most, where security teams are making..."
   },
   {
     "title": "Vibe Coding Changed the Development Process",
@@ -67,14 +88,14 @@
     "link": "https://www.darkreading.com/application-security/from-code-red-to-rust-microsoft-security-journey",
     "date": "2025-05-29T22:04:28.000Z",
     "source": "Dark Reading",
-    "summary": "At this year's Build developer conference, Microsoft reflects on what the company learned about securing features and writing secure code in the early 2000s...."
+    "summary": "At this year's Build developer conference, Microsoft reflected on what the company learned about securing features and writing secure code in the early 2000s...."
   },
   {
     "title": "NSA, CISA Urge Organizations to Secure Data Used in AI Models",
     "link": "https://www.darkreading.com/cyber-risk/nsa-cisa-gudnceai-secure-data-ai-models",
     "date": "2025-05-29T21:03:51.000Z",
     "source": "Dark Reading",
-    "summary": "New guidance includes a list of 10 best practices to protect sensitive data throughout the AI lifecycle as well as addressing supply chain and data poisoning risks...."
+    "summary": "New guidance includes a list of 10 best practices to protect sensitive data throughout the AI life cycle, as well as tips to address supply chain and data-poisoning risks...."
   },
   {
     "title": "Victoria's Secret Goes Offline After 'Incident' Claims",
@@ -203,39 +224,11 @@
     "summary": "The phishing operation is using Telegram groups to sell a phishing-as-a-service kit with customer service, a mascot, and infrastructure that requires little technical knowledge to install...."
   },
   {
-    "title": "Microsoft: Windows 11 might fail to start after installing KB5058405",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-might-fail-to-start-after-installing-kb5058405/",
-    "date": "2025-05-29T09:59:54.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has confirmed that some Windows 11 systems might fail to start after installing the KB5058405 security update released during this month's Patch Tuesday. [...]..."
-  },
-  {
-    "title": "Data broker LexisNexis discloses data breach affecting 364,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/data-broker-lexisnexis-discloses-data-breach-affecting-364-000-people/",
-    "date": "2025-05-29T08:28:25.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Data broker giant LexisNexis Risk Solutions has revealed that unknown attackers stole the personal information of over 364,000 individuals in a December breach. [...]..."
-  },
-  {
     "title": "Certified Randomness Uses Quantum Cryptography to Make Stronger Keys",
     "link": "https://www.darkreading.com/endpoint-security/certified-randomnes-squantum-cryptography-stronger-keys",
     "date": "2025-05-28T23:47:17.000Z",
     "source": "Dark Reading",
     "summary": "Researchers are using quantum computers to generate keys that are truly random to strengthen data encryption...."
-  },
-  {
-    "title": "Windows 10 KB5058481 update brings seconds back to calendar flyout",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058481-update-brings-seconds-back-to-calendar-flyout/",
-    "date": "2025-05-28T22:57:26.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has released the optional KB5058481 preview cumulative update for Windows 10 22H2 with seven changes, including restoring seconds to the time display in the calendar flyout for those who pre..."
-  },
-  {
-    "title": "Windows 11 KB5058499 update rolls out new Share and Click to Do features",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058499-update-rolls-out-new-share-and-click-to-do-features/",
-    "date": "2025-05-28T22:19:54.000Z",
-    "source": "Bleeping Computer",
-    "summary": "​​Microsoft has released the KB5058499 preview cumulative update for Windows 11 24H2 with forty-eight new features or changes, with many gradually rolling out, such as the new Windows Share feature an..."
   },
   {
     "title": "Hundreds of Web Apps Have Full Access to Microsoft OneDrive Files",
@@ -418,5 +411,12 @@
     "date": "2025-05-23T13:30:00.000Z",
     "source": "Dark Reading",
     "summary": "Three zero-days could have allowed an attacker to completely compromise the Concerto application and the host system running it...."
+  },
+  {
+    "title": "Companies Look to AI to Tame the Chaos of Event Security, Operations",
+    "link": "https://www.darkreading.com/threat-intelligence/companies-ai-tame-chaos-event-security-operations",
+    "date": "2025-05-23T13:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "As the summer event season kicks off, venue managers and security firms aim to make AI part of the solution for keeping control of crowds and protecting against cyber-physical threats...."
   }
 ]
