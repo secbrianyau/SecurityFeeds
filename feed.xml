@@ -9,12 +9,23 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 May 2025 21:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jun 2025 01:46:19 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 May 2025 21:14:51 GMT</pubDate>
+        <pubDate>Sun, 01 Jun 2025 01:46:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading</comment>
+        <item>
+            <title><![CDATA[Exploit details for max severity Cisco IOS XE flaw now public]]></title>
+            <description><![CDATA[Technical details about a maximum-severity Cisco IOS XE WLC arbitrary file upload flaw tracked as CVE-2025-20188 have been made publicly available, bringing us closer to a working exploit. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 31 May 2025 14:09:19 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-05-31</dc:date>
+        </item>
         <item>
             <title><![CDATA['Earth Lamia' Exploits Known SQL, RCE Bugs Across Asia]]></title>
             <description><![CDATA[A "highly active" Chinese threat group is taking proverbial candy from babies, exploiting known bugs in exposed servers to steal data from organizations in sensitive sectors....]]></description>
@@ -335,17 +346,6 @@
             <dc:date>2025-05-29</dc:date>
         </item>
         <item>
-            <title><![CDATA[Cybercriminals exploit AI hype to spread ransomware, malware]]></title>
-            <description><![CDATA[Threat actors linked to lesser-known ransomware and malware projects now use AI tools as lures to infect unsuspecting victims with malicious payloads. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 14:25:52 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
             <title><![CDATA[ What are address poisoning attacks in crypto and how to avoid them? ]]></title>
             <description><![CDATA[Address poisoning attacks involve tracking, misusing or compromising cryptocurrency addresses....]]></description>
             <link>https://cointelegraph.com/news/address-poisoning-attacks-in-crypto?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
@@ -354,17 +354,6 @@
             <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
             <pubDate>Thu, 29 May 2025 14:12:41 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Attackers are mapping your attack surface—are you?]]></title>
-            <description><![CDATA[Attackers are mapping your infrastructure before you even realize what's exposed. Sprocket ASM flips the script — giving you the same recon capabilities they use, plus change detection and actionable ...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/attackers-are-mapping-your-attack-surface-are-you/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 14:02:12 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-05-29</dc:date>
         </item>
         <item>
@@ -672,6 +661,17 @@
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 23 May 2025 14:06:01 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking Data Privacy in the Age of Generative AI]]></title>
+            <description><![CDATA[The key to navigating this new GenAI landscape is a balanced approach — one that fosters transparency, strengthens regulatory frameworks, and embraces privacy-enhancing technologies....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 23 May 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-23</dc:date>
         </item>
