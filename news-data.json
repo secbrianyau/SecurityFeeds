@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft ships emergency patch to fix Windows 11 startup failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/",
+    "date": "2025-06-02T12:06:25.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft has released an out-of-band update to address a known issue causing some Windows 11 systems to enter recovery and fail to start after installing the KB5058405 May 2025 security update. [...]..."
+  },
+  {
+    "title": "Qualcomm fixes three Adreno GPU zero-days exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/",
+    "date": "2025-06-02T11:11:14.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Qualcomm has released security patches for three zero-day vulnerabilities in the Adreno Graphics Processing Unit (GPU) driver that impact dozens of chipsets and are actively exploited in targeted atta..."
+  },
+  {
     "title": " Wintermute’s ‘CrimeEnjoyor’ to flag Ethereum’s wallet-draining contracts ",
     "link": "https://cointelegraph.com/news/wintermute-crimeenjoyor-flags-malicious-ethereum-contracts?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
     "date": "2025-06-02T02:09:30.000Z",
@@ -189,32 +203,11 @@
     "summary": "While the botnet may not be completely automated, it uses certain tactics when targeting devices that indicate that it may, at the very least, be semiautomated...."
   },
   {
-    "title": "Threat actors abuse Google Apps Script in evasive phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/",
-    "date": "2025-05-29T16:25:36.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Threat actors are abusing the trusted Google platform 'Google Apps Script' to host phishing pages, making them appear legitimate and eliminating the risk of them getting flagged by security tools. [....."
-  },
-  {
     "title": "LexisNexis Informs 360K+ Customers of Third-Party Data Leak",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/lexisnexis-360k-customers-third-party-data-leak",
     "date": "2025-05-29T16:18:24.000Z",
     "source": "Dark Reading",
     "summary": "While the leak affected customer data, LexisNexis said in a notification letter that its products and systems were not compromised...."
-  },
-  {
-    "title": "Apple Safari exposes users to fullscreen browser-in-the-middle attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/",
-    "date": "2025-05-29T16:06:25.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A weakness in Apple's Safari web browser allows threat actors to leverage the fullscreen browser-in-the-middle (BitM) technique to steal account credentials from unsuspecting users. [...]..."
-  },
-  {
-    "title": "US sanctions firm linked to cyber scams behind $200 million in losses",
-    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/",
-    "date": "2025-05-29T15:42:38.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The U.S. Treasury Department has sanctioned Funnull Technology, a Philippines-based company that supports hundreds of thousands of malicious websites behind cyber scams linked to over $200 million in ..."
   },
   {
     "title": " What are address poisoning attacks in crypto and how to avoid them? ",
@@ -418,5 +411,12 @@
     "date": "2025-05-23T14:06:01.000Z",
     "source": "Dark Reading",
     "summary": "By automating security policies and threat detection while coaching users on data protection, companies will be better able to take control of and protect their data...."
+  },
+  {
+    "title": "Rethinking Data Privacy in the Age of Generative AI",
+    "link": "https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai",
+    "date": "2025-05-23T14:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "The key to navigating this new GenAI landscape is a balanced approach — one that fosters transparency, strengthens regulatory frameworks, and embraces privacy-enhancing technologies...."
   }
 ]

@@ -9,12 +9,34 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Jun 2025 09:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 12:36:50 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Jun 2025 09:19:55 GMT</pubDate>
+        <pubDate>Mon, 02 Jun 2025 12:36:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading</comment>
+        <item>
+            <title><![CDATA[Microsoft ships emergency patch to fix Windows 11 startup failures]]></title>
+            <description><![CDATA[Microsoft has released an out-of-band update to address a known issue causing some Windows 11 systems to enter recovery and fail to start after installing the KB5058405 May 2025 security update. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 02 Jun 2025 12:06:25 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-02</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Qualcomm fixes three Adreno GPU zero-days exploited in attacks]]></title>
+            <description><![CDATA[Qualcomm has released security patches for three zero-day vulnerabilities in the Adreno Graphics Processing Unit (GPU) driver that impact dozens of chipsets and are actively exploited in targeted atta...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 02 Jun 2025 11:11:14 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-02</dc:date>
+        </item>
         <item>
             <title><![CDATA[ Wintermute’s ‘CrimeEnjoyor’ to flag Ethereum’s wallet-draining contracts ]]></title>
             <description><![CDATA[Wintermute has created code that warns of malicious code in Ethereum delegate contracts to protect users from a new wallet-draining tactic....]]></description>
@@ -313,17 +335,6 @@
             <dc:date>2025-05-29</dc:date>
         </item>
         <item>
-            <title><![CDATA[Threat actors abuse Google Apps Script in evasive phishing attacks]]></title>
-            <description><![CDATA[Threat actors are abusing the trusted Google platform 'Google Apps Script' to host phishing pages, making them appear legitimate and eliminating the risk of them getting flagged by security tools. [.....]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 16:25:36 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
             <title><![CDATA[LexisNexis Informs 360K+ Customers of Third-Party Data Leak]]></title>
             <description><![CDATA[While the leak affected customer data, LexisNexis said in a notification letter that its products and systems were not compromised....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/lexisnexis-360k-customers-third-party-data-leak</link>
@@ -332,28 +343,6 @@
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 29 May 2025 16:18:24 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Apple Safari exposes users to fullscreen browser-in-the-middle attacks]]></title>
-            <description><![CDATA[A weakness in Apple's Safari web browser allows threat actors to leverage the fullscreen browser-in-the-middle (BitM) technique to steal account credentials from unsuspecting users. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 16:06:25 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[US sanctions firm linked to cyber scams behind $200 million in losses]]></title>
-            <description><![CDATA[The U.S. Treasury Department has sanctioned Funnull Technology, a Philippines-based company that supports hundreds of thousands of malicious websites behind cyber scams linked to over $200 million in ...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 15:42:38 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-05-29</dc:date>
         </item>
         <item>
@@ -672,6 +661,17 @@
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 23 May 2025 14:06:01 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-05-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking Data Privacy in the Age of Generative AI]]></title>
+            <description><![CDATA[The key to navigating this new GenAI landscape is a balanced approach — one that fosters transparency, strengthens regulatory frameworks, and embraces privacy-enhancing technologies....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/rethinking-data-privacy-age-generative-ai</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 23 May 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-23</dc:date>
         </item>
