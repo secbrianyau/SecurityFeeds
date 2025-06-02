@@ -1,5 +1,40 @@
 [
   {
+    "title": "SentinelOne: Last week’s 7-hour outage caused by software flaw",
+    "link": "https://www.bleepingcomputer.com/news/technology/sentinelone-last-weeks-7-hour-outage-caused-by-software-flaw/",
+    "date": "2025-06-02T18:24:17.000Z",
+    "source": "Bleeping Computer",
+    "summary": "American cybersecurity company SentinelOne revealed over the weekend that a software flaw triggered a seven-hour-long outage on Thursday. [...]..."
+  },
+  {
+    "title": "Google Chrome to distrust Chunghwa Telecom, Netlock certificates in August",
+    "link": "https://www.bleepingcomputer.com/news/security/google-chrome-to-distrust-chunghwa-telecom-netlock-certificates-in-august/",
+    "date": "2025-06-02T17:36:30.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Google says it will no longer trust root CA certificates signed by Chunghwa Telecom and Netlock in the Chrome Root Store due to a pattern of compliance failures and failure to make improvements. [...]..."
+  },
+  {
+    "title": "Microsoft and CrowdStrike partner to link hacking group names",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/",
+    "date": "2025-06-02T16:56:55.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft and CrowdStrike announced today that they've partnered to connect the aliases used for specific threat groups without actually using a single naming standard. [...]..."
+  },
+  {
+    "title": "Australia Begins New Ransomware Payment Disclosure Rules",
+    "link": "https://www.darkreading.com/threat-intelligence/australia-ransomware-payment-disclosure-rules",
+    "date": "2025-06-02T15:50:22.000Z",
+    "source": "Dark Reading",
+    "summary": "The country will require certain organizations to report ransomware payments and communications within 72 hours after they're made or face potential civil penalties...."
+  },
+  {
+    "title": "Critical Bugs Could Spark Takeover of Widely Used Fire Safety OT/ICS Platform",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/critical-bugs-takeover-fire-safety-ot-ics-platform",
+    "date": "2025-06-02T15:46:01.000Z",
+    "source": "Dark Reading",
+    "summary": "The unpatched security vulnerabilities in Consilium Safety's CS5000 Fire Panel could create \"serious safety issues\" in environments where fire suppression and safety are paramount, according to a CISA..."
+  },
+  {
     "title": "‘Russian Market’ emerges as a go-to shop for stolen credentials",
     "link": "https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/",
     "date": "2025-06-02T14:28:33.000Z",
@@ -138,20 +173,6 @@
     "date": "2025-05-30T05:00:00.000Z",
     "source": "Dark Reading",
     "summary": "In addition to Coca-Cola, entities in Abu Dhabi, Jordan, Namibia, South Africa, and Switzerland are experiencing extortion attacks, all involving stolen SAP SuccessFactor data...."
-  },
-  {
-    "title": "Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs",
-    "link": "https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/",
-    "date": "2025-05-29T23:58:04.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Mozilla has rolled out an emergency Firefox 139.0.1 update after the Tuesday release caused graphical artifacts on PCs with NVIDIA GPUs. [...]..."
-  },
-  {
-    "title": "Microsoft Authenticator now warns to export passwords before July cutoff",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/",
-    "date": "2025-05-29T23:49:49.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The Microsoft Authenticator app is now issuing notifications warning that the password autofill feature is being deprecated in July, suggesting users move to Microsoft Edge instead. [...]..."
   },
   {
     "title": "From Code Red to Rust: Microsoft's Security Journey",
@@ -397,26 +418,5 @@
     "date": "2025-05-26T15:15:00.000Z",
     "source": "Cointelegraph - Security",
     "summary": "BlackRock’s quantum computing warning serves as a call to action for the cryptocurrency ecosystem to address the looming challenges...."
-  },
-  {
-    "title": " AI agents are poised to be crypto’s next major vulnerability ",
-    "link": "https://cointelegraph.com/news/ai-agents-poised-crypto-major-vulnerability?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2025-05-25T13:00:00.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "AI agents are increasingly embedded into financial industries, including crypto, but the industry has yet to experience the security vulnerabilities hidden in them...."
-  },
-  {
-    "title": "3 Critical Pillars of Cyber-Resilience",
-    "link": "https://www.darkreading.com/cyber-risk/three-critical-pillars-of-cyber-resilience",
-    "date": "2025-05-23T16:33:26.000Z",
-    "source": "Dark Reading",
-    "summary": "Encryption, collaboration, and AI can help organizations build up essential protection against ransomware...."
-  },
-  {
-    "title": "How AI Is Transforming SASE, Zero Trust for Modern Enterprises",
-    "link": "https://www.darkreading.com/cybersecurity-operations/how-ai-transform-sase-zero-trust-networks-security",
-    "date": "2025-05-23T14:06:01.000Z",
-    "source": "Dark Reading",
-    "summary": "By automating security policies and threat detection while coaching users on data protection, companies will be better able to take control of and protect their data...."
   }
 ]
