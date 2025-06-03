@@ -1,5 +1,26 @@
 [
   {
+    "title": "Coinbase breach tied to bribed TaskUs support agents in India",
+    "link": "https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/",
+    "date": "2025-06-03T17:17:52.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A recently disclosed data breach at Coinbase has been linked to India-based customer support representatives from outsourcing firm TaskUs, who threat actors bribed to steal data from the crypto exchan..."
+  },
+  {
+    "title": "Microsoft adds quick machine recovery to Windows 11 settings",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/",
+    "date": "2025-06-03T15:50:07.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft is testing a dedicated page in Windows Settings for quick machine recovery, which will provide users with additional configuration options. [...]..."
+  },
+  {
+    "title": "Malicious RubyGems pose as Fastlane to steal Telegram API data",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/",
+    "date": "2025-06-03T15:48:02.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Two malicious RubyGems packages posing as popular Fastlane CI/CD plugins redirect Telegram API requests to attacker-controlled servers to intercept and steal data. [...]..."
+  },
+  {
     "title": "Mozilla launches new system to detect Firefox crypto drainer add-ons",
     "link": "https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/",
     "date": "2025-06-03T14:29:46.000Z",
@@ -77,6 +98,13 @@
     "summary": "New details on the Cisco IOS XE vulnerability could help attackers develop a working exploit soon, researchers say...."
   },
   {
+    "title": "LummaC2 Fractures as Acreed Malware Becomes Top Dog",
+    "link": "https://www.darkreading.com/remote-workforce/lummac2-fracture-acreed-infostealer-top-dog",
+    "date": "2025-06-02T20:50:15.000Z",
+    "source": "Dark Reading",
+    "summary": "LummaC2 formerly accounted for almost 92% of Russian Market's credential theft log alerts. Now, the Acreed infostealer has replaced its market share...."
+  },
+  {
     "title": "Trickbot, Conti Ransomware Operator Unmasked Amid Huge Ops Leak",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/trickbot-conti-ransomware-operator-unmasked",
     "date": "2025-06-02T19:00:52.000Z",
@@ -126,13 +154,6 @@
     "summary": "The unpatched security vulnerabilities in Consilium Safety's CS5000 Fire Panel could create \"serious safety issues\" in environments where fire suppression and safety are paramount, according to a CISA..."
   },
   {
-    "title": "‘Russian Market’ emerges as a go-to shop for stolen credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/",
-    "date": "2025-06-02T14:28:33.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The \"Russian Market\" cybercrime marketplace has emerged as one of the most popular platforms for buying and selling credentials stolen by information stealer malware. [...]..."
-  },
-  {
     "title": "Beyond the Broken Wall: Why the Security Perimeter Is Not Enough",
     "link": "https://www.darkreading.com/endpoint-security/beyond-broken-wall-why-security-perimeter-not-enough",
     "date": "2025-06-02T14:00:34.000Z",
@@ -145,20 +166,6 @@
     "date": "2025-06-02T14:00:00.000Z",
     "source": "Dark Reading",
     "summary": "The US needs to establish a clear framework to provide reasonable guardrails to protect its interests — the quicker, the better...."
-  },
-  {
-    "title": "Microsoft ships emergency patch to fix Windows 11 startup failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/",
-    "date": "2025-06-02T12:06:25.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has released an out-of-band update to address a known issue causing some Windows 11 systems to enter recovery and fail to start after installing the KB5058405 May 2025 security update. [...]..."
-  },
-  {
-    "title": "Qualcomm fixes three Adreno GPU zero-days exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/",
-    "date": "2025-06-02T11:11:14.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Qualcomm has released security patches for three zero-day vulnerabilities in the Adreno Graphics Processing Unit (GPU) driver that impact dozens of chipsets and are actively exploited in targeted atta..."
   },
   {
     "title": " Wintermute’s ‘CrimeEnjoyor’ to flag Ethereum’s wallet-draining contracts ",
@@ -411,12 +418,5 @@
     "date": "2025-05-27T22:23:49.000Z",
     "source": "Dark Reading",
     "summary": "The acquisition, expected to close in August, will bring together Red Canary's extensive integration ecosystem with Zscaler's cloud transaction data to deliver an AI-powered security operations platfo..."
-  },
-  {
-    "title": "Adidas Falls Victim to Third-Party Data Breach",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/adidas-victim-third-party-data-breach",
-    "date": "2025-05-27T21:38:05.000Z",
-    "source": "Dark Reading",
-    "summary": "Though Adidas said that no payment or financial information was affected in the breach, individuals who contacted the compamy's customer service help desk were impacted...."
   }
 ]

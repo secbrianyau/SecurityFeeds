@@ -9,12 +9,45 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Jun 2025 15:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 18:25:48 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Jun 2025 15:20:08 GMT</pubDate>
+        <pubDate>Tue, 03 Jun 2025 18:25:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading</comment>
+        <item>
+            <title><![CDATA[Coinbase breach tied to bribed TaskUs support agents in India]]></title>
+            <description><![CDATA[A recently disclosed data breach at Coinbase has been linked to India-based customer support representatives from outsourcing firm TaskUs, who threat actors bribed to steal data from the crypto exchan...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 03 Jun 2025 17:17:52 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-03</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft adds quick machine recovery to Windows 11 settings]]></title>
+            <description><![CDATA[Microsoft is testing a dedicated page in Windows Settings for quick machine recovery, which will provide users with additional configuration options. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 03 Jun 2025 15:50:07 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-03</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Malicious RubyGems pose as Fastlane to steal Telegram API data]]></title>
+            <description><![CDATA[Two malicious RubyGems packages posing as popular Fastlane CI/CD plugins redirect Telegram API requests to attacker-controlled servers to intercept and steal data. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 03 Jun 2025 15:48:02 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-03</dc:date>
+        </item>
         <item>
             <title><![CDATA[Mozilla launches new system to detect Firefox crypto drainer add-ons]]></title>
             <description><![CDATA[Mozilla has developed a new security feature for its add-on portal that helps block Firefox malicious extensions that drain cryptocurrency wallets. [...]...]]></description>
@@ -137,6 +170,17 @@
             <dc:date>2025-06-02</dc:date>
         </item>
         <item>
+            <title><![CDATA[LummaC2 Fractures as Acreed Malware Becomes Top Dog]]></title>
+            <description><![CDATA[LummaC2 formerly accounted for almost 92% of Russian Market's credential theft log alerts. Now, the Acreed infostealer has replaced its market share....]]></description>
+            <link>https://www.darkreading.com/remote-workforce/lummac2-fracture-acreed-infostealer-top-dog</link>
+            <guid isPermaLink="false">https://www.darkreading.com/remote-workforce/lummac2-fracture-acreed-infostealer-top-dog</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 02 Jun 2025 20:50:15 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-02</dc:date>
+        </item>
+        <item>
             <title><![CDATA[Trickbot, Conti Ransomware Operator Unmasked Amid Huge Ops Leak]]></title>
             <description><![CDATA[An anonymous whistleblower has leaked large amounts of data tied to the alleged operator behind Trickbot and Conti ransomware....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/trickbot-conti-ransomware-operator-unmasked</link>
@@ -214,17 +258,6 @@
             <dc:date>2025-06-02</dc:date>
         </item>
         <item>
-            <title><![CDATA[‘Russian Market’ emerges as a go-to shop for stolen credentials]]></title>
-            <description><![CDATA[The "Russian Market" cybercrime marketplace has emerged as one of the most popular platforms for buying and selling credentials stolen by information stealer malware. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/russian-market-emerges-as-a-go-to-shop-for-stolen-credentials/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 02 Jun 2025 14:28:33 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-02</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Beyond the Broken Wall: Why the Security Perimeter Is Not Enough]]></title>
             <description><![CDATA[Organizations need to abandon perimeter-based security for data-centric protection strategies in today's distributed IT environments....]]></description>
             <link>https://www.darkreading.com/endpoint-security/beyond-broken-wall-why-security-perimeter-not-enough</link>
@@ -244,28 +277,6 @@
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 02 Jun 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft ships emergency patch to fix Windows 11 startup failures]]></title>
-            <description><![CDATA[Microsoft has released an out-of-band update to address a known issue causing some Windows 11 systems to enter recovery and fail to start after installing the KB5058405 May 2025 security update. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 02 Jun 2025 12:06:25 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Qualcomm fixes three Adreno GPU zero-days exploited in attacks]]></title>
-            <description><![CDATA[Qualcomm has released security patches for three zero-day vulnerabilities in the Adreno Graphics Processing Unit (GPU) driver that impact dozens of chipsets and are actively exploited in targeted atta...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 02 Jun 2025 11:11:14 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-06-02</dc:date>
         </item>
         <item>
@@ -661,17 +672,6 @@
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 27 May 2025 22:23:49 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Adidas Falls Victim to Third-Party Data Breach]]></title>
-            <description><![CDATA[Though Adidas said that no payment or financial information was affected in the breach, individuals who contacted the compamy's customer service help desk were impacted....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/adidas-victim-third-party-data-breach</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/adidas-victim-third-party-data-breach</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 27 May 2025 21:38:05 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-27</dc:date>
         </item>
