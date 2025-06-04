@@ -1,5 +1,40 @@
 [
   {
+    "title": "Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker",
+    "link": "https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/",
+    "date": "2025-06-04T18:00:29.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The Main Intelligence Directorate (GUR) of Ukraine's Ministry of Defense claims it hacked the Russian aerospace and defense company Tupolev, which develops Russia's supersonic strategic bombers. [...]..."
+  },
+  {
+    "title": "How Neuroscience Can Help Us Battle 'Alert Fatigue'",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/how-neuroscience-battle-alert-fatigue",
+    "date": "2025-06-04T18:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "By understanding the neurological realities of human attention, organizations can build more sustainable security operations that protect not only their digital assets but also the well-being of those..."
+  },
+  {
+    "title": "Researchers Bypass Deepfake Detection With Replay Attacks",
+    "link": "https://www.darkreading.com/cybersecurity-analytics/researchers-bypass-deepfake-detection-replay-attacks",
+    "date": "2025-06-04T17:30:13.000Z",
+    "source": "Dark Reading",
+    "summary": "An international group of researchers found that simply rerecording deepfake audio with natural acoustics in the background allows it to bypass detection models at a higher-than-expected rate...."
+  },
+  {
+    "title": "BidenCash carding market domains seized in international operation",
+    "link": "https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/",
+    "date": "2025-06-04T17:10:50.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Earlier today, law enforcement seized multiple domains of BidenCash, the infamous dark web market for stolen credit cards, personal information, and SSH access. [...]..."
+  },
+  {
+    "title": "FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/",
+    "date": "2025-06-04T16:37:33.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The FBI is warning about a new scam where cybercriminals exploit NFT airdrops on the Hedera Hashgraph network to steal crypto from cryptocurrency wallets. [...]..."
+  },
+  {
     "title": "Attackers Impersonate Ruby Packages to Steal Sensitive Telegram Data",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-impersonate-ruby-packages-telegram-data",
     "date": "2025-06-04T15:02:57.000Z",
@@ -11,7 +46,7 @@
     "link": "https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/",
     "date": "2025-06-04T14:30:14.000Z",
     "source": "Bleeping Computer",
-    "summary": "Publishing giant Lee Enterprises is notifying over 39,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]..."
+    "summary": "Publishing giant Lee Enterprises is notifying nearly 40,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]..."
   },
   {
     "title": "Google: Hackers target Salesforce accounts in data extortion attacks",
@@ -147,32 +182,11 @@
     "summary": "Two malicious RubyGems packages posing as popular Fastlane CI/CD plugins redirect Telegram API requests to attacker-controlled servers to intercept and steal data. [...]..."
   },
   {
-    "title": "Mozilla launches new system to detect Firefox crypto drainer add-ons",
-    "link": "https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/",
-    "date": "2025-06-03T14:29:46.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Mozilla has developed a new security feature for its add-on portal that helps block Firefox malicious extensions that drain cryptocurrency wallets. [...]..."
-  },
-  {
-    "title": "Scattered Spider: Three things the news doesn’t tell you",
-    "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/",
-    "date": "2025-06-03T14:02:12.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Scattered Spider isn't one group — it's an identity-first threat model evolving fast. From vishing to AiTM phishing, they're exploiting MFA gaps to hijack the cloud. Watch the Push Security webinar to..."
-  },
-  {
     "title": "Is Your CISO Navigating Your Flight Path?",
     "link": "https://www.darkreading.com/cybersecurity-operations/ciso-navigating-your-flight-path",
     "date": "2025-06-03T14:00:00.000Z",
     "source": "Dark Reading",
     "summary": "If your CISO isn't wielding influence with the CEO and helping top leaders clearly see the flight path ahead, your company is dangerously exposed...."
-  },
-  {
-    "title": "CISA warns of ConnectWise ScreenConnect bug exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/",
-    "date": "2025-06-03T13:57:12.000Z",
-    "source": "Bleeping Computer",
-    "summary": "CISA is alerting federal agencies in the U.S. of hackers exploiting a recently patched ScreenConnect vulnerability that could lead to executing remote code on the server. [...]..."
   },
   {
     "title": "Open-Weight Chinese AI Models Drive Privacy Innovation in LLMs",
@@ -404,19 +418,5 @@
     "date": "2025-05-28T21:36:00.000Z",
     "source": "Dark Reading",
     "summary": "Researchers at Oasis Security say the problem has to do with OneDrive File Picker having overly broad permissions...."
-  },
-  {
-    "title": "CISA Issues SOAR, SIEM Implementation Guidance",
-    "link": "https://www.darkreading.com/cybersecurity-operations/cisa-soar-siem-implementation-guidance",
-    "date": "2025-05-28T20:56:41.000Z",
-    "source": "Dark Reading",
-    "summary": "Among the recommendations, organizations should conduct thorough testing and manage costs, which can be hefty, before implementing the platforms...."
-  },
-  {
-    "title": "Implementing Secure by Design Principles for AI",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/secure-design-principles-ai",
-    "date": "2025-05-28T18:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "Harnessing AI's full transformative potential safely and securely requires more than an incremental enhancement of existing cybersecurity practices. A Secure by Design approach represents the best pat..."
   }
 ]
