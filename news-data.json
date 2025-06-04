@@ -1,10 +1,59 @@
 [
   {
+    "title": "Attackers Impersonate Ruby Packages to Steal Sensitive Telegram Data",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-impersonate-ruby-packages-telegram-data",
+    "date": "2025-06-04T15:02:57.000Z",
+    "source": "Dark Reading",
+    "summary": "Malicious RubyGems pose as a legitimate plug-in for the popular Fastlane rapid development platform in a geopolitically motivated attack with global supply chain reach...."
+  },
+  {
+    "title": "Media giant Lee Enterprises says data breach affects 39,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/",
+    "date": "2025-06-04T14:30:14.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Publishing giant Lee Enterprises is notifying over 39,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]..."
+  },
+  {
+    "title": "Google: Hackers target Salesforce accounts in data extortion attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/",
+    "date": "2025-06-04T14:11:12.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Google has observed hackers claiming to be the ShinyHunters extortion group conducting social engineering attacks against multi-national companies to steal data from organizations' Salesforce platform..."
+  },
+  {
+    "title": "Kerberos AS-REP roasting attacks: What you need to know",
+    "link": "https://www.bleepingcomputer.com/news/security/kerberos-as-rep-roasting-attacks-what-you-need-to-know/",
+    "date": "2025-06-04T14:01:11.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Think your passwords are strong enough? AS-REP Roasting is back in the spotlight — and it's targeting weak spots in Active Directory. Learn more from Specops Software how attackers exploit missing Ker..."
+  },
+  {
+    "title": " Bybit reveals security overhaul in response to $1.4B hack ",
+    "link": "https://cointelegraph.com/news/bybit-announces-security-overhaul-in-response-to-1-4b-hack?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
+    "date": "2025-06-04T14:00:00.000Z",
+    "source": "Cointelegraph - Security",
+    "summary": "Bybit unveiled a major security overhaul following its $1.4 billion hack in February, with upgrades across audits, wallet protection and information security...."
+  },
+  {
+    "title": "Beware of Device Code Phishing",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/beware-device-code-phishing",
+    "date": "2025-06-04T14:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "Hackers are exploiting trusted authentication flows — like Microsoft Teams and IoT logins — to trick users into handing over access tokens, bypassing MFA and slipping undetected into corporate network..."
+  },
+  {
     "title": " $2.1B crypto stolen in 2025 as hackers shift focus from code to users: CertiK ",
     "link": "https://cointelegraph.com/news/2-1b-crypto-stolen-2025-hackers-human-psychology-certik?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
     "date": "2025-06-04T10:25:40.000Z",
     "source": "Cointelegraph - Security",
     "summary": "Hackers are moving from smart contract vulnerabilities to exploiting human behavioural weaknesses, according to the co-founder of Web3 cybersecurity firm CertiK...."
+  },
+  {
+    "title": "Hacker targets other hackers and gamers with backdoored GitHub code",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-targets-other-hackers-and-gamers-with-backdoored-github-code/",
+    "date": "2025-06-04T10:00:00.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A hacker targets other hackers, gamers, and researchers with exploits, bots, and game cheats in source code hosted on GitHub that contain hidden backdoors to give the threat actor remote access to inf..."
   },
   {
     "title": "How to Approach Security in the Era of AI Agents",
@@ -124,34 +173,6 @@
     "date": "2025-06-03T13:57:12.000Z",
     "source": "Bleeping Computer",
     "summary": "CISA is alerting federal agencies in the U.S. of hackers exploiting a recently patched ScreenConnect vulnerability that could lead to executing remote code on the server. [...]..."
-  },
-  {
-    "title": "Victoria’s Secret delays earnings release after security incident",
-    "link": "https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/",
-    "date": "2025-06-03T13:25:12.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Fashion retail giant Victoria's Secret has delayed its first quarter 2025 earnings release because of ongoing corporate system restoration efforts following a May 24 security incident. [...]..."
-  },
-  {
-    "title": "Google patches new Chrome zero-day bug exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/",
-    "date": "2025-06-03T10:22:52.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Google has released an emergency security update to fix the third Chrome zero-day vulnerability exploited in attacks since the start of the year. [...]..."
-  },
-  {
-    "title": "Android malware Crocodilus adds fake contacts to spoof trusted callers",
-    "link": "https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/",
-    "date": "2025-06-03T09:00:00.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The latest version of the 'Crocodilus' Android malware has introduced a new mechanism that adds a fake contact on the infected device's contact list to deceive victims. [...]..."
-  },
-  {
-    "title": "Cartier discloses data breach amid fashion brand cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cartier-discloses-data-breach-amid-fashion-brand-cyberattacks/",
-    "date": "2025-06-02T22:31:49.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Luxury fashion brand Cartier is warning customers it suffered a data breach that exposed customers' personal information after its systems were compromised. [...]..."
   },
   {
     "title": "Open-Weight Chinese AI Models Drive Privacy Innovation in LLMs",
@@ -397,26 +418,5 @@
     "date": "2025-05-28T18:00:00.000Z",
     "source": "Dark Reading",
     "summary": "Harnessing AI's full transformative potential safely and securely requires more than an incremental enhancement of existing cybersecurity practices. A Secure by Design approach represents the best pat..."
-  },
-  {
-    "title": " Coinbase data breach 2025: What was stolen and what you need to know ",
-    "link": "https://cointelegraph.com/explained/coinbase-data-breach-2025-what-was-stolen-and-what-you-need-to-know?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2025-05-28T16:35:00.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "A major Coinbase breach occurred in 2025 with insiders involved. Coinbase responded differently and the extortion failed...."
-  },
-  {
-    "title": "Cellcom Restores Regional Mobile Services After Cyberattack",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack",
-    "date": "2025-05-28T15:33:33.000Z",
-    "source": "Dark Reading",
-    "summary": "Customers in parts of Wisconsin and Michigan could not make calls or send text messages for nearly a week after an incident on May 14, and service is still intermittent in some areas...."
-  },
-  {
-    "title": " Elderly crypto investors are getting scammed: Teach them these key safety tips ",
-    "link": "https://cointelegraph.com/explained/elderly-crypto-investors-are-getting-scammed-teach-them-these-key-safety-tips?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2025-05-28T14:15:00.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "Seniors are increasingly targeted by crypto scams. Discover key safety tips to help loved ones stay secure in the digital currency world...."
   }
 ]
