@@ -1,5 +1,40 @@
 [
   {
+    "title": "Microsoft unveils free EU cybersecurity program for governments",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/",
+    "date": "2025-06-04T20:36:27.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft announced in Berlin today a new European Security Program that promises to bolster cybersecurity for European governments. [...]..."
+  },
+  {
+    "title": "Vishing Crew Targets Salesforce Data",
+    "link": "https://www.darkreading.com/application-security/vishing-crew-salesforce-data",
+    "date": "2025-06-04T20:18:05.000Z",
+    "source": "Dark Reading",
+    "summary": "A group Google is tracking as UNC6040 has been tricking users into installing a malicious version of a Salesforce app to gain access to and steal data from the platform...."
+  },
+  {
+    "title": "FBI: Play ransomware breached 900 victims, including critical orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/",
+    "date": "2025-06-04T20:06:14.000Z",
+    "source": "Bleeping Computer",
+    "summary": "In an update to a joint advisory with CISA and the Australian Cyber Security Centre, the FBI said that the Play ransomware gang had breached roughly 900 organizations as of May 2025, three times the n..."
+  },
+  {
+    "title": "Hacker arrested for breaching 5,000 hosting accounts to mine crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/",
+    "date": "2025-06-04T19:38:13.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The Ukrainian police arrested a 35-year-old hacker who breached 5,000 accounts at an international hosting company and used them to mine cryptocurrency, resulting in $4.5 million in damages. [...]..."
+  },
+  {
+    "title": "Cisco warns of ISE and CCP flaws with public exploit code",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/",
+    "date": "2025-06-04T19:19:16.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Cisco has released patches to address three vulnerabilities with public exploit code in its Identity Services Engine (ISE) and Customer Collaboration Platform (CCP) solutions. [...]..."
+  },
+  {
     "title": "Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker",
     "link": "https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/",
     "date": "2025-06-04T18:00:29.000Z",
@@ -133,13 +168,6 @@
     "summary": "ChatGPT's memory feature is now better and capable of referencing past conversations for free accounts. [...]..."
   },
   {
-    "title": "Hewlett Packard Enterprise warns of critical StoreOnce auth bypass",
-    "link": "https://www.bleepingcomputer.com/news/security/hewlett-packard-enterprise-warns-of-critical-storeonce-auth-bypass/",
-    "date": "2025-06-03T20:55:02.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Hewlett Packard Enterprise (HPE) has issued a security bulletin to warn about eight vulnerabilities impacting StoreOnce, its disk-based backup and deduplication solution. [...]..."
-  },
-  {
     "title": "Victoria's Secret Delays Earnings Call Due to Cyber Incident",
     "link": "https://www.darkreading.com/vulnerabilities-threats/victorias-secret-delays-earnings-cyber-incident",
     "date": "2025-06-03T20:00:17.000Z",
@@ -159,27 +187,6 @@
     "date": "2025-06-03T18:40:02.000Z",
     "source": "Dark Reading",
     "summary": "LummaC2 formerly accounted for almost 92% of Russian Market's credential theft log alerts. Now, the Acreed infostealer has replaced its market share...."
-  },
-  {
-    "title": "Coinbase breach tied to bribed TaskUs support agents in India",
-    "link": "https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/",
-    "date": "2025-06-03T17:17:52.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A recently disclosed data breach at Coinbase has been linked to India-based customer support representatives from outsourcing firm TaskUs, who threat actors bribed to steal data from the crypto exchan..."
-  },
-  {
-    "title": "Microsoft adds quick machine recovery to Windows 11 settings",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-quick-machine-recovery-to-windows-11-settings/",
-    "date": "2025-06-03T15:50:07.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft is testing a dedicated page in Windows Settings for quick machine recovery, which will provide users with additional configuration options. [...]..."
-  },
-  {
-    "title": "Malicious RubyGems pose as Fastlane to steal Telegram API data",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-rubygems-pose-as-fastlane-to-steal-telegram-api-data/",
-    "date": "2025-06-03T15:48:02.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Two malicious RubyGems packages posing as popular Fastlane CI/CD plugins redirect Telegram API requests to attacker-controlled servers to intercept and steal data. [...]..."
   },
   {
     "title": "Is Your CISO Navigating Your Flight Path?",
@@ -411,12 +418,5 @@
     "date": "2025-05-28T23:47:17.000Z",
     "source": "Dark Reading",
     "summary": "Researchers are using quantum computers to generate keys that are truly random to strengthen data encryption...."
-  },
-  {
-    "title": "Hundreds of Web Apps Have Full Access to Microsoft OneDrive Files",
-    "link": "https://www.darkreading.com/application-security/hundreds-web-apps-full-access-onedrive-files",
-    "date": "2025-05-28T21:36:00.000Z",
-    "source": "Dark Reading",
-    "summary": "Researchers at Oasis Security say the problem has to do with OneDrive File Picker having overly broad permissions...."
   }
 ]
