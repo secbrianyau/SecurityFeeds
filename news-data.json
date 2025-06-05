@@ -1,5 +1,40 @@
 [
   {
+    "title": "Digital Forensics Firm Cellebrite to Acquire Corellium",
+    "link": "https://www.darkreading.com/mobile-security/digital-forensics-firm-cellebrite-acquire-corellium",
+    "date": "2025-06-05T21:01:13.000Z",
+    "source": "Dark Reading",
+    "summary": "Cellebrite, a controversial digital forensics firm, is set to acquire virtualization vendor Corellium in a $170 million deal...."
+  },
+  {
+    "title": "Cisco Warns of Credential Vuln on AWS, Azure, Oracle Cloud",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability",
+    "date": "2025-06-05T20:29:49.000Z",
+    "source": "Dark Reading",
+    "summary": "The vulnerability, with a 9.9 CVSS score on a 10-point scale, results in different Cisco ISE deployments all sharing the same credentials as long as the software release and cloud platform remain the ..."
+  },
+  {
+    "title": "Backdoored Malware Reels in Newbie Cybercriminals",
+    "link": "https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals",
+    "date": "2025-06-05T18:27:05.000Z",
+    "source": "Dark Reading",
+    "summary": "Sophos researchers found this operation has similarities or connections to many other campaigns targeting GitHub repositories dating back to August 2022...."
+  },
+  {
+    "title": "Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers",
+    "link": "https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/",
+    "date": "2025-06-05T17:21:25.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A threat actor has re-released data from a 2021 AT&T breach affecting 70 million customers, this time combining previously separate files to directly link Social Security numbers and birth dates to in..."
+  },
+  {
+    "title": "Hacker selling critical Roundcube webmail exploit as tech info disclosed",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/",
+    "date": "2025-06-05T16:55:54.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Hackers are actively exploiting CVE-2025-49113, a critical vulnerability in the widely used Roundcube open-source webmail application that allows remote execution. [...]..."
+  },
+  {
     "title": " How $220M was stolen in minutes: Understanding the Cetus DEX exploit on Sui ",
     "link": "https://cointelegraph.com/explained/how-220m-was-stolen-in-minutes-understanding-the-cetus-dex-exploit-on-sui?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
     "date": "2025-06-05T15:15:00.000Z",
@@ -12,6 +47,13 @@
     "date": "2025-06-05T14:48:20.000Z",
     "source": "Dark Reading",
     "summary": "ConnectWise issued a patch to stave off attacks on ScreenConnect customers, but the company's disclosures don't explain what the vulnerability is and when it was first exploited...."
+  },
+  {
+    "title": "Designing a Windows Service for Security",
+    "link": "https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/",
+    "date": "2025-06-05T14:20:12.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Designing a security-focused Windows Service? Learn more from ThreatLocker about the core components for real-time monitoring, threat detection, and system hardening to defend against malware and rans..."
   },
   {
     "title": "Finding Balance in US AI Regulation",
@@ -84,13 +126,6 @@
     "summary": "Microsoft announced in Berlin today a new European Security Program that promises to bolster cybersecurity for European governments. [...]..."
   },
   {
-    "title": "Vishing Crew Targets Salesforce Data",
-    "link": "https://www.darkreading.com/application-security/vishing-crew-salesforce-data",
-    "date": "2025-06-04T20:18:05.000Z",
-    "source": "Dark Reading",
-    "summary": "A group Google is tracking as UNC6040 has been tricking users into installing a malicious version of a Salesforce app to gain access to and steal data from the platform...."
-  },
-  {
     "title": "FBI: Play ransomware breached 900 victims, including critical orgs",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/",
     "date": "2025-06-04T20:06:14.000Z",
@@ -103,6 +138,13 @@
     "date": "2025-06-04T19:38:13.000Z",
     "source": "Bleeping Computer",
     "summary": "The Ukrainian police arrested a 35-year-old hacker who breached 5,000 accounts at an international hosting company and used them to mine cryptocurrency, resulting in $4.5 million in damages. [...]..."
+  },
+  {
+    "title": "Vishing Crew Targets Salesforce Data",
+    "link": "https://www.darkreading.com/application-security/vishing-crew-targets-salesforce-data",
+    "date": "2025-06-04T19:29:15.000Z",
+    "source": "Dark Reading",
+    "summary": "A group that Google is tracking as UNC6040 has been tricking users at many organizations into installing a malicious version of a Salesforce app to gain access and steal data from the platform...."
   },
   {
     "title": "Cisco warns of ISE and CCP flaws with public exploit code",
@@ -140,32 +182,11 @@
     "summary": "Earlier today, law enforcement seized multiple domains of BidenCash, the infamous dark web market for stolen credit cards, personal information, and SSH access. [...]..."
   },
   {
-    "title": "FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/",
-    "date": "2025-06-04T16:37:33.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The FBI is warning about a new scam where cybercriminals exploit NFT airdrops on the Hedera Hashgraph network to steal crypto from cryptocurrency wallets. [...]..."
-  },
-  {
     "title": "Attackers Impersonate Ruby Packages to Steal Sensitive Telegram Data",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-impersonate-ruby-packages-telegram-data",
     "date": "2025-06-04T15:02:57.000Z",
     "source": "Dark Reading",
     "summary": "Malicious RubyGems pose as a legitimate plug-in for the popular Fastlane rapid development platform in a geopolitically motivated attack with global supply chain reach...."
-  },
-  {
-    "title": "Media giant Lee Enterprises says data breach affects 39,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/",
-    "date": "2025-06-04T14:30:14.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Publishing giant Lee Enterprises is notifying nearly 40,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]..."
-  },
-  {
-    "title": "Google: Hackers target Salesforce accounts in data extortion attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/",
-    "date": "2025-06-04T14:11:12.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Google has observed hackers claiming to be the ShinyHunters extortion group conducting social engineering attacks against multi-national companies to steal data from organizations' Salesforce platform..."
   },
   {
     "title": " Bybit reveals security overhaul in response to $1.4B hack ",
@@ -397,26 +418,5 @@
     "date": "2025-05-29T20:49:09.000Z",
     "source": "Dark Reading",
     "summary": "Thousands of ASUS routers have been infected and are believed to be part of a wide-ranging ORB network affecting devices from Linksys, D-Link, QNAP, and Araknis Network...."
-  },
-  {
-    "title": "SentinelOne Reports Services Are Back Online After Global Outage",
-    "link": "https://www.darkreading.com/endpoint-security/sentinelone-reports-services-back-online-after-global-outage",
-    "date": "2025-05-29T20:35:37.000Z",
-    "source": "Dark Reading",
-    "summary": "The outage reportedly hit 10 commercial customer consoles for SentinelOne's Singularity platform, including Singularity Endpoint, XDR, Cloud Security, Identity, Data Lake, RemoteOps, and more...."
-  },
-  {
-    "title": "Zscaler's Buyout of Red Canary Shows Telemetry's Value",
-    "link": "https://www.darkreading.com/cybersecurity-operations/zscaler-buyout-red-canary-telemetrys-value",
-    "date": "2025-05-29T20:18:00.000Z",
-    "source": "Dark Reading",
-    "summary": "Red Canary's MDR portfolio complements Zscaler's purchase last year of Israeli startup Avalor, which automates collection, curation, and enrichment of security data...."
-  },
-  {
-    "title": "APT41 Uses Google Calendar Events for C2",
-    "link": "https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2",
-    "date": "2025-05-29T20:10:15.000Z",
-    "source": "Dark Reading",
-    "summary": "APT41, a Chinese state-sponsored threat actor also known as \"Double Dragon,\" used Google Calendar as command-and-control infrastructure during a campaign last fall...."
   }
 ]

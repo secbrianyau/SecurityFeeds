@@ -9,12 +9,67 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Jun 2025 15:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 21:16:38 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Jun 2025 15:19:11 GMT</pubDate>
+        <pubDate>Thu, 05 Jun 2025 21:16:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading</comment>
+        <item>
+            <title><![CDATA[Digital Forensics Firm Cellebrite to Acquire Corellium]]></title>
+            <description><![CDATA[Cellebrite, a controversial digital forensics firm, is set to acquire virtualization vendor Corellium in a $170 million deal....]]></description>
+            <link>https://www.darkreading.com/mobile-security/digital-forensics-firm-cellebrite-acquire-corellium</link>
+            <guid isPermaLink="false">https://www.darkreading.com/mobile-security/digital-forensics-firm-cellebrite-acquire-corellium</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 05 Jun 2025 21:01:13 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cisco Warns of Credential Vuln on AWS, Azure, Oracle Cloud]]></title>
+            <description><![CDATA[The vulnerability, with a 9.9 CVSS score on a 10-point scale, results in different Cisco ISE deployments all sharing the same credentials as long as the software release and cloud platform remain the ...]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 05 Jun 2025 20:29:49 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Backdoored Malware Reels in Newbie Cybercriminals]]></title>
+            <description><![CDATA[Sophos researchers found this operation has similarities or connections to many other campaigns targeting GitHub repositories dating back to August 2022....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 05 Jun 2025 18:27:05 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers]]></title>
+            <description><![CDATA[A threat actor has re-released data from a 2021 AT&T breach affecting 70 million customers, this time combining previously separate files to directly link Social Security numbers and birth dates to in...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 05 Jun 2025 17:21:25 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hacker selling critical Roundcube webmail exploit as tech info disclosed]]></title>
+            <description><![CDATA[Hackers are actively exploiting CVE-2025-49113, a critical vulnerability in the widely used Roundcube open-source webmail application that allows remote execution. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 05 Jun 2025 16:55:54 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-05</dc:date>
+        </item>
         <item>
             <title><![CDATA[ How $220M was stolen in minutes: Understanding the Cetus DEX exploit on Sui ]]></title>
             <description><![CDATA[The Cetus DEX exploit on Sui drained $220 million in minutes. The hacker took advantage of an undetected bug in the math library of the protocol to siphon off the funds....]]></description>
@@ -35,6 +90,17 @@
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 05 Jun 2025 14:48:20 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Designing a Windows Service for Security]]></title>
+            <description><![CDATA[Designing a security-focused Windows Service? Learn more from ThreatLocker about the core components for real-time monitoring, threat detection, and system hardening to defend against malware and rans...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/designing-a-windows-service-for-security/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 05 Jun 2025 14:20:12 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-06-05</dc:date>
         </item>
         <item>
@@ -148,17 +214,6 @@
             <dc:date>2025-06-04</dc:date>
         </item>
         <item>
-            <title><![CDATA[Vishing Crew Targets Salesforce Data]]></title>
-            <description><![CDATA[A group Google is tracking as UNC6040 has been tricking users into installing a malicious version of a Salesforce app to gain access to and steal data from the platform....]]></description>
-            <link>https://www.darkreading.com/application-security/vishing-crew-salesforce-data</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/vishing-crew-salesforce-data</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 04 Jun 2025 20:18:05 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-04</dc:date>
-        </item>
-        <item>
             <title><![CDATA[FBI: Play ransomware breached 900 victims, including critical orgs]]></title>
             <description><![CDATA[In an update to a joint advisory with CISA and the Australian Cyber Security Centre, the FBI said that the Play ransomware gang had breached roughly 900 organizations as of May 2025, three times the n...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/</link>
@@ -178,6 +233,17 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Wed, 04 Jun 2025 19:38:13 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Vishing Crew Targets Salesforce Data]]></title>
+            <description><![CDATA[A group that Google is tracking as UNC6040 has been tricking users at many organizations into installing a malicious version of a Salesforce app to gain access and steal data from the platform....]]></description>
+            <link>https://www.darkreading.com/application-security/vishing-crew-targets-salesforce-data</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/vishing-crew-targets-salesforce-data</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 04 Jun 2025 19:29:15 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2025-06-04</dc:date>
         </item>
         <item>
@@ -236,17 +302,6 @@
             <dc:date>2025-06-04</dc:date>
         </item>
         <item>
-            <title><![CDATA[FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets]]></title>
-            <description><![CDATA[The FBI is warning about a new scam where cybercriminals exploit NFT airdrops on the Hedera Hashgraph network to steal crypto from cryptocurrency wallets. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 04 Jun 2025 16:37:33 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-04</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Attackers Impersonate Ruby Packages to Steal Sensitive Telegram Data]]></title>
             <description><![CDATA[Malicious RubyGems pose as a legitimate plug-in for the popular Fastlane rapid development platform in a geopolitically motivated attack with global supply chain reach....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-impersonate-ruby-packages-telegram-data</link>
@@ -255,28 +310,6 @@
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 04 Jun 2025 15:02:57 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Media giant Lee Enterprises says data breach affects 39,000 people]]></title>
-            <description><![CDATA[Publishing giant Lee Enterprises is notifying nearly 40,000 people whose personal information was stolen in a February 2025 ransomware attack. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 04 Jun 2025 14:30:14 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Google: Hackers target Salesforce accounts in data extortion attacks]]></title>
-            <description><![CDATA[Google has observed hackers claiming to be the ShinyHunters extortion group conducting social engineering attacks against multi-national companies to steal data from organizations' Salesforce platform...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 04 Jun 2025 14:11:12 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-06-04</dc:date>
         </item>
         <item>
@@ -639,39 +672,6 @@
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 29 May 2025 20:49:09 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[SentinelOne Reports Services Are Back Online After Global Outage]]></title>
-            <description><![CDATA[The outage reportedly hit 10 commercial customer consoles for SentinelOne's Singularity platform, including Singularity Endpoint, XDR, Cloud Security, Identity, Data Lake, RemoteOps, and more....]]></description>
-            <link>https://www.darkreading.com/endpoint-security/sentinelone-reports-services-back-online-after-global-outage</link>
-            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/sentinelone-reports-services-back-online-after-global-outage</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 20:35:37 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Zscaler's Buyout of Red Canary Shows Telemetry's Value]]></title>
-            <description><![CDATA[Red Canary's MDR portfolio complements Zscaler's purchase last year of Israeli startup Avalor, which automates collection, curation, and enrichment of security data....]]></description>
-            <link>https://www.darkreading.com/cybersecurity-operations/zscaler-buyout-red-canary-telemetrys-value</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/zscaler-buyout-red-canary-telemetrys-value</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 20:18:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-05-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[APT41 Uses Google Calendar Events for C2]]></title>
-            <description><![CDATA[APT41, a Chinese state-sponsored threat actor also known as "Double Dragon," used Google Calendar as command-and-control infrastructure during a campaign last fall....]]></description>
-            <link>https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2</link>
-            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 29 May 2025 20:10:15 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-05-29</dc:date>
         </item>
