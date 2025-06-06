@@ -23,6 +23,30 @@
       "url": "https://www.darkreading.com/rss.xml",
       "type": "rss",
       "enabled": true
+    },
+    {
+      "name": "Blockthreat",
+      "url": "https://newsletter.blockthreat.io/feed",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "CryptoPotato",
+      "url": "https://cryptopotato.com/feed/",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "Krebs On Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "type": "rss",
+      "enabled": true
     }
   ],
   "settings": {
