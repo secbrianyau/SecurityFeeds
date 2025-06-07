@@ -1,5 +1,26 @@
 [
   {
+    "title": "Coinbase CEO says unnecessary account restrictions has reduced by 82%",
+    "link": "https://cryptoslate.com/coinbase-ceo-says-unnecessary-account-restrictions-has-reduced-by-82/",
+    "date": "2025-06-07T19:57:59.000Z",
+    "source": "CryptoSlate",
+    "summary": "Brian Armstrong, CEO of Coinbase, said in an X post on Friday that the platform has reduced the issue of unnecessary account freezes and restrictions by 82% so far. Noting that unnecessary account fre..."
+  },
+  {
+    "title": "Supply chain attack hits Gluestack NPM packages with 960K weekly downloads",
+    "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/",
+    "date": "2025-06-07T19:31:21.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A significant supply chain attack hit NPM after 15 popular Gluestack packages with over 950,000 weekly downloads were compromised to include malicious code that acts as a remote access trojan (RAT). [..."
+  },
+  {
+    "title": "$2.1B Stolen in 2025: Wallet Compromises Eclipse All Other Crypto Attack Vectors",
+    "link": "https://cryptopotato.com/2-1b-stolen-in-2025-wallet-compromises-eclipse-all-other-crypto-attack-vectors/",
+    "date": "2025-06-07T18:27:15.000Z",
+    "source": "CryptoPotato",
+    "summary": "In May alone, crypto attacks caused $140.1 million losses, including $8.5 million from wallet drains and $47.6 million via phishing...."
+  },
+  {
     "title": "The future of crypto belongs to communities—treasury governance will get us there",
     "link": "https://cryptoslate.com/the-future-of-crypto-belongs-to-communities-treasury-governance-will-get-us-there/",
     "date": "2025-06-07T16:00:30.000Z",
@@ -12,6 +33,13 @@
     "date": "2025-06-07T15:15:06.000Z",
     "source": "CryptoPotato",
     "summary": "Crypto tracing firm Chainalysis and on-chain sleuth ZachXBT both concluded the donation's origin pointed to the defunct AlphaBay marketplace...."
+  },
+  {
+    "title": "Malicious npm packages posing as utilities delete project directories",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/",
+    "date": "2025-06-07T14:11:21.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Two malicious packages have been discovered in the npm JavaScript package index, which masquerades as useful utilities but, in reality, are destructive data wipers that delete entire application direc..."
   },
   {
     "title": " Here’s what happened in crypto today ",
@@ -147,13 +175,6 @@
     "summary": "Gemini confidentially filed a draft registration statement with the US Securities and Exchange Commission (SEC) for an initial public offering (IPO) of Class A common stock, according to a June 6 stat..."
   },
   {
-    "title": "X and Polymarket partner up to bring decentralized prediction markets to social media",
-    "link": "https://cryptoslate.com/x-and-polymarket-partner-up-to-bring-decentralized-prediction-markets-to-social-media/",
-    "date": "2025-06-06T17:41:19.000Z",
-    "source": "CryptoSlate",
-    "summary": "Polymarket, the decentralized prediction platform known for its election forecasting accuracy, has been named the official prediction market partner of X, the social media company owned by Elon Musk. ..."
-  },
-  {
     "title": "F5 Acquires Agentic AI Security Startup Fletch",
     "link": "https://www.darkreading.com/application-security/f5-acquires-agentic-ai-security-startup-fletch",
     "date": "2025-06-06T17:38:08.000Z",
@@ -187,13 +208,6 @@
     "date": "2025-06-06T17:05:31.000Z",
     "source": "Dark Reading",
     "summary": "During \"CISO: The Worst Job I Ever Wanted,\" several chief information security officers reveal how difficult it is to be in a role that, despite being around for decades, remains undefined...."
-  },
-  {
-    "title": "Uber Eyes Cost Efficiency Through Stablecoin Payments, Enters ‘Study’ Phase",
-    "link": "https://cryptopotato.com/uber-eyes-cost-efficiency-through-stablecoin-payments-enters-study-phase/",
-    "date": "2025-06-06T17:03:08.000Z",
-    "source": "CryptoPotato",
-    "summary": "Uber CEO Dara Khosrowshahi called stablecoins \"super interesting.\"..."
   },
   {
     "title": "Kettering Health confirms Interlock ransomware behind cyberattack",
@@ -322,13 +336,6 @@
     "summary": "A threat actor has re-released data from a 2021 AT&T breach affecting 70 million customers, this time combining previously separate files to directly link Social Security numbers and birth dates to in..."
   },
   {
-    "title": "Hacker selling critical Roundcube webmail exploit as tech info disclosed",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/",
-    "date": "2025-06-05T16:55:54.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Hackers are actively exploiting CVE-2025-49113, a critical vulnerability in the widely used Roundcube open-source webmail application that allows remote execution. [...]..."
-  },
-  {
     "title": " How $220M was stolen in minutes: Understanding the Cetus DEX exploit on Sui ",
     "link": "https://cointelegraph.com/explained/how-220m-was-stolen-in-minutes-understanding-the-cetus-dex-exploit-on-sui?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
     "date": "2025-06-05T15:15:00.000Z",
@@ -343,13 +350,6 @@
     "summary": "ConnectWise issued a patch to stave off attacks on ScreenConnect customers, but the company's disclosures don't explain what the vulnerability is and when it was first exploited...."
   },
   {
-    "title": "How to build a robust Windows service to block malware and ransomware",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-build-a-robust-windows-service-to-block-malware-and-ransomware/",
-    "date": "2025-06-05T14:20:12.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Designing a security-focused Windows Service? Learn more from ThreatLocker about the core components for real-time monitoring, threat detection, and system hardening to defend against malware and rans..."
-  },
-  {
     "title": "Finding Balance in US AI Regulation",
     "link": "https://www.darkreading.com/vulnerabilities-threats/finding-balance-us-ai-regulation",
     "date": "2025-06-05T14:00:00.000Z",
@@ -362,13 +362,6 @@
     "date": "2025-06-05T13:18:51.000Z",
     "source": "Cointelegraph - Security",
     "summary": "Safe, formerly Gnosis Safe, has launched a subsidiary called Safe Labs to develop enterprise-grade self-custody solutions based on its smart contract wallet infrastructure...."
-  },
-  {
-    "title": "Germany fines Vodafone $51 million for privacy, security breaches",
-    "link": "https://www.bleepingcomputer.com/news/security/germany-fines-vodafone-51-million-for-privacy-security-breaches/",
-    "date": "2025-06-05T11:29:18.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The German data protection authority (BfDI) has fined Vodafone GmbH, the telecommunications company's German subsidiary, €45 million ($51.4 million) for privacy and security violations. [...]..."
   },
   {
     "title": "Iranian APT 'BladedFeline' Hides in Network for 8 Years",
@@ -418,5 +411,12 @@
     "date": "2025-06-04T17:30:13.000Z",
     "source": "Dark Reading",
     "summary": "An international group of researchers found that simply rerecording deepfake audio with natural acoustics in the background allows it to bypass detection models at a higher-than-expected rate...."
+  },
+  {
+    "title": "Attackers Impersonate Ruby Packages to Steal Sensitive Telegram Data",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-impersonate-ruby-packages-telegram-data",
+    "date": "2025-06-04T15:02:57.000Z",
+    "source": "Dark Reading",
+    "summary": "Malicious RubyGems pose as a legitimate plug-in for the popular Fastlane rapid development platform in a geopolitically motivated attack with global supply chain reach...."
   }
 ]
