@@ -53,10 +53,16 @@
       "url": "https://rssfilter.com/6172c931-48ab-404e-9be0-fc164ba7804a/",
       "type": "rss",
       "enabled": true
+    },
+    {
+      "name": "Coindesk",
+      "url": "https://coindesk.com/arc/outboundfeeds/rss",
+      "type": "rss",
+      "enabled": true
     }
   ],
   "settings": {
-    "maxNewsItems": 60,
-    "lastUpdated": "2025-06-09T06:27:52.803Z"
+    "maxNewsItems": 80,
+    "lastUpdated": "2025-06-09T03:50:29.232Z"
   }
 }
