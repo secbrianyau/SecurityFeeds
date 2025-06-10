@@ -9,12 +9,134 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Jun 2025 18:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 21:17:03 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Jun 2025 18:25:19 GMT</pubDate>
+        <pubDate>Tue, 10 Jun 2025 21:17:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk</comment>
+        <item>
+            <title><![CDATA[Ethereum Foundation releases first 1TS outlining roadmap to tackle security challenges]]></title>
+            <description><![CDATA[The Ethereum Foundation has released the first report in its most comprehensive security initiative to date, which maps the critical risks Ethereum (ETH) must address to support trillions in global on...]]></description>
+            <link>https://cryptoslate.com/ethereum-foundation-releases-first-1ts-outlining-roadmap-to-tackle-security-challenges/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/ethereum-foundation-releases-first-1ts-outlining-roadmap-to-tackle-security-challenges/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 21:15:36 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[PoC Code Escalates Roundcube Vuln Threat]]></title>
+            <description><![CDATA[The flaw allows an authenticated attacker to gain complete control over a Roundcube webmail server....]]></description>
+            <link>https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 20:52:42 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SEC reportedly fast-tracks Solana ETFs: potential approval arrives within 5 weeks]]></title>
+            <description><![CDATA[The US Securities and Exchange Commission (SEC) asked would-be Solana exchange-traded fund (ETF) sponsors to file amended S-1 Forms within a week, Blockworks reported on June 10, citing three people f...]]></description>
+            <link>https://cryptoslate.com/sec-reportedly-fast-tracks-solana-etfs-potential-approval-arrives-within-5-weeks/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/sec-reportedly-fast-tracks-solana-etfs-potential-approval-arrives-within-5-weeks/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 20:28:33 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New Secure Boot flaw lets attackers install bootkit malware, patch now]]></title>
+            <description><![CDATA[Security researchers have disclosed a new Secure Boot bypass tracked as CVE-2025-3052 that can be used to turn off security on PCs and servers and install bootkit malware. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-secure-boot-flaw-lets-attackers-install-bootkit-malware-patch-now/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 20:02:19 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[High Fees, Big Wallets, but Real Momentum: The Plasma ICO Explained]]></title>
+            <description><![CDATA[Santiment believes that Plasma's sale is a marker of maturity in crypto, contrasting today's investors with the hype-chasers of previous cycles....]]></description>
+            <link>https://cryptopotato.com/high-fees-big-wallets-but-real-momentum-the-plasma-ico-explained/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/high-fees-big-wallets-but-real-momentum-the-plasma-ico-explained/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 19:49:28 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Solana's SOL Jumps 5% on Report of Spot ETF Development]]></title>
+            <description><![CDATA[The SEC asked prospective ETF issuers to amend key paperwork, Blockworks reported....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/10/solanas-sol-jumps-5-on-report-of-spot-etf-development</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/10/solanas-sol-jumps-5-on-report-of-spot-etf-development</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 19:33:55 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Fortune 500 blockchain adoption hits 60% as institutions inject $50B into crypto funds in Q1]]></title>
+            <description><![CDATA[Fortune 500 companies and global asset managers continued to expand blockchain activity and allocations during the first half of 2025, according to Coinbase’s latest State of Crypto report. Six in ten...]]></description>
+            <link>https://cryptoslate.com/fortune-500-blockchain-adoption-hits-60-as-institutions-inject-50b-into-crypto-funds-in-q1/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/fortune-500-blockchain-adoption-hits-60-as-institutions-inject-50b-into-crypto-funds-in-q1/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 19:16:17 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ether Roars Past $2,700; Popular Trader Declares ‘Beast Mode’]]></title>
+            <description><![CDATA[A 6.54% rally lifted ether above $2,700 on heavy volume as traders and executives forecast further upside toward $4,000....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/10/ether-roars-past-usd2-700-popular-trader-declares-beast-mode</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/10/ether-roars-past-usd2-700-popular-trader-declares-beast-mode</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 19:14:59 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Red Canary Expands AI Innovations to Cut Alert Overload]]></title>
+            <description><![CDATA[No summary available]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/red-canary-expands-ai-innovations-to-cut-alert-overload</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/red-canary-expands-ai-innovations-to-cut-alert-overload</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 18:41:07 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[GitHub: How Code Provenance Can Prevent Supply Chain Attacks]]></title>
+            <description><![CDATA[Through artifact attestation and the SLSA framework, GitHub's Jennifer Schelkopf argues that at least some supply chain attacks can be stopped in their tracks....]]></description>
+            <link>https://www.darkreading.com/application-security/github-code-provenance-supply-chain-attacks</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/github-code-provenance-supply-chain-attacks</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 18:38:16 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Adobe Releases Patch Fixing 254 Vulnerabilities, Closing High-Severity Security Gaps]]></title>
+            <description><![CDATA[Adobe on Tuesday pushed security updates to address a total of 254 security flaws impacting its software products, a majority of which affect Experience Manager (AEM).
+Of the 254 flaws, 225 reside in ...]]></description>
+            <link>https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/06/adobe-releases-patch-fixing-254.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 18:29:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
         <item>
             <title><![CDATA[Blockchain Group wins approval for $11B raise to execute aggressive Bitcoin acquisitions]]></title>
             <description><![CDATA[The Blockchain Group on June 10 won shareholder approval to raise more than €10 billion ($11 billion) for additional Bitcoin (BTC) purchases effective immediately, formalizing a proposal first aired o...]]></description>
@@ -35,6 +157,17 @@
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Tue, 10 Jun 2025 18:07:03 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Researchers Uncover 20+ Configuration Risks, Including Five CVEs, in Salesforce Industry Cloud]]></title>
+            <description><![CDATA[Cybersecurity researchers have uncovered over 20 configuration-related risks affecting Salesforce Industry Cloud (aka Salesforce Industries), exposing sensitive data to unauthorized internal and exter...]]></description>
+            <link>https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/06/researchers-uncover-20-configuration.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 18:04:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
@@ -533,17 +666,6 @@
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[MEET48 Officially Announces TGE and $IDOL Listing on Binance Alpha, Bitget, Gate, MEXC, and PancakeSwap on June 11]]></title>
-            <description><![CDATA[[PRESS RELEASE – Dubai, UAE, June 10th, 2025] On June 10, MEET48 — the world’s first Web3.0 AI-Agent and AIUGC creator & fan economy entertainment community — announced it will officially launch its T...]]></description>
-            <link>https://cryptopotato.com/meet48-officially-announces-tge-and-idol-listing-on-binance-alpha-bitget-gate-mexc-and-pancakeswap-on-june-11/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/meet48-officially-announces-tge-and-idol-listing-on-binance-alpha-bitget-gate-mexc-and-pancakeswap-on-june-11/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 12:22:14 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ethereum Advocate William Mougayar to Lead Ecosystem's New Profile-Raising Initiative]]></title>
             <description><![CDATA[The Ethereum Market Research Centre (EMRC) is a community-led initiative aimed at bridging the education gap for institutional and professional audiences....]]></description>
             <link>https://www.coindesk.com/business/2025/06/10/ethereum-market-research-centre-introduced-by-eth-o-g-william-mougayar</link>
@@ -610,17 +732,6 @@
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[World Liberty Financial taps Aave for $7.5 million USDT loan – Onchain Lens]]></title>
-            <description><![CDATA[World Liberty Financial (WLFI), a DeFi venture linked to US President Donald Trump, has drawn a $7.5 million USDT loan through the Aave lending platform. On June 10, blockchain analytics firm Onchain ...]]></description>
-            <link>https://cryptoslate.com/world-liberty-financial-taps-aave-for-7-5-million-usdt-loan-onchain-lens/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/world-liberty-financial-taps-aave-for-7-5-million-usdt-loan-onchain-lens/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 10:53:31 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Guggenheim Treasury Services to Issue Digital Commercial Paper on the XRP Ledger]]></title>
             <description><![CDATA[With over $280 million of volume to date, the Zeconomy-powered DCP marks the first native issuance of digital commercial paper on the XRP Ledger....]]></description>
             <link>https://www.coindesk.com/markets/2025/06/10/guggenheim-treasury-services-taps-zeconomy-to-issue-digital-commercial-paper-on-the-xrp-ledger</link>
@@ -655,17 +766,6 @@ The issue,...]]></description>
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Average US house prices fall 99% in a decade when priced in Bitcoin]]></title>
-            <description><![CDATA[Two new Coinbase ads recently hit U.S. screens, reviving crypto’s populist pitch at a time when inflation is stubborn, Bitcoin is soaring, and Americans are once again talking about “building.” One sp...]]></description>
-            <link>https://cryptoslate.com/average-us-house-prices-fall-99-in-a-decade-when-priced-in-bitcoin/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/average-us-house-prices-fall-99-in-a-decade-when-priced-in-bitcoin/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 09:46:02 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Strategy Shifts Capital Raise to Preferred Stocks as Common Share Issuance Loses Allure]]></title>
             <description><![CDATA[Sales of STRK and STRF preferred shares allow Strategy to fund bitcoin purchases without diluting common shareholders....]]></description>
             <link>https://www.coindesk.com/markets/2025/06/10/strategy-shifts-capital-raise-to-preferred-stocks-as-common-share-issuance-loses-allure</link>
@@ -673,39 +773,6 @@ The issue,...]]></description>
             <category><![CDATA[Coindesk]]></category>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Tue, 10 Jun 2025 09:23:26 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ripple partners with APAC universities in AI and decentralized systems with $5 million funding]]></title>
-            <description><![CDATA[Ripple is scaling up its global blockchain education efforts with a fresh commitment of more than $5 million in funding to universities across the Asia-Pacific (APAC) region, according to a June 10 st...]]></description>
-            <link>https://cryptoslate.com/ripple-partners-with-apac-universities-in-ai-and-decentralized-systems-with-5-million-funding/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ripple-partners-with-apac-universities-in-ai-and-decentralized-systems-with-5-million-funding/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 09:21:14 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Riot Sells $1.58M of Bitfarms Shares as Part of Investment Review]]></title>
-            <description><![CDATA[U.S.-based miner retains over 14% ownership after open market sales....]]></description>
-            <link>https://www.coindesk.com/business/2025/06/10/riot-sells-usd1-58m-of-bitfarms-shares-as-part-of-investment-review</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/06/10/riot-sells-usd1-58m-of-bitfarms-shares-as-part-of-investment-review</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 08:55:34 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[SocGen’s Crypto Arm Unveils Dollar Stablecoin on Ethereum and Solana]]></title>
-            <description><![CDATA[SG Forge’s USD CoinVertible has Bank of New York Mellon acting as reserve custodian for the token....]]></description>
-            <link>https://www.coindesk.com/business/2025/06/10/socgen-s-crypto-arm-unveils-dollar-stablecoin-on-ethereum-and-solana</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/06/10/socgen-s-crypto-arm-unveils-dollar-stablecoin-on-ethereum-and-solana</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 08:30:17 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
             <dc:date>2025-06-10</dc:date>
         </item>
@@ -787,17 +854,6 @@ The issue,...]]></description>
             <dc:date>2025-06-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[Over 84,000 Roundcube instances vulnerable to actively exploited flaw]]></title>
-            <description><![CDATA[Over 84,000 instances of the Roundcube webmail software are vulnerable to CVE-2025-49113, a critical remote code execution (RCE) vulnerability with a publicly available exploit. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 20:14:16 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[SIEMs Missing the Mark on MITRE ATT&amp;CK Techniques]]></title>
             <description><![CDATA[CardinalOps' report shows that organizations are struggling to keep up with the evolution of the latest threats while a significant number of detection rules remain non-functional....]]></description>
             <link>https://www.darkreading.com/cybersecurity-operations/siems-missing-mark-mitre-techniques</link>
@@ -839,63 +895,6 @@ The issue,...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 09 Jun 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ Australia unmasks $123M crypto laundering ring behind security firm ]]></title>
-            <description><![CDATA[A multi-agency investigation traced illicit funds to a suspected $123 million crypto laundering operation hiding behind a security company....]]></description>
-            <link>https://cointelegraph.com/news/australia-crypto-laundering-ring-security-firm?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
-            <guid isPermaLink="false">https://cointelegraph.com/news/australia-crypto-laundering-ring-security-firm?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
-            <category><![CDATA[Cointelegraph - Security]]></category>
-            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 13:14:55 GMT</pubDate>
-            <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[China-Backed Hackers Target SentinelOne in 'PurpleHaze' Attack Spree]]></title>
-            <description><![CDATA[Known threat groups APT15 and UNC5174 unleashed attacks against SentinelOne and more than 70 other high-value targets, as part of ongoing cyber-espionage and other malicious activity involving ShadowP...]]></description>
-            <link>https://www.darkreading.com/remote-workforce/china-hackers-target-sentinelone-purplehaze-attack</link>
-            <guid isPermaLink="false">https://www.darkreading.com/remote-workforce/china-hackers-target-sentinelone-purplehaze-attack</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 11:46:59 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[⚡ Weekly Recap: Chrome 0-Day, Data Wipers, Misused Tools and Zero-Click iPhone Attacks]]></title>
-            <description><![CDATA[Behind every security alert is a bigger story. Sometimes it’s a system being tested. Sometimes it’s trust being lost in quiet ways—through delays, odd behavior, or subtle gaps in control.
-This week, w...]]></description>
-            <link>https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 11:20:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Think Your IdP or CASB Covers Shadow IT? These 5 Risks Prove Otherwise]]></title>
-            <description><![CDATA[You don’t need a rogue employee to suffer a breach.
-All it takes is a free trial that someone forgot to cancel. An AI-powered note-taker quietly syncing with your Google Drive. A personal Gmail accoun...]]></description>
-            <link>https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/06/think-your-idp-or-casb-covers-shadow-it.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 11:00:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI Bans ChatGPT Accounts Used by Russian, Iranian, and Chinese Hacker Groups]]></title>
-            <description><![CDATA[OpenAI has revealed that it banned a set of ChatGPT accounts that were likely operated by Russian-speaking threat actors and two Chinese nation-state hacking groups to assist with malware development,...]]></description>
-            <link>https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/06/openai-bans-chatgpt-accounts-used-by.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 06:45:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-06-09</dc:date>
         </item>
     </channel>
