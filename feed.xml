@@ -9,12 +9,243 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Jun 2025 12:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 15:19:57 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Jun 2025 12:37:33 GMT</pubDate>
+        <pubDate>Tue, 10 Jun 2025 15:19:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk</comment>
+        <item>
+            <title><![CDATA[Massive Heroku outage impacts web platforms worldwide]]></title>
+            <description><![CDATA[Heroku is suffering a widespread outage that has lasted over six hours, preventing developers from logging into the platform and breaking website functionality. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:51:47 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[South Korea's Ruling Party Wants to Allow Companies to Issue Stablecoins: Bloomberg]]></title>
+            <description><![CDATA[Under a proposed law, companies would be able issue their own tokens provided they meet equity capital requirements and can guarantee refunds through reserves....]]></description>
+            <link>https://www.coindesk.com/policy/2025/06/10/south-koreas-ruling-party-wants-to-allow-companies-to-issue-stablecoins-bloomberg</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/06/10/south-koreas-ruling-party-wants-to-allow-companies-to-issue-stablecoins-bloomberg</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:47:45 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ How hackers use fake X links to steal crypto, and how to spot them ]]></title>
+            <description><![CDATA[Cybercriminals hijack or impersonate trusted X accounts to post phishing links that lead users to fake sites or malicious smart contracts designed to steal crypto....]]></description>
+            <link>https://cointelegraph.com/explained/how-hackers-use-fake-x-links-to-steal-crypto-and-how-to-spot-them?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/explained/how-hackers-use-fake-x-links-to-steal-crypto-and-how-to-spot-them?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:45:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Growing Stacks of Bitcoin Long-Term Holders Signals Bullish Outlook]]></title>
+            <description><![CDATA[As the bitcoin counts of long-term holders has increased, that of short-term holders has fallen....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/10/growing-stacks-of-bitcoin-long-term-holders-signals-bullish-outlook</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/10/growing-stacks-of-bitcoin-long-term-holders-signals-bullish-outlook</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:36:23 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[80% of CME crypto futures expire by August]]></title>
+            <description><![CDATA[CME’s Bitcoin futures and options structure has become increasingly condensed and cautious, with the vast majority of notional exposure now expiring within the next four weeks. At the same time, the a...]]></description>
+            <link>https://cryptoslate.com/80-of-cme-crypto-futures-expire-by-august/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/80-of-cme-crypto-futures-expire-by-august/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:34:46 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Poisoned npm Packages Disguised as Utilities Aim for System Wipeout]]></title>
+            <description><![CDATA[Backdoors lurking in legitimate-looking code contain file-deletion commands that can destroy production systems and cause massive disruptions to software supply chains....]]></description>
+            <link>https://www.darkreading.com/application-security/poisoned-npm-packages-disguised-utilities-system-wipeout</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/poisoned-npm-packages-disguised-utilities-system-wipeout</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:15:29 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Here’s what happened in crypto today ]]></title>
+            <description><![CDATA[Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation....]]></description>
+            <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:13:17 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[AI is a data-breach time bomb, reveals new report]]></title>
+            <description><![CDATA[AI acts like Pac-Man—devouring sensitive data across clouds, apps, and copilots. Varonis analyzed 1,000 orgs and found 99% have exposed data AI can access, exposing them to data risks. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:02:20 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SSH Keys: The Most Powerful Credential You're Probably Ignoring]]></title>
+            <description><![CDATA[SSH keys enable critical system access but often lack proper management. This security blind spot creates significant risk through untracked, unrotated credentials that persist across your infrastruct...]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/ssh-keys-powerful-credential-ignoring</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/ssh-keys-powerful-credential-ignoring</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 14:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[XRP’s Biggest Obstacles Revealed as Breakout Attempt Begins: Ripple Price Analysis]]></title>
+            <description><![CDATA[Ripple’s price is compressed between major moving averages, signaling a buildup for a potential breakout. Watch for a decisive move above $2.35, which could unleash strong bullish momentum toward $2.5...]]></description>
+            <link>https://cryptopotato.com/xrps-biggest-obstacles-revealed-as-breakout-attempt-begins-ripple-price-analysis/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/xrps-biggest-obstacles-revealed-as-breakout-attempt-begins-ripple-price-analysis/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:33:08 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI working to fix ChatGPT outage affecting users worldwide]]></title>
+            <description><![CDATA[OpenAI is working to fix an ongoing outage impacting ChatGPT users worldwide and preventing them from accessing the chatbot on the web or via mobile and desktop apps. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:22:59 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Analyst Predicts $3,500 Target for ETH as $2,800 Resistance Looms]]></title>
+            <description><![CDATA[Ethereum trades near $2,800, which is considered a the key breakout level that could lead to $3,500....]]></description>
+            <link>https://cryptopotato.com/analyst-predicts-3500-target-for-eth-as-2800-resistance-looms/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/analyst-predicts-3500-target-for-eth-as-2800-resistance-looms/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:20:38 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: Is BTC Ready to Break its All-Time High?]]></title>
+            <description><![CDATA[Bitcoin remains technically bullish, with strong buyer interest evident after the recent liquidity sweep around the $100K mark. A breakout above $111K would likely trigger aggressive upside continuati...]]></description>
+            <link>https://cryptopotato.com/bitcoin-price-analysis-is-btc-ready-to-break-its-all-time-high/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-price-analysis-is-btc-ready-to-break-its-all-time-high/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:15:15 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Mosaic Alpha Lists Kodexa Utility Token on MEXC]]></title>
+            <description><![CDATA[[PRESS RELEASE – Budapest, Hungary, June 10th, 2025] Mosaic Galaxy announced the official listing of Kodexa (KDX), the native utility token for its Mosaic Alpha platform, on MEXC Global, a leading cen...]]></description>
+            <link>https://cryptopotato.com/mosaic-alpha-lists-kodexa-utility-token-on-mexc/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/mosaic-alpha-lists-kodexa-utility-token-on-mexc/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:15:00 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CoinDesk 20 Performance Update: Uniswap (UNI) Surges 21.6% as Index Climbs Higher ]]></title>
+            <description><![CDATA[Aave (AAVE) was also among the top performers, rising 17% from Monday....]]></description>
+            <link>https://www.coindesk.com/coindesk-indices/2025/06/10/coindesk-20-performance-update-uniswap-uni-surges-21-6-as-index-climbs-higher</link>
+            <guid isPermaLink="false">https://www.coindesk.com/coindesk-indices/2025/06/10/coindesk-20-performance-update-uniswap-uni-surges-21-6-as-index-climbs-higher</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:12:36 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple’s (XRP) Next Leg Up Will Be ‘Brutal:’ Is $10 Possible?]]></title>
+            <description><![CDATA[Can XRP's price surge by 340%?...]]></description>
+            <link>https://cryptopotato.com/ripples-xrp-next-leg-up-will-be-brutal-is-10-possible/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripples-xrp-next-leg-up-will-be-brutal-is-10-possible/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:04:25 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Polkadot's DOT Surges More Than 6% as Bitcoin Breaks $109K Barrier]]></title>
+            <description><![CDATA[The token closed above the $4.10 resistance level, suggesting further upside....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/10/polkadots-dot-surges-more-than-6-as-bitcoin-breaks-109k-barrier</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/10/polkadots-dot-surges-more-than-6-as-bitcoin-breaks-109k-barrier</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:04:20 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Initiatives Have Been Adopted by 60% of Fortune 500 Companies: Coinbase Survey]]></title>
+            <description><![CDATA[The crypto exchange surveyed Fortune 500 company execs and decision makers at small and medium-sized firms in the U.S. to assess crypto adoption trends....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/10/blockchain-initiatives-have-been-adopted-by-60-of-fortune-500-companies-coinbase-survey</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/10/blockchain-initiatives-have-been-adopted-by-60-of-fortune-500-companies-coinbase-survey</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 13:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Major Shiba Inu (SHIB) Indicator Hits a New ATH: Details Here]]></title>
+            <description><![CDATA[Despite the record, SHIB's price remains far from its historical peak....]]></description>
+            <link>https://cryptopotato.com/major-shiba-inu-shib-indicator-hits-a-new-ath-details-here/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/major-shiba-inu-shib-indicator-hits-a-new-ath-details-here/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 12:53:02 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cardano launches Cardinal to fuse Bitcoin liquidity with DeFi ecosystem]]></title>
+            <description><![CDATA[Cardano has taken a new step in bridging the gap between Bitcoin and decentralized finance by launching Cardinal. This protocol allows the top blockchain network to interact with Cardano’s DeFi ecosys...]]></description>
+            <link>https://cryptoslate.com/cardano-launches-cardinal-to-fuse-bitcoin-liquidity-with-defi-ecosystem/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/cardano-launches-cardinal-to-fuse-bitcoin-liquidity-with-defi-ecosystem/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 12:41:42 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Staked ETH hits new all-time high, capturing 28% of total Ethereum supply amid 9% price surge]]></title>
+            <description><![CDATA[Staked ETH has reached a new all-time high of 34,824,875 ETH. The total represents 28.15% of the Ethereum supply now locked in staking contracts. The validator count stands at 1,088,277, and staking a...]]></description>
+            <link>https://cryptoslate.com/insights/staked-eth-hits-new-all-time-high-capturing-28-of-total-ethereum-supply-amid-9-price-surge/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/insights/staked-eth-hits-new-all-time-high-capturing-28-of-total-ethereum-supply-amid-9-price-surge/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 12:38:09 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-06-10</dc:date>
+        </item>
         <item>
             <title><![CDATA[MEET48 Officially Announces TGE and $IDOL Listing on Binance Alpha, Bitget, Gate, MEXC, and PancakeSwap on June 11]]></title>
             <description><![CDATA[[PRESS RELEASE – Dubai, UAE, June 10th, 2025] On June 10, MEET48 — the world’s first Web3.0 AI-Agent and AIUGC creator & fan economy entertainment community — announced it will officially launch its T...]]></description>
@@ -60,8 +291,8 @@
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[ 87 deepfake scam rings taken down across Asia in Q1 2025: Bitget report ]]></title>
-            <description><![CDATA[The Bitget report highlights the severity of deepfake scams, urging both individuals and organizations to adopt more stringent preventive measures....]]></description>
+            <title><![CDATA[ 87 deepfake scam rings taken down across Asia in Q1 2025: Report ]]></title>
+            <description><![CDATA[A new report from Bitget, SlowMist and Elliptic highlights the severity of deepfake scams, urging both individuals and organizations to adopt more stringent preventive measures....]]></description>
             <link>https://cointelegraph.com/news/bitget-deepfake-scam-rings-crackdown-asia-q1-2025?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
             <guid isPermaLink="false">https://cointelegraph.com/news/bitget-deepfake-scam-rings-crackdown-asia-q1-2025?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
             <category><![CDATA[Cointelegraph - Security]]></category>
@@ -137,14 +368,14 @@
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Hyperliquid’s HYPE Surges to New ATH as Whales Continue to Accumulate]]></title>
-            <description><![CDATA[HYPE token shot past $40 after whale scoops $9.976M worth, fueling a surge to a fresh all-time high....]]></description>
-            <link>https://cryptopotato.com/hyperliquids-hype-surges-to-new-ath-as-whales-continue-to-accumulate/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/hyperliquids-hype-surges-to-new-ath-as-whales-continue-to-accumulate/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 10:36:20 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
+            <title><![CDATA[Guggenheim Treasury Services to Issue Digital Commercial Paper on the XRP Ledger]]></title>
+            <description><![CDATA[With over $280 million of volume to date, the Zeconomy-powered DCP marks the first native issuance of digital commercial paper on the XRP Ledger....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/10/guggenheim-treasury-services-taps-zeconomy-to-issue-digital-commercial-paper-on-the-xrp-ledger</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/10/guggenheim-treasury-services-taps-zeconomy-to-issue-digital-commercial-paper-on-the-xrp-ledger</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 10 Jun 2025 10:47:16 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
@@ -204,17 +435,6 @@ The issue,...]]></description>
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Why Is Grant Cardone’s Twin Brother Comparing Ripple (XRP) to Covid-19?]]></title>
-            <description><![CDATA[Gary Cardone recently said he sold off his entire XRP portfolio....]]></description>
-            <link>https://cryptopotato.com/why-is-grant-cardones-twin-brother-comparing-ripple-xrp-to-covid-19/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/why-is-grant-cardones-twin-brother-comparing-ripple-xrp-to-covid-19/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 09:16:08 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Riot Sells $1.58M of Bitfarms Shares as Part of Investment Review]]></title>
             <description><![CDATA[U.S.-based miner retains over 14% ownership after open market sales....]]></description>
             <link>https://www.coindesk.com/business/2025/06/10/riot-sells-usd1-58m-of-bitfarms-shares-as-part-of-investment-review</link>
@@ -226,17 +446,6 @@ The issue,...]]></description>
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Hits 2 Week High, Fartcoin Explodes 18% Daily (Market Watch)]]></title>
-            <description><![CDATA[WIF follows suit in terms of daily gains....]]></description>
-            <link>https://cryptopotato.com/bitcoin-hits-2-week-high-fartcoin-explodes-18-daily-market-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-hits-2-week-high-fartcoin-explodes-18-daily-market-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 08:48:57 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[SocGen’s Crypto Arm Unveils Dollar Stablecoin on Ethereum and Solana]]></title>
             <description><![CDATA[SG Forge’s USD CoinVertible has Bank of New York Mellon acting as reserve custodian for the token....]]></description>
             <link>https://www.coindesk.com/business/2025/06/10/socgen-s-crypto-arm-unveils-dollar-stablecoin-on-ethereum-and-solana</link>
@@ -245,17 +454,6 @@ The issue,...]]></description>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Tue, 10 Jun 2025 08:30:17 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BlackRock’s IBIT Becomes Fastest ETF to Hit $70B AUM as Flows Turn Positive]]></title>
-            <description><![CDATA[The BlackRock spot Bitcoin exchange-traded fund has just hit a milestone in terms of assets under management....]]></description>
-            <link>https://cryptopotato.com/blackrocks-ibit-becomes-fastest-etf-to-hit-70b-aum-as-flows-turn-positive/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/blackrocks-ibit-becomes-fastest-etf-to-hit-70b-aum-as-flows-turn-positive/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 08:27:00 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
@@ -278,28 +476,6 @@ The issue,...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Tue, 10 Jun 2025 05:37:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[SEC Chair Touts American DeFi Revolution as ETH Prices Pump 8% ]]></title>
-            <description><![CDATA[The United States Securities and Exchange Commission has made a complete 180 turn on decentralized finance, which is very good for Ethereum....]]></description>
-            <link>https://cryptopotato.com/sec-chair-touts-american-defi-revolution-as-eth-prices-pump-8/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/sec-chair-touts-american-defi-revolution-as-eth-prices-pump-8/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 05:26:31 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-06-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Signs of Accumulation Emerge as Bitcoin (BTC) Shipped to $110K]]></title>
-            <description><![CDATA[From Binance trading activity to long-term holding metrics, Bitcoin's fundamentals are gearing up for a potential upward breakout....]]></description>
-            <link>https://cryptopotato.com/signs-of-accumulation-emerge-as-bitcoin-btc-shipped-to-110k/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/signs-of-accumulation-emerge-as-bitcoin-btc-shipped-to-110k/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 04:48:57 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-06-10</dc:date>
         </item>
         <item>
@@ -347,28 +523,6 @@ The issue,...]]></description>
             <dc:date>2025-06-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[ Here’s what happened in crypto today ]]></title>
-            <description><![CDATA[Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation....]]></description>
-            <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
-            <guid isPermaLink="false">https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
-            <category><![CDATA[Cointelegraph - Security]]></category>
-            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 22:11:14 GMT</pubDate>
-            <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ProShares, Bitwise race to launch CRCL ETFs, targeting August debut amid stock price surge]]></title>
-            <description><![CDATA[ProShares Trust and Bitwise each filed preliminary prospectuses with the Securities and Exchange Commission (SEC) on June 6 for exchange-traded funds (ETF) designed to track Circle’s CRCL shares. The ...]]></description>
-            <link>https://cryptoslate.com/proshares-bitwise-race-to-launch-crcl-etfs-targeting-august-debut-amid-stock-price-surge/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/proshares-bitwise-race-to-launch-crcl-etfs-targeting-august-debut-amid-stock-price-surge/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 21:45:52 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[New Trump Cybersecurity Order Reverses Biden, Obama Priorities]]></title>
             <description><![CDATA[The White House put limits on cyber sanctions, killed the digital ID program, and refocused the government's cyber activities to enabling AI, rolling out post-quantum cryptography, and promoting secur...]]></description>
             <link>https://www.darkreading.com/cybersecurity-operations/trump-cybersecurity-order-reverses-biden-obama-priorities</link>
@@ -413,17 +567,6 @@ The issue,...]]></description>
             <dc:date>2025-06-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[BiT Global drops Coinbase lawsuit over wrapped Bitcoin delisting]]></title>
-            <description><![CDATA[BiT Global, a crypto custody firm tied to entrepreneur Justin Sun, has voluntarily dismissed its lawsuit against Coinbase over the delisting of Wrapped Bitcoin (WBTC). The move ends a months-long lega...]]></description>
-            <link>https://cryptoslate.com/bit-global-drops-coinbase-lawsuit-over-wrapped-bitcoin-delisting/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bit-global-drops-coinbase-lawsuit-over-wrapped-bitcoin-delisting/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 21:15:04 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Aptos' APT Gains 4% on Significant Volume, Has More Potential Upside]]></title>
             <description><![CDATA[Support at $4.84 held through subsequent retests suggesting potential continuation of the uptrend....]]></description>
             <link>https://www.coindesk.com/markets/2025/06/09/aptos-apt-gains-4-on-significant-volume-has-more-potential-upside</link>
@@ -454,17 +597,6 @@ The issue,...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 09 Jun 2025 20:36:33 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BlackRock’s IBIT rockets to $70B in 341 days, 5x faster than previous record]]></title>
-            <description><![CDATA[BlackRock’s iShares Bitcoin Trust (IBIT) exchange-traded fund (ETF) crossed $70 billion in assets under management (AUM) on June 6, being the fastest to reach this mark in just 341 trading days.  Bloo...]]></description>
-            <link>https://cryptoslate.com/blackrocks-ibit-rockets-to-70b-in-341-days-5x-faster-than-previous-record/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/blackrocks-ibit-rockets-to-70b-in-341-days-5x-faster-than-previous-record/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 20:30:06 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-06-09</dc:date>
         </item>
         <item>
@@ -633,50 +765,6 @@ The issue,...]]></description>
             <dc:date>2025-06-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[KULR Plans to Raise Up to $300M to Fuel Bitcoin Purchases ]]></title>
-            <description><![CDATA[The energy-management firm will fund additional bitcoin purchases, working capital and R&D with the “at the market” share sales....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/09/kulr-plans-to-raise-up-to-300m-to-fuel-bitcoin-purchases</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/09/kulr-plans-to-raise-up-to-300m-to-fuel-bitcoin-purchases</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 15:31:07 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[TON Surges 2.7% on Massive Volume Before Sharp Reversal]]></title>
-            <description><![CDATA[The Telegram token found critical support on the short-term at the $3.20 level....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/09/ton-surges-27-on-massive-volume-before-sharp-reversal</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/09/ton-surges-27-on-massive-volume-before-sharp-reversal</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 15:11:31 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[SUI Surges 5% on Triple Volume Breakout Amid Trade Talks Between U.S. and China]]></title>
-            <description><![CDATA[The Sui blockchain token is seeing new support levels as as delegations from the U.S. and China meet in London....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/09/sui-surges-5-on-triple-volume-breakout-amid-trade-talks-between-u-s-and-china</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/09/sui-surges-5-on-triple-volume-breakout-amid-trade-talks-between-u-s-and-china</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 15:08:27 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Circle Goes Full Circle]]></title>
-            <description><![CDATA[Circle's IPO last week was validation for stablecoins, but the business model carries interest rate risks, says CoinDesk Indices' Andy Baehr....]]></description>
-            <link>https://www.coindesk.com/opinion/2025/06/09/circle-goes-full-circle</link>
-            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/06/09/circle-goes-full-circle</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 14:55:39 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks]]></title>
             <description><![CDATA[A now-patched critical security flaw in the Wazur Server is being exploited by threat actors to drop two different Mirai botnet variants and use them to conduct distributed denial-of-service (DDoS) at...]]></description>
             <link>https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html</link>
@@ -688,18 +776,7 @@ The issue,...]]></description>
             <dc:date>2025-06-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[Can Crypto Unlock the Vibe Launch?]]></title>
-            <description><![CDATA[The vibe coder heralds an era of software development that is democratized and near-effortless. It also means a big role for crypto, says Ivo Entchev....]]></description>
-            <link>https://www.coindesk.com/opinion/2025/06/09/can-crypto-unlock-the-vibe-launch</link>
-            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/06/09/can-crypto-unlock-the-vibe-launch</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 14:32:08 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Designing Blue Team playbooks with Wazuh for proactive incident response]]></title>
+            <title><![CDATA[Designing Blue Team playbooks with Wazuh for proactive cyber defense]]></title>
             <description><![CDATA[Blue Team playbooks are essential—but tools like Wazuh take them to the next level. From credential dumping to web shells and brute-force attacks, see how Wazuh strengthens real-time detection and aut...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/</link>
             <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/</guid>
@@ -707,17 +784,6 @@ The issue,...]]></description>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Mon, 09 Jun 2025 14:27:02 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[The End of Bitcoin Maximalism]]></title>
-            <description><![CDATA[“The idea that one coin must dominate all others ignores the power of collaboration and innovation,” says Jeff Garzik, a co-founder of Hemi Labs and an original Bitcoin developer....]]></description>
-            <link>https://www.coindesk.com/opinion/2025/06/09/the-end-of-bitcoin-maximalism</link>
-            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/06/09/the-end-of-bitcoin-maximalism</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 09 Jun 2025 14:22:51 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-06-09</dc:date>
         </item>
         <item>
@@ -831,72 +897,6 @@ All it takes is a free trial that someone forgot to cancel. An AI-powered note-t
             <pubDate>Sun, 08 Jun 2025 10:56:00 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
             <dc:date>2025-06-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025]]></title>
-            <description><![CDATA[Cybersecurity researchers have shed light on a new campaign targeting Brazilian users since the start of 2025 to infect users with a malicious extension for Chromium-based web browsers and siphon user...]]></description>
-            <link>https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Sun, 08 Jun 2025 08:01:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-06-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Malware found in NPM packages with 1 million weekly downloads]]></title>
-            <description><![CDATA[A significant supply chain attack hit NPM after 15 popular Gluestack packages with over 950,000 weekly downloads were compromised to include malicious code that acts as a remote access trojan (RAT). [...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 07 Jun 2025 19:31:21 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Malicious npm packages posing as utilities delete project directories]]></title>
-            <description><![CDATA[Two malicious packages have been discovered in the npm JavaScript package index, which masquerades as useful utilities but, in reality, are destructive data wipers that delete entire application direc...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 07 Jun 2025 14:11:21 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ Bitcoin DeFi platform Alex Protocol loses $8.3M to exploit ]]></title>
-            <description><![CDATA[Alex Lab Foundation said it will fully reimburse users affected by the $8.3 million exploit, with compensation issued in USDC following a structured claims process....]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-defi-platform-alex-protocol-loses-8-3m-to-exploit?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
-            <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-defi-platform-alex-protocol-loses-8-3m-to-exploit?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
-            <category><![CDATA[Cointelegraph - Security]]></category>
-            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
-            <pubDate>Sat, 07 Jun 2025 12:21:35 GMT</pubDate>
-            <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-06-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Cutting-Edge ClickFix Tactics Snowball, Pushing Phishing Forward]]></title>
-            <description><![CDATA[Several widespread ClickFix campaigns are underway, bent on delivering malware to business targets, and they represent a new level of phishing sophistication that defenders need to be prepared for, re...]]></description>
-            <link>https://www.darkreading.com/remote-workforce/cutting-edge-clickfix-snowball-phishing</link>
-            <guid isPermaLink="false">https://www.darkreading.com/remote-workforce/cutting-edge-clickfix-snowball-phishing</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 06 Jun 2025 20:07:51 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[F5 Acquires Agentic AI Security Startup Fletch]]></title>
-            <description><![CDATA[Agentic AI technology will be integrated into the recently launched F5 Application Delivery and Security Platform....]]></description>
-            <link>https://www.darkreading.com/application-security/f5-acquires-agentic-ai-security-startup-fletch</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/f5-acquires-agentic-ai-security-startup-fletch</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 06 Jun 2025 17:38:08 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-06</dc:date>
         </item>
     </channel>
 </rss>
