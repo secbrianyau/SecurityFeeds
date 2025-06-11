@@ -1,5 +1,68 @@
 [
   {
+    "title": "Patch Tuesday, June 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/",
+    "date": "2025-06-11T00:10:53.000Z",
+    "source": "Krebs On Security",
+    "summary": "Microsoft today released security updates to fix at least 67 vulnerabilities in its Windows operating systems and software. Redmond warns that one of the flaws is already under active attack, and that..."
+  },
+  {
+    "title": " Here’s what happened in crypto today ",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
+    "date": "2025-06-10T22:37:45.000Z",
+    "source": "Cointelegraph - Security",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation...."
+  },
+  {
+    "title": " Ethereum Foundation highlights UX, social layer as security ‘challenges’ ",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-security-report-ux-social-layer-risks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
+    "date": "2025-06-10T22:24:31.000Z",
+    "source": "Cointelegraph - Security",
+    "summary": "According to the Ethereum Foundation, “a significant burden of security” still falls on users of digital assets...."
+  },
+  {
+    "title": "Societe Generale’s Crypto Arm Unveils USD-Pegged Stablecoin on Ethereum and Solana",
+    "link": "https://cryptopotato.com/societe-generales-crypto-arm-unveils-usd-pegged-stablecoin-on-ethereum-and-solana/",
+    "date": "2025-06-10T22:05:07.000Z",
+    "source": "CryptoPotato",
+    "summary": "The USD-pegged USDCV follows the euro-based EURCV, expanding SG-FORGE's regulated stablecoin offerings for institutional and retail investors...."
+  },
+  {
+    "title": "Trump's CFTC Pick Says U.S. Can Boost Crypto Innovation and Shield Consumers",
+    "link": "https://www.coindesk.com/policy/2025/06/10/trump-s-cftc-pick-says-u-s-can-boost-crypto-innovation-and-shield-consumers",
+    "date": "2025-06-10T22:04:18.000Z",
+    "source": "Coindesk",
+    "summary": "Brian Quintenz told senators at his confirmation hearing for CFTC chairman that Congress needs to ensure \"full promise\" of digital assets' potential...."
+  },
+  {
+    "title": "Bitcoin holding $100k psychological floor amid recent dip signals robust investor sentiment",
+    "link": "https://cryptoslate.com/bitcoin-holding-100k-psychological-floor-amid-recent-dip-signals-robust-investor-sentiment/",
+    "date": "2025-06-10T22:00:09.000Z",
+    "source": "CryptoSlate",
+    "summary": "On-chain data shows that Bitcoin’s (BTC) brief slide to $100,000 strengthened rather than weakened market structure, Glassnode said in a June 10 report. Bitcoin is currently trading at $109,500, after..."
+  },
+  {
+    "title": "Stealth Falcon APT Exploits Microsoft RCE Zero-Day in Mideast",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/stealth-falcon-apt-exploits-microsoft-rce-zero-day-mideast",
+    "date": "2025-06-10T21:56:46.000Z",
+    "source": "Dark Reading",
+    "summary": "The bug is one of 66 disclosed and patched today by Microsoft as part of its June 2025 Patch Tuesday set of security vulnerability fixes...."
+  },
+  {
+    "title": "DanaBot malware operators exposed via C2 bug added in 2022",
+    "link": "https://www.bleepingcomputer.com/news/security/danabot-malware-operators-exposed-via-c2-bug-added-in-2022/",
+    "date": "2025-06-10T21:46:49.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A vulnerability in the DanaBot malware operation introduced in June 2022 update led to the identification, indictment, and dismantling of their operations in a recent law enforcement action. [...]..."
+  },
+  {
+    "title": "ConnectWise rotating code signing certificates over security concerns",
+    "link": "https://www.bleepingcomputer.com/news/security/connectwise-rotating-code-signing-certificates-over-security-concerns/",
+    "date": "2025-06-10T21:17:53.000Z",
+    "source": "Bleeping Computer",
+    "summary": "ConnectWise is warning customers that it is rotating the digital code signing certificates used to sign ScreenConnect, ConnectWise Automate, and ConnectWise RMM executables over security concerns. [....."
+  },
+  {
     "title": "Ethereum Foundation releases first 1TS outlining roadmap to tackle security challenges",
     "link": "https://cryptoslate.com/ethereum-foundation-releases-first-1ts-outlining-roadmap-to-tackle-security-challenges/",
     "date": "2025-06-10T21:15:36.000Z",
@@ -7,11 +70,25 @@
     "summary": "The Ethereum Foundation has released the first report in its most comprehensive security initiative to date, which maps the critical risks Ethereum (ETH) must address to support trillions in global on..."
   },
   {
+    "title": "Bitcoin Rises to $110K as Altcoins Rally; Traders Skeptical of Breakout",
+    "link": "https://www.coindesk.com/markets/2025/06/10/bitcoin-rises-to-110k-as-altcoins-rally-traders-skeptical-of-breakout",
+    "date": "2025-06-10T20:59:16.000Z",
+    "source": "Coindesk",
+    "summary": "Positioning across crypto markets doesn't suggest a top, but neither does it seem ideal for continued rally...."
+  },
+  {
     "title": "PoC Code Escalates Roundcube Vuln Threat",
     "link": "https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat",
     "date": "2025-06-10T20:52:42.000Z",
     "source": "Dark Reading",
     "summary": "The flaw allows an authenticated attacker to gain complete control over a Roundcube webmail server...."
+  },
+  {
+    "title": "Aptos' APT Rallies 4% Following Bullish Breakout on High Volume",
+    "link": "https://www.coindesk.com/markets/2025/06/10/aptos-apt-rallies-4-following-bullish-breakout-on-high-volume",
+    "date": "2025-06-10T20:52:07.000Z",
+    "source": "Coindesk",
+    "summary": "The token broke through the psychological $5 resistance level on significant trading volume...."
   },
   {
     "title": "SEC reportedly fast-tracks Solana ETFs: potential approval arrives within 5 weeks",
@@ -308,13 +385,6 @@
     "summary": "Backdoors lurking in legitimate-looking code contain file-deletion commands that can destroy production systems and cause massive disruptions to software supply chains...."
   },
   {
-    "title": " Here’s what happened in crypto today ",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2025-06-10T14:13:17.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation...."
-  },
-  {
     "title": "AI is a data-breach time bomb, reveals new report",
     "link": "https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/",
     "date": "2025-06-10T14:02:20.000Z",
@@ -392,13 +462,6 @@
     "summary": "The crypto exchange surveyed Fortune 500 company execs and decision makers at small and medium-sized firms in the U.S. to assess crypto adoption trends...."
   },
   {
-    "title": "Major Shiba Inu (SHIB) Indicator Hits a New ATH: Details Here",
-    "link": "https://cryptopotato.com/major-shiba-inu-shib-indicator-hits-a-new-ath-details-here/",
-    "date": "2025-06-10T12:53:02.000Z",
-    "source": "CryptoPotato",
-    "summary": "Despite the record, SHIB's price remains far from its historical peak...."
-  },
-  {
     "title": "Cardano launches Cardinal to fuse Bitcoin liquidity with DeFi ecosystem",
     "link": "https://cryptoslate.com/cardano-launches-cardinal-to-fuse-bitcoin-liquidity-with-defi-ecosystem/",
     "date": "2025-06-10T12:41:42.000Z",
@@ -448,20 +511,6 @@
     "summary": "Your day-ahead look for June 10, 2025..."
   },
   {
-    "title": "Solana snaps out of June slump with a 9% spike",
-    "link": "https://cryptoslate.com/insights/solana-snaps-out-of-june-slump-with-a-9-spike/",
-    "date": "2025-06-10T11:10:51.000Z",
-    "source": "CryptoSlate",
-    "summary": "Solana rallied from $147.99 to $161.21 in the four days ending June 10. The move contrasts with the trend seen over the previous 30 days, where SOL slipped by nearly 2% as volatile macroeconomic condi..."
-  },
-  {
-    "title": "Guggenheim Treasury Services to Issue Digital Commercial Paper on the XRP Ledger",
-    "link": "https://www.coindesk.com/markets/2025/06/10/guggenheim-treasury-services-taps-zeconomy-to-issue-digital-commercial-paper-on-the-xrp-ledger",
-    "date": "2025-06-10T10:47:16.000Z",
-    "source": "Coindesk",
-    "summary": "With over $280 million of volume to date, the Zeconomy-powered DCP marks the first native issuance of digital commercial paper on the XRP Ledger...."
-  },
-  {
     "title": "Researcher Found Flaw to Discover Phone Numbers Linked to Any Google Account",
     "link": "https://thehackernews.com/2025/06/researcher-found-flaw-to-discover-phone.html",
     "date": "2025-06-10T10:11:00.000Z",
@@ -469,32 +518,11 @@
     "summary": "Google has stepped in to address a security flaw that could have made it possible to brute-force an account's recovery phone number, potentially exposing them to privacy and security risks.\nThe issue,..."
   },
   {
-    "title": "What Next as Ether Zooms 7%, DOGE Leads Majors Gains Amid Bitcoin Euphoria",
-    "link": "https://www.coindesk.com/markets/2025/06/10/what-next-as-ether-zooms-7-doge-leads-majors-gains-amid-bitcoin-euphoria",
-    "date": "2025-06-10T09:57:48.000Z",
-    "source": "Coindesk",
-    "summary": "Bitcoin’s climb above $109,000 set the stage for broad-based gains in altcoins, with traders eyeing key inflation data later this week...."
-  },
-  {
-    "title": "Strategy Shifts Capital Raise to Preferred Stocks as Common Share Issuance Loses Allure",
-    "link": "https://www.coindesk.com/markets/2025/06/10/strategy-shifts-capital-raise-to-preferred-stocks-as-common-share-issuance-loses-allure",
-    "date": "2025-06-10T09:23:26.000Z",
-    "source": "Coindesk",
-    "summary": "Sales of STRK and STRF preferred shares allow Strategy to fund bitcoin purchases without diluting common shareholders...."
-  },
-  {
     "title": "CISA Adds Erlang SSH and Roundcube Flaws to Known Exploited Vulnerabilities Catalog",
     "link": "https://thehackernews.com/2025/06/cisa-adds-erlang-ssh-and-roundcube.html",
     "date": "2025-06-10T05:37:00.000Z",
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two critical security flaws impacting Erlang/Open Telecom Platform (OTP) SSH and Roundcube to its Known Exploited Vulne..."
-  },
-  {
-    "title": "Stolen Ticketmaster data from Snowflake attacks briefly for sale again",
-    "link": "https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/",
-    "date": "2025-06-09T22:31:18.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The Arkana Security extortion gang briefly listed over the weekend what appeared to be newly stolen Ticketmaster data but is instead the data stolen during the 2024 Snowflake data theft attacks. [...]..."
   },
   {
     "title": "New Trump Cybersecurity Order Reverses Biden, Obama Priorities",
@@ -530,33 +558,5 @@
     "date": "2025-06-09T20:36:33.000Z",
     "source": "Dark Reading",
     "summary": "During the opening keynote at Gartner Security & Risk Management Summit 2025, analysts weighed in on how CISOs and security teams can use security fervor around AI and other tech to the betterment of ..."
-  },
-  {
-    "title": "SIEMs Missing the Mark on MITRE ATT&amp;CK Techniques",
-    "link": "https://www.darkreading.com/cybersecurity-operations/siems-missing-mark-mitre-techniques",
-    "date": "2025-06-09T19:17:10.000Z",
-    "source": "Dark Reading",
-    "summary": "CardinalOps' report shows that organizations are struggling to keep up with the evolution of the latest threats while a significant number of detection rules remain non-functional...."
-  },
-  {
-    "title": "Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks",
-    "link": "https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html",
-    "date": "2025-06-09T14:46:00.000Z",
-    "source": "The Hacker News",
-    "summary": "A now-patched critical security flaw in the Wazur Server is being exploited by threat actors to drop two different Mirai botnet variants and use them to conduct distributed denial-of-service (DDoS) at..."
-  },
-  {
-    "title": " A crypto scam that doesn’t need private keys: How does zero-value transfer work? ",
-    "link": "https://cointelegraph.com/explained/a-crypto-scam-that-doesnt-need-private-keys-how-does-zero-value-transfer-work?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2025-06-09T14:15:00.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "A crypto investor lost $2.6 million in hours, falling victim to a zero-value transfer scam, a type of address poisoning scam...."
-  },
-  {
-    "title": "Next-Gen Developers Are a Cybersecurity Powder Keg",
-    "link": "https://www.darkreading.com/application-security/next-gen-developers-cybersecurity-powder-keg",
-    "date": "2025-06-09T14:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "AI coding tools promise productivity but deliver security problems, too. As developers embrace \"vibe coding,\" enterprises face mounting risks from insecure code generation that security teams can't ke..."
   }
 ]
