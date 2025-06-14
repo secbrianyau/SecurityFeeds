@@ -9,12 +9,24 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Jun 2025 01:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jun 2025 03:42:10 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Jun 2025 01:21:47 GMT</pubDate>
+        <pubDate>Sat, 14 Jun 2025 03:42:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk</comment>
+        <item>
+            <title><![CDATA[Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets]]></title>
+            <description><![CDATA[A new malware campaign is exploiting a weakness in Discord's invitation system to deliver an information stealer called Skuld and the AsyncRAT remote access trojan.
+"Attackers hijacked the links throu...]]></description>
+            <link>https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Sat, 14 Jun 2025 02:45:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-06-14</dc:date>
+        </item>
         <item>
             <title><![CDATA[Bitcoin holds steady at $105k despite escalating tensions between Iran, Israel]]></title>
             <description><![CDATA[Bitcoin (BTC) remained near the $105,000 mark on June 13, a sign of relative resilience following a sharp dip triggered by escalating conflict between Israel and Iran. As of press time, Bitcoin was tr...]]></description>
@@ -883,17 +895,6 @@ The vulnerability, t...]]></description>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 11 Jun 2025 21:10:09 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Agentic AI Takes Over Gartner's SRM Summit]]></title>
-            <description><![CDATA[Agentic AI was everywhere at Gartner's Security & Risk Management Summit in Washington, DC, this year, as the AI security product engine chugs ahead at full speed....]]></description>
-            <link>https://www.darkreading.com/cloud-security/agentic-ai-gartner-srm-summit</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/agentic-ai-gartner-srm-summit</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 11 Jun 2025 19:48:07 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-06-11</dc:date>
         </item>
