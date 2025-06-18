@@ -59,6 +59,12 @@
       "url": "https://coindesk.com/arc/outboundfeeds/rss",
       "type": "rss",
       "enabled": true
+    },
+    {
+      "name": "GroupIB Blog",
+      "url": "https://group-ib.com/feed/blogfeed",
+      "type": "rss",
+      "enabled": true
     }
   ],
   "settings": {
