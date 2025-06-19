@@ -9,12 +9,45 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 03:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 06:26:49 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jun 2025 03:46:51 GMT</pubDate>
+        <pubDate>Thu, 19 Jun 2025 06:26:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog</comment>
+        <item>
+            <title><![CDATA[Ryuk ransomware’s initial access expert extradited to the U.S.]]></title>
+            <description><![CDATA[A member of the notorious Ryuk ransomware operation who specialized in gaining initial access to corporate networks has been extradited to the United States. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 19 Jun 2025 06:05:35 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Iran-Israel War Triggers a Maelstrom in Cyberspace]]></title>
+            <description><![CDATA[As Iran closes its cyberspace to the outside world, hacktivists are picking sides, while attacks against Israel surge and spread across the region....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/iran-israel-war-maelstrom-cyberspace</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/iran-israel-war-maelstrom-cyberspace</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 19 Jun 2025 06:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ether, Solana, and Other Majors Could Slide Further as Trump Threatens Iran Strikes]]></title>
+            <description><![CDATA[Tensions in the Middle East are fueling a flight to safety, with traders rotating out of altcoins into stablecoins and bitcoin amid uncertainty around U.S. military escalation and sticky inflation....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/19/ether-solana-and-other-majors-could-further-slide-as-trump-threatens-iran-strikes</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/19/ether-solana-and-other-majors-could-further-slide-as-trump-threatens-iran-strikes</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 19 Jun 2025 05:25:16 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-19</dc:date>
+        </item>
         <item>
             <title><![CDATA[Binance, OKX Set Transparency Standard with PoR Reports as Coinbase Lags: CQ]]></title>
             <description><![CDATA[Binance and OKX set the gold standard for proof-of-reserves reporting; Coinbase fails to publish any, says CryptoQuant....]]></description>
@@ -24,6 +57,29 @@
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Thu, 19 Jun 2025 03:37:25 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-06-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions]]></title>
+            <description><![CDATA[Cybersecurity researchers have uncovered two local privilege escalation (LPE) flaws that could be exploited to gain root privileges on machines running major Linux distributions.
+The vulnerabilities, ...]]></description>
+            <link>https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 19 Jun 2025 03:33:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-06-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Who's Selling Bitcoin Above $100K and Holding Back the Price Rally? ]]></title>
+            <description><![CDATA[It's been a record 42 straight days of back-and-forth trading above the $100 mark....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/19/who-s-been-selling-bitcoin-above-usd100k-and-holding-back-the-price-rally</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/19/who-s-been-selling-bitcoin-above-usd100k-and-holding-back-the-price-rally</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 19 Jun 2025 03:25:13 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
             <dc:date>2025-06-19</dc:date>
         </item>
         <item>
@@ -577,17 +633,6 @@
             <dc:date>2025-06-18</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ethereum Defends $2.5K as Traders Eye Looming ‘Golden Cross’ Signal]]></title>
-            <description><![CDATA[Despite market turbulence from Israel-Iran conflict, ETH shows resilience with accumulation patterns suggesting potential upward momentum....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/18/ethereum-defends-25k-as-traders-eye-looming-golden-cross-signal</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/18/ethereum-defends-25k-as-traders-eye-looming-golden-cross-signal</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 18 Jun 2025 14:05:24 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-18</dc:date>
-        </item>
-        <item>
             <title><![CDATA[ChainLink Phishing: How Trusted Domains Become Threat Vectors]]></title>
             <description><![CDATA[Phishing has evolved—and trust is the new attack vector. ChainLink Phishing uses real platforms like Google Drive & Dropbox to sneak past filters and steal credentials in the browser. Watch Keep Aware...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/chainlink-phishing-how-trusted-domains-become-threat-vectors/</link>
@@ -618,17 +663,6 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Wed, 18 Jun 2025 13:54:48 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BlackRock’s $2.9B Tokenized Treasury Fund Now Accepted as Collateral on Crypto.com, Deribit]]></title>
-            <description><![CDATA[Tokenized real-world assets such as U.S. Treasuries are being increasingly used as collateral on crypto trading venues....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/18/blackrocks-29b-tokenized-treasury-fund-now-accepted-as-collateral-on-cryptocom-deribit</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/18/blackrocks-29b-tokenized-treasury-fund-now-accepted-as-collateral-on-cryptocom-deribit</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 18 Jun 2025 13:53:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-06-18</dc:date>
         </item>
         <item>
@@ -863,40 +897,6 @@ The vulne...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 17 Jun 2025 13:10:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms]]></title>
-            <description><![CDATA[The notorious cybercrime group known as Scattered Spider (aka UNC3944) that recently targeted various U.K. and U.S. retailers has begun to target major insurance companies, according to Google Threat ...]]></description>
-            <link>https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 17 Jun 2025 12:53:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-06-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Are Forgotten AD Service Accounts Leaving You at Risk?]]></title>
-            <description><![CDATA[For many organizations, Active Directory (AD) service accounts are quiet afterthoughts, persisting in the background long after their original purpose has been forgotten. To make matters worse, these ...]]></description>
-            <link>https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/06/are-forgotten-ad-service-accounts.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 17 Jun 2025 11:25:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-06-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hard-Coded 'b' Password in Sitecore XP Sparks Major RCE Risk in Enterprise Deployments]]></title>
-            <description><![CDATA[Cybersecurity researchers have disclosed three security flaws in the popular Sitecore Experience Platform (XP) that could be chained to achieve pre-authenticated remote code execution.
-Sitecore Experi...]]></description>
-            <link>https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/06/hard-coded-b-password-in-sitecore-xp.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 17 Jun 2025 10:33:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-06-17</dc:date>
         </item>
     </channel>
