@@ -65,10 +65,22 @@
       "url": "https://group-ib.com/feed/blogfeed",
       "type": "rss",
       "enabled": true
+    },
+    {
+      "name": "Data Breach Today",
+      "url": "https://www.databreachtoday.com/rss-feeds",
+      "type": "rss",
+      "enabled": true
+    },
+    {
+      "name": "CNN.com - Crypto News",
+      "url": "https://www.ccn.com/news/crypto-news/feeds/",
+      "type": "rss",
+      "enabled": true
     }
   ],
   "settings": {
-    "maxNewsItems": 80,
-    "lastUpdated": "2025-06-19T06:26:48.976Z"
+    "maxNewsItems": 120,
+    "lastUpdated": "2025-06-18T01:24:27.667Z"
   }
 }
