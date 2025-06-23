@@ -9,12 +9,23 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Jun 2025 21:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 01:39:04 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Jun 2025 21:15:30 GMT</pubDate>
+        <pubDate>Mon, 23 Jun 2025 01:39:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup]]></title>
+            <description><![CDATA[CoinMarketCap, the popular cryptocurrency price tracking site, suffered a website supply chain attack that exposed site visitors to a wallet drainer campaign to steal visitors' crypto. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sun, 22 Jun 2025 21:47:05 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-22</dc:date>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Warnings Emerge, Stablecoins Score Regulatory Win: Binance Weekly Report]]></title>
             <description><![CDATA[The market witnessed a flight-to-safety trend among cryptocurrencies, while stablecoins had a significant policy win....]]></description>
@@ -71,6 +82,17 @@
             <dc:date>2025-06-22</dc:date>
         </item>
         <item>
+            <title><![CDATA[Oxford City Council suffers breach exposing two decades of data]]></title>
+            <description><![CDATA[Oxford City Council warns it suffered a data breach where attackers accessed personally identifiable information from legacy systems. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sun, 22 Jun 2025 15:17:28 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-22</dc:date>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Price Crashes Below $100K as Iran Votes to Close Straits of Hormuz]]></title>
             <description><![CDATA[Bitcoin's price tumbles below $100K as the conflict between Israel and Iran deepens....]]></description>
             <link>https://cryptopotato.com/bitcoin-price-crashes-below-100k-as-iran-votes-to-close-strait-of-hormuz/</link>
@@ -90,6 +112,17 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Sun, 22 Jun 2025 14:42:37 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Windows Snipping Tool now lets you create animated GIF recordings]]></title>
+            <description><![CDATA[​Microsoft announced that the Windows screenshot and screencast Snipping Tool utility is getting support for exporting animated GIF recordings. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sun, 22 Jun 2025 14:11:22 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-06-22</dc:date>
         </item>
         <item>
@@ -354,6 +387,28 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Sat, 21 Jun 2025 15:28:52 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Russian hackers bypass Gmail MFA using stolen app passwords]]></title>
+            <description><![CDATA[Russian hackers bypass multi-factor authentication and access Gmail accounts by leveraging app-specific passwords in advanced social engineering attacks that impersonate U.S. Department of State offic...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 21 Jun 2025 15:13:17 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[WordPress Motors theme flaw mass-exploited to hijack admin accounts]]></title>
+            <description><![CDATA[Hackers are exploiting a critical privilege escalation vulnerability in the WordPress theme "Motors" to hijack administrator accounts and gain complete control of a targeted site. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 21 Jun 2025 14:09:19 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-06-21</dc:date>
         </item>
         <item>
@@ -723,61 +778,6 @@ The attack, which was det...]]></description>
             <dc:date>2025-06-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[Godfather Android malware now uses virtualization to hijack banking apps]]></title>
-            <description><![CDATA[A new version of the Android malware "Godfather" creates isolated virtual environments on mobile devices to steal account data and transactions from legitimate banking apps. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 19 Jun 2025 19:54:28 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Webinar: Stolen credentials are the new front door to your network]]></title>
-            <description><![CDATA[Cybercriminals no longer need zero-days to breach your systems—these days, they just log in. Join BleepingComputer, SC Media, and Specops Software's Darren Siegel on July 9 at 2:00 PM ET for a live we...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 19 Jun 2025 16:33:21 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI’s Sam Altman discusses GPT-5 release date]]></title>
-            <description><![CDATA[ChatGPT's next big upgrade, or the new foundational model "GPT-5," is still being prepared for a release in the summer, but OpenAI won't share the specifics. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 19 Jun 2025 15:43:06 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[US recovers $225 million of crypto stolen in investment scams]]></title>
-            <description><![CDATA[The U.S. Department of Justice has seized more than $225 million in cryptocurrency linked to investment fraud and money laundering operations, the largest crypto seizure in the history of the U.S. Sec...]]></description>
-            <link>https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 19 Jun 2025 14:33:01 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Special Webinar: Key Insights from Verizon’s 2025 DBIR]]></title>
-            <description><![CDATA[GenAI, credential theft, third-party risks—Verizon's 2025 DBIR reveals what's putting your org at risk. Join DBIR author Alex Pinto & LayerX CEO Or Eshed as they break down this year's key insights an...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 19 Jun 2025 14:04:50 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-19</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Security Evolution: From Pothole Repair to Road Building]]></title>
             <description><![CDATA[Instead of constantly fixing security vulnerabilities, organizations should proactively build secure foundations that enable businesses to move faster while reducing risk....]]></description>
             <link>https://www.darkreading.com/cloud-security/security-evolution-pothole-repair-road-building</link>
@@ -786,17 +786,6 @@ The attack, which was det...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 19 Jun 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft unveils new security defaults for Windows 365 Cloud PCs]]></title>
-            <description><![CDATA[Microsoft has announced new Windows 365 security defaults starting in the second half of 2025 and affecting newly provisioned and reprovisioned Cloud PCs. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 19 Jun 2025 13:55:26 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-06-19</dc:date>
         </item>
         <item>
@@ -1346,6 +1335,17 @@ The ads are expected to be displayed on the Updates tab thr...]]></description>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 13 Jun 2025 20:06:35 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Threat Actor Abuses TeamFiltration for Entra ID Account Takeovers]]></title>
+            <description><![CDATA[Researchers discovered a large-scale campaign using the open source penetration-testing framework that has targeted more than 80,000 Microsoft accounts....]]></description>
+            <link>https://www.darkreading.com/cloud-security/threat-actor-teamfiltration-entra-id-attacks</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/threat-actor-teamfiltration-entra-id-attacks</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 13 Jun 2025 15:10:18 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-06-13</dc:date>
         </item>
