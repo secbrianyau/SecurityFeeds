@@ -9,12 +9,199 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Jun 2025 15:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 18:26:05 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Jun 2025 15:19:59 GMT</pubDate>
+        <pubDate>Wed, 25 Jun 2025 18:26:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Google releases Gemini CLI with free Gemini 2.5 Pro ]]></title>
+            <description><![CDATA[Google has released Gemini 2.5 Pro-powered Gemini CLI, which allows you to use Gemini inside your terminal, including Windows Terminal. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 17:53:28 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Citrix warns of NetScaler vulnerability exploited in DoS attacks]]></title>
+            <description><![CDATA[Citrix is warning that a vulnerability in NetScaler appliances tracked as CVE-2025-6543 is being actively exploited in the wild, causing devices to enter a denial of service condition. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 17:35:55 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Lumia and Avail team up for secure, scalable real-world asset tokenization]]></title>
+            <description><![CDATA[Lumia, a blockchain platform focused on real-world asset (RWA) tokenization, is rolling out a new cross-chain model through a strategic integration with Avail Stack, according to a statement shared wi...]]></description>
+            <link>https://cryptoslate.com/lumia-and-avail-team-up-for-secure-scalable-real-world-asset-tokenization/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/lumia-and-avail-team-up-for-secure-scalable-real-world-asset-tokenization/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 17:30:41 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum's 'Identity Crisis' Is What Real Decentralization Looks Like]]></title>
+            <description><![CDATA[The Ethereum community must avoid getting distracted by price movements, governance drama, or competing narratives and unite around their common mission: building credibly neutral infrastructure that ...]]></description>
+            <link>https://www.coindesk.com/opinion/2025/06/25/ethereums-identity-crisis-is-what-real-decentralization-looks-like</link>
+            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/06/25/ethereums-identity-crisis-is-what-real-decentralization-looks-like</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 17:01:01 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery]]></title>
+            <description><![CDATA[New research has uncovered continued risk from a known security weakness in Microsoft's Entra ID, potentially enabling malicious actors to achieve account takeovers in susceptible software-as-a-servic...]]></description>
+            <link>https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:56:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[WinRAR patches bug letting malware launch from extracted archives]]></title>
+            <description><![CDATA[WinRAR has addressed a directory traversal vulnerability tracked as CVE-2025-6218 that, under certain circumstances, allows malware to be executed after extracting a malicious archive. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:55:14 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitfinex launches groundbreaking equity tokens worth $143 million]]></title>
+            <description><![CDATA[Bitfinex Securities has introduced two tokenized equity offerings with a combined value of £105 million (around $143 million), according to a June 25 statement shared with CryptoSlate. The listings, T...]]></description>
+            <link>https://cryptoslate.com/bitfinex-launches-groundbreaking-equity-tokens-worth-143-million/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitfinex-launches-groundbreaking-equity-tokens-worth-143-million/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:42:12 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Solana Will Lead Tokenization, Hyperliquid the 'Perpification of Everything': Ryan Watkins]]></title>
+            <description><![CDATA[SOL briefly jumped above $147 as volume doubled intraday, but the rally stalled below key resistance and has since reversed below the $145 mark....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/25/hedge-fund-founder-says-solana-will-lead-tokenization-of-everything</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/25/hedge-fund-founder-says-solana-will-lead-tokenization-of-everything</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:35:01 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The Protocol: Ethereum Proposal That Could Make the Network Faster]]></title>
+            <description><![CDATA[Also: ZKSync’s Airbender, Norway Plans To Ban Crypto Mining Centers, and XRP Ledger’s New Upgrade....]]></description>
+            <link>https://www.coindesk.com/tech/2025/06/25/the-protocol-ethereum-proposal-that-could-make-the-network-faster</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2025/06/25/the-protocol-ethereum-proposal-that-could-make-the-network-faster</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:33:24 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Barclays to Ban Credit-Card Crypto Purchases Starting Friday]]></title>
+            <description><![CDATA[Barclays said it will block cryptocurrency transactions on Barclaycard as of June 27 because of "certain risks" when purchasing crypto....]]></description>
+            <link>https://www.coindesk.com/policy/2025/06/25/barclays-to-ban-credit-card-crypto-purchases-starting-friday</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/06/25/barclays-to-ban-credit-card-crypto-purchases-starting-friday</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:31:03 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Dire Wolf Ransomware Comes Out Snarling, Bites Technology, Manufacturing]]></title>
+            <description><![CDATA[The emerging group has already gotten its teeth into 16 victims since May with its double extortion tactics, claiming victims in 11 countries, including the US, Thailand, and Taiwan....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/dire-wolf-ransomware-manufacturing-technology</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/dire-wolf-ransomware-manufacturing-technology</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:27:19 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Zama Raises $57M, Becomes First Unicorn Involved With Fully Homomorphic Encryption]]></title>
+            <description><![CDATA[The team said the fundraise pushes Zama’s total capital raised to over $150 million and values it at over $1 billion, making the firm the first unicorn involved with FHE....]]></description>
+            <link>https://www.coindesk.com/tech/2025/06/25/zama-raises-57m-becomes-first-unicorn-involved-with-fully-homomorphic-encryption</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2025/06/25/zama-raises-57m-becomes-first-unicorn-involved-with-fully-homomorphic-encryption</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:18:21 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions]]></title>
+            <description><![CDATA[A recent vulnerability in Citrix NetScaler ADC and Gateway is dubbed "CitrixBleed 2," after its similarity to an older exploited flaw that allowed unauthenticated attackers to hijack authentication se...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:10:37 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cardano (ADA) Drops Below $0.57 as Sellers Regain Control]]></title>
+            <description><![CDATA[ADA dipped below key support at $0.576 despite brief intraday gains, with price ending the session near its daily low amid broad market pressure....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/25/cardano-ada-drops-below-usd0-57-as-sellers-regain-control</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/25/cardano-ada-drops-below-usd0-57-as-sellers-regain-control</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 16:06:28 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Animoca Brands' Flagship Project Moca Network to Debut L1 for Digital Identity]]></title>
+            <description><![CDATA[The Moca Chain testnet is expected to start up in the third quarter with the mainnet following by year-end....]]></description>
+            <link>https://www.coindesk.com/business/2025/06/25/animoca-brands-flagship-project-moca-network-to-debut-l1-for-digital-identity</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/06/25/animoca-brands-flagship-project-moca-network-to-debut-l1-for-digital-identity</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 15:41:04 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ATOM Surges 3.6% Amid Strong Volume Swings at Key Support Levels]]></title>
+            <description><![CDATA[Market volatility creates potential bullish reversal pattern as institutional interest shifts beyond bitcoin....]]></description>
+            <link>https://www.coindesk.com/markets/2025/06/25/atom-surges-3-6-amid-strong-volume-swings-at-key-support-levels</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/25/atom-surges-3-6-amid-strong-volume-swings-at-key-support-levels</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 15:23:50 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of MCP Servers Expose AI Models to Abuse, RCE]]></title>
+            <description><![CDATA[The servers that connect AI with real-world data are occasionally wide-open channels for cyberattacks....]]></description>
+            <link>https://www.darkreading.com/cloud-security/hundreds-mcp-servers-ai-models-abuse-rce</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/hundreds-mcp-servers-ai-models-abuse-rce</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 15:23:04 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
         <item>
             <title><![CDATA[NEAR Protocol Plunges 4% Before Staging Recovery Amid Market Volatility]]></title>
             <description><![CDATA[The token's sharp decline to $2.14 created a key buying opportunity as high-volume traders stepped in to establish support, signaling potential consolidation after recent turbulence....]]></description>
@@ -90,6 +277,18 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Wed, 25 Jun 2025 14:51:47 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2025-06-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC]]></title>
+            <description><![CDATA[Citrix has released security updates to address a critical flaw affecting NetScaler ADC that it said has been exploited in the wild.
+The vulnerability, tracked as CVE-2025-6543, carries a CVSS score o...]]></description>
+            <link>https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Wed, 25 Jun 2025 14:51:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-06-25</dc:date>
         </item>
         <item>
@@ -469,17 +668,6 @@ A gap in access control in Microsoft Entra’s subscription handling is allowing
             <dc:date>2025-06-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[XRP Ledger’s new upgrade looks to fuel institutional interest for the network]]></title>
-            <description><![CDATA[The XRP Ledger (XRPL) has launched version 2.5.0 of its core software, according to a June 24 statement. This update introduces a suite of upgrades designed to enhance network performance, support ent...]]></description>
-            <link>https://cryptoslate.com/xrp-ledgers-new-upgrade-looks-to-fuel-institutional-interest-for-the-network/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/xrp-ledgers-new-upgrade-looks-to-fuel-institutional-interest-for-the-network/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 09:46:07 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[ Fuzzland says ex-employee was behind $2M Bedrock UniBTC exploit ]]></title>
             <description><![CDATA[Fuzzland says a former employee used insider access and malware to exploit Bedrock’s UniBTC protocol, resulting in $2 million in losses....]]></description>
             <link>https://cointelegraph.com/news/fuzzland-ex-employee-bedrock-unibtc-exploit?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
@@ -488,17 +676,6 @@ A gap in access control in Microsoft Entra’s subscription handling is allowing
             <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
             <pubDate>Wed, 25 Jun 2025 09:25:10 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Arizona state won’t buy Bitcoin – But is happy to seize and hold it]]></title>
-            <description><![CDATA[HB 2324 heads to the governor’s desk after House vote, establishing a U.S. first: a state-run Bitcoin reserve funded entirely by forfeited digital assets The Arizona House of Representatives passed Ho...]]></description>
-            <link>https://cryptoslate.com/arizona-state-wont-buy-bitcoin-but-is-happy-to-seize-and-hold-it/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/arizona-state-wont-buy-bitcoin-but-is-happy-to-seize-and-hold-it/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 09:12:25 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-06-25</dc:date>
         </item>
         <item>
@@ -511,83 +688,6 @@ A gap in access control in Microsoft Entra’s subscription handling is allowing
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Wed, 25 Jun 2025 08:45:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[XRP Ledger Brings Token Escrow, Other Upgrades for DEXs in New Release]]></title>
-            <description><![CDATA[XRPL’s latest release adds token escrows, permissioned DEXs, batch transactions, and fixes key bugs in NFTs and payment channels....]]></description>
-            <link>https://www.coindesk.com/tech/2025/06/25/xrp-ledger-brings-token-escrow-other-upgrades-for-dexs-in-new-release</link>
-            <guid isPermaLink="false">https://www.coindesk.com/tech/2025/06/25/xrp-ledger-brings-token-escrow-other-upgrades-for-dexs-in-new-release</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 08:42:06 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Deep Sea Mining Firm Goes Deep on Bitcoin With $1.2B BTC Treasury Plan]]></title>
-            <description><![CDATA[The Oslo-listed firm said it bought four bitcoin in its first BTC purchase....]]></description>
-            <link>https://www.coindesk.com/business/2025/06/25/deep-sea-mining-firm-goes-deep-on-bitcoin-with-12b-btc-treasury-plan</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/06/25/deep-sea-mining-firm-goes-deep-on-bitcoin-with-12b-btc-treasury-plan</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 08:40:50 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Metaplanet Raises $515M, Blockchain Group Adds $4.8M in Bitcoin Treasury Equity Moves]]></title>
-            <description><![CDATA[The Japanese and French companies executed major capital raises to fund bitcoin accumulation strategies amid growing institutional interest in BTC investment....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/25/metaplanet-raises-515m-blockchain-group-adds-48m-in-bitcoin-treasury-equity-moves</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/25/metaplanet-raises-515m-blockchain-group-adds-48m-in-bitcoin-treasury-equity-moves</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 07:46:46 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[NYSE Tweaks Rule to List Trump Media's Bitcoin-Ethereum ETF]]></title>
-            <description><![CDATA[Trump Media’s BTC-ETH fund pushes deeper into crypto as NYSE files rule change and political backing grows....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/25/nyse-tweaks-rule-to-list-trump-medias-bitcoin-ethereum-etf</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/25/nyse-tweaks-rule-to-list-trump-medias-bitcoin-ethereum-etf</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 07:05:38 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto Trader Sees Bitcoin Hitting $160K by Year-End; ETH, SOL, ADA to Gain on Middle East Truce]]></title>
-            <description><![CDATA[Crypto majors recover alongside equities as ceasefire steadies risk sentiment, with analysts citing ETF flows and Fed pivot hopes as upside drivers....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/25/crypto-trader-sees-bitcoin-hitting-160k-by-year-end-eth-sol-ada-to-gain-on-middle-east-truce</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/25/crypto-trader-sees-bitcoin-hitting-160k-by-year-end-eth-sol-ada-to-gain-on-middle-east-truce</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 06:52:37 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitfinex Securities Is Taking a Different Approach to RWAs, Launches Two New Products in the UK]]></title>
-            <description><![CDATA[The firm’s latest listings give investors access to debt issued by a community bank in Scotland, and exposure to car finance mis-selling claims in the UK....]]></description>
-            <link>https://www.coindesk.com/business/2025/06/25/bitfinex-securities-is-taking-a-different-approach-to-rwas-launches-two-new-products-in-the-u-k</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/06/25/bitfinex-securities-is-taking-a-different-approach-to-rwas-launches-two-new-products-in-the-u-k</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 06:30:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Upcoming $14B Options Expiry Marked by Surge in Put-Call Ratio. What Does It Indicate?]]></title>
-            <description><![CDATA[Quarterly settlements tend to breed market volatility....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/25/bitcoin-s-put-call-ratio-surges-as-usd14b-options-expiry-looms</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/25/bitcoin-s-put-call-ratio-surges-as-usd14b-options-expiry-looms</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 06:18:18 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-06-25</dc:date>
         </item>
         <item>
@@ -621,17 +721,6 @@ A gap in access control in Microsoft Entra’s subscription handling is allowing
             <dc:creator><![CDATA[Blockthreat]]></dc:creator>
             <pubDate>Wed, 25 Jun 2025 04:57:00 GMT</pubDate>
             <dc:source>Blockthreat</dc:source>
-            <dc:date>2025-06-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Asia Morning Briefing: Analysts Say BTC’s Long-Term Focus Is Easing War Jitters]]></title>
-            <description><![CDATA[PLUS: Tim Draper sees parallels between the flight to BTC and Microsoft's early days....]]></description>
-            <link>https://www.coindesk.com/markets/2025/06/24/asia-morning-briefing-analysts-say-btcs-long-term-focus-is-easing-war-jitters</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/06/24/asia-morning-briefing-analysts-say-btcs-long-term-focus-is-easing-war-jitters</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Jun 2025 01:11:52 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-06-25</dc:date>
         </item>
         <item>
@@ -768,17 +857,6 @@ The new guideline seeks to help officials verify the...]]></description>
             <dc:date>2025-06-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[New FileFix attack weaponizes Windows File Explorer for stealthy commands]]></title>
-            <description><![CDATA[A cybersecurity researcher has developed FileFix, a variant of the ClickFix social engineering attack that tricks users into executing malicious commands via the File Explorer address bar in Windows. ...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 24 Jun 2025 15:00:09 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-24</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue]]></title>
             <description><![CDATA[Cybersecurity researchers have detailed two novel methods that can be used to disrupt cryptocurrency mining botnets.
 The methods take advantage of the design of various common mining topologies in ord...]]></description>
@@ -791,17 +869,6 @@ The methods take advantage of the design of various common mining topologies in 
             <dc:date>2025-06-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[How Today’s Pentest Models Compare and Why Continuous Wins]]></title>
-            <description><![CDATA[Legacy pentests give you a snapshot. Attackers see a live stream. Sprocket's Continuous Penetration Testing (CPT) mimics real-world attackers—daily, not annually—so you can fix what matters, faster. L...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 24 Jun 2025 14:01:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-06-24</dc:date>
-        </item>
-        <item>
             <title><![CDATA[How the US Military Is Redefining Zero Trust]]></title>
             <description><![CDATA[Trust no longer comes from network boundaries alone but from continuously validating and protecting data and identities at every interaction....]]></description>
             <link>https://www.darkreading.com/vulnerabilities-threats/how-us-military-redefining-zero-trust</link>
@@ -810,17 +877,6 @@ The methods take advantage of the design of various common mining topologies in 
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 24 Jun 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[US House bans WhatsApp on staff devices over security concerns]]></title>
-            <description><![CDATA[The U.S. House of Representatives has banned the installation and use of WhatsApp on government-issued devices belonging to congressional staff, citing concerns over how the app encrypts and secures d...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 24 Jun 2025 13:43:53 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-06-24</dc:date>
         </item>
         <item>
@@ -1291,61 +1347,6 @@ The vulnerabilities, ...]]></description>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 18 Jun 2025 20:49:36 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[The Triple Threat of Burnout: Overworked, Unsatisfied, Trapped]]></title>
-            <description><![CDATA[Many cybersecurity professionals still don't feel comfortable admitting when they need a break. Yet their pressures continue to expand and involve, often leading to burnout and organizational risks....]]></description>
-            <link>https://www.darkreading.com/cybersecurity-operations/triple-threat-burnout-overworked-unsatisfied-trapped</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/triple-threat-burnout-overworked-unsatisfied-trapped</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 18 Jun 2025 20:41:40 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[GodFather Banking Trojan Debuts Virtualization Tactic]]></title>
-            <description><![CDATA[The Android malware is targeting Turkish financial institutions, completely taking over legitimate banking and crypto apps by creating an isolated virtualized environment on a device....]]></description>
-            <link>https://www.darkreading.com/cloud-security/godfather-banking-trojan-debuts-virtualization-tactic</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/godfather-banking-trojan-debuts-virtualization-tactic</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 18 Jun 2025 19:07:24 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New Tool Traps Jitters to Detect Beacons]]></title>
-            <description><![CDATA[Concerned by rapidly evolving evasion tactics, the new Jitter-Trap tool from Varonis aims to help organizations detect beacons that help attackers establish communication inside a victim network....]]></description>
-            <link>https://www.darkreading.com/cyberattacks-data-breaches/jitter-trap-tool-detect-beacons</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/jitter-trap-tool-detect-beacons</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 18 Jun 2025 15:48:02 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[How CISOs Can Govern AI &amp; Meet Evolving Regulations]]></title>
-            <description><![CDATA[Security teams are no longer just the last line of defense — they are the foundation for responsible AI adoption....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/cisos-govern-ai-evolving-regulations</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/cisos-govern-ai-evolving-regulations</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 18 Jun 2025 14:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Serpentine#Cloud Uses Cloudflare Tunnels in Sneak Attacks]]></title>
-            <description><![CDATA[An unidentified threat actor is using .lnk Windows shortcut files in a series of sophisticated attacks utilizing in-memory code execution and living-off-the-land cyberattack strategies....]]></description>
-            <link>https://www.darkreading.com/cloud-security/serpentinecloud-cloudflare-tunnels-sneak-attacks</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/serpentinecloud-cloudflare-tunnels-sneak-attacks</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 18 Jun 2025 13:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-06-18</dc:date>
         </item>

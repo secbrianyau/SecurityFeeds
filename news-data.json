@@ -1,5 +1,124 @@
 [
   {
+    "title": "Google releases Gemini CLI with free Gemini 2.5 Pro ",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/",
+    "date": "2025-06-25T17:53:28.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Google has released Gemini 2.5 Pro-powered Gemini CLI, which allows you to use Gemini inside your terminal, including Windows Terminal. [...]..."
+  },
+  {
+    "title": "Citrix warns of NetScaler vulnerability exploited in DoS attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/",
+    "date": "2025-06-25T17:35:55.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Citrix is warning that a vulnerability in NetScaler appliances tracked as CVE-2025-6543 is being actively exploited in the wild, causing devices to enter a denial of service condition. [...]..."
+  },
+  {
+    "title": "Lumia and Avail team up for secure, scalable real-world asset tokenization",
+    "link": "https://cryptoslate.com/lumia-and-avail-team-up-for-secure-scalable-real-world-asset-tokenization/",
+    "date": "2025-06-25T17:30:41.000Z",
+    "source": "CryptoSlate",
+    "summary": "Lumia, a blockchain platform focused on real-world asset (RWA) tokenization, is rolling out a new cross-chain model through a strategic integration with Avail Stack, according to a statement shared wi..."
+  },
+  {
+    "title": "Ethereum's 'Identity Crisis' Is What Real Decentralization Looks Like",
+    "link": "https://www.coindesk.com/opinion/2025/06/25/ethereums-identity-crisis-is-what-real-decentralization-looks-like",
+    "date": "2025-06-25T17:01:01.000Z",
+    "source": "Coindesk",
+    "summary": "The Ethereum community must avoid getting distracted by price movements, governance drama, or competing narratives and unite around their common mission: building credibly neutral infrastructure that ..."
+  },
+  {
+    "title": "nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery",
+    "link": "https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html",
+    "date": "2025-06-25T16:56:00.000Z",
+    "source": "The Hacker News",
+    "summary": "New research has uncovered continued risk from a known security weakness in Microsoft's Entra ID, potentially enabling malicious actors to achieve account takeovers in susceptible software-as-a-servic..."
+  },
+  {
+    "title": "WinRAR patches bug letting malware launch from extracted archives",
+    "link": "https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/",
+    "date": "2025-06-25T16:55:14.000Z",
+    "source": "Bleeping Computer",
+    "summary": "WinRAR has addressed a directory traversal vulnerability tracked as CVE-2025-6218 that, under certain circumstances, allows malware to be executed after extracting a malicious archive. [...]..."
+  },
+  {
+    "title": "Bitfinex launches groundbreaking equity tokens worth $143 million",
+    "link": "https://cryptoslate.com/bitfinex-launches-groundbreaking-equity-tokens-worth-143-million/",
+    "date": "2025-06-25T16:42:12.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitfinex Securities has introduced two tokenized equity offerings with a combined value of £105 million (around $143 million), according to a June 25 statement shared with CryptoSlate. The listings, T..."
+  },
+  {
+    "title": "Solana Will Lead Tokenization, Hyperliquid the 'Perpification of Everything': Ryan Watkins",
+    "link": "https://www.coindesk.com/markets/2025/06/25/hedge-fund-founder-says-solana-will-lead-tokenization-of-everything",
+    "date": "2025-06-25T16:35:01.000Z",
+    "source": "Coindesk",
+    "summary": "SOL briefly jumped above $147 as volume doubled intraday, but the rally stalled below key resistance and has since reversed below the $145 mark...."
+  },
+  {
+    "title": "The Protocol: Ethereum Proposal That Could Make the Network Faster",
+    "link": "https://www.coindesk.com/tech/2025/06/25/the-protocol-ethereum-proposal-that-could-make-the-network-faster",
+    "date": "2025-06-25T16:33:24.000Z",
+    "source": "Coindesk",
+    "summary": "Also: ZKSync’s Airbender, Norway Plans To Ban Crypto Mining Centers, and XRP Ledger’s New Upgrade...."
+  },
+  {
+    "title": "Barclays to Ban Credit-Card Crypto Purchases Starting Friday",
+    "link": "https://www.coindesk.com/policy/2025/06/25/barclays-to-ban-credit-card-crypto-purchases-starting-friday",
+    "date": "2025-06-25T16:31:03.000Z",
+    "source": "Coindesk",
+    "summary": "Barclays said it will block cryptocurrency transactions on Barclaycard as of June 27 because of \"certain risks\" when purchasing crypto...."
+  },
+  {
+    "title": "Dire Wolf Ransomware Comes Out Snarling, Bites Technology, Manufacturing",
+    "link": "https://www.darkreading.com/threat-intelligence/dire-wolf-ransomware-manufacturing-technology",
+    "date": "2025-06-25T16:27:19.000Z",
+    "source": "Dark Reading",
+    "summary": "The emerging group has already gotten its teeth into 16 victims since May with its double extortion tactics, claiming victims in 11 countries, including the US, Thailand, and Taiwan...."
+  },
+  {
+    "title": "Zama Raises $57M, Becomes First Unicorn Involved With Fully Homomorphic Encryption",
+    "link": "https://www.coindesk.com/tech/2025/06/25/zama-raises-57m-becomes-first-unicorn-involved-with-fully-homomorphic-encryption",
+    "date": "2025-06-25T16:18:21.000Z",
+    "source": "Coindesk",
+    "summary": "The team said the fundraise pushes Zama’s total capital raised to over $150 million and values it at over $1 billion, making the firm the first unicorn involved with FHE...."
+  },
+  {
+    "title": "New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions",
+    "link": "https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/",
+    "date": "2025-06-25T16:10:37.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A recent vulnerability in Citrix NetScaler ADC and Gateway is dubbed \"CitrixBleed 2,\" after its similarity to an older exploited flaw that allowed unauthenticated attackers to hijack authentication se..."
+  },
+  {
+    "title": "Cardano (ADA) Drops Below $0.57 as Sellers Regain Control",
+    "link": "https://www.coindesk.com/markets/2025/06/25/cardano-ada-drops-below-usd0-57-as-sellers-regain-control",
+    "date": "2025-06-25T16:06:28.000Z",
+    "source": "Coindesk",
+    "summary": "ADA dipped below key support at $0.576 despite brief intraday gains, with price ending the session near its daily low amid broad market pressure...."
+  },
+  {
+    "title": "Animoca Brands' Flagship Project Moca Network to Debut L1 for Digital Identity",
+    "link": "https://www.coindesk.com/business/2025/06/25/animoca-brands-flagship-project-moca-network-to-debut-l1-for-digital-identity",
+    "date": "2025-06-25T15:41:04.000Z",
+    "source": "Coindesk",
+    "summary": "The Moca Chain testnet is expected to start up in the third quarter with the mainnet following by year-end...."
+  },
+  {
+    "title": "ATOM Surges 3.6% Amid Strong Volume Swings at Key Support Levels",
+    "link": "https://www.coindesk.com/markets/2025/06/25/atom-surges-3-6-amid-strong-volume-swings-at-key-support-levels",
+    "date": "2025-06-25T15:23:50.000Z",
+    "source": "Coindesk",
+    "summary": "Market volatility creates potential bullish reversal pattern as institutional interest shifts beyond bitcoin...."
+  },
+  {
+    "title": "Hundreds of MCP Servers Expose AI Models to Abuse, RCE",
+    "link": "https://www.darkreading.com/cloud-security/hundreds-mcp-servers-ai-models-abuse-rce",
+    "date": "2025-06-25T15:23:04.000Z",
+    "source": "Dark Reading",
+    "summary": "The servers that connect AI with real-world data are occasionally wide-open channels for cyberattacks...."
+  },
+  {
     "title": "NEAR Protocol Plunges 4% Before Staging Recovery Amid Market Volatility",
     "link": "https://www.coindesk.com/markets/2025/06/25/near-protocol-plunges-4-before-staging-recovery-amid-market-volatility",
     "date": "2025-06-25T15:12:06.000Z",
@@ -47,6 +166,13 @@
     "date": "2025-06-25T14:51:47.000Z",
     "source": "Coindesk",
     "summary": "Senator Cynthia Lummis said her realistic goal for the crypto bills is the close of 2025, despite President Donald Trump's wish to sign legislation in August...."
+  },
+  {
+    "title": "Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC",
+    "link": "https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html",
+    "date": "2025-06-25T14:51:00.000Z",
+    "source": "The Hacker News",
+    "summary": "Citrix has released security updates to address a critical flaw affecting NetScaler ADC that it said has been exploited in the wild.\nThe vulnerability, tracked as CVE-2025-6543, carries a CVSS score o..."
   },
   {
     "title": "XRP Breaks Out Above $2.20 With Triple Volume Surge",
@@ -287,13 +413,6 @@
     "summary": "The Shenzhen, China-based company's board approved an initiative to convert up to 20% its cash and cash equivalents into bitcoin and other digital assets..."
   },
   {
-    "title": "XRP Ledger’s new upgrade looks to fuel institutional interest for the network",
-    "link": "https://cryptoslate.com/xrp-ledgers-new-upgrade-looks-to-fuel-institutional-interest-for-the-network/",
-    "date": "2025-06-25T09:46:07.000Z",
-    "source": "CryptoSlate",
-    "summary": "The XRP Ledger (XRPL) has launched version 2.5.0 of its core software, according to a June 24 statement. This update introduces a suite of upgrades designed to enhance network performance, support ent..."
-  },
-  {
     "title": " Fuzzland says ex-employee was behind $2M Bedrock UniBTC exploit ",
     "link": "https://cointelegraph.com/news/fuzzland-ex-employee-bedrock-unibtc-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
     "date": "2025-06-25T09:25:10.000Z",
@@ -301,67 +420,11 @@
     "summary": "Fuzzland says a former employee used insider access and malware to exploit Bedrock’s UniBTC protocol, resulting in $2 million in losses...."
   },
   {
-    "title": "Arizona state won’t buy Bitcoin – But is happy to seize and hold it",
-    "link": "https://cryptoslate.com/arizona-state-wont-buy-bitcoin-but-is-happy-to-seize-and-hold-it/",
-    "date": "2025-06-25T09:12:25.000Z",
-    "source": "CryptoSlate",
-    "summary": "HB 2324 heads to the governor’s desk after House vote, establishing a U.S. first: a state-run Bitcoin reserve funded entirely by forfeited digital assets The Arizona House of Representatives passed Ho..."
-  },
-  {
     "title": "SonicWall NetExtender Trojan and ConnectWise Exploits Used in Remote Access Attacks",
     "link": "https://thehackernews.com/2025/06/sonicwall-netextender-trojan-and.html",
     "date": "2025-06-25T08:45:00.000Z",
     "source": "The Hacker News",
     "summary": "Unknown threat actors have been distributing a trojanized version of SonicWall's SSL VPN NetExtender application to steal credentials from unsuspecting users who may have installed it.\n\"NetExtender en..."
-  },
-  {
-    "title": "XRP Ledger Brings Token Escrow, Other Upgrades for DEXs in New Release",
-    "link": "https://www.coindesk.com/tech/2025/06/25/xrp-ledger-brings-token-escrow-other-upgrades-for-dexs-in-new-release",
-    "date": "2025-06-25T08:42:06.000Z",
-    "source": "Coindesk",
-    "summary": "XRPL’s latest release adds token escrows, permissioned DEXs, batch transactions, and fixes key bugs in NFTs and payment channels...."
-  },
-  {
-    "title": "Deep Sea Mining Firm Goes Deep on Bitcoin With $1.2B BTC Treasury Plan",
-    "link": "https://www.coindesk.com/business/2025/06/25/deep-sea-mining-firm-goes-deep-on-bitcoin-with-12b-btc-treasury-plan",
-    "date": "2025-06-25T08:40:50.000Z",
-    "source": "Coindesk",
-    "summary": "The Oslo-listed firm said it bought four bitcoin in its first BTC purchase...."
-  },
-  {
-    "title": "Metaplanet Raises $515M, Blockchain Group Adds $4.8M in Bitcoin Treasury Equity Moves",
-    "link": "https://www.coindesk.com/markets/2025/06/25/metaplanet-raises-515m-blockchain-group-adds-48m-in-bitcoin-treasury-equity-moves",
-    "date": "2025-06-25T07:46:46.000Z",
-    "source": "Coindesk",
-    "summary": "The Japanese and French companies executed major capital raises to fund bitcoin accumulation strategies amid growing institutional interest in BTC investment...."
-  },
-  {
-    "title": "NYSE Tweaks Rule to List Trump Media's Bitcoin-Ethereum ETF",
-    "link": "https://www.coindesk.com/markets/2025/06/25/nyse-tweaks-rule-to-list-trump-medias-bitcoin-ethereum-etf",
-    "date": "2025-06-25T07:05:38.000Z",
-    "source": "Coindesk",
-    "summary": "Trump Media’s BTC-ETH fund pushes deeper into crypto as NYSE files rule change and political backing grows...."
-  },
-  {
-    "title": "Crypto Trader Sees Bitcoin Hitting $160K by Year-End; ETH, SOL, ADA to Gain on Middle East Truce",
-    "link": "https://www.coindesk.com/markets/2025/06/25/crypto-trader-sees-bitcoin-hitting-160k-by-year-end-eth-sol-ada-to-gain-on-middle-east-truce",
-    "date": "2025-06-25T06:52:37.000Z",
-    "source": "Coindesk",
-    "summary": "Crypto majors recover alongside equities as ceasefire steadies risk sentiment, with analysts citing ETF flows and Fed pivot hopes as upside drivers...."
-  },
-  {
-    "title": "Bitfinex Securities Is Taking a Different Approach to RWAs, Launches Two New Products in the UK",
-    "link": "https://www.coindesk.com/business/2025/06/25/bitfinex-securities-is-taking-a-different-approach-to-rwas-launches-two-new-products-in-the-u-k",
-    "date": "2025-06-25T06:30:00.000Z",
-    "source": "Coindesk",
-    "summary": "The firm’s latest listings give investors access to debt issued by a community bank in Scotland, and exposure to car finance mis-selling claims in the UK...."
-  },
-  {
-    "title": "Bitcoin's Upcoming $14B Options Expiry Marked by Surge in Put-Call Ratio. What Does It Indicate?",
-    "link": "https://www.coindesk.com/markets/2025/06/25/bitcoin-s-put-call-ratio-surges-as-usd14b-options-expiry-looms",
-    "date": "2025-06-25T06:18:18.000Z",
-    "source": "Coindesk",
-    "summary": "Quarterly settlements tend to breed market volatility...."
   },
   {
     "title": "Africa Sees Surge in Cybercrime as Law Enforcement Struggles",
@@ -383,13 +446,6 @@
     "date": "2025-06-25T04:57:00.000Z",
     "source": "Blockthreat",
     "summary": "Nobitex, Meta Pool, Bankroll Network, CoinMarketCap, Hacken..."
-  },
-  {
-    "title": "Asia Morning Briefing: Analysts Say BTC’s Long-Term Focus Is Easing War Jitters",
-    "link": "https://www.coindesk.com/markets/2025/06/24/asia-morning-briefing-analysts-say-btcs-long-term-focus-is-easing-war-jitters",
-    "date": "2025-06-25T01:11:52.000Z",
-    "source": "Coindesk",
-    "summary": "PLUS: Tim Draper sees parallels between the flight to BTC and Microsoft's early days...."
   },
   {
     "title": "Google rolls out text-to-image model Imagen 4 for free",
@@ -476,13 +532,6 @@
     "summary": "America's largest steel producer initially disclosed the breach in May and took potentially affected systems offline to investigation the intrusion and contain any malicious activity...."
   },
   {
-    "title": "New FileFix attack weaponizes Windows File Explorer for stealthy commands",
-    "link": "https://www.bleepingcomputer.com/news/security/filefix-attack-weaponizes-windows-file-explorer-for-stealthy-powershell-commands/",
-    "date": "2025-06-24T15:00:09.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A cybersecurity researcher has developed FileFix, a variant of the ClickFix social engineering attack that tricks users into executing malicious commands via the File Explorer address bar in Windows. ..."
-  },
-  {
     "title": "Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue",
     "link": "https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html",
     "date": "2025-06-24T14:17:00.000Z",
@@ -490,25 +539,11 @@
     "summary": "Cybersecurity researchers have detailed two novel methods that can be used to disrupt cryptocurrency mining botnets.\nThe methods take advantage of the design of various common mining topologies in ord..."
   },
   {
-    "title": "How Today’s Pentest Models Compare and Why Continuous Wins",
-    "link": "https://www.bleepingcomputer.com/news/security/how-todays-pentest-models-compare-and-why-continuous-wins/",
-    "date": "2025-06-24T14:01:11.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Legacy pentests give you a snapshot. Attackers see a live stream. Sprocket's Continuous Penetration Testing (CPT) mimics real-world attackers—daily, not annually—so you can fix what matters, faster. L..."
-  },
-  {
     "title": "How the US Military Is Redefining Zero Trust",
     "link": "https://www.darkreading.com/vulnerabilities-threats/how-us-military-redefining-zero-trust",
     "date": "2025-06-24T14:00:00.000Z",
     "source": "Dark Reading",
     "summary": "Trust no longer comes from network boundaries alone but from continuously validating and protecting data and identities at every interaction...."
-  },
-  {
-    "title": "US House bans WhatsApp on staff devices over security concerns",
-    "link": "https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/",
-    "date": "2025-06-24T13:43:53.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The U.S. House of Representatives has banned the installation and use of WhatsApp on government-issued devices belonging to congressional staff, citing concerns over how the app encrypts and secures d..."
   },
   {
     "title": "Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers",
@@ -803,40 +838,5 @@
     "date": "2025-06-18T20:49:36.000Z",
     "source": "Dark Reading",
     "summary": "OpenAI intends to help streamline the Defense Department's administrative processes using artificial intelligence...."
-  },
-  {
-    "title": "The Triple Threat of Burnout: Overworked, Unsatisfied, Trapped",
-    "link": "https://www.darkreading.com/cybersecurity-operations/triple-threat-burnout-overworked-unsatisfied-trapped",
-    "date": "2025-06-18T20:41:40.000Z",
-    "source": "Dark Reading",
-    "summary": "Many cybersecurity professionals still don't feel comfortable admitting when they need a break. Yet their pressures continue to expand and involve, often leading to burnout and organizational risks...."
-  },
-  {
-    "title": "GodFather Banking Trojan Debuts Virtualization Tactic",
-    "link": "https://www.darkreading.com/cloud-security/godfather-banking-trojan-debuts-virtualization-tactic",
-    "date": "2025-06-18T19:07:24.000Z",
-    "source": "Dark Reading",
-    "summary": "The Android malware is targeting Turkish financial institutions, completely taking over legitimate banking and crypto apps by creating an isolated virtualized environment on a device...."
-  },
-  {
-    "title": "New Tool Traps Jitters to Detect Beacons",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/jitter-trap-tool-detect-beacons",
-    "date": "2025-06-18T15:48:02.000Z",
-    "source": "Dark Reading",
-    "summary": "Concerned by rapidly evolving evasion tactics, the new Jitter-Trap tool from Varonis aims to help organizations detect beacons that help attackers establish communication inside a victim network...."
-  },
-  {
-    "title": "How CISOs Can Govern AI &amp; Meet Evolving Regulations",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/cisos-govern-ai-evolving-regulations",
-    "date": "2025-06-18T14:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "Security teams are no longer just the last line of defense — they are the foundation for responsible AI adoption...."
-  },
-  {
-    "title": "Serpentine#Cloud Uses Cloudflare Tunnels in Sneak Attacks",
-    "link": "https://www.darkreading.com/cloud-security/serpentinecloud-cloudflare-tunnels-sneak-attacks",
-    "date": "2025-06-18T13:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "An unidentified threat actor is using .lnk Windows shortcut files in a series of sophisticated attacks utilizing in-memory code execution and living-off-the-land cyberattack strategies...."
   }
 ]
