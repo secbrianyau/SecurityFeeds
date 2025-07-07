@@ -9,12 +9,232 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Jul 2025 15:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 18:25:44 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Jul 2025 15:18:28 GMT</pubDate>
+        <pubDate>Mon, 07 Jul 2025 18:25:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Atomic macOS infostealer adds backdoor for persistent attacks]]></title>
+            <description><![CDATA[Malware analyst discovered a new version of the Atomic macOS info-stealer (also known as 'AMOS') that comes with a backdoor, to attackers persistent access to compromised systems. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 18:24:46 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['Hunters International' RaaS Group Closes Its Doors]]></title>
+            <description><![CDATA[The announcement comes just months after security researchers observed that the group was making the transition to rebrand to World Leaks, a data theft outfit....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/hunters-international-raas-group-closes-doors</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/hunters-international-raas-group-closes-doors</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 18:16:51 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Eyes 16.7M Gas Cap Under Vitalik Buterin’s New Proposal]]></title>
+            <description><![CDATA[The proposal would reject transactions exceeding 16.77 million gas, and would ensure oversized transactions cannot monopolize block resources during validation....]]></description>
+            <link>https://cryptopotato.com/ethereum-eyes-16-7m-gas-cap-under-vitalik-buterins-new-proposal/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ethereum-eyes-16-7m-gas-cap-under-vitalik-buterins-new-proposal/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 18:15:52 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Strategy adds $21B in Bitcoin value during Q2 but faces $4B tax hit]]></title>
+            <description><![CDATA[Strategy, the largest corporate holder of Bitcoin, expanded its digital asset portfolio by $21 billion in the second quarter of 2025, driven largely by BTC’s sharp price increase. According to the Mic...]]></description>
+            <link>https://cryptoslate.com/strategy-adds-21b-in-bitcoin-value-during-q2-but-faces-4b-tax-hit/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/strategy-adds-21b-in-bitcoin-value-during-q2-but-faces-4b-tax-hit/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 17:53:35 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Without Operational Alpha, Bitcoin Treasury Company Premiums Will Collapse]]></title>
+            <description><![CDATA[K33’s Torbjørn Bull Jenssen says simply raising bitcoin funds to chase "bitcoin yield" is not a sustainable business plan....]]></description>
+            <link>https://www.coindesk.com/opinion/2025/07/07/without-operational-alpha-bitcoin-treasury-company-premiums-will-collapse</link>
+            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/07/07/without-operational-alpha-bitcoin-treasury-company-premiums-will-collapse</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 17:03:14 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Qantas is being extorted in recent data-theft cyberattack]]></title>
+            <description><![CDATA[Qantas has confirmed that it is now being extorted by threat actors following a cyberattack that potentially exposed the data for 6 million customers. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 17:02:02 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ICP Rebounds From Intraday Lows as Support at $4.80 Holds Firm]]></title>
+            <description><![CDATA[ICP shows resilience amid global market volatility, bouncing from a sharp dip and reaffirming bullish consolidation near $4.80....]]></description>
+            <link>https://www.coindesk.com/markets/2025/07/07/icp-rebounds-from-intraday-lows-as-support-at-480-holds-firm</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/icp-rebounds-from-intraday-lows-as-support-at-480-holds-firm</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 16:51:51 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['Batavia' Windows spyware campaign targets dozens of Russian orgs]]></title>
+            <description><![CDATA[A previously undocumented spyware called 'Batavia' has been targeting large industrial enterprises in Russia in a phishing email campaign that uses contract-related lures. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 16:48:39 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The Coming Crypto Tax Bomb]]></title>
+            <description><![CDATA[There’s a growing mismatch between how taxpayers think crypto taxes work and how the IRS now expects them to be handled, says Justin Zanardi, general manager at Countonsheep.com....]]></description>
+            <link>https://www.coindesk.com/opinion/2025/07/07/the-coming-crypto-tax-bomb</link>
+            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/07/07/the-coming-crypto-tax-bomb</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 16:15:52 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[NEAR Protocol Surges Past $2.19 Resistance on 61% Volume Spike]]></title>
+            <description><![CDATA[Decisive breakout from ascending triangle pattern signals potential for continued upward momentum as Bitcoin crosses $109K mark....]]></description>
+            <link>https://www.coindesk.com/markets/2025/07/07/near-protocol-surges-past-usd2-19-resistance-on-61-volume-spike</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/near-protocol-surges-past-usd2-19-resistance-on-61-volume-spike</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 16:06:34 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BNB Holds Near $660 as Traders Weigh Breakout Potential]]></title>
+            <description><![CDATA[Technical analysis suggests that BNB is consolidating, with buyers supporting the price around $659.45 and sellers capping gains at $664.38....]]></description>
+            <link>https://www.coindesk.com/markets/2025/07/07/bnb-holds-near-660-as-traders-weigh-breakout-potential</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/bnb-holds-near-660-as-traders-weigh-breakout-potential</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:57:11 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Kevin O’Leary: U.S. Must Learn From Bitcoin Miners to Win ‘AI Wars’]]></title>
+            <description><![CDATA[Common ground between Bitcoin mining operations and AI data center requirements is now the focus of institutional investors and Washington, D.C. policymakers alike....]]></description>
+            <link>https://www.coindesk.com/policy/2025/07/07/kevin-o-leary-u-s-must-learn-from-bitcoin-miners-to-win-ai-wars</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/07/07/kevin-o-leary-u-s-must-learn-from-bitcoin-miners-to-win-ai-wars</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:53:54 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BONK Reclaims Momentum as Solana ETF Buzz and Ecosystem Growth Drive Rally]]></title>
+            <description><![CDATA[BONK gained 9% as trading volume spiked and BONKbot revenue and hackathon success boosted the ecosystem...]]></description>
+            <link>https://www.coindesk.com/markets/2025/07/07/bonk-reclaims-momentum-as-solana-etf-buzz-and-ecosystem-growth-drive-rally</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/bonk-reclaims-momentum-as-solana-etf-buzz-and-ecosystem-growth-drive-rally</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:50:17 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[No Monday Buy, but Strategy Reports $14B Bitcoin Gain]]></title>
+            <description><![CDATA[Strategy skipped its usual Monday BTC buy, but reported $14B in Q2 2025 gains as its stash ballooned to $64.36B in fair value....]]></description>
+            <link>https://cryptopotato.com/no-monday-buy-but-strategy-reports-14b-bitcoin-gain/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/no-monday-buy-but-strategy-reports-14b-bitcoin-gain/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:42:49 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[EU grants MiCA licenses to 53 crypto firms, Tether and Binance left behind]]></title>
+            <description><![CDATA[More than 50 institutions, including major stablecoin issuers and crypto service providers, have received regulatory approval under the European Union’s Markets in Crypto-Assets (MiCA) framework withi...]]></description>
+            <link>https://cryptoslate.com/eu-grants-mica-licenses-to-53-crypto-firms-tether-binance-left-behind/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/eu-grants-mica-licenses-to-53-crypto-firms-tether-binance-left-behind/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:30:52 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Russia Creates Registry of Crypto Mining Equipment to Tighten Oversight]]></title>
+            <description><![CDATA[Officials say the list will help identify miners and enforce new tax and energy rules as Russia formalizes the crypto sector....]]></description>
+            <link>https://www.coindesk.com/policy/2025/07/07/russia-creates-registry-of-crypto-mining-equipment-to-tighten-oversight</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/07/07/russia-creates-registry-of-crypto-mining-equipment-to-tighten-oversight</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:20:29 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Miner Bit Digital Up 26% After Swapping Bitcoin for Ether]]></title>
+            <description><![CDATA[The company in late June announced a shift to focus on ether holding and staking....]]></description>
+            <link>https://www.coindesk.com/business/2025/07/07/crypto-miner-bit-digital-up-26-after-swapping-bitcoin-for-ether</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/07/07/crypto-miner-bit-digital-up-26-after-swapping-bitcoin-for-ether</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:13:19 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SEC Sets July Deadline for Solana ETF Refilings, Clearing Path for Pre-October Approval]]></title>
+            <description><![CDATA[The first final deadline for a spot Solana exchange-traded fund is October 10, but the Securities and Exchange Commission is under pressure to keep the approval process moving smoothly, sources say....]]></description>
+            <link>https://www.coindesk.com/policy/2025/07/07/sec-sets-july-deadline-for-solana-etf-refilings-clearing-path-for-pre-october-approval</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/07/07/sec-sets-july-deadline-for-solana-etf-refilings-clearing-path-for-pre-october-approval</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:09:17 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Polymarket Embroiled in $160M Controversy Over Whether Zelensky Wore a Suit at NATO]]></title>
+            <description><![CDATA[The disputed resolution reignites a debate about the fairness of UMA's governance protocol....]]></description>
+            <link>https://www.coindesk.com/markets/2025/07/07/polymarket-embroiled-in-usd160m-controversy-over-whether-zelensky-wore-a-suit-at-nato</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/polymarket-embroiled-in-usd160m-controversy-over-whether-zelensky-wore-a-suit-at-nato</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:06:45 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Threshold's Bitcoin Backed tBTC Debuts on Sui, Unlocking $500M in Liquidity]]></title>
+            <description><![CDATA[The collaboration allows Sui users to directly mint tBTC on the network....]]></description>
+            <link>https://www.coindesk.com/markets/2025/07/07/threshold-s-bitcoin-backed-tbtc-debuts-on-sui-unlocking-usd500m-in-liquidity</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/threshold-s-bitcoin-backed-tbtc-debuts-on-sui-unlocking-usd500m-in-liquidity</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 07 Jul 2025 15:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-07</dc:date>
+        </item>
         <item>
             <title><![CDATA[Hackers abuse leaked Shellter red team tool to deploy infostealers]]></title>
             <description><![CDATA[Shellter Project, the vendor of a commercial AV/EDR evasion loader for penetration testing, confirmed that hackers used its Shellter Elite product in attacks after a customer leaked a copy of the soft...]]></description>
@@ -346,39 +566,6 @@
             <dc:date>2025-07-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ripple (XRP) Exploded by 600% the Last Time This Happened: Details Inside]]></title>
-            <description><![CDATA[A "big pump" or a violent crash: what could be next for XRP's price?...]]></description>
-            <link>https://cryptopotato.com/ripple-xrp-exploded-by-600-the-last-time-this-happened-details-inside/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ripple-xrp-exploded-by-600-the-last-time-this-happened-details-inside/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 09:37:40 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Potential Bull Market Resistance: $115K or $223K?]]></title>
-            <description><![CDATA[The analysis of linear and log-scaled price charts reveal potential resistance levels for BTC....]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/07/bitcoin-s-potential-bull-market-resistance-usd115k-or-usd223k</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/bitcoin-s-potential-bull-market-resistance-usd115k-or-usd223k</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 09:19:27 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Dogecoin (DOGE) Posts Biggest Daily Gains as Bitcoin (BTC) Taps $109K: Market Watch]]></title>
-            <description><![CDATA[DOGE and AAVE are today's biggest gainers....]]></description>
-            <link>https://cryptopotato.com/dogecoin-doge-posts-biggest-daily-gains-as-bitcoin-btc-taps-109k-market-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/dogecoin-doge-posts-biggest-daily-gains-as-bitcoin-btc-taps-109k-market-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 09:16:54 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
             <title><![CDATA[UAE debunks rumors of crypto-backed Golden Visa for TON investors]]></title>
             <description><![CDATA[Authorities in the United Arab Emirates have officially refuted claims that digital asset investors now qualify for the country’s long-term Golden Visa. The clarification comes after social media repo...]]></description>
             <link>https://cryptoslate.com/uae-debunks-rumors-of-crypto-backed-golden-visa-for-ton-investors/</link>
@@ -387,83 +574,6 @@
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Mon, 07 Jul 2025 08:49:31 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Secret Service Quietly Becomes a Leading Crypto Cop as Digital Fraud Soars: Bloomberg]]></title>
-            <description><![CDATA[Industry partners like Coinbase and Tether have assisted in large-scale recoveries, including $225 million in USDT tied to romance-investment scams...]]></description>
-            <link>https://www.coindesk.com/policy/2025/07/07/us-secret-service-quietly-becomes-a-leading-crypto-cop-as-digital-fraud-soars-bloomberg</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/07/07/us-secret-service-quietly-becomes-a-leading-crypto-cop-as-digital-fraud-soars-bloomberg</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 08:29:16 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[The Blockchain Group Bolsters Bitcoin Reserves With $12.5M BTC Acquisition]]></title>
-            <description><![CDATA[European bitcoin treasury firm hits 1,904 BTC milestone with massive yield....]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/07/the-blockchain-group-bolsters-bitcoin-reserves-with-125m-btc-acquisition</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/the-blockchain-group-bolsters-bitcoin-reserves-with-125m-btc-acquisition</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 07:53:40 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hyperliquid Trader Qwatio Loses $3.7M This Week on Extreme Bitcoin, Ether Shorts ]]></title>
-            <description><![CDATA[Qwatio currently has a BTC short position with 40X leverage, and a 25x leveraged short on ETH....]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/07/hyperliquid-trader-qwatio-loses-37m-this-week-on-extreme-bitcoin-ether-shorts</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/hyperliquid-trader-qwatio-loses-37m-this-week-on-extreme-bitcoin-ether-shorts</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 05:58:54 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Metaplanet Picks Up Additional 2,205 BTC, Holdings Now Cross 15,555 Bitcoin]]></title>
-            <description><![CDATA[For the quarter ending June 30, the company reported a BTC Yield of 95.6%, following a 309.8% yield in the previous quarter....]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/07/metaplanet-picks-up-additional-2205-btc-holdings-now-cross-15555-bitcoin</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/metaplanet-picks-up-additional-2205-btc-holdings-now-cross-15555-bitcoin</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 05:57:41 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[XRP Breaks Above $2.28 as Ripple’s Bank Charter Bid Ignites Bullish Surge]]></title>
-            <description><![CDATA[Ripple’s push for a U.S. national bank license injects fresh momentum into XRP, breaking key resistance amid surging volume...]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/07/xrp-breaks-above-228-as-ripples-bank-charter-bid-ignites-bullish-surge</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/xrp-breaks-above-228-as-ripples-bank-charter-bid-ignites-bullish-surge</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 05:50:21 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Dogecoin Sees Heavy Buying From Whales as Elon Musk Supports BTC in New Party Rollout]]></title>
-            <description><![CDATA[Elon Musk’s America Party feud with Trump adds fuel to DOGE’s recovery narrative....]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/07/dogecoin-sees-heavy-buying-from-whales-as-elon-musk-supports-btc-in-new-party-rollout</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/dogecoin-sees-heavy-buying-from-whales-as-elon-musk-supports-btc-in-new-party-rollout</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 05:39:26 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Dogecoin Pops 6% to Lead Majors Gains as Bitcoin Nears $110K on Fresh Rate-Cut Optimism]]></title>
-            <description><![CDATA[“If we see a soft CPI print on Tuesday, that could open the door for a Fed rate cut later this year,” one trader said....]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/07/dogecoin-pops-6-to-lead-majors-gains-as-bitcoin-nears-110k-on-fresh-rate-cut-optimism</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/dogecoin-pops-6-to-lead-majors-gains-as-bitcoin-nears-110k-on-fresh-rate-cut-optimism</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 05:07:58 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-07-07</dc:date>
         </item>
         <item>
@@ -476,39 +586,6 @@ The activity has been attrib...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Mon, 07 Jul 2025 04:51:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[UAE Authorities Debunk Reports of Getting Golden Visa by Staking Toncoin]]></title>
-            <description><![CDATA[Toncoin jumped 12% over the weekend, after TON foundation made the Golden Visa announcement....]]></description>
-            <link>https://www.coindesk.com/policy/2025/07/07/uae-authorities-debunk-reports-of-getting-golden-visa-by-staking-toncoin</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/07/07/uae-authorities-debunk-reports-of-getting-golden-visa-by-staking-toncoin</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 04:23:21 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk Says America Party Will Embrace BTC as 'Fiat Is Hopeless']]></title>
-            <description><![CDATA[The America Party formed out of a rift between Musk and President Trump over the 'Big Beautiful Bill'...]]></description>
-            <link>https://www.coindesk.com/policy/2025/07/07/elon-musk-says-america-party-will-embrace-btc-as-fiat-is-hopeless</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/07/07/elon-musk-says-america-party-will-embrace-btc-as-fiat-is-hopeless</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 02:35:36 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Asia Morning Briefing: Michael Saylor's BTC Buys Aren't Making Up for Slowing Spot Demand, Say Analysts]]></title>
-            <description><![CDATA[Institutional bitcoin purchases are failing to offset a decline in spot market demand, raising concerns about BTC's near-term price momentum....]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/07/asia-morning-briefing-michael-saylors-btc-buys-arent-making-up-for-slowing-spot-demand-say-analysts</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/07/asia-morning-briefing-michael-saylors-btc-buys-arent-making-up-for-slowing-spot-demand-say-analysts</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 07 Jul 2025 01:22:31 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-07-07</dc:date>
         </item>
         <item>
@@ -553,39 +630,6 @@ The activity has been attrib...]]></description>
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Sun, 06 Jul 2025 21:54:53 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-07-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin’s silent opponent: why industry veteran Jameson Lopp sees apathy as the greatest threat]]></title>
-            <description><![CDATA[Welcome to Slate Sundays, CryptoSlate’s new weekly feature showcasing in-depth interviews, expert analysis, and thought-provoking op-eds that go beyond the headlines to explore the ideas and voices sh...]]></description>
-            <link>https://cryptoslate.com/bitcoins-silent-opponent-why-industry-veteran-jameson-lopp-sees-apathy-as-the-greatest-threat/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoins-silent-opponent-why-industry-veteran-jameson-lopp-sees-apathy-as-the-greatest-threat/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sun, 06 Jul 2025 20:00:17 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-07-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[TON offers UAE golden visa for stakers, making residency by crypto a reality]]></title>
-            <description><![CDATA[Telegram’s Open Network (TON) today announced an interesting initiative: a 10-year UAE Golden Visa to investors who stake $100,000 worth of Toncoin (TON) for three years. The program dramatically lowe...]]></description>
-            <link>https://cryptoslate.com/ton-offers-uae-golden-visa-for-stakers-making-residency-by-crypto-a-reality/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ton-offers-uae-golden-visa-for-stakers-making-residency-by-crypto-a-reality/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sun, 06 Jul 2025 17:22:52 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-07-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[TON Surges on UAE Golden Visa News; Crypto Community Reacts With Excitement and Doubt]]></title>
-            <description><![CDATA[Stake $100K in Toncoin and pay a $35K fee for a UAE Golden Visa, says TON Foundation; community debates legitimacy and government support....]]></description>
-            <link>https://www.coindesk.com/markets/2025/07/06/ton-surges-on-uae-golden-visa-news-crypto-community-reacts-with-excitement-and-doubt</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/07/06/ton-surges-on-uae-golden-visa-news-crypto-community-reacts-with-excitement-and-doubt</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Sun, 06 Jul 2025 16:33:56 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-07-06</dc:date>
         </item>
         <item>
@@ -709,28 +753,6 @@ The activity has been attrib...]]></description>
             <pubDate>Fri, 04 Jul 2025 07:17:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2025-07-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch]]></title>
-            <description><![CDATA[A few new code references in the ChatGPT web app and Android point to an Operator-like tool in GPT's chain of thoughts. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 03 Jul 2025 23:22:31 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-07-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[xAI prepares Grok 4 Code as it plans to take on Claude and Gemini]]></title>
-            <description><![CDATA[xAI is preparing the rollout of Grok 4, which replaces Grok 3 as the new state-of-the-art model. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 03 Jul 2025 19:00:18 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-07-03</dc:date>
         </item>
         <item>
             <title><![CDATA[ 16 billion passwords leaked. Is it finally time for blockchain-based digital identity? ]]></title>
@@ -1000,7 +1022,7 @@ Where do you turn when firewalls and ...]]></description>
         </item>
         <item>
             <title><![CDATA[U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware]]></title>
-            <description><![CDATA[The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has levied sanctions against Russia-based bulletproof hosting (BPH) service provider Aeza Group to assist threat actors in...]]></description>
+            <description><![CDATA[The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has levied sanctions against Russia-based bulletproof hosting (BPH) service provider Aeza Group for assisting threat actor...]]></description>
             <link>https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html</link>
             <guid isPermaLink="false">https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html</guid>
             <category><![CDATA[The Hacker News]]></category>
@@ -1320,28 +1342,6 @@ To tha...]]></description>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 27 Jun 2025 20:50:45 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA['CitrixBleed 2' Shows Signs of Active Exploitation]]></title>
-            <description><![CDATA[If exploited, the critical vulnerability allows attackers to maintain access for longer periods of time than the original CitrixBleed flaw, all while remaining undetected....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/citrixbleed-2-active-exploitation</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/citrixbleed-2-active-exploitation</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 27 Jun 2025 18:50:12 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-06-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Scattered Spider Taps CFO Credentials in 'Scorched Earth' Attack]]></title>
-            <description><![CDATA[In a recent intrusion, the notorious cybercriminal collective accessed CyberArk vaults and obtained more 1,400 secrets, subverted Azure, VMware, and Snowflake environments, and for the first known tim...]]></description>
-            <link>https://www.darkreading.com/cloud-security/scattered-spider-cfo-scorched-earth-attack</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/scattered-spider-cfo-scorched-earth-attack</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 27 Jun 2025 17:11:23 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-06-27</dc:date>
         </item>
