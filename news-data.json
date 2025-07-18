@@ -1,10 +1,101 @@
 [
   {
+    "title": "Arch Linux pulls AUR packages that installed Chaos RAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/",
+    "date": "2025-07-18T21:12:39.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Arch Linux has pulled three malicious packages uploaded to the Arch User Repository (AUR) were used to install the CHAOS remote access trojan (RAT) on Linux devices. [...]..."
+  },
+  {
+    "title": "WLFI token set to trade within eight weeks after 99.94% vote opens transfers",
+    "link": "https://cryptoslate.com/wlfi-token-set-to-trade-within-eight-weeks-after-99-94-vote-opens-transfers/",
+    "date": "2025-07-18T20:45:06.000Z",
+    "source": "CryptoSlate",
+    "summary": "World Liberty Financial announced that its WLFI governance token will begin trading within six to eight weeks of July 18, completing a community mandate that authorized on-chain transfers and secondar..."
+  },
+  {
+    "title": "Trump’s Crypto Venture Now Holds $251M in ETH: $26M Profit and Counting",
+    "link": "https://cryptopotato.com/trumps-crypto-venture-now-holds-251m-in-eth-26m-profit-and-counting/",
+    "date": "2025-07-18T20:14:09.000Z",
+    "source": "CryptoPotato",
+    "summary": "ETH’s 43% monthly rally is paying off for Trump-linked WLF. Its 70K ETH stash is now worth $251M, showing a $26M paper profit...."
+  },
+  {
+    "title": "Trump signs GENIUS Act into law, activating America’s first regulatory framework for stablecoins",
+    "link": "https://cryptoslate.com/trump-signs-genius-act-into-law-activating-americas-first-regulatory-framework-for-stablecoins/",
+    "date": "2025-07-18T20:01:36.000Z",
+    "source": "CryptoSlate",
+    "summary": "President Donald Trump signed the GENIUS Act into law on July 18, pledging that the measure will secure “global dominance” in crypto technology. The legislation gives the US its first federal framewor..."
+  },
+  {
+    "title": "UK ties GRU to stealthy Microsoft 365 credential-stealing malware",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/",
+    "date": "2025-07-18T19:39:40.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The UK National Cyber Security Centre (NCSC) has formally attributed 'Authentic Antics' espionage malware attacks to APT28 (Fancy Bear), threat actor already linked to Russia's military intelligence s..."
+  },
+  {
+    "title": "Microsoft mistakenly tags Windows Firewall error log bug as fixed",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/",
+    "date": "2025-07-18T19:34:59.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft has mistakenly tagged an ongoing Windows Firewall error message bug as fixed in recent updates, stating that they are still working on a resolution. [...]..."
+  },
+  {
+    "title": "'PoisonSeed' Attacker Skates Around FIDO Keys",
+    "link": "https://www.darkreading.com/remote-workforce/poisonseed-attacker-fido-keys",
+    "date": "2025-07-18T19:19:10.000Z",
+    "source": "Dark Reading",
+    "summary": "Researchers discovered a novel phishing attack that serves the victim a QR code as part of supposed multifactor authentication (MFA), in order to get around FIDO-based protections...."
+  },
+  {
+    "title": "Dogecoin Rockets Beyond $0.20 — Is $0.36 or Even $0.54 Next?",
+    "link": "https://cryptopotato.com/dogecoin-rockets-beyond-0-20-is-0-36-or-even-0-54-next/",
+    "date": "2025-07-18T19:08:02.000Z",
+    "source": "CryptoPotato",
+    "summary": "Dogecoin breaks past $0.20 resistance with 14% daily gain; eyes next hurdle at $0.36 amid whale and institutional interest...."
+  },
+  {
+    "title": "New ChatGPT o3-alpha model hints at coding upgrade",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/",
+    "date": "2025-07-18T19:01:51.000Z",
+    "source": "Bleeping Computer",
+    "summary": "ChatGPT's o3 is OpenAI's best model to date because it features reasoning, and it might get even better in the next update. [...]..."
+  },
+  {
+    "title": "JPMorgan reveals global regulators favor tokenized bank deposits over stablecoins",
+    "link": "https://cryptoslate.com/jpmorgan-reveals-global-regulators-favor-tokenized-bank-deposits-over-stablecoins/",
+    "date": "2025-07-18T18:43:28.000Z",
+    "source": "CryptoSlate",
+    "summary": "JPMorgan’s latest research indicates that international regulators are more inclined to support tokenized deposits, particularly those that preserve the existing structure and stability of fiat-based ..."
+  },
+  {
+    "title": "China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones",
+    "link": "https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html",
+    "date": "2025-07-18T18:42:00.000Z",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have shed light on a mobile forensics tool called Massistant that's used by law enforcement authorities in China to gather information from seized mobile devices.\nThe hacking..."
+  },
+  {
+    "title": "UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns",
+    "link": "https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html",
+    "date": "2025-07-18T18:23:00.000Z",
+    "source": "The Hacker News",
+    "summary": "Multiple sectors in China, Hong Kong, and Pakistan have become the target of a threat activity cluster tracked as UNG0002 (aka Unknown Group 0002) as part of a broader cyber espionage campaign.\n\"This ..."
+  },
+  {
     "title": "Russian alcohol retailer WineLab closes stores after ransomware attack",
     "link": "https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/",
     "date": "2025-07-18T18:20:10.000Z",
     "source": "Bleeping Computer",
     "summary": "WineLab, the retail store of the largest alcohol company in Russia, has closed its stores following a cyberattack that is impacting its operations and causing purchase problems to its customers. [...]..."
+  },
+  {
+    "title": "Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks",
+    "link": "https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html",
+    "date": "2025-07-18T18:13:00.000Z",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have disclosed details of a new malware called MDifyLoader that has been observed in conjunction with cyber attacks exploiting security flaws in Ivanti Connect Secure (ICS) a..."
   },
   {
     "title": "Charles Schwab CEO says Bitcoin, Ethereum trading coming soon",
@@ -26,6 +117,13 @@
     "date": "2025-07-18T16:49:12.000Z",
     "source": "CryptoPotato",
     "summary": "CRO trades above key support after ETF news and SEC clearance, with traders watching for a move toward $0.18...."
+  },
+  {
+    "title": "Nearly 2,000 MCP Servers Possess No Security Whatsoever",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/2000-mcp-servers-security",
+    "date": "2025-07-18T16:47:15.000Z",
+    "source": "Dark Reading",
+    "summary": "Authentication in MCP — the backbone of agentic AI — is optional, and nobody's implementing it. Instead, they're allowing any passing attackers full control of their servers...."
   },
   {
     "title": "New Phobos and 8base ransomware decryptor recover files for free",
@@ -119,20 +217,6 @@
     "summary": "XRP has hit a new all-time high of $3.65, driven largely by a spike in trading activity across South Korea and the United States. Data from CryptoSlate shows that XRP ranked among the top five most tr..."
   },
   {
-    "title": "Ripple Climbs Higher: XRP Is Bigger Than Uber, Boeing, and Guns for Goldman",
-    "link": "https://cryptopotato.com/ripple-climbs-higher-xrp-is-bigger-than-uber-boeing-and-guns-for-goldman/",
-    "date": "2025-07-18T12:46:24.000Z",
-    "source": "CryptoPotato",
-    "summary": "Ripple's market cap is beyond $200 billion now...."
-  },
-  {
-    "title": "Bitcoin Price Analysis: Is Bitcoin Due for a Reset Before Its Next Breakout??",
-    "link": "https://cryptopotato.com/bitcoin-price-analysis-is-bitcoin-due-for-a-reset-before-its-next-breakout/",
-    "date": "2025-07-18T12:20:40.000Z",
-    "source": "CryptoPotato",
-    "summary": "Bitcoin has seen a significant uptrend in recent weeks, climbing steadily within its ascending channel and recently hitting a new all-time high at around $123,000. However, signs of buyer exhaustion a..."
-  },
-  {
     "title": "Bitcoin dominance hits 3 month low falling 6% as Ethereum breaks $3,600",
     "link": "https://cryptoslate.com/insights/bitcoin-dominance-hits-3-month-low-falling-6-as-ethereum-breaks-3600/",
     "date": "2025-07-18T11:46:38.000Z",
@@ -182,13 +266,6 @@
     "summary": "OpenAI's next foundational and state-of-the-art model, GPT-5, is still on its way after a delay. OpenAI won't tell us the release date for now. [...]..."
   },
   {
-    "title": "Did $1.3B Pump Fun token raise fuel new memecoin season by legitimizing launchpad memes?",
-    "link": "https://cryptoslate.com/did-600-million-pump-fun-ico-fuel-new-memecoin-season-by-legitimizing-launchpad-memes/",
-    "date": "2025-07-18T09:14:36.000Z",
-    "source": "CryptoSlate",
-    "summary": "Pump.fun’s recent token sale has reignited debate around the sustainability of Solana’s meme launchpad model, according to a July 16 report by Alea Research titled “PumpFun: Asymmetric Upside or The F..."
-  },
-  {
     "title": "Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai",
     "link": "https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/",
     "date": "2025-07-18T01:23:20.000Z",
@@ -210,25 +287,11 @@
     "summary": "A critical Citrix NetScaler vulnerability, tracked as CVE-2025-5777 and dubbed \"CitrixBleed 2,\" was actively exploited nearly two weeks before proof-of-concept (PoC) exploits were made public, despite..."
   },
   {
-    "title": "XRP hits new ATH of $3.55 after 7 years amid altcoin surge",
-    "link": "https://cryptoslate.com/xrp-hits-new-ath-of-3-55-after-7-years-amid-altcoin-surge/",
-    "date": "2025-07-17T22:34:22.000Z",
-    "source": "CryptoSlate",
-    "summary": "Ripple’s XRP surged to a new all-time high of $3.55 on July 17, climbing more than 36% over the past week and over 13% over the past 24 hours. The rally marked XRP’s first break above its 2018 peak an..."
-  },
-  {
     "title": "VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin",
     "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/",
     "date": "2025-07-17T21:36:42.000Z",
     "source": "Bleeping Computer",
     "summary": "VMware fixed four vulnerabilities in VMware ESXi, Workstation, Fusion, and Tools that were exploited as zero-days during the Pwn2Own Berlin 2025 hacking contest in May 2025. [...]..."
-  },
-  {
-    "title": "BitMine and SharpLink amass $1B stash amid Ethereum’s rising appeal as ‘digital oil’",
-    "link": "https://cryptoslate.com/insights/bitmine-and-sharplink-amass-1b-stash-amid-ethereums-rising-appeal-as-digital-oil/",
-    "date": "2025-07-17T21:36:20.000Z",
-    "source": "CryptoSlate",
-    "summary": "Ethereum-focused firms BitMine and SharpLink Gaming have each surpassed $1 billion in ETH holdings. BitMine disclosed on July 17 that it now holds 300,657 ETH, valued at approximately $1.04 billion. T..."
   },
   {
     "title": "Microsoft Teams voice calls abused to push Matanbuchus malware",
@@ -271,34 +334,6 @@
     "date": "2025-07-17T18:53:29.000Z",
     "source": "Dark Reading",
     "summary": "The suspect faces three charges for his alleged crimes that could earn him up to five years in federal prison, and a heap of fines...."
-  },
-  {
-    "title": "Hacker steals $27 million in BigONE exchange crypto breach",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/",
-    "date": "2025-07-17T16:54:26.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Cryptocurrency exchange BigONE announced that it suffered a security breach, in which hackers stole various digital assets valued at $27 million. [...]..."
-  },
-  {
-    "title": "Nearly 2,000 MCP Servers Possess No Security Whatsoever",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/2000-mcp-servers-security",
-    "date": "2025-07-17T16:47:15.000Z",
-    "source": "Dark Reading",
-    "summary": "Authentication in MCP — the backbone of agentic AI — is optional, and nobody's implementing it. Instead, they're allowing any passing attackers full control of their servers...."
-  },
-  {
-    "title": "Chinese hackers breached National Guard to steal network configurations",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/",
-    "date": "2025-07-17T16:02:57.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The Chinese state-sponsored hacking group known as Salt Typhoon breached and remained undetected in a U.S. Army National Guard network for nine months in 2024, stealing network configuration files and..."
-  },
-  {
-    "title": "Max severity Cisco ISE bug allows pre-auth command execution, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/",
-    "date": "2025-07-17T15:53:26.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A critical vulnerability (CVE-2025-20337) in Cisco's Identity Services Engine (ISE) could be exploited to let an unauthenticated attacker store malicious files, execute arbitrary code, or gain root pr..."
   },
   {
     "title": "Why Cybersecurity Still Matters for America's Schools",
@@ -803,40 +838,5 @@
     "date": "2025-07-10T07:24:00.000Z",
     "source": "The Hacker News",
     "summary": "A high-severity security flaw has been disclosed in ServiceNow's platform that, if successfully exploited, could result in data exposure and exfiltration.\nThe vulnerability, tracked as CVE-2025-3648 (..."
-  },
-  {
-    "title": "North American APT Uses Exchange Zero-Day to Attack China",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china",
-    "date": "2025-07-10T01:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "Stories about Chinese APTs attacking the US and Canada are plentiful. In a turnabout, researchers found what they believe is a North American entity attacking a Chinese entity, thanks to a mysterious ..."
-  },
-  {
-    "title": "Browser Exploits Wane as Users Become the Attack Surface",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/browser-exploits-wane-users-become-attack-surface",
-    "date": "2025-07-09T22:18:38.000Z",
-    "source": "Dark Reading",
-    "summary": "For browsers, exploitation is out — and getting users to compromise their own systems is in. Improved browser security has forced attackers to adapt their tactics, and they've accepted the challenge...."
-  },
-  {
-    "title": "An NVIDIA Container Bug &amp; Chance to Harden Kubernetes",
-    "link": "https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes",
-    "date": "2025-07-09T19:07:39.000Z",
-    "source": "Dark Reading",
-    "summary": "A container escape flaw involving the NVIDIA Container Toolkit could have enabled a threat actor to access AI datasets across tenants...."
-  },
-  {
-    "title": "New AI Malware PoC Reliably Evades Microsoft Defender",
-    "link": "https://www.darkreading.com/endpoint-security/ai-malware-poc-evades-microsoft-defender",
-    "date": "2025-07-09T18:40:03.000Z",
-    "source": "Dark Reading",
-    "summary": "Worried about hackers employing LLMs to write powerful malware? Using targeted reinforcement learning (RL) to train open source models in specific tasks has yielded the capability to do just that...."
-  },
-  {
-    "title": "Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets",
-    "link": "https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html",
-    "date": "2025-07-09T16:26:00.000Z",
-    "source": "The Hacker News",
-    "summary": "The Initial Access Broker (IAB) known as Gold Melody has been attributed to a campaign that exploits leaked ASP.NET machine keys to obtain unauthorized access to organizations and peddle that access t..."
   }
 ]
