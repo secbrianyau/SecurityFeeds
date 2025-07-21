@@ -9,12 +9,67 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Jul 2025 04:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jul 2025 06:28:55 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Jul 2025 04:03:31 GMT</pubDate>
+        <pubDate>Mon, 21 Jul 2025 06:28:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Is verification the new ‘Decentralized’?]]></title>
+            <description><![CDATA[For years, decentralization was crypto’s talisman. It stood for resilience, neutrality, and openness — a system immune to capture or control. But it was overused, underdefined, and has now diluted int...]]></description>
+            <link>https://cryptoslate.com/is-verification-the-new-decentralized/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/is-verification-the-new-decentralized/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 21 Jul 2025 05:00:27 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-07-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft releases emergency patches for SharePoint RCE flaws exploited in attacks]]></title>
+            <description><![CDATA[Microsoft has released emergency SharePoint security updates for two zero-day vulnerabilities tracked as CVE-2025-53770 and CVE-2025-53771 that have compromised services worldwide in "ToolShell" attac...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 21 Jul 2025 04:41:46 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-07-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Releases Urgent Patch for SharePoint RCE Flaw Exploited in Ongoing Cyber Attacks]]></title>
+            <description><![CDATA[Microsoft on Sunday released security patches for an actively exploited security flaw in SharePoint and also released details of another vulnerability that it said has been addressed with "more robust...]]></description>
+            <link>https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/07/microsoft-releases-urgent-patch-for.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 21 Jul 2025 03:30:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-07-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hard-Coded Credentials Found in HPE Instant On Devices Allow Admin Access]]></title>
+            <description><![CDATA[Hewlett-Packard Enterprise (HPE) has released security updates to address a critical security flaw affecting Instant On Access Points that could allow an attacker to bypass authentication and gain adm...]]></description>
+            <link>https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/07/hard-coded-credentials-found-in-hpe.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 21 Jul 2025 03:25:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-07-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics]]></title>
+            <description><![CDATA[A new attack campaign has compromised more than 3,500 websites worldwide with JavaScript cryptocurrency miners, marking the return of browser-based cryptojacking attacks once popularized by the likes ...]]></description>
+            <link>https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 21 Jul 2025 03:00:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-07-21</dc:date>
+        </item>
         <item>
             <title><![CDATA[Peter Schiff: Bitcoin Price Record Highlights US Dollar Weakness]]></title>
             <description><![CDATA[Bitcoin's price is flying at historic record highs, buoyed by a broad and insatiable demand far above US stock market gains at their own all time highs. But EuroPac chief Peter Schiff says US dollar w...]]></description>
@@ -313,17 +368,6 @@ The zero-day flaw, tracked as CVE-2025-53770 (CVSS score...]]></description>
             <pubDate>Sat, 19 Jul 2025 00:00:56 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-07-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum ETFs register quickest $1B intake to surpass $7B in total inflows]]></title>
-            <description><![CDATA[Ethereum (ETH) spot exchange-traded funds (ETFs) registered the fastest “$1 billion leap” in net inflows in their history, jumping from $6 billion to $7 billion in two days, according to Farside Inves...]]></description>
-            <link>https://cryptoslate.com/ethereum-etfs-register-quickest-1b-intake-to-surpass-7b-in-total-inflows/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ethereum-etfs-register-quickest-1b-intake-to-surpass-7b-in-total-inflows/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 18 Jul 2025 23:00:16 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-07-18</dc:date>
         </item>
         <item>
             <title><![CDATA[New CrushFTP zero-day exploited in attacks to hijack servers]]></title>
@@ -1305,52 +1349,6 @@ The vulnerabili...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 10 Jul 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-07-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ Researchers foil $10M DeFi backdoor in thousands of smart contracts ]]></title>
-            <description><![CDATA[The Venn Network team suspects the threat was linked to the North Korean Lazarus Group, citing its complexity and widespread deployment....]]></description>
-            <link>https://cointelegraph.com/news/venn-network-defi-backdoor-rescue?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
-            <guid isPermaLink="false">https://cointelegraph.com/news/venn-network-defi-backdoor-rescue?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
-            <category><![CDATA[Cointelegraph - Security]]></category>
-            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
-            <pubDate>Thu, 10 Jul 2025 12:22:01 GMT</pubDate>
-            <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-07-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Four Arrested in £440M Cyber Attack on Marks & Spencer, Co-op, and Harrods]]></title>
-            <description><![CDATA[The U.K. National Crime Agency (NCA) on Thursday announced that four people have been arrested in connection with cyber attacks targeting major retailers Marks & Spencer, Co-op, and Harrods.
-The arres...]]></description>
-            <link>https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 10 Jul 2025 12:13:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-07-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[What Security Leaders Need to Know About AI Governance for SaaS]]></title>
-            <description><![CDATA[Generative AI is not arriving with a bang, it’s slowly creeping into the software that companies already use on a daily basis. Whether it is video conferencing or CRM, vendors are scrambling to integr...]]></description>
-            <link>https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/07/what-security-leaders-need-to-know.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 10 Jul 2025 11:00:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-07-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[AMD Warns of New Transient Scheduler Attacks Impacting a Wide Range of CPUs]]></title>
-            <description><![CDATA[Semiconductor company AMD is warning of a new set of vulnerabilities affecting a broad range of chipsets that could lead to information disclosure.
-The flaws, collectively called Transient Scheduler A...]]></description>
-            <link>https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 10 Jul 2025 10:44:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-07-10</dc:date>
         </item>
     </channel>
