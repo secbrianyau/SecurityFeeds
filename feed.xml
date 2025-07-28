@@ -9,12 +9,122 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Jul 2025 18:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 21:17:38 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Jul 2025 18:29:14 GMT</pubDate>
+        <pubDate>Mon, 28 Jul 2025 21:17:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Tea app leak worsens with second database exposing user chats]]></title>
+            <description><![CDATA[The Tea app data breach has grown into an even larger leak, with the stolen data now shared on hacking forums and a second database discovered that allegedly contains 1.1 million private messages exch...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 20:55:09 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Interactive Brokers weighs launching customer stablecoin to power 24/7 funding]]></title>
+            <description><![CDATA[Interactive Brokers is considering launching a stablecoin for customers, a move that would add one of the world’s largest discount brokerages to the list of firms using crypto, Reuters reported on Jul...]]></description>
+            <link>https://cryptoslate.com/interactive-brokers-weighs-launching-customer-stablecoin-to-power-24-7-funding/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/interactive-brokers-weighs-launching-customer-stablecoin-to-power-24-7-funding/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 20:30:04 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin steadies near $114,800 but fragility risk rises as leverage climbs]]></title>
+            <description><![CDATA[Bitcoin (BTC) rebounded from a local low near $114,800, closing last week about 2.1% higher at $119,580 and turning the range floor into tentative support, according to Bitfinex Alpha’s July 28 report...]]></description>
+            <link>https://cryptoslate.com/bitcoin-steadies-near-114800-but-fragility-risk-rises-as-leverage-climbs/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-steadies-near-114800-but-fragility-risk-rises-as-leverage-climbs/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 20:04:07 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[‘Digital Slop:’ Solana CEO’s Brutal Take on NFTs and Meme Coins Sparks Outrage]]></title>
+            <description><![CDATA[Jesse Pollak and Anatoly Yakovenko clashed on X over whether meme coins and NFTs have inherent value or are just speculative "digital slop."...]]></description>
+            <link>https://cryptopotato.com/digital-slop-solana-ceos-brutal-take-on-nfts-and-meme-coins-sparks-outrage/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/digital-slop-solana-ceos-brutal-take-on-nfts-and-meme-coins-sparks-outrage/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 19:56:16 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Insurance Giant Allianz Life Grapples With Breach Affecting 'Majority' of Customers]]></title>
+            <description><![CDATA[The company has yet to report an exact number of how many individuals were impacted by the breach and plans to start the notification process around Aug. 1....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/allianz-life-breach-affecting-majority-customers</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/allianz-life-breach-affecting-majority-customers</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 19:48:44 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Flaw in Gemini CLI AI coding assistant allowed stealthy code execution]]></title>
+            <description><![CDATA[A vulnerability in Google's Gemini CLI allowed attackers to silently execute malicious commands and exfiltrate data from developers' computers using allowlisted programs. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/flaw-in-gemini-cli-ai-coding-assistant-allowed-stealthy-code-execution/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/flaw-in-gemini-cli-ai-coding-assistant-allowed-stealthy-code-execution/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 19:40:44 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Chaos Ransomware Rises as BlackSuit Gang Falls]]></title>
+            <description><![CDATA[Researchers detailed a newer double-extortion ransomware group made up of former members of BlackSuit, which was recently disrupted by international law enforcement....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/chaos-ransomware-rises-blacksuit-falls</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/chaos-ransomware-rises-blacksuit-falls</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 19:20:44 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Trump Eyes Moving U.S. Economy Further Into Crypto Via Mortgages, 401(k)s]]></title>
+            <description><![CDATA[Democrats continue to object as this week promises more developments in the White House's strategy to get digital assets involved in U.S. economic mainstays....]]></description>
+            <link>https://www.coindesk.com/news-analysis/2025/07/28/trump-eyes-moving-u-s-economy-further-into-crypto-via-mortgages-401-k-s</link>
+            <guid isPermaLink="false">https://www.coindesk.com/news-analysis/2025/07/28/trump-eyes-moving-u-s-economy-further-into-crypto-via-mortgages-401-k-s</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 19:16:26 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Endgame Gear mouse config tool infected users with malware]]></title>
+            <description><![CDATA[Gaming peripherals maker Endgame Gear is warning that malware was hidden in its configuration tool for the OP1w 4k v2 mouse hosted on the official website between June 26 and July 9, 2025. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/endgame-gear-mouse-config-tool-infected-users-with-malware/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/endgame-gear-mouse-config-tool-infected-users-with-malware/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 18:48:07 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[XRP Outshines BTC and ETH in This Crucial Metric but Prices Take a Hit]]></title>
+            <description><![CDATA[XRP was stopped once again ahead of the $3.3 resistance....]]></description>
+            <link>https://cryptopotato.com/xrp-outshines-btc-and-eth-in-this-crucial-metric-but-prices-take-a-hit/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/xrp-outshines-btc-and-eth-in-this-crucial-metric-but-prices-take-a-hit/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 18:33:52 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
         <item>
             <title><![CDATA[Is WIF Ready to Rip? Chart Pattern Says Yes]]></title>
             <description><![CDATA[WIF forms a cup and handle pattern near $1.40 as bulls watch key breakout zones and rising volume supports the move....]]></description>
@@ -79,6 +189,17 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Mon, 28 Jul 2025 17:58:25 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2025-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads]]></title>
+            <description><![CDATA[In what's the latest instance of a software supply chain attack, unknown threat actors managed to compromise Toptal's GitHub organization account and leveraged that access to publish 10 malicious pack...]]></description>
+            <link>https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 17:31:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-07-28</dc:date>
         </item>
         <item>
@@ -324,7 +445,7 @@
             <dc:date>2025-07-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[PayPay Expands Crypto Payments for U.S. Merchants to Cut Cross-Border Fees]]></title>
+            <title><![CDATA[PayPal Expands Crypto Payments for U.S. Merchants to Cut Cross-Border Fees]]></title>
             <description><![CDATA[The new feature supports over 100 cryptocurrencies and major crypto wallets, aiming to simplify international commerce for U.S. merchants....]]></description>
             <link>https://www.coindesk.com/business/2025/07/28/paypay-expands-crypto-payments-for-u-s-merchants-to-cut-cross-border-fees</link>
             <guid isPermaLink="false">https://www.coindesk.com/business/2025/07/28/paypay-expands-crypto-payments-for-u-s-merchants-to-cut-cross-border-fees</guid>
@@ -431,28 +552,6 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Mon, 28 Jul 2025 13:36:13 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Mill City Ventures III, Ltd. Announces $450,000,000 Private Placement to Initiate Sui Treasury Strategy]]></title>
-            <description><![CDATA[[PRESS RELEASE – Wayzata, United States / Minnesota, July 28th, 2025] Mill City Ventures III, Ltd. Announces $450,000,000 Private Placement to Initiate Sui Treasury Strategy Upon the closing of the Pr...]]></description>
-            <link>https://cryptopotato.com/mill-city-ventures-iii-ltd-announces-450000000-private-placement-to-initiate-sui-treasury-strategy/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/mill-city-ventures-iii-ltd-announces-450000000-private-placement-to-initiate-sui-treasury-strategy/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 28 Jul 2025 13:35:04 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-07-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Pear Protocol Goes Live with Hyperliquid Integration and Announces $4.1M Strategic Round Led by Castle Island Ventures]]></title>
-            <description><![CDATA[[PRESS RELEASE – London, UK, July 28th, 2025] Pear Protocol, the premier pair trading platform in crypto, has officially launched its native integration with Hyperliquid, unlocking seamless pair tradi...]]></description>
-            <link>https://cryptopotato.com/pear-protocol-goes-live-with-hyperliquid-integration-and-announces-4-1m-strategic-round-led-by-castle-island-ventures/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/pear-protocol-goes-live-with-hyperliquid-integration-and-announces-4-1m-strategic-round-led-by-castle-island-ventures/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 28 Jul 2025 13:34:45 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-07-28</dc:date>
         </item>
         <item>
@@ -600,17 +699,6 @@ This week, the clearest threats weren’t the loudest—they we...]]></descripti
             <dc:date>2025-07-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[OKX Introduces Regulated Crypto Derivatives for Retail Traders in UAE]]></title>
-            <description><![CDATA[Traders in the UAE can now access futures, perpetuals, and options with leverage under new rules...]]></description>
-            <link>https://www.coindesk.com/business/2025/07/28/okx-introduces-regulated-crypto-derivatives-for-retail-traders-in-uae</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/07/28/okx-introduces-regulated-crypto-derivatives-for-retail-traders-in-uae</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 28 Jul 2025 11:28:51 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-07-28</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Email Security Is Stuck in the Antivirus Era: Why It Needs a Modern Approach]]></title>
             <description><![CDATA[Picture this: you’ve hardened every laptop in your fleet with real‑time telemetry, rapid isolation, and automated rollback. But the corporate mailbox—the front door for most attackers—is still guarded...]]></description>
             <link>https://thehackernews.com/2025/07/email-security-is-stuck-in-antivirus.html</link>
@@ -641,28 +729,6 @@ This week, the clearest threats weren’t the loudest—they we...]]></descripti
             <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
             <pubDate>Mon, 28 Jul 2025 10:42:11 GMT</pubDate>
             <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2025-07-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Binance launches RWUSD yield bearing stablecoin-like product offering 4.2% APR from RWAs]]></title>
-            <description><![CDATA[Binance has launched RWUSD, a new principal-protected yield product offering up to 4.2% APR benchmarked against tokenized U.S. Treasury bills and other real-world assets. The offering aims to continue...]]></description>
-            <link>https://cryptoslate.com/binance-launches-rwusd-yield-bearing-stablecoin-like-rwa-product-offering-4-2-apr/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/binance-launches-rwusd-yield-bearing-stablecoin-like-rwa-product-offering-4-2-apr/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 28 Jul 2025 10:14:44 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-07-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[PENGU team dumps tokens worth $66 million while scammers flood ecosystem]]></title>
-            <description><![CDATA[Large volumes of Pudgy Penguin’s PENGU tokens are flowing from the project’s deployment address to centralized exchanges (CEXs), raising questions amid a strong market rally. On July 28, blockchain an...]]></description>
-            <link>https://cryptoslate.com/pengu-team-dumps-tokens-worth-66-million-while-scammers-flood-ecosystem/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/pengu-team-dumps-tokens-worth-66-million-while-scammers-flood-ecosystem/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 28 Jul 2025 09:46:23 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-07-28</dc:date>
         </item>
         <item>
@@ -764,28 +830,6 @@ This week, the clearest threats weren’t the loudest—they we...]]></descripti
             <pubDate>Sun, 27 Jul 2025 13:12:15 GMT</pubDate>
             <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2025-07-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Allianz Life confirms data breach impacts majority of 1.4 million customers]]></title>
-            <description><![CDATA[Insurance company Allianz Life has confirmed that the personal information for the "majority" of its 1.4 million customers was exposed in a data breach that occurred earlier this month. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 26 Jul 2025 18:00:55 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-07-26</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks]]></title>
-            <description><![CDATA[More than 200,000 WordPress websites are using a vulnerable version of the Post SMTP plugin that allows hackers to take control of the administrator account. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 26 Jul 2025 14:17:39 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-07-26</dc:date>
         </item>
         <item>
             <title><![CDATA[ Wrench attacks drive crypto investors to centralized custodians ]]></title>
@@ -1302,50 +1346,6 @@ The activity ha...]]></description>
             <pubDate>Wed, 23 Jul 2025 06:23:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2025-07-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[China Introduces National Cyber ID Amid Privacy Concerns]]></title>
-            <description><![CDATA[China officially rolled out a voluntary Internet identity system to protect citizens' online identities and personal information, but critics worry about privacy and surveillance....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/china-introduces-national-cyber-id-privacy-concerns</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/china-introduces-national-cyber-id-privacy-concerns</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 23 Jul 2025 01:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-07-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft Integrates Data Lake With Sentinel SIEM]]></title>
-            <description><![CDATA[Microsoft Sentinel Data Lake aims to provide inexpensive storage for large volumes of telemetry, while threat intelligence will be included with Defender XDR at no extra cost....]]></description>
-            <link>https://www.darkreading.com/threat-intelligence/microsoft-integrates-data-lake-with-sentinel-siem</link>
-            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/microsoft-integrates-data-lake-with-sentinel-siem</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 22 Jul 2025 22:45:20 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-07-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[3 China Nation-State Actors Target SharePoint Bugs]]></title>
-            <description><![CDATA[Hackers and cybercrime groups are part of a virtual feeding frenzy, after Microsoft's recent disclosure of new vulnerabilities in on-premises editions of SharePoint Server....]]></description>
-            <link>https://www.darkreading.com/application-security/3-china-nation-state-actors-sharepoint-bugs</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/3-china-nation-state-actors-sharepoint-bugs</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 22 Jul 2025 21:08:54 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-07-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[CISO Conversations: How IT and OT Security Worlds Are Converging]]></title>
-            <description><![CDATA[Dark Reading's Kelly Jackson Higgins interviews Carmine Valente, deputy CISO at Con Edison, about his role at the New York-based electric utility and the state of IT and OT security. Valente highlight...]]></description>
-            <link>https://www.darkreading.com/ics-ot-security/ciso-conversations-convergence-of-it-and-ot-security</link>
-            <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/ciso-conversations-convergence-of-it-and-ot-security</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 22 Jul 2025 20:40:30 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-07-22</dc:date>
         </item>
     </channel>
 </rss>
