@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Aug 2025 06:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 09:30:05 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Aug 2025 06:35:07 GMT</pubDate>
+        <pubDate>Thu, 07 Aug 2025 09:30:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
@@ -22,8 +22,107 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/gitex-global-2025</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 07 Aug 2025 06:30:23 GMT</pubDate>
+            <pubDate>Thu, 07 Aug 2025 09:25:18 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ Aave hit by phishing attack day after reaching $60B in net deposits ]]></title>
+            <description><![CDATA[Scammers used Google Ads to impersonate Aave investment platforms in an attempt to trick users into linking wallets to malicious sites....]]></description>
+            <link>https://cointelegraph.com/news/aave-investors-targeted-phishing-attack-google-ads?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/aave-investors-targeted-phishing-attack-google-ads?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 09:20:00 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Guilty Verdict Sends TORN Price Crashing 15% — What’s Next?]]></title>
+            <description><![CDATA[TORN fell 15% after Tornado Cash dev Roman Storm was found guilty of running an unlicensed money business....]]></description>
+            <link>https://cryptopotato.com/guilty-verdict-sends-torn-price-crashing-15-whats-next/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/guilty-verdict-sends-torn-price-crashing-15-whats-next/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 09:06:38 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Roman Storm Convicted in Tornado Cash Case]]></title>
+            <description><![CDATA[The jury couldn't reach a unanimous decision on Storm’s alleged money laundering or IEEPA violations tied to North Korea....]]></description>
+            <link>https://cryptopotato.com/roman-storm-convicted-in-tornado-cash-case/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/roman-storm-convicted-in-tornado-cash-case/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 08:49:36 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[US Bitcoin miners face 21% rig cost surge after Trump’s tariff goes live]]></title>
+            <description><![CDATA[A 100% tariff on imported semiconductors, formally enacted by the Trump administration on August 7, is reshaping the economics of crypto mining in the United States. The tariff, which targets chips ma...]]></description>
+            <link>https://cryptoslate.com/us-bitcoin-miners-face-21-rig-cost-surge-after-trumps-tariff-goes-live/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/us-bitcoin-miners-face-21-rig-cost-surge-after-trumps-tariff-goes-live/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 08:42:29 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Air France and KLM disclose data breaches impacting customers]]></title>
+            <description><![CDATA[Air France and KLM announced on Wednesday that attackers had breached a customer service platform and stolen the data of an undisclosed number of customers. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/air-france-and-klm-disclose-data-breaches-impacting-customers/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/air-france-and-klm-disclose-data-breaches-impacting-customers/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 08:41:32 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Weaponized Trading Bots Drain $1M From Crypto Users via AI-Generated YouTube Scam]]></title>
+            <description><![CDATA[Scammers appeared to be using AI-generated avatars and voices to reduce production costs and scale up video content....]]></description>
+            <link>https://www.coindesk.com/tech/2025/08/07/weaponized-trading-bots-drain-usd1m-from-crypto-users-via-ai-generated-youtube-scam</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2025/08/07/weaponized-trading-bots-drain-usd1m-from-crypto-users-via-ai-generated-youtube-scam</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 08:30:48 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[5 Things to Watch in XRP After 70% July Surge]]></title>
+            <description><![CDATA[XRP gained 70% in July 2025. Here are 5 key things to watch, from exchange data to Ripple's legal case and analyst targets....]]></description>
+            <link>https://cryptopotato.com/5-things-to-watch-in-xrp-after-70-july-surge/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/5-things-to-watch-in-xrp-after-70-july-surge/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 08:30:30 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft warns of high-severity flaw in hybrid Exchange deployments]]></title>
+            <description><![CDATA[Microsoft has warned customers to mitigate a high-severity vulnerability in Exchange Server hybrid deployments that could allow attackers to escalate privileges in Exchange Online cloud environments u...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 07:50:45 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft accidentally confirms GPT-5, GPT-5-Mini, GPT-5-Nano ahead of launch]]></title>
+            <description><![CDATA[OpenAI is hosting a live stream at 10AM PT to announce GPT-5, but Microsoft has already confirmed the details. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/microsoft-accidentally-confirms-gpt-5-gpt-5-mini-gpt-5-nano-ahead-of-launch/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/microsoft-accidentally-confirms-gpt-5-gpt-5-mini-gpt-5-nano-ahead-of-launch/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 07 Aug 2025 06:49:12 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-08-07</dc:date>
         </item>
         <item>
@@ -379,7 +478,7 @@
             <dc:date>2025-08-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[Why Lightning Network capacity declining 20% in 2025 is NOT as bad as it sounds]]></title>
+            <title><![CDATA[Bitcoin’s Lightning Network capacity declined 20% in 2025 but it’s NOT as bad as it sounds]]></title>
             <description><![CDATA[Bitcoin’s Lightning Network capacity has declined from over 5,400 BTC in late 2023 to around 4,200 BTC by August 2025, a roughly 20% drop, per mempool.space data. While the raw figures imply a contrac...]]></description>
             <link>https://cryptoslate.com/why-lightning-network-capacity-declining-20-in-2025-is-not-as-bad-as-it-sounds/</link>
             <guid isPermaLink="false">https://cryptoslate.com/why-lightning-network-capacity-declining-20-in-2025-is-not-as-bad-as-it-sounds/</guid>
@@ -387,17 +486,6 @@
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Wed, 06 Aug 2025 16:30:05 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-08-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Robinhood Lists PENGU as Whales Buy the Dip Amid 12% Price Slide]]></title>
-            <description><![CDATA[PENGU drops 12% amid market dip but sees whale accumulation after listing on Robinhood Advanced trading platform....]]></description>
-            <link>https://cryptopotato.com/robinhood-lists-pengu-as-whales-buy-the-dip-amid-12-price-slide/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/robinhood-lists-pengu-as-whales-buy-the-dip-amid-12-price-slide/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 06 Aug 2025 16:25:05 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-08-06</dc:date>
         </item>
         <item>
@@ -467,17 +555,6 @@
             <dc:date>2025-08-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[ETH Sell-Off? Whales Move $69M as Taker Volume Plunges]]></title>
-            <description><![CDATA[Ethereum (ETH) faces heavy sell pressure as whales deposit $69M and Net Taker Volume hits -$418M, sparking trend reversal concerns....]]></description>
-            <link>https://cryptopotato.com/eth-sell-off-whales-move-69m-as-taker-volume-plunges/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/eth-sell-off-whales-move-69m-as-taker-volume-plunges/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 06 Aug 2025 15:34:00 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-08-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bakkt Expands Global Bitcoin Play With 30% Stake in Japan’s Marusho Hotta]]></title>
             <description><![CDATA[Bakkt is acquiring a 30% stake in Japanese firm Marusho Hotta and is expanding into Asian crypto markets....]]></description>
             <link>https://www.coindesk.com/business/2025/08/06/bakkt-expands-global-bitcoin-play-with-30-stake-in-japan-s-marusho-hotta</link>
@@ -544,17 +621,6 @@
             <dc:date>2025-08-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[This Level Could Be Bitcoin’s Hidden Trap Where Volatility Erupts]]></title>
-            <description><![CDATA[Bitcoin may revisit $105K, where metrics like short-term holder cost basis and UTxO walls indicate heavy exposure and potential stress....]]></description>
-            <link>https://cryptopotato.com/this-level-could-be-bitcoins-hidden-trap-where-volatility-erupts/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/this-level-could-be-bitcoins-hidden-trap-where-volatility-erupts/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 06 Aug 2025 14:46:10 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-08-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[ This man used a Coinbase-like URL — Now he’s facing a major lawsuit ]]></title>
             <description><![CDATA[A German man is facing a US federal lawsuit after allegedly using a Coinbase‑like domain name to earn affiliate commissions and pose phishing risks....]]></description>
             <link>https://cointelegraph.com/explained/this-man-used-a-coinbase-like-url-now-hes-facing-a-major-lawsuit?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
@@ -563,17 +629,6 @@
             <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
             <pubDate>Wed, 06 Aug 2025 14:35:00 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-08-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Tight price parity hides structural gaps in XRP liquidity on exchanges]]></title>
-            <description><![CDATA[XRP traded remarkably consistently across Binance and Coinbase throughout July, despite stark differences in where and how liquidity was concentrated. While prices between USD and USDT pairs remained ...]]></description>
-            <link>https://cryptoslate.com/tight-price-parity-hides-structural-gaps-in-xrp-liquidity-on-exchanges/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/tight-price-parity-hides-structural-gaps-in-xrp-liquidity-on-exchanges/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 06 Aug 2025 14:30:04 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-08-06</dc:date>
         </item>
         <item>
@@ -673,17 +728,6 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Wed, 06 Aug 2025 13:19:16 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DeFi Cheers as SEC Affirms Liquid Staking Protocols Aren’t Securities]]></title>
-            <description><![CDATA[The SEC’s new guidance on liquid staking boosts governance tokens like LDO and RPL, while TVL across protocols holds steady at $67 billion....]]></description>
-            <link>https://www.coindesk.com/business/2025/08/06/defi-cheers-as-sec-affirms-liquid-staking-protocols-aren-t-securities</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/08/06/defi-cheers-as-sec-affirms-liquid-staking-protocols-aren-t-securities</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 06 Aug 2025 13:18:37 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-08-06</dc:date>
         </item>
         <item>
@@ -875,17 +919,6 @@ The vulnerabilities (CVE-202...]]></description>
             <dc:date>2025-08-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[Pandora confirms data breach amid ongoing Salesforce data theft attacks]]></title>
-            <description><![CDATA[Danish jewelry giant Pandora has disclosed a data breach after its customer information was stolen in the ongoing Salesforce data theft attacks. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 05 Aug 2025 22:16:39 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-05</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Pandora Confirms Third-Party Data Breach, Warns of Phishing Attempts]]></title>
             <description><![CDATA[The jewelry retailer is warning customers that their data can and might be used maliciously....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/pandora-third-party-data-breach</link>
@@ -894,28 +927,6 @@ The vulnerabilities (CVE-202...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 05 Aug 2025 21:31:43 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-08-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[PBS confirms data breach after employee info leaked on Discord servers]]></title>
-            <description><![CDATA[PBS has suffered a data breach exposing the corporate contact information of its employees and those of its affiliates, BleepingComputer has learned. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 05 Aug 2025 21:06:29 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Adobe issues emergency fixes for AEM Forms zero-days after PoCs released]]></title>
-            <description><![CDATA[Adobe released emergency updates for two zero-day flaws in Adobe Experience Manager (AEM) Forms on JEE after a PoC exploit chain was disclosed that can be used for unauthenticated, remote code executi...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 05 Aug 2025 19:02:22 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-08-05</dc:date>
         </item>
         <item>
@@ -1329,17 +1340,6 @@ The...]]></description>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 01 Aug 2025 14:53:20 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-08-01</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Building the Perfect Post-Security Incident Review Playbook]]></title>
-            <description><![CDATA[By creating a safe environment for open discussion, prioritizing human context alongside technical data, and involving diverse stakeholders, organizations can turn security incidents into accelerators...]]></description>
-            <link>https://www.darkreading.com/cybersecurity-operations/perfect-post-security-incident-review-playbook</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/perfect-post-security-incident-review-playbook</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 01 Aug 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-08-01</dc:date>
         </item>
