@@ -9,12 +9,133 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 Aug 2025 18:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 21:21:25 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Aug 2025 18:30:40 GMT</pubDate>
+        <pubDate>Wed, 13 Aug 2025 21:21:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Google Play Store bans crypto wallets in 15 jurisdictions, requires new licensing compliance]]></title>
+            <description><![CDATA[Google Play Store introduced licensing requirements for cryptocurrency wallet applications across 15 jurisdictions, including the US and the EU. According to a report by the Rage, developers must obta...]]></description>
+            <link>https://cryptoslate.com/google-play-store-bans-crypto-wallets-in-15-jurisdictions-requires-new-licensing-compliance/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/google-play-store-bans-crypto-wallets-in-15-jurisdictions-requires-new-licensing-compliance/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 21:00:12 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Fortinet warns of FortiSIEM pre-auth RCE flaw with exploit in the wild]]></title>
+            <description><![CDATA[Fortinet is warning about a remote unauthenticated command injection flaw in FortiSIEM that has in-the-wild exploit code, making it critical for admins to apply the latest security updates. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 20:23:15 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BNY to Become Custodian of OpenEden’s Tokenized US T-Bills Fund]]></title>
+            <description><![CDATA[The American international financial services company will be managing the RWA-tokenization platform's Treasury Bill fund....]]></description>
+            <link>https://cryptopotato.com/bny-to-become-custodian-of-openedens-tokenized-us-t-bills-fund/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bny-to-become-custodian-of-openedens-tokenized-us-t-bills-fund/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 20:20:29 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bullish continues crypto IPO streak of success with 3x surge in stock on first trading day]]></title>
+            <description><![CDATA[Shares of cryptocurrency exchange Bullish jumped sharply in their first day of trading on Aug. 13, more than tripling the company’s IPO price and signaling renewed investor enthusiasm for digital asse...]]></description>
+            <link>https://cryptoslate.com/bullish-continues-crypto-ipo-streak-of-success-with-3x-surge-in-stock-on-first-trading-day/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bullish-continues-crypto-ipo-streak-of-success-with-3x-surge-in-stock-on-first-trading-day/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 20:12:17 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Tops $122K, Eyes Fresh Record, With Ether Just 3% From 2021 ATH]]></title>
+            <description><![CDATA[The current macro backdrop has rarely been more favorable for risk assets, and the market hasn't fully priced in what's coming, a report said....]]></description>
+            <link>https://www.coindesk.com/markets/2025/08/13/bitcoin-tops-usd122k-eyes-fresh-record-with-ether-just-3-from-2021-ath</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/08/13/bitcoin-tops-usd122k-eyes-fresh-record-with-ether-just-3-from-2021-ath</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 20:11:12 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Whispers of XZ Utils Backdoor Live on in Old Docker Images]]></title>
+            <description><![CDATA[Developers maintaining the images made the "intentional choice" to leave the artifacts available as "a historical curiosity," given the improbability they'd be exploited....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/xz-utils-backdoor-live-old-docker-images</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/xz-utils-backdoor-live-old-docker-images</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 20:09:03 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Windows 11 24H2 updates failing again with 0x80240069 errors]]></title>
+            <description><![CDATA[The KB5063878 Windows 11 24H2 cumulative update, released earlier this week, fails to install on some systems according to widespread reports from Windows administrators. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-updates-failing-again-with-0x80240069-errors/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 19:41:37 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[a16z and DeFi Education Fund push SEC for safe harbor on dApp regulation]]></title>
+            <description><![CDATA[Andreessen Horowitz (a16z) and the DeFi Education Fund have urged the US Securities and Exchange Commission (SEC) to create a “Safe Harbor” program for decentralized application (dApp) trading platfor...]]></description>
+            <link>https://cryptoslate.com/a16z-and-defi-education-fund-push-sec-for-safe-harbor-on-dapp-regulation/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/a16z-and-defi-education-fund-push-sec-for-safe-harbor-on-dapp-regulation/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 19:32:05 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New downgrade attack can bypass FIDO auth in Microsoft Entra ID]]></title>
+            <description><![CDATA[Security researchers have created a new FIDO downgrade attack against Microsoft Entra ID that tricks users into authenticating with weaker login methods, making them susceptible to phishing and sessio...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 19:14:23 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[WIF Eyes Breakout From Bullish Wedge After 17% Daily Surge]]></title>
+            <description><![CDATA[Dogwifhat (WIF) jumps 15% in 24 hours, breaking out from a bullish wedge and aiming for $1.3 as trading volume and open interest rise....]]></description>
+            <link>https://cryptopotato.com/wif-eyes-breakout-from-bullish-wedge-after-17-daily-surge/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/wif-eyes-breakout-from-bullish-wedge-after-17-daily-surge/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 19:11:17 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Trump Removal of BLS Commissioner Prompts Questions About Accuracy of Economic Stats]]></title>
+            <description><![CDATA[Ray Dalio said he likely would have fired the BLS head as well....]]></description>
+            <link>https://www.coindesk.com/markets/2025/08/13/trump-removal-of-bls-commissioner-prompts-questions-about-accuracy-of-economic-stats</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/08/13/trump-removal-of-bls-commissioner-prompts-questions-about-accuracy-of-economic-stats</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 18:40:30 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
         <item>
             <title><![CDATA[Terraform’s Do Kwon Pleads Guilty to Its Collapse]]></title>
             <description><![CDATA[The Co-Founder and former CEO of the defunct blockchain protocol admits to schemes that cost investors and users billions....]]></description>
@@ -35,6 +156,17 @@
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Wed, 13 Aug 2025 18:19:10 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Wallet MetaMask Will Likely Unveil Its Own Stablecoin this Week]]></title>
+            <description><![CDATA[The MetaMask stablecoin (mUSD) was already reported to be in the works thanks to a prematurely posted governance proposal that was quickly deleted last week....]]></description>
+            <link>https://www.coindesk.com/business/2025/08/13/ethereum-wallet-metamask-said-to-unveil-its-own-musd-stablecoin-this-week</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/08/13/ethereum-wallet-metamask-said-to-unveil-its-own-musd-stablecoin-this-week</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 18:07:50 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
             <dc:date>2025-08-13</dc:date>
         </item>
         <item>
@@ -335,25 +467,14 @@
             <dc:date>2025-08-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[ADA Rockets 13% Daily as Analysts Predict $1.50 Breakout]]></title>
-            <description><![CDATA[Cardano trades near $0.92 after strong weekly gains, with whale buying and chart signals pointing toward a $1.50 breakout....]]></description>
-            <link>https://cryptopotato.com/ada-rockets-13-daily-as-analysts-predict-1-50-breakout/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ada-rockets-13-daily-as-analysts-predict-1-50-breakout/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 13 Aug 2025 13:27:30 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Binance OI Spikes: Is Bitcoin Gearing Up for a Clean Break or Brutal Shakeout?]]></title>
-            <description><![CDATA[The $119-$120K has been identified as a crucial zone. Stability above means potential $124K target, rejection risks swift leveraged downturn....]]></description>
-            <link>https://cryptopotato.com/binance-oi-spikes-is-bitcoin-gearing-up-for-a-clean-break-or-brutal-shakeout/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/binance-oi-spikes-is-bitcoin-gearing-up-for-a-clean-break-or-brutal-shakeout/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 13 Aug 2025 13:22:17 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
+            <title><![CDATA[How an AI-Based 'Pen Tester' Became a Top Bug Hunter on HackerOne]]></title>
+            <description><![CDATA[AI researcher explains how an automated penetration-testing tool became the first non-human member on HackerOne to reach the top of the platform's US leaderboard....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/ai-based-pen-tester-top-bug-hunter-hackerone</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/ai-based-pen-tester-top-bug-hunter-hackerone</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 13:22:16 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2025-08-13</dc:date>
         </item>
         <item>
@@ -601,17 +722,6 @@ The vulnerability, tracked as CVE-2025-25256, carries a CVSS score of 9.8...]]><
             <dc:date>2025-08-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Why Standard Chartered now sees Ethereum hitting $25,000 within 30 months]]></title>
-            <description><![CDATA[Standard Chartered has lifted its year-end price target for Ethereum to $7,500 from $4,000, citing a stronger industry backdrop and new demand from corporate treasuries. Per Reuters, the bank also rai...]]></description>
-            <link>https://cryptoslate.com/why-standard-chartered-now-sees-ethereum-hitting-25000-within-30-months/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/why-standard-chartered-now-sees-ethereum-hitting-25000-within-30-months/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 13 Aug 2025 10:14:27 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-08-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Markets Today: OKB, FART Surge as Ether Races Toward Record Highs]]></title>
             <description><![CDATA[Open interest in ether futures has increased significantly, indicating bullish sentiment among traders....]]></description>
             <link>https://www.coindesk.com/markets/2025/08/13/markets-today-okb-fart-surge-as-ether-races-toward-record-highs</link>
@@ -620,17 +730,6 @@ The vulnerability, tracked as CVE-2025-25256, carries a CVSS score of 9.8...]]><
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Wed, 13 Aug 2025 10:00:00 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2025-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum ETFs pull in $524M in a day as inflows outpace Bitcoin eightfold]]></title>
-            <description><![CDATA[US-listed spot Ethereum exchange-traded funds (ETFs) attracted $523.9 million in net inflows on Aug. 12, extending their inflow streak to six days. According to SoSo Value data, this is almost eight t...]]></description>
-            <link>https://cryptoslate.com/insights/ethereum-etfs-pull-in-524m-in-a-day-as-inflows-outpace-bitcoin-eightfold/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/insights/ethereum-etfs-pull-in-524m-in-a-day-as-inflows-outpace-bitcoin-eightfold/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 13 Aug 2025 09:30:27 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-08-13</dc:date>
         </item>
         <item>
@@ -657,28 +756,6 @@ But here’s...]]></description>
             <dc:date>2025-08-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[A16z, DeFi Group Pitch U.S. SEC on Safe Harbor for DeFi Apps]]></title>
-            <description><![CDATA[The crypto investment firm and the DeFi Education Fund have proposed an approach to exempting broker registration for tech offering gateways to DeFi activity....]]></description>
-            <link>https://www.coindesk.com/policy/2025/08/12/a16z-defi-group-pitch-u-s-sec-on-safe-harbor-for-defi-apps</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/08/12/a16z-defi-group-pitch-u-s-sec-on-safe-harbor-for-defi-apps</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 13 Aug 2025 09:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Dominance Falls Below 60% as Crypto, U.S. Stocks Hit New Highs]]></title>
-            <description><![CDATA[Ether leads the rally while markets price in near-certain September Fed rate cut....]]></description>
-            <link>https://www.coindesk.com/markets/2025/08/13/bitcoin-dominance-falls-below-60-as-crypto-u-s-stocks-hit-new-highs</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/08/13/bitcoin-dominance-falls-below-60-as-crypto-u-s-stocks-hit-new-highs</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 13 Aug 2025 08:52:51 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-08-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws]]></title>
             <description><![CDATA[Microsoft on Tuesday rolled out fixes for a massive set of 111 security flaws across its software portfolio, including one flaw that has been disclosed as publicly known at the time of the release.
 Of...]]></description>
@@ -699,28 +776,6 @@ Of...]]></description>
             <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
             <pubDate>Wed, 13 Aug 2025 08:11:01 GMT</pubDate>
             <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2025-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Google ‘altcoin’ searches hit 5 year high as ‘alt szn’ fever returns to retail traders]]></title>
-            <description><![CDATA[Google search activity for “altcoin” has reached its highest level in five years, matching interest levels last seen during Ethereum’s foundation. The surge coincides with a shift in market structure ...]]></description>
-            <link>https://cryptoslate.com/google-altcoin-searches-hit-5-year-high-as-alt-szn-fever-returns-to-retail-traders/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/google-altcoin-searches-hit-5-year-high-as-alt-szn-fever-returns-to-retail-traders/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 13 Aug 2025 07:40:09 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Dogecoin to the Moon? DOGE Price Chart Forms Golden Cross for First Time Since November]]></title>
-            <description><![CDATA[While historically linked to significant price increases, the golden cross is not a reliable standalone indicator....]]></description>
-            <link>https://www.coindesk.com/markets/2025/08/13/dogecoin-to-the-moon-doge-price-chart-forms-golden-cross-for-first-time-since-november</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/08/13/dogecoin-to-the-moon-doge-price-chart-forms-golden-cross-for-first-time-since-november</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 13 Aug 2025 05:57:25 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-08-13</dc:date>
         </item>
         <item>
@@ -832,39 +887,6 @@ More troubling is the fact that other images h...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Tue, 12 Aug 2025 18:17:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-08-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft August 2025 Patch Tuesday fixes one zero-day, 107 flaws]]></title>
-            <description><![CDATA[Today is Microsoft's August 2025 Patch Tuesday, which includes security updates for 107 flaws, including one publicly disclosed zero-day vulnerability in Windows Kerberos. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2025-patch-tuesday-fixes-one-zero-day-107-flaws/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2025-patch-tuesday-fixes-one-zero-day-107-flaws/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 12 Aug 2025 17:43:50 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Windows 11 KB5063878 & KB5063875 cumulative updates released]]></title>
-            <description><![CDATA[Microsoft has released Windows 11 KB5063878 and KB5063875 cumulative updates for versions 24H2 and 23H2 to fix security vulnerabilities and issues. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5063878-and-kb5063875-cumulative-updates-released/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5063878-and-kb5063875-cumulative-updates-released/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 12 Aug 2025 17:34:26 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Windows 10 KB5063709 update fixes extended security updates enrollment]]></title>
-            <description><![CDATA[Microsoft has released the KB5063709 cumulative update for Windows 10 22H2 and Windows 10 21H2, with seven fixes or changes, including a fix for a bug that prevented enrollment in extended security up...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5063709-update-fixes-extended-security-updates-enrollment/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5063709-update-fixes-extended-security-updates-enrollment/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 12 Aug 2025 17:15:48 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-08-12</dc:date>
         </item>
         <item>
@@ -1320,28 +1342,6 @@ Generativ...]]></description>
             <category><![CDATA[Cointelegraph - Security]]></category>
             <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
             <pubDate>Fri, 08 Aug 2025 13:03:03 GMT</pubDate>
-            <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-08-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Attackers Target the Foundations of Crypto: Smart Contracts]]></title>
-            <description><![CDATA[A whole criminal ecosystem revolves around scamming users out of their cryptocurrency assets, but malicious — or vulnerable — smart contracts could be used against businesses as well....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/attackers-target-crypto-smart-contracts</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/attackers-target-crypto-smart-contracts</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 08 Aug 2025 13:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-08-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ Quantum computers could bring lost Bitcoin back to life: Here’s how ]]></title>
-            <description><![CDATA[Quantum computing could enable the reverse engineering of private keys from publicly exposed ones, putting the security of Bitcoin holders at risk....]]></description>
-            <link>https://cointelegraph.com/explained/quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
-            <guid isPermaLink="false">https://cointelegraph.com/explained/quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
-            <category><![CDATA[Cointelegraph - Security]]></category>
-            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
-            <pubDate>Fri, 08 Aug 2025 12:25:00 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
             <dc:date>2025-08-08</dc:date>
         </item>
