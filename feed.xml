@@ -9,12 +9,23 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 Aug 2025 01:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 03:55:42 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 Aug 2025 01:31:28 GMT</pubDate>
+        <pubDate>Fri, 15 Aug 2025 03:55:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Asia Morning Briefing: ETH's Bullrun Meets Early Signs of Selling Pressure]]></title>
+            <description><![CDATA[ETH’s rally is fueled by record flows and BTC outperformance, but rising exchange inflows spark debate over momentum vs. consolidation....]]></description>
+            <link>https://www.coindesk.com/markets/2025/08/15/asia-morning-briefing-eth-s-bullrun-meets-early-signs-of-selling-pressure</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/08/15/asia-morning-briefing-eth-s-bullrun-meets-early-signs-of-selling-pressure</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 15 Aug 2025 01:44:29 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-08-15</dc:date>
+        </item>
         <item>
             <title><![CDATA[Bessent backtracks, says Treasury committed to ‘exploring budget-neutral pathways’ to add Bitcoin]]></title>
             <description><![CDATA[Treasury Secretary Scott Bessent confirmed the government may still expand its Bitcoin (BTC) holdings on Aug. 14, backtracking remarks made a few hours earlier. Bessent had told reporters during a tel...]]></description>
@@ -233,6 +244,17 @@
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Thu, 14 Aug 2025 17:36:16 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Google Chrome Enterprise: Extend Protections From Browser to OS]]></title>
+            <description><![CDATA[Dark Reading's Terry Sweeney and Google's Loren Hudziak  discuss how the humble web  browser has transformed from a simple web access tool into a common conduit through which a lot of business is done...]]></description>
+            <link>https://www.darkreading.com/cyber-risk/google-chrome-enterprise-extend-protections-from-browser-to-os</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/google-chrome-enterprise-extend-protections-from-browser-to-os</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 14 Aug 2025 17:29:45 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2025-08-14</dc:date>
         </item>
         <item>
@@ -675,17 +697,6 @@ NEAR Protocol swung between $2.78 and $3.05 as nearly 20 million tokens changed 
             <category><![CDATA[Coindesk]]></category>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Thu, 14 Aug 2025 12:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[TeraWulf Jumps 22% on $3.7B AI Hosting Deal, With Google Taking 8% Stake]]></title>
-            <description><![CDATA[The agreements lock in approximately $3.7 billion in contracted revenue, with potential to rise to $8.7 billion if two five-year extension options are exercised....]]></description>
-            <link>https://www.coindesk.com/markets/2025/08/14/terawulf-jumps-22-on-usd3-7b-ai-hosting-deal-with-google-taking-8-stake</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/08/14/terawulf-jumps-22-on-usd3-7b-ai-hosting-deal-with-google-taking-8-stake</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 14 Aug 2025 11:50:22 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
             <dc:date>2025-08-14</dc:date>
         </item>
@@ -1332,17 +1343,6 @@ Most security teams have a good sense of what’s critical in their environment.
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Mon, 11 Aug 2025 11:25:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-08-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Google Chrome Enterprise: Keeping Businesses Safe From Threats on the Web]]></title>
-            <description><![CDATA[Dark Reading's Terry Sweeney and Google Cloud Security's Jason Kemmerer discuss how organizations can secure the modern workplace with zero trust browser protection for remote and hybrid teams....]]></description>
-            <link>https://www.darkreading.com/endpoint-security/chrome-enterprise-keeping-businesses-safe-from-threats-on-the-web</link>
-            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/chrome-enterprise-keeping-businesses-safe-from-threats-on-the-web</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 11 Aug 2025 07:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
             <dc:date>2025-08-11</dc:date>
         </item>
     </channel>
