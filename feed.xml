@@ -9,12 +9,56 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 Aug 2025 18:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Aug 2025 21:20:17 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 Aug 2025 18:28:11 GMT</pubDate>
+        <pubDate>Sat, 16 Aug 2025 21:20:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere]]></title>
+            <description><![CDATA[OpenAI is working on a cheaper plan called ChatGPT Go, and we previously thought it would be just limited to a few regions like India, but that may not be the case. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 16 Aug 2025 20:44:30 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Kraken suspends Monero deposits after 51% attack]]></title>
+            <description><![CDATA[Crypto exchange Kraken has announced the suspension of Monero (XMR) deposits following a confirmed 51% attack on the network on August 12. The attack was linked to the Qubic mining pool, which managed...]]></description>
+            <link>https://cryptoslate.com/kraken-suspends-monero-deposits-after-51-attack/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/kraken-suspends-monero-deposits-after-51-attack/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 16 Aug 2025 20:19:43 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI is improving ChatGPT voice mode]]></title>
+            <description><![CDATA[ChatGPT's Voice mode is already pretty good, but OpenAI is working on a new feature that will allow you to control how Voice mode actually works. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 16 Aug 2025 20:15:42 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Analysis: Has ETH’s Bullish Momentum Disappeared?]]></title>
+            <description><![CDATA[Ethereum’s latest attempt to push past its all-time high of $4.8K has faltered, leading to a painful correction. Despite this setback, the asset remains supported by multiple key levels, with heighten...]]></description>
+            <link>https://cryptopotato.com/ethereum-price-analysis-has-eths-bullish-momentum-disappeared/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ethereum-price-analysis-has-eths-bullish-momentum-disappeared/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sat, 16 Aug 2025 18:28:51 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-08-16</dc:date>
+        </item>
         <item>
             <title><![CDATA[Corporate Treasuries Are Tightening Ethereum (ETH) Supply – But Risks Remain]]></title>
             <description><![CDATA[CoinMetrics warned that the financial performance of corporate ETH treasuries could affect Ethereum's overall network health....]]></description>
@@ -57,6 +101,28 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Sat, 16 Aug 2025 15:00:52 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2025-08-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Researcher to release exploit for full auth bypass on FortiWeb]]></title>
+            <description><![CDATA[A security researcher has released a partial proof of concept exploit for a vulnerability in the FortiWeb web application firewall that allows a remote attacker to bypass authentication. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 16 Aug 2025 14:24:32 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Teams to protect against malicious URLs, dangerous file types]]></title>
+            <description><![CDATA[Microsoft recently revealed that it's currently enhancing protection against dangerous file types and malicious URLs in Teams chats and channels. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 16 Aug 2025 14:20:30 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-08-16</dc:date>
         </item>
         <item>
@@ -166,17 +232,6 @@
             <category><![CDATA[CryptoPotato]]></category>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sat, 16 Aug 2025 05:25:18 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-08-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Unshaken Even as Trump-Putin Peace Meeting Fails]]></title>
-            <description><![CDATA[BTC is back at around $118,000....]]></description>
-            <link>https://cryptopotato.com/bitcoin-price-unshaken-even-as-trump-putin-peace-meeting-fails/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-price-unshaken-even-as-trump-putin-peace-meeting-fails/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 16 Aug 2025 05:12:02 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-08-16</dc:date>
         </item>
@@ -420,17 +475,6 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Fri, 15 Aug 2025 13:57:45 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Wall Street titans quietly amass billions in Bitcoin ETFs and crypto stocks]]></title>
-            <description><![CDATA[Major Wall Street institutions, including Wells Fargo, Cantor Fitzgerald, and Jane Street, have sharply increased their Bitcoin-related holdings over the past months. These firms’ portfolio updates on...]]></description>
-            <link>https://cryptoslate.com/wall-street-giants-amplify-bitcoin-investments-through-etfs-and-equities/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/wall-street-giants-amplify-bitcoin-investments-through-etfs-and-equities/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 15 Aug 2025 13:51:55 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-08-15</dc:date>
         </item>
         <item>
@@ -842,39 +886,6 @@
             <dc:date>2025-08-14</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft fixes Windows Server bug causing cluster, VM issues]]></title>
-            <description><![CDATA[Microsoft has resolved a known issue that triggers Cluster service and VM restart issues after installing July's Windows Server 2019 security updates. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 14 Aug 2025 15:05:10 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Booking.com phishing campaign uses sneaky 'ん' character to trick you]]></title>
-            <description><![CDATA[Threat actors are leveraging a Unicode character to make phishing links appear like legitimate Booking.com links in a new campaign distributing malware. The attack makes use of the Japanese hiragana c...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 14 Aug 2025 14:23:45 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[When Theft Replaces Encryption: Blue Report 2025 on Ransomware & Infostealers]]></title>
-            <description><![CDATA[Ransomware and infostealers are winning on stealth, not encryption. Picus Blue Report 2025 reveals just 3% of data exfiltration attempts are stopped. Find and fix your biggest exposure gaps before the...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 14 Aug 2025 14:01:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-14</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Navigating the Cybersecurity Budget Tug-of-War]]></title>
             <description><![CDATA[Companies ready to move beyond reactive defense and toward full-spectrum protection need to invest in strategies that rally around resiliency, unified cybersecurity, and data protection....]]></description>
             <link>https://www.darkreading.com/cybersecurity-operations/navigating-cybersecurity-budget-tug-of-war</link>
@@ -894,17 +905,6 @@
             <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
             <pubDate>Thu, 14 Aug 2025 13:10:15 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Canada’s House of Commons investigating data breach after cyberattack]]></title>
-            <description><![CDATA[The House of Commons of Canada is currently investigating a data breach after a threat actor reportedly stole employee information in a cyberattack on Friday. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 14 Aug 2025 13:06:43 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-08-14</dc:date>
         </item>
         <item>

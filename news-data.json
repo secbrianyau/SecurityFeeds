@@ -1,5 +1,33 @@
 [
   {
+    "title": "Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/",
+    "date": "2025-08-16T20:44:30.000Z",
+    "source": "Bleeping Computer",
+    "summary": "OpenAI is working on a cheaper plan called ChatGPT Go, and we previously thought it would be just limited to a few regions like India, but that may not be the case. [...]..."
+  },
+  {
+    "title": "Kraken suspends Monero deposits after 51% attack",
+    "link": "https://cryptoslate.com/kraken-suspends-monero-deposits-after-51-attack/",
+    "date": "2025-08-16T20:19:43.000Z",
+    "source": "CryptoSlate",
+    "summary": "Crypto exchange Kraken has announced the suspension of Monero (XMR) deposits following a confirmed 51% attack on the network on August 12. The attack was linked to the Qubic mining pool, which managed..."
+  },
+  {
+    "title": "OpenAI is improving ChatGPT voice mode",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/",
+    "date": "2025-08-16T20:15:42.000Z",
+    "source": "Bleeping Computer",
+    "summary": "ChatGPT's Voice mode is already pretty good, but OpenAI is working on a new feature that will allow you to control how Voice mode actually works. [...]..."
+  },
+  {
+    "title": "Ethereum Price Analysis: Has ETH’s Bullish Momentum Disappeared?",
+    "link": "https://cryptopotato.com/ethereum-price-analysis-has-eths-bullish-momentum-disappeared/",
+    "date": "2025-08-16T18:28:51.000Z",
+    "source": "CryptoPotato",
+    "summary": "Ethereum’s latest attempt to push past its all-time high of $4.8K has faltered, leading to a painful correction. Despite this setback, the asset remains supported by multiple key levels, with heighten..."
+  },
+  {
     "title": "Corporate Treasuries Are Tightening Ethereum (ETH) Supply – But Risks Remain",
     "link": "https://cryptopotato.com/corporate-treasuries-are-tightening-ethereum-eth-supply-but-risks-remain/",
     "date": "2025-08-16T17:04:37.000Z",
@@ -26,6 +54,20 @@
     "date": "2025-08-16T15:00:52.000Z",
     "source": "Coindesk",
     "summary": "Rick Rieder cited strong earnings, high yields and low volatility as drivers of today’s favorable investing climate, while warning complacency remains a risk...."
+  },
+  {
+    "title": "Researcher to release exploit for full auth bypass on FortiWeb",
+    "link": "https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/",
+    "date": "2025-08-16T14:24:32.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A security researcher has released a partial proof of concept exploit for a vulnerability in the FortiWeb web application firewall that allows a remote attacker to bypass authentication. [...]..."
+  },
+  {
+    "title": "Microsoft Teams to protect against malicious URLs, dangerous file types",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/",
+    "date": "2025-08-16T14:20:30.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft recently revealed that it's currently enhancing protection against dangerous file types and malicious URLs in Teams chats and channels. [...]..."
   },
   {
     "title": "Adam Back’s $2.1B Bitcoin Treasury Play Set to Challenge MARA in BTC Holdings",
@@ -96,13 +138,6 @@
     "date": "2025-08-16T05:25:18.000Z",
     "source": "CryptoPotato",
     "summary": "XRP's price tested the $3 support once again...."
-  },
-  {
-    "title": "Bitcoin Price Unshaken Even as Trump-Putin Peace Meeting Fails",
-    "link": "https://cryptopotato.com/bitcoin-price-unshaken-even-as-trump-putin-peace-meeting-fails/",
-    "date": "2025-08-16T05:12:02.000Z",
-    "source": "CryptoPotato",
-    "summary": "BTC is back at around $118,000...."
   },
   {
     "title": "US authorities raid ransomware operator, seize $2.8M in crypto",
@@ -257,13 +292,6 @@
     "date": "2025-08-15T13:57:45.000Z",
     "source": "Bleeping Computer",
     "summary": "Cisco is warning about a critical remote code execution (RCE) vulnerability in the RADIUS subsystem of its Secure Firewall Management Center (FMC) software. [...]..."
-  },
-  {
-    "title": "Wall Street titans quietly amass billions in Bitcoin ETFs and crypto stocks",
-    "link": "https://cryptoslate.com/wall-street-giants-amplify-bitcoin-investments-through-etfs-and-equities/",
-    "date": "2025-08-15T13:51:55.000Z",
-    "source": "CryptoSlate",
-    "summary": "Major Wall Street institutions, including Wells Fargo, Cantor Fitzgerald, and Jane Street, have sharply increased their Bitcoin-related holdings over the past months. These firms’ portfolio updates on..."
   },
   {
     "title": "Galaxy Secures $1.4B to Expand Helios Data Center for AI and HPC",
@@ -525,27 +553,6 @@
     "summary": "Multiple HTTP/2 implementations have been found susceptible to a new attack technique called MadeYouReset that could be explored to conduct powerful denial-of-service (DoS) attacks.\n\"MadeYouReset bypa..."
   },
   {
-    "title": "Microsoft fixes Windows Server bug causing cluster, VM issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/",
-    "date": "2025-08-14T15:05:10.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has resolved a known issue that triggers Cluster service and VM restart issues after installing July's Windows Server 2019 security updates. [...]..."
-  },
-  {
-    "title": "Booking.com phishing campaign uses sneaky 'ん' character to trick you",
-    "link": "https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/",
-    "date": "2025-08-14T14:23:45.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Threat actors are leveraging a Unicode character to make phishing links appear like legitimate Booking.com links in a new campaign distributing malware. The attack makes use of the Japanese hiragana c..."
-  },
-  {
-    "title": "When Theft Replaces Encryption: Blue Report 2025 on Ransomware & Infostealers",
-    "link": "https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/",
-    "date": "2025-08-14T14:01:11.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Ransomware and infostealers are winning on stealth, not encryption. Picus Blue Report 2025 reveals just 3% of data exfiltration attempts are stopped. Find and fix your biggest exposure gaps before the..."
-  },
-  {
     "title": "Navigating the Cybersecurity Budget Tug-of-War",
     "link": "https://www.darkreading.com/cybersecurity-operations/navigating-cybersecurity-budget-tug-of-war",
     "date": "2025-08-14T14:00:00.000Z",
@@ -558,13 +565,6 @@
     "date": "2025-08-14T13:10:15.000Z",
     "source": "Cointelegraph - Security",
     "summary": "BtcTurk halted deposits and withdrawals, citing a “technical issue” with hot wallets, while trading and local currency withdrawals and deposits remained active...."
-  },
-  {
-    "title": "Canada’s House of Commons investigating data breach after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/",
-    "date": "2025-08-14T13:06:43.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The House of Commons of Canada is currently investigating a data breach after a threat actor reportedly stole employee information in a cyberattack on Friday. [...]..."
   },
   {
     "title": "Have You Turned Off Your Virtual Oven?",
