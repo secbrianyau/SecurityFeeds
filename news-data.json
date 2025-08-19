@@ -1,5 +1,166 @@
 [
   {
+    "title": "Okta open-sources Auth0 rules catalog for threat detection",
+    "link": "https://www.bleepingcomputer.com/news/security/okta-open-sources-auth0-rules-catalog-for-threat-detection/",
+    "date": "2025-08-19T18:17:50.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Okta has open-sourced ready-made Sigma-based queries for Auth0 customers to detect account takeovers, misconfigurations, and suspicious behavior in event logs. [...]..."
+  },
+  {
+    "title": "Microsoft shares workaround for Teams \"couldn't connect\" error",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-teams-couldnt-connect-error/",
+    "date": "2025-08-19T18:07:14.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft is resolving a known issue that causes \"couldn't connect\" errors when launching the Microsoft Teams desktop and web applications. [...]..."
+  },
+  {
+    "title": "Solana Price Setup Hints at Breakout Rally Toward $268",
+    "link": "https://cryptopotato.com/solana-price-setup-hints-at-breakout-rally-toward-268/",
+    "date": "2025-08-19T17:44:24.000Z",
+    "source": "CryptoPotato",
+    "summary": "Solana (SOL) trades near $182, retesting $185–$190 resistance. A breakout could drive price toward $205, $225, and $268...."
+  },
+  {
+    "title": "Ripple’s Global Co-Head of Policy on 4 Best Practices for Digital Asset Custody",
+    "link": "https://www.coindesk.com/policy/2025/08/19/ripple-s-global-co-head-of-policy-on-4-best-practices-for-digital-asset-custody",
+    "date": "2025-08-19T17:41:17.000Z",
+    "source": "Coindesk",
+    "summary": "Ripple distills a Singapore workshop into four custody best practices: compliance by design, tailored models, operational resilience and governance...."
+  },
+  {
+    "title": "R0AR Announces Node Sale: Democratizing Layer 2 Infrastructure While Rewarding Community Participation",
+    "link": "https://cryptopotato.com/r0ar-announces-node-sale-democratizing-layer-2-infrastructure-while-rewarding-community-participation/",
+    "date": "2025-08-19T17:38:57.000Z",
+    "source": "CryptoPotato",
+    "summary": "[PRESS RELEASE – Sheridan, USA, August 19th, 2025] A First-of-its-Kind Node Sale Enables Community Ownership of High-Performance DeFi Infrastructure on Optimism Superchain R0AR, the leading unified De..."
+  },
+  {
+    "title": "Bullish's $1.15B in IPO Proceeds Was Entirely in Stablecoins—A First for Public Market",
+    "link": "https://www.coindesk.com/business/2025/08/19/bullish-s-usd1-15b-in-ipo-proceeds-was-entirely-in-stablecoins-a-first-for-public-market",
+    "date": "2025-08-19T17:31:05.000Z",
+    "source": "Coindesk",
+    "summary": "Stablecoins used in the settlement include dollar- and euro-pegged tokens of Circle, Paxos, PayPal, Ripple and Societe Generale, among others...."
+  },
+  {
+    "title": "PipeMagic Backdoor Resurfaces as Part of Play Ransomware Attack Chain",
+    "link": "https://www.darkreading.com/threat-intelligence/pipemagic-backdoor-resurfaces-play-ransomware-attack-chain",
+    "date": "2025-08-19T17:16:22.000Z",
+    "source": "Dark Reading",
+    "summary": "Attackers are wielding the sophisticated modular malware while exploiting CVE-2025-29824, a previously zero-day flaw in Windows Common Log File System (CLFS) that allows attackers to gain system-level..."
+  },
+  {
+    "title": "Data Reveals Why Chainlink’s Rally Might Only Be Getting Started",
+    "link": "https://cryptopotato.com/data-reveals-why-chainlinks-rally-might-only-be-getting-started/",
+    "date": "2025-08-19T17:03:20.000Z",
+    "source": "CryptoPotato",
+    "summary": "If LINK breaks four-year resistance at $30, it could start a strong rally toward $200 over future cycles...."
+  },
+  {
+    "title": "Elastic rejects claims of a zero-day RCE flaw in Defend EDR",
+    "link": "https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/",
+    "date": "2025-08-19T16:41:26.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Enterprise search and security company Elastic is rejecting reports of a zero-day vulnerability impacting its Defend endpoint detection and response (EDR) product. [...]..."
+  },
+  {
+    "title": "Nemo.money’s Nicholas Scott on AI-guided investing, truthful data, and where regulation really leads",
+    "link": "https://cryptoslate.com/podcasts/nemo-moneys-nicholas-scott-on-ai-guided-investing-truthful-data-and-where-regulation-really-leads/",
+    "date": "2025-08-19T16:30:32.000Z",
+    "source": "CryptoSlate",
+    "summary": "On this SlateCast episode, Nemo.money CEO Nicholas Scott joined CryptoSlate’s Liam “Akiba” Wright and Nate Whitehill to discuss AI-guided investing grounded in verified data. Scott outlined Nemo’s por..."
+  },
+  {
+    "title": "Senate Banking Chair Tim Scott: 12-18 Dems May Vote for Market Structure Bill",
+    "link": "https://www.coindesk.com/policy/2025/08/19/senate-banking-chair-tim-scott-12-18-dems-may-vote-for-market-structure-bill",
+    "date": "2025-08-19T16:30:18.000Z",
+    "source": "Coindesk",
+    "summary": "The Senate only has a discussion draft out on market structure legislation so far, but Scott previously said he expects the bill to be done by the end of September...."
+  },
+  {
+    "title": "OpenAI releases $4 ChatGPT plan, but it's not available in the US for now",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-4-chatgpt-plan-but-its-not-available-in-the-us-for-now/",
+    "date": "2025-08-19T16:28:00.000Z",
+    "source": "Bleeping Computer",
+    "summary": "OpenAI has finally announced the GPT Go subscription, which costs just $4 in the US or INR 399 in India. [...]..."
+  },
+  {
+    "title": "HBAR Drops 2.5% After Breaking Key Support Levels",
+    "link": "https://www.coindesk.com/markets/2025/08/19/hbar-drops-2-5-after-breaking-key-support-levels",
+    "date": "2025-08-19T16:06:09.000Z",
+    "source": "Coindesk",
+    "summary": "The token broke through key support levels in volatile trading after hotter-than-expected U.S. inflation data spurred $460 million in crypto liquidations...."
+  },
+  {
+    "title": "ICP Weakens as Selling Pressure Builds Near Critical Support",
+    "link": "https://www.coindesk.com/markets/2025/08/19/icp-weakens-as-selling-pressure-builds-near-critical-support",
+    "date": "2025-08-19T16:01:35.000Z",
+    "source": "Coindesk",
+    "summary": "Internet Computer Protocol trades lower with volume spikes signaling institutional distribution and retail weakness...."
+  },
+  {
+    "title": "Bitcoin Drops Below $114K, Ether Loses $4.2K as Jackson Hole Speech Might Bring Hawkish Surprise",
+    "link": "https://www.coindesk.com/markets/2025/08/19/bitcoin-drops-below-usd114k-ether-loses-usd4-2k-as-jackson-hole-speech-might-bring-hawkish-surprise",
+    "date": "2025-08-19T15:59:03.000Z",
+    "source": "Coindesk",
+    "summary": "The bubble in crypto treasury strategy companies deflated even further on Tuesday...."
+  },
+  {
+    "title": "Robinhood Partners With Kalshi to Launch NFL and College Football Prediction Markets",
+    "link": "https://www.coindesk.com/business/2025/08/19/robinhood-partners-with-kalshi-to-launch-pro-and-college-football-prediction-markets",
+    "date": "2025-08-19T15:59:02.000Z",
+    "source": "Coindesk",
+    "summary": "The new offering follows the success of Polymarket-style event trading, but with CFTC-regulated contracts in the U.S...."
+  },
+  {
+    "title": "XLM Plunges 2% Amid High-Volume Selling Pressure",
+    "link": "https://www.coindesk.com/markets/2025/08/19/xlm-plunges-2-amid-high-volume-selling-pressure",
+    "date": "2025-08-19T15:57:53.000Z",
+    "source": "Coindesk",
+    "summary": "Stellar faces accelerated bearish momentum as trading volumes spike above average during sustained decline...."
+  },
+  {
+    "title": "Joe Lubin’s SharpLink Gaming Doubles Down on ETH, Now Holds $3.2B",
+    "link": "https://cryptopotato.com/joe-lubins-sharplink-gaming-doubles-down-on-eth-now-holds-3-2b/",
+    "date": "2025-08-19T15:56:18.000Z",
+    "source": "CryptoPotato",
+    "summary": "Both Nasdaq-listed SharpLink and KindlyMD are expanding crypto holdings, with ETH and BTC accumulation, respectively...."
+  },
+  {
+    "title": "Leverage.Trading Releases Global Leverage & Risk Report Tracking 27,416 Traders",
+    "link": "https://cryptopotato.com/leverage-trading-releases-global-leverage-risk-report-tracking-27416-traders/",
+    "date": "2025-08-19T15:54:13.000Z",
+    "source": "CryptoPotato",
+    "summary": "[PRESS RELEASE – Cordoba, Spain, August 19th, 2025] Leverage.Trading, an educational and analytics platform focused on crypto leverage, margin trading, and advanced trading calculators, has released i..."
+  },
+  {
+    "title": "Ripple’s RLUSD and Donald Trump-linked USD1 used in Bullish’s $1.1 billion IPO settlement",
+    "link": "https://cryptoslate.com/ripples-rlusd-and-donald-trump-linked-usd1-used-in-bullishs-1-1-billion-ipo-settlement/",
+    "date": "2025-08-19T15:50:59.000Z",
+    "source": "CryptoSlate",
+    "summary": "Crypto exchange Bullish disclosed on Aug. 19 that part of its $1.15 billion IPO proceeds was received in a mix of stablecoins, including Ripple’s RLUSD on the XRP Ledger and President Donald Trump-aff..."
+  },
+  {
+    "title": "BONK Falls 3% as Memecoin Fails to Reclaim Resistance Level",
+    "link": "https://www.coindesk.com/markets/2025/08/19/bonk-falls-3-as-memecoin-fails-to-reclaim-resistance-level",
+    "date": "2025-08-19T15:43:20.000Z",
+    "source": "Coindesk",
+    "summary": "Solana memecoin shows heightened volatility as retail capitulation meets selective institutional buying...."
+  },
+  {
+    "title": "Wyoming unveils FRNT state stablecoin, joining the battle in the $285B arena",
+    "link": "https://cryptoslate.com/wyoming-unveils-frnt-state-stablecoin-joining-the-battle-in-the-285b-arena/",
+    "date": "2025-08-19T15:30:14.000Z",
+    "source": "CryptoSlate",
+    "summary": "Wyoming has introduced the Frontier Stable Token (FRNT), the first stablecoin created and issued by a US government entity, according to an Aug. 19 announcement. Formerly called the Wyoming Stable Tok..."
+  },
+  {
+    "title": "Bitcoin Whales Add 20K BTC Post-Dip: Historical Data Hints at Upward Price Momentum",
+    "link": "https://cryptopotato.com/bitcoin-whales-add-20k-btc-post-dip-historical-data-hints-at-upward-price-momentum/",
+    "date": "2025-08-19T15:29:12.000Z",
+    "source": "CryptoPotato",
+    "summary": "Bitcoin whales added 20K BTC after the latest price dip, signaling confidence as large holders turn the pullback into a buying opportunity...."
+  },
+  {
     "title": "TeraWulf Rally Cools on $850M Convertible Note Sale After Google Deal",
     "link": "https://www.coindesk.com/business/2025/08/19/terawulf-rally-cools-on-usd850m-convertible-note-sale-after-google-deal",
     "date": "2025-08-19T15:01:36.000Z",
@@ -140,13 +301,6 @@
     "summary": "A new exploit combining two critical, now-patched security flaws in SAP NetWeaver has emerged in the wild, putting organizations at risk of system compromise and data theft.\nThe exploit in question ch..."
   },
   {
-    "title": "LYS Labs Raises $4M to Build Machine-Ready Intelligence Layer for Solana’s Internet Capital Markets",
-    "link": "https://cryptopotato.com/lys-labs-raises-4m-to-build-machine-ready-intelligence-layer-for-solanas-internet-capital-markets/",
-    "date": "2025-08-19T12:50:37.000Z",
-    "source": "CryptoPotato",
-    "summary": "[PRESS RELEASE – Bucharest, Romania, August 19th, 2025] LYS Labs, the trailblazing machine-ready intelligence platform for Solana’s internet capital markets, has closed an oversubscribed $2M angel rou..."
-  },
-  {
     "title": "Tether recruits ex-Trump adviser Bo Hines to bolster US strategy",
     "link": "https://cryptoslate.com/tether-recruits-ex-trump-adviser-bo-hines-to-bolster-us-strategy/",
     "date": "2025-08-19T12:50:14.000Z",
@@ -159,13 +313,6 @@
     "date": "2025-08-19T12:44:29.000Z",
     "source": "Coindesk",
     "summary": "The company's first purchase since the Nakamoto merger boosts total holdings to 5,764.91 bitcoin...."
-  },
-  {
-    "title": "MNT Price Explodes 35% in 7 Days, What’s the Next Big Target?",
-    "link": "https://cryptopotato.com/mnt-price-explodes-35-in-7-days-whats-the-next-big-target/",
-    "date": "2025-08-19T12:44:11.000Z",
-    "source": "CryptoPotato",
-    "summary": "Mantle (MNT) jumps 35% in a week, trading at $1.36. Golden Cross and Bybit, Coinbase listings fuel bullish outlook toward $1.65...."
   },
   {
     "title": "Crypto Bull Market Could Run Till 2027, With Major Upside for HOOD, COIN, CRCL: Bernstein",
@@ -215,13 +362,6 @@
     "date": "2025-08-19T11:43:25.000Z",
     "source": "Coindesk",
     "summary": "One million contracts of the $4 XRP call option expiring on Dec. 26 changed hands via a block trade on Monday...."
-  },
-  {
-    "title": "Institutional Phase of Ethereum Has Started, But Boundaries Remain Fuzzy",
-    "link": "https://cryptopotato.com/institutional-phase-of-ethereum-has-started-but-boundaries-remain-fuzzy/",
-    "date": "2025-08-19T11:40:49.000Z",
-    "source": "CryptoPotato",
-    "summary": "BlackRock's Ethereum ETF and Wall Street inflows are strengthening investor confidence...."
   },
   {
     "title": "Wyoming State Debuts U.S. Dollar Stablecoin on Seven Blockchains",
@@ -280,116 +420,11 @@
     "summary": "Glassnode’s Accumulation Trend Score shows weakening demand across every cohort after recent highs..."
   },
   {
-    "title": "XRP in Danger: Ripple Token Could Fall Further After Losing Key Resistance (Analyst)",
-    "link": "https://cryptopotato.com/xrp-in-danger-ripple-token-could-fall-further-after-losing-key-resistance-analyst/",
-    "date": "2025-08-19T10:27:17.000Z",
-    "source": "CryptoPotato",
-    "summary": "Ripple (XRP) trades near $3 after losing $3.32 resistance, with analysts eyeing $2.90 support as SEC delays ETF decision...."
-  },
-  {
-    "title": "Bitcoin STHs Realize Losses for First Time Since January—Impact on BTC Price?",
-    "link": "https://cryptopotato.com/bitcoin-sths-realize-losses-for-first-time-since-january-impact-on-btc-price/",
-    "date": "2025-08-19T10:17:14.000Z",
-    "source": "CryptoPotato",
-    "summary": "A benchmark for the OG crypto points to certain holders selling at a loss for the first time in several months, while another metric points to a bullish divergence...."
-  },
-  {
-    "title": "Strategy eases MSTR stock sale limits as shares hit lowest level since April",
-    "link": "https://cryptoslate.com/strategy-eases-mstr-stock-sale-limits-as-shares-hit-lowest-level-since-april/",
-    "date": "2025-08-19T10:07:47.000Z",
-    "source": "CryptoSlate",
-    "summary": "Michael Saylor revealed on Aug. 18 that Strategy (formerly MicroStrategy) has revised its stock issuance policy amid the financial instrument’s current downward trend. The company had previously limit..."
-  },
-  {
-    "title": "Bitcoin Price Settles at $115K After Trump-Zelenskyy Meeting, OKB Eyes New ATH: Market Watch",
-    "link": "https://cryptopotato.com/bitcoin-price-settles-at-115k-after-trump-zelenskyy-meeting-okb-eyes-new-ath-market-watch/",
-    "date": "2025-08-19T09:18:55.000Z",
-    "source": "CryptoPotato",
-    "summary": "OKB is on the rise once again...."
-  },
-  {
-    "title": "U.K. 30-Year Yield Tops U.S. as Pressure Mounts on Government Borrowing",
-    "link": "https://www.coindesk.com/markets/2025/08/19/u-k-30-year-yield-tops-u-s-as-pressure-mounts-on-government-borrowing",
-    "date": "2025-08-19T09:06:22.000Z",
-    "source": "Coindesk",
-    "summary": "Markets demand a higher premium for U.K. debt compared to U.S. Treasury notes...."
-  },
-  {
-    "title": "Bitlayer's YBTC Enters Solana as the DeFi Project Partners With Kamino Finance, Orca",
-    "link": "https://www.coindesk.com/markets/2025/08/19/bitlayer-s-ybtc-enters-solana-as-the-defi-project-partners-with-kamino-finance-orca",
-    "date": "2025-08-19T09:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "This integration is intended to combine Bitlayer's security with Solana's speed and scalability, aligning with Bitlayer's goal of expanding the Bitcoin DeFi sector...."
-  },
-  {
-    "title": "New U.S. Crypto Group AIP Joins Crowded Field, Targets Policymaker Education",
-    "link": "https://www.coindesk.com/policy/2025/08/18/new-u-s-crypto-group-aip-joins-crowded-field-targets-policymaker-education",
-    "date": "2025-08-19T09:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "The American Innovation Project is the latest digital assets advocacy organization to launch, but its tax status could help it find a niche...."
-  },
-  {
-    "title": "US Ethereum ETFs face second-largest outflow of $196.6 million in a day",
-    "link": "https://cryptoslate.com/insights/us-ethereum-etfs-face-second-largest-outflow-of-196-6-million-in-a-day/",
-    "date": "2025-08-19T08:42:19.000Z",
-    "source": "CryptoSlate",
-    "summary": "US spot Ethereum exchange-traded funds (ETFs) saw heavy redemptions on Aug. 18, with investors pulling $196.6 million in a single day. Data from SoSoValue showed that this was the second-largest daily..."
-  },
-  {
-    "title": "Ripple Extends $75M Credit Facility to Gemini as Exchange Pursues IPO",
-    "link": "https://www.coindesk.com/business/2025/08/19/ripple-extends-usd75m-credit-facility-to-gemini-as-exchange-pursues-ipo",
-    "date": "2025-08-19T07:42:28.000Z",
-    "source": "Coindesk",
-    "summary": "Gemini's S-1 IPO filing revealed a lending deal with Ripple and a widening first-half loss as the company endeavors to become the third crypto exchange to go public in the U.S...."
-  },
-  {
-    "title": "Is Bitcoin's Bull Run Losing Steam? Here’s What Crypto and Nasdaq Market Breadth Indicates",
-    "link": "https://www.coindesk.com/markets/2025/08/19/is-bitcoin-s-bull-run-losing-steam-here-s-what-crypto-and-nasdaq-market-breadth-indicates",
-    "date": "2025-08-19T07:29:15.000Z",
-    "source": "Coindesk",
-    "summary": "Market breadth indicators help assess the overall health of a market or an index...."
-  },
-  {
     "title": "Massive Allianz Life data breach impacts 1.1 million people",
     "link": "https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/",
     "date": "2025-08-19T07:17:57.000Z",
     "source": "Bleeping Computer",
     "summary": "Hackers have stolen the personal information of 1.1 million individuals in a Salesforce data theft attack, which impacted U.S. insurance giant Allianz Life in July. [...]..."
-  },
-  {
-    "title": "South Korea Tells Crypto Firms to Stop Launching New Lending Products as Leverage Risk Builds",
-    "link": "https://www.coindesk.com/markets/2025/08/19/south-korea-tells-crypto-firms-to-stop-launching-new-lending-products-as-leverage-risk-builds",
-    "date": "2025-08-19T07:07:07.000Z",
-    "source": "Coindesk",
-    "summary": "Regulators froze new lending products after forced liquidations and market distortions, but some analysts say improvements, not shutdowns, are the smarter path forward...."
-  },
-  {
-    "title": "Crypto Traders Eye Jackson Hole as Ether, XRP, Solana Drop Sharply in Retreat",
-    "link": "https://www.coindesk.com/markets/2025/08/19/crypto-traders-eye-jackson-hole-as-ether-xrp-solana-drop-sharply-in-retreat",
-    "date": "2025-08-19T06:32:27.000Z",
-    "source": "Coindesk",
-    "summary": "SignalPlus head of Insights Augustine Fan noted that markets have already ruled out any chance of an outsized 50-basis-point cut...."
-  },
-  {
-    "title": "DOGE Tests 22-Cent Support as $782M Volume Unleashes Stop-Loss Cascade",
-    "link": "https://www.coindesk.com/markets/2025/08/19/doge-tests-22-cent-support-as-usd782m-volume-unleashes-stop-loss-cascade",
-    "date": "2025-08-19T05:51:24.000Z",
-    "source": "Coindesk",
-    "summary": "Resistance is building near $0.23, where profit-taking and heavy sell orders reappear...."
-  },
-  {
-    "title": "XRP Rejects $3.09 Resistance, Bears Target $2.96 Demand Zone",
-    "link": "https://www.coindesk.com/markets/2025/08/19/xrp-rejects-usd3-09-resistance-bears-target-usd2-96-demand-zone",
-    "date": "2025-08-19T05:25:22.000Z",
-    "source": "Coindesk",
-    "summary": "A bullish breakout during the 17:00 trading hour on August 18 pushed prices from $2.97 to $3.10, supported by heavy volume of 131 million—double the 24-hour average of 66.8 million...."
-  },
-  {
-    "title": "SEC delays decisions on several crypto ETFs amid work on streamlined approval process",
-    "link": "https://cryptoslate.com/sec-delays-decisions-on-several-crypto-etfs-amid-work-on-streamlined-approval-process/",
-    "date": "2025-08-18T23:00:06.000Z",
-    "source": "CryptoSlate",
-    "summary": "The Securities and Exchange Commission (SEC) delayed decisions on nine crypto exchange-traded fund (ETF) applications on Aug. 18. The delays extended review periods for products related to digital ass..."
   },
   {
     "title": "Noodlophile Stealer Hides Behind Bogus Copyright Complaints",
@@ -441,13 +476,6 @@
     "summary": "Over 800 N-able N-central servers remain unpatched against a pair of critical security vulnerabilities tagged as actively exploited last week. [...]..."
   },
   {
-    "title": "Mozilla warns Germany could soon declare ad blockers illegal",
-    "link": "https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/",
-    "date": "2025-08-18T15:39:42.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A recent ruling from Germany's Federal Supreme Court (BGH) has revived a legal battle over whether browser-based ad blockers infringe copyright, raising fears about a potential ban of the tools in the..."
-  },
-  {
     "title": "How Evolving RATs Are Redefining Enterprise Security Threats",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/evolving-rats-redefine-enterprise-security-threats",
     "date": "2025-08-18T14:00:00.000Z",
@@ -476,32 +504,11 @@
     "summary": "The vast majority of companies are using more than one cloud platform, yet struggle to establish and monitor security across different environments giving attackers an opening...."
   },
   {
-    "title": "Microsoft: Recent Windows updates may fail to install via WUSA",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/",
-    "date": "2025-08-18T11:07:07.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has mitigated a known issue that caused Windows update failures when installing them from a network share using the Windows Update Standalone Installer (WUSA). [...]..."
-  },
-  {
     "title": "Wazuh for Regulatory Compliance",
     "link": "https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html",
     "date": "2025-08-18T10:15:00.000Z",
     "source": "The Hacker News",
     "summary": "Organizations handling various forms of sensitive data or personally identifiable information (PII) require adherence to regulatory compliance standards and frameworks. These compliance standards also..."
-  },
-  {
-    "title": "HR giant Workday discloses data breach after Salesforce attack",
-    "link": "https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/",
-    "date": "2025-08-18T07:53:49.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Human resources giant Workday has disclosed a data breach after attackers gained access to a third-party customer relationship management (CRM) platform in a recent social engineering attack. [...]..."
-  },
-  {
-    "title": "OpenAI releases warmer GPT-5 personality, but only for non thinking model",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/",
-    "date": "2025-08-17T16:20:00.000Z",
-    "source": "Bleeping Computer",
-    "summary": "OpenAI has confirmed it has begun rolling out a new warmer personality for GPT-5, but remember that it won't be as warm as GPT-4o, which is still available for use under legacy models. [...]..."
   },
   {
     "title": " Blockchain security must localize to stop Asia’s crypto crime wave ",
@@ -831,12 +838,5 @@
     "date": "2025-08-13T11:37:15.000Z",
     "source": "CNN.com - Crypto News",
     "summary": "Dogecoin has climbed more than 12.5% in the past 24 hours. Altcoins like Ethereum, Solana, Cardano and Chainlink have also rallied in the past seven ......"
-  },
-  {
-    "title": "Fortinet Warns About FortiSIEM Vulnerability (CVE-2025-25256) With In-the-Wild Exploit Code",
-    "link": "https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html",
-    "date": "2025-08-13T11:37:00.000Z",
-    "source": "The Hacker News",
-    "summary": "Fortinet is alerting customers of a critical security flaw in FortiSIEM for which it said there exists an exploit in the wild.\nThe vulnerability, tracked as CVE-2025-25256, carries a CVSS score of 9.8..."
   }
 ]
