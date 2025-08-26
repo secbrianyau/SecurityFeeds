@@ -9,12 +9,100 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 Aug 2025 21:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 01:26:05 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 Aug 2025 21:20:31 GMT</pubDate>
+        <pubDate>Tue, 26 Aug 2025 01:26:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Surge in coordinated scans targets Microsoft RDP auth servers]]></title>
+            <description><![CDATA[Internet intelligence firm GreyNoise reports that it has recorded a significant spike in scanning activity consisting of nearly 1,971 IP addresses probing Microsoft Remote Desktop Web Access and RDP W...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 23:43:16 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin consolidates as liquidity flows shift to Ethereum and broader altcoin markets]]></title>
+            <description><![CDATA[Bitcoin (BTC) consolidates near current levels as capital inflows extend along the risk curve toward Ethereum and broader altcoins, according to Bitfinex Alpha’s Aug. 25 report. The report noted that ...]]></description>
+            <link>https://cryptoslate.com/bitcoin-consolidates-as-liquidity-flows-shift-to-ethereum-and-broader-altcoin-markets/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-consolidates-as-liquidity-flows-shift-to-ethereum-and-broader-altcoin-markets/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 23:00:33 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Aave reaches $41.1 billion TVL record, equivalent to being the 54th largest US bank]]></title>
+            <description><![CDATA[Aave reached an all-time high total value locked (TVL) of $41.1 billion on Aug. 24, positioning the decentralized lending protocol as the equivalent of the 54th largest US commercial bank by total dep...]]></description>
+            <link>https://cryptoslate.com/aave-reaches-41-1-billion-tvl-record-equivalent-to-being-the-54th-largest-us-bank/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/aave-reaches-41-1-billion-tvl-record-equivalent-to-being-the-54th-largest-us-bank/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 22:15:55 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Nearly $1B in Token Unlocks This Week Puts Pressure on These Altcoins]]></title>
+            <description><![CDATA[Sui tops unlocks with $161M (1.2% supply), while SVL is set to release nearly 19% of its supply worth $37M....]]></description>
+            <link>https://cryptopotato.com/nearly-1b-in-token-unlocks-this-week-puts-pressure-on-these-altcoins/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/nearly-1b-in-token-unlocks-this-week-puts-pressure-on-these-altcoins/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 22:10:34 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-08-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hayden Davis allegedly sniped Kanye West’s YZY token to make $12M in profits]]></title>
+            <description><![CDATA[Blockchain analytics firm Bubblemaps released a report on Aug. 25 alleging that Hayden Davis coordinated a sniping operation on Kanye West’s YZY token that generated $12 million in profits through 14 ...]]></description>
+            <link>https://cryptoslate.com/hayden-davis-allegedly-sniped-kanye-wests-yzy-token-to-make-12-million-in-profits/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/hayden-davis-allegedly-sniped-kanye-wests-yzy-token-to-make-12-million-in-profits/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 21:45:26 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New AI attack hides data-theft prompts in downscaled images]]></title>
+            <description><![CDATA[Researchers have developed a novel attack that steals user data by injecting malicious prompts in images processed by AI systems before delivering them to a large language model. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 21:34:57 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-08-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto staking ETF launch strategy prioritizes centralized partners over immediate DeFi adoption]]></title>
+            <description><![CDATA[Crypto exchange-traded fund (ETF) issuers are likely to partner with centralized staking providers following approval, but will eventually pivot to decentralized protocols as regulatory frameworks mat...]]></description>
+            <link>https://cryptoslate.com/crypto-staking-etf-launch-strategy-prioritizes-centralized-partners-over-immediate-defi-adoption/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/crypto-staking-etf-launch-strategy-prioritizes-centralized-partners-over-immediate-defi-adoption/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 21:15:14 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-08-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers Lay in Wait, Then Knocked Out Iran Ship Comms]]></title>
+            <description><![CDATA[Lab-Dookhtegen claims major attack on more than 60 cargo ships and oil tankers belonging to two Iranian companies on US sanctions list....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/hackers-knocked-out-iran-ship-comms</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/hackers-knocked-out-iran-ship-comms</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 21:10:12 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-08-25</dc:date>
+        </item>
         <item>
             <title><![CDATA[Saros Rockets Over 100% After Flash Crash: What’s Going On?]]></title>
             <description><![CDATA[Saros (SAROS) soared 103% in 24 hours despite a 7-day decline. Analysts track $0.20–$0.38 levels as volatility increases....]]></description>
@@ -93,7 +181,7 @@
             <dc:date>2025-08-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[ Global regulators, exchanges push back on tokenized stocks in SEC letter ]]></title>
+            <title><![CDATA[ Global regulators, exchanges push back on tokenized stocks in SEC letter: Report ]]></title>
             <description><![CDATA[ESMA, IOSCO and the World Federation of Exchanges urge the SEC to tighten oversight of tokenized equities, warning of investor risks as Wall Street giants eye the growing market....]]></description>
             <link>https://cointelegraph.com/news/global-regulators-crackdown-tokenized-stocks?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
             <guid isPermaLink="false">https://cointelegraph.com/news/global-regulators-crackdown-tokenized-stocks?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
@@ -247,17 +335,6 @@
             <dc:date>2025-08-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[The hidden signal in Bitcoin’s 439k daily transactions and falling big trades]]></title>
-            <description><![CDATA[Bitcoin’s on-chain data shows a rise in daily transactions, a small decline in active wallets, and a drop in the total tokens moved on-chain, a pattern consistent with more frequent, smaller transfers...]]></description>
-            <link>https://cryptoslate.com/the-hidden-signal-in-bitcoins-439k-daily-transactions-and-falling-big-trades/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/the-hidden-signal-in-bitcoins-439k-daily-transactions-and-falling-big-trades/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 25 Aug 2025 16:10:59 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-08-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Phishing Campaign Uses UpCrypter in Fake Voicemail Emails to Deliver RAT Payloads]]></title>
             <description><![CDATA[Cybersecurity researchers have flagged a new phishing campaign that's using fake voicemails and purchase orders to deliver a malware loader called UpCrypter.
 The campaign leverages "carefully crafted ...]]></description>
@@ -289,17 +366,6 @@ The campaign leverages "carefully crafted ...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 25 Aug 2025 15:45:30 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-08-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Strategy and Metaplanet collectively control 651,448 BTC worth $72.6B after surprise $367M buy]]></title>
-            <description><![CDATA[Corporate demand for Bitcoin continues despite its volatile price performance, as Strategy and Metaplanet both expanded their holdings in late August. On Aug. 25, the two companies announced that they...]]></description>
-            <link>https://cryptoslate.com/strategy-and-metaplanet-now-control-651448-btc-worth-72-6b-after-surprise-367m-buy/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/strategy-and-metaplanet-now-control-651448-btc-worth-72-6b-after-surprise-367m-buy/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 25 Aug 2025 15:35:31 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-08-25</dc:date>
         </item>
         <item>
@@ -358,17 +424,6 @@ The campaign leverages "carefully crafted ...]]></description>
             <dc:date>2025-08-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[XRP ETPs see $25M inflows as Bitcoin and Ethereum drive $1.43B exodus]]></title>
-            <description><![CDATA[Digital asset investment products recorded their most significant withdrawal in months last week, with outflows totaling $1.43 billion, CoinShares‘ latest weekly report revealed. CoinShares reported t...]]></description>
-            <link>https://cryptoslate.com/xrp-sees-25m-inflows-as-bitcoin-and-ethereum-drive-1-43b-exodus/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/xrp-sees-25m-inflows-as-bitcoin-and-ethereum-drive-1-43b-exodus/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 25 Aug 2025 15:00:31 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-08-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Coinbase, Circle, Strategy, MARA Lead Crypto Stock Post-Rally Sell-Off]]></title>
             <description><![CDATA[Monday's stock declines came following a fast plunge in cryptocurrency prices late Sunday....]]></description>
             <link>https://www.coindesk.com/markets/2025/08/25/crypto-stocks-slide-strategy-coinbase-circle-hit-by-post-rally-sell-off</link>
@@ -388,17 +443,6 @@ The campaign leverages "carefully crafted ...]]></description>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Mon, 25 Aug 2025 14:52:00 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2025-08-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BitMine volume rockets to top 20 passing JPMorgan as $2.8B trading frenzy shocks Wall Street]]></title>
-            <description><![CDATA[BitMine, an Ethereum-focused firm, announced that its shares have become one of the most heavily traded equities in the United States. In its Aug. 25 disclosure, the company referenced Fundstrat data ...]]></description>
-            <link>https://cryptoslate.com/bitmine-ranks-in-top-20-us-stocks-with-1000-surge-in-ethereum-era/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitmine-ranks-in-top-20-us-stocks-with-1000-surge-in-ethereum-era/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 25 Aug 2025 14:20:49 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-08-25</dc:date>
         </item>
         <item>
@@ -453,17 +497,6 @@ The campaign leverages "carefully crafted ...]]></description>
             <category><![CDATA[CryptoPotato]]></category>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 25 Aug 2025 13:59:13 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-08-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Teams Up With Gemini to Launch Exclusive XRP Credit Card]]></title>
-            <description><![CDATA[The duo continues with their joint collaborations....]]></description>
-            <link>https://cryptopotato.com/ripple-teams-up-with-gemini-to-launch-exclusive-xrp-credit-card/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ripple-teams-up-with-gemini-to-launch-exclusive-xrp-credit-card/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 25 Aug 2025 13:56:44 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-08-25</dc:date>
         </item>
@@ -787,17 +820,6 @@ The campaign leverages "carefully crafted ...]]></description>
             <dc:date>2025-08-22</dc:date>
         </item>
         <item>
-            <title><![CDATA[APT36 hackers abuse Linux .desktop files to install malware in new attacks]]></title>
-            <description><![CDATA[The Pakistani APT36 cyberspies are using Linux .desktop files to load malware in new attacks against government and defense entities in India. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 22 Aug 2025 18:35:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-08-22</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Interpol Arrests Over 1K Cybercriminals in 'Operation Serengeti 2.0']]></title>
             <description><![CDATA[The operation disrupted countless scams, and authorities seized a significant amount of evidence and recovered nearly $100 million in lost funds....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-serengeti-2-0</link>
@@ -806,17 +828,6 @@ The campaign leverages "carefully crafted ...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 22 Aug 2025 17:03:12 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-08-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Fake Mac fixes trick users into installing new Shamos infostealer]]></title>
-            <description><![CDATA[A new infostealer malware targeting Mac devices, called 'Shamos,' is targeting Mac devices in ClickFix attacks that impersonate troubleshooting guides and fixes. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 22 Aug 2025 15:44:10 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-08-22</dc:date>
         </item>
         <item>
@@ -1327,17 +1338,6 @@ Across industries, AI agents are being set up e...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Wed, 20 Aug 2025 17:25:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-08-20</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hyperliquid Grabs 80% of DeFi Perps Market With $30B in Daily Trading Volume]]></title>
-            <description><![CDATA[Hyperliquid has emerged as the dominant decentralized exchange for perpetual futures. The platform has overtaken dYdX and GMX, which initially cornered the market. While centralized ......]]></description>
-            <link>https://www.ccn.com/news/crypto/hyperliquid-captures-defi-perps-market/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/hyperliquid-captures-defi-perps-market/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Wed, 20 Aug 2025 14:17:15 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2025-08-20</dc:date>
         </item>
     </channel>
