@@ -9,12 +9,23 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Sep 2025 01:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 03:41:57 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Sep 2025 01:27:11 GMT</pubDate>
+        <pubDate>Mon, 22 Sep 2025 03:41:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Asia Morning Briefing: China’s Car, America’s Currency — Why Stablecoins Keep the Dollar in the Driver’s Seat]]></title>
+            <description><![CDATA[A BYD Dolphin Mini sold for USDT in a BRICS country highlights the irony of China’s de-dollarization drive, where the yuan is sidelined to academic theories about a post-U.S. order, while crypto-dolla...]]></description>
+            <link>https://www.coindesk.com/markets/2025/09/22/asia-morning-briefing-paying-for-a-chinese-car-in-usdt-shows-why-digital-dollars-rule</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/09/22/asia-morning-briefing-paying-for-a-chinese-car-in-usdt-shows-why-digital-dollars-rule</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 22 Sep 2025 01:57:19 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-09-22</dc:date>
+        </item>
         <item>
             <title><![CDATA[$40M Seized, Trust Destroyed? Canada’s Largest Crypto Crackdown Leaves Users Furious]]></title>
             <description><![CDATA[Canada's first crypto exchange takedown triggers panic as users slam the RCMP for punishing innocent TradeOgre users alongside criminals....]]></description>
@@ -711,17 +722,6 @@ The vulnerability, tracked as CVE-...]]></description>
             <dc:date>2025-09-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[Crypto Markets Today: Treading Cautiously, With Smaller Tokens Showing Froth]]></title>
-            <description><![CDATA[No summary available]]></description>
-            <link>https://www.coindesk.com/markets/2025/09/19/crypto-markets-today-treading-cautiously-with-smaller-tokens-showing-froth</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/09/19/crypto-markets-today-treading-cautiously-with-smaller-tokens-showing-froth</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 19 Sep 2025 12:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-09-19</dc:date>
-        </item>
-        <item>
             <title><![CDATA[How To Automate Alert Triage With AI Agents and Confluence SOPs Using Tines]]></title>
             <description><![CDATA[Run by the team at workflow orchestration and AI platform Tines, the Tines library features over 1,000 pre-built workflows shared by security practitioners from across the community - all free to impo...]]></description>
             <link>https://thehackernews.com/2025/09/how-to-automate-alert-triage-with-ai.html</link>
@@ -1091,6 +1091,17 @@ Ru...]]></description>
             <dc:date>2025-09-16</dc:date>
         </item>
         <item>
+            <title><![CDATA[Self-Replicating Worm Hits 180+ Software Packages]]></title>
+            <description><![CDATA[At least 187 code packages made available through the JavaScript repository NPM have been infected with a self-replicating worm that steals credentials from developers and publishes those secrets on G...]]></description>
+            <link>https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/</link>
+            <guid isPermaLink="false">https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/</guid>
+            <category><![CDATA[Krebs On Security]]></category>
+            <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
+            <pubDate>Tue, 16 Sep 2025 14:08:02 GMT</pubDate>
+            <dc:source>Krebs On Security</dc:source>
+            <dc:date>2025-09-16</dc:date>
+        </item>
+        <item>
             <title><![CDATA[Innovative FileFix Phishing Attack Proves Plenty Potent]]></title>
             <description><![CDATA[Highly deceptive FileFix uses code obfuscation and steganography and has been translated into at least 16 languages to power a global campaign....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/innovative-filefix-attack-potent</link>
@@ -1333,17 +1344,6 @@ The ...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 15 Sep 2025 09:11:58 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-09-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns]]></title>
-            <description><![CDATA[A new artificial intelligence (AI)-powered penetration testing tool linked to a China-based company has attracted nearly 11,000 downloads on the Python Package Index (PyPI) repository, raising concern...]]></description>
-            <link>https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 15 Sep 2025 07:12:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-09-15</dc:date>
         </item>
     </channel>
