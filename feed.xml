@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Sep 2025 18:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 21:19:32 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Sep 2025 18:30:02 GMT</pubDate>
+        <pubDate>Thu, 25 Sep 2025 21:19:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
@@ -22,8 +22,85 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 25 Sep 2025 18:25:10 GMT</pubDate>
+            <pubDate>Thu, 25 Sep 2025 21:14:48 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-09-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Unofficial Postmark MCP npm silently stole users' emails]]></title>
+            <description><![CDATA[A npm package copying the official 'postmark-mcp' project on GitHub turned bad with the latest update that added a single line of code to exfiltrate all its users' email communication. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 20:23:34 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-09-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Macroeconomic Shifts Are Extending Bitcoin’s Cycle to 2026, Analysts Forecast]]></title>
+            <description><![CDATA[Bitcoin's historical four-year cycle may be broken, with analysts now predicting the next peak will occur in 2026 due to macroeconomic factors....]]></description>
+            <link>https://cryptopotato.com/macroeconomic-shifts-are-extending-bitcoins-cycle-to-2026-analysts-forecast/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/macroeconomic-shifts-are-extending-bitcoins-cycle-to-2026-analysts-forecast/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 20:15:18 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-09-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin faces critical test as on-chain data reveals market exhaustion]]></title>
+            <description><![CDATA[Bitcoin’s (BTC) on-chain data reveals structural concerns about the sustainability of the current rally, and defending the $111,000 zone is fundamental to avoid further downside. As Glassnode reported...]]></description>
+            <link>https://cryptoslate.com/bitcoin-faces-critical-test-as-on-chain-data-reveals-market-exhaustion/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-faces-critical-test-as-on-chain-data-reveals-market-exhaustion/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 20:05:56 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-09-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin’s Cup & Handle Playbook Points to Explosive Expansion]]></title>
+            <description><![CDATA[Bitcoin shows a repeating cup-and-handle pattern, with analysts watching $90K–$92K support and targets above $123K....]]></description>
+            <link>https://cryptopotato.com/bitcoins-cup-handle-playbook-points-to-explosive-expansion/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoins-cup-handle-playbook-points-to-explosive-expansion/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 19:30:22 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-09-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Chinese APT Drops 'Brickstorm' Backdoors on Edge Devices]]></title>
+            <description><![CDATA[The China-linked cyber-espionage group UNC5221 is compromising network appliances that cannot run traditional EDR agents to deploy new versions of the "Brickstorm" backdoor....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-brickstorm-backdoors-edge-devices</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-brickstorm-backdoors-edge-devices</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 19:05:29 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-09-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Liquidations Top $1B as Bitcoin, Ether, Solana Selloffs Worsen]]></title>
+            <description><![CDATA[Strategy (MSTR) plunged as much as 10% and is now lower year-to-date....]]></description>
+            <link>https://www.coindesk.com/markets/2025/09/25/crypto-liquidations-top-usd1b-as-bitcoin-ether-solana-selloffs-worsen</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/09/25/crypto-liquidations-top-usd1b-as-bitcoin-ether-solana-selloffs-worsen</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 18:39:49 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-09-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Urgent: Cisco ASA Zero-Day Duo Under Attack; CISA Triggers Emergency Mitigation Directive]]></title>
+            <description><![CDATA[Cisco is urging customers to patch two security flaws impacting the VPN web server of Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) So...]]></description>
+            <link>https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 18:17:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-09-25</dc:date>
         </item>
         <item>
@@ -79,6 +156,24 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Thu, 25 Sep 2025 17:34:02 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2025-09-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More]]></title>
+            <description><![CDATA[/* ===== Container ===== */
+.td-wrap {}
+
+/* ===== Section ===== */
+.td-section {
+}
+.td-title { margin: 16px 0 4px; font-size: 32px; line-height: 1.2; font-weight: 800; }
+.td-subtitle { margin: 0 0 24p...]]></description>
+            <link>https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 25 Sep 2025 17:24:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-09-25</dc:date>
         </item>
         <item>
@@ -335,17 +430,6 @@
             <dc:date>2025-09-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ripple (XRP) Defends a Critical Level – Is a Massive Double-Digit Rally Next?]]></title>
-            <description><![CDATA[Here's why XRP might be poised for a 25% price jump....]]></description>
-            <link>https://cryptopotato.com/ripple-xrp-defends-a-critical-level-is-a-massive-double-digit-rally-next/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ripple-xrp-defends-a-critical-level-is-a-massive-double-digit-rally-next/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 25 Sep 2025 13:42:00 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-09-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[How Cloud Service Disruptions Are Making Resilience Critical for Developers]]></title>
             <description><![CDATA[Outages affecting DevOps tools threaten to leave developers coding like it's 1999. How serious is the threat and what can companies do?...]]></description>
             <link>https://www.darkreading.com/application-security/cloud-service-disruptions-make-resilience-critical-developers</link>
@@ -423,17 +507,6 @@
             <dc:date>2025-09-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Sharpe vs Sortino: The Data Proving Bitcoin Outperforms Gold Despite Volatility]]></title>
-            <description><![CDATA[Despite gold's 39% YTD gain, Bitcoin recorded superior Sharpe and Sortino ratios, indicating higher returns per unit of risk across multiple cycles....]]></description>
-            <link>https://cryptopotato.com/sharpe-vs-sortino-the-data-proving-bitcoin-outperforms-gold-despite-volatility/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/sharpe-vs-sortino-the-data-proving-bitcoin-outperforms-gold-despite-volatility/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 25 Sep 2025 12:49:32 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-09-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Microsoft will offer free Windows 10 extended security updates in Europe]]></title>
             <description><![CDATA[Microsoft will offer free extended security updates for Windows 10 users in the European Economic Area (EEA), which includes Iceland, Liechtenstein, Norway, and all 27 European Union member states. [....]]></description>
             <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-will-offer-free-windows-10-security-updates-in-europe/</link>
@@ -497,24 +570,6 @@ It’s not because security teams can't see e...]]></description>
             <category><![CDATA[The Hacker News]]></category>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Thu, 25 Sep 2025 11:49:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-09-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More]]></title>
-            <description><![CDATA[/* ===== Container ===== */
-.td-wrap {}
-
-/* ===== Section ===== */
-.td-section {
-}
-.td-title { margin: 16px 0 4px; font-size: 32px; line-height: 1.2; font-weight: 800; }
-.td-subtitle { margin: 0 0 24p...]]></description>
-            <link>https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 25 Sep 2025 11:48:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2025-09-25</dc:date>
         </item>
@@ -663,17 +718,6 @@ The crates, named fast...]]></description>
             <dc:date>2025-09-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ether Falls to $4K, BTC, XRP Slide as U.S. Government Shutdown Risks Mount]]></title>
-            <description><![CDATA[The White House is preparing for potential job cuts, as Congress must pass a funding measure to prevent the government from running out of money by the end of September....]]></description>
-            <link>https://www.coindesk.com/markets/2025/09/25/ether-falls-to-usd4k-btc-xrp-slide-as-u-s-government-shutdown-risks-mount</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/09/25/ether-falls-to-usd4k-btc-xrp-slide-as-u-s-government-shutdown-risks-mount</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 25 Sep 2025 05:06:59 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-09-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[ETFs, RWAs, stablecoins ended traditional four-year cycle and alt seasons]]></title>
             <description><![CDATA[The traditional four-year crypto cycle appears to be broken, as institutional adoption through exchange-traded funds, real-world asset tokenization, and stablecoin infrastructure reshapes market condi...]]></description>
             <link>https://cryptoslate.com/etfs-rwas-stablecoins-ended-traditional-four-year-cycle-and-alt-seasons/</link>
@@ -692,17 +736,6 @@ The crates, named fast...]]></description>
             <category><![CDATA[CryptoSlate]]></category>
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Wed, 24 Sep 2025 22:30:38 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-09-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[South Park’s new episode on prediction markets causes speculation over Polymarket appearance]]></title>
-            <description><![CDATA[South Park’s Sept. 24 episode tackles prediction markets, and the crypto community is speculating if it will mention platforms such as Polymarket, Kalshi, or Myriad Markets. The episode description sa...]]></description>
-            <link>https://cryptoslate.com/south-parks-recent-prediction-markets-feature-causes-speculation-over-polymarket-appearance/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/south-parks-recent-prediction-markets-feature-causes-speculation-over-polymarket-appearance/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 24 Sep 2025 21:45:37 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-09-24</dc:date>
         </item>
@@ -781,17 +814,6 @@ The crates, named fast...]]></description>
             <dc:creator><![CDATA[Blockthreat]]></dc:creator>
             <pubDate>Wed, 24 Sep 2025 18:06:41 GMT</pubDate>
             <dc:source>Blockthreat</dc:source>
-            <dc:date>2025-09-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Cisco warns of IOS zero-day vulnerability exploited in attacks]]></title>
-            <description><![CDATA[Cisco has released security updates to address a high-severity zero-day vulnerability in Cisco IOS and IOS XE Software that is currently being exploited in attacks. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 24 Sep 2025 16:52:50 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-09-24</dc:date>
         </item>
         <item>
@@ -1325,28 +1347,6 @@ Ev...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 19 Sep 2025 19:17:03 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-09-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA['ShadowLeak' ChatGPT Attack Allows Hackers to Invisibly Steal Emails]]></title>
-            <description><![CDATA[The loophole allows cyberattackers to exfiltrate company data via OpenAI's infrastructure, leaving no trace at all on enterprise systems....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/shadowleak-chatgpt-invisibly-steal-emails</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/shadowleak-chatgpt-invisibly-steal-emails</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 19 Sep 2025 19:07:47 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-09-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers]]></title>
-            <description><![CDATA[A proxy network known as REM Proxy is powered by malware known as SystemBC, offering about 80% of the botnet to its users, according to new findings from the Black Lotus Labs team at Lumen Technologie...]]></description>
-            <link>https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 19 Sep 2025 14:26:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-09-19</dc:date>
         </item>
     </channel>
