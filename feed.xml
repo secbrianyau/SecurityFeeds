@@ -9,20 +9,75 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Oct 2025 18:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 21:19:17 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Oct 2025 18:30:30 GMT</pubDate>
+        <pubDate>Mon, 06 Oct 2025 21:19:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
         <item>
-            <title><![CDATA[[Dark Reading Virtual Event] Know Your Enemy: How cybercriminals and nation-state hackers operate]]></title>
-            <description><![CDATA[No summary available]]></description>
-            <link>https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</link>
-            <guid isPermaLink="false">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
+            <title><![CDATA[Red Hat data breach escalates as ShinyHunters joins extortion]]></title>
+            <description><![CDATA[Enterprise software giant Red Hat is now being extorted by the ShinyHunters gang, with samples of stolen customer engagement reports (CERs) leaked on their data leak site. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 21:08:24 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Billionaire Paul Tudor Jones says Bitcoin will outpace gold in ‘a world of fiscal expansion’]]></title>
+            <description><![CDATA[Billionaire hedge fund manager Paul Tudor Jones reaffirmed his growing preference for Bitcoin over gold as a hedge against inflation, while also signaling optimism about further market gains. Jones, f...]]></description>
+            <link>https://cryptoslate.com/billionaire-paul-tudor-jones-says-bitcoin-will-outpace-gold-in-a-world-of-fiscal-expansion/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/billionaire-paul-tudor-jones-says-bitcoin-will-outpace-gold-in-a-world-of-fiscal-expansion/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 20:50:23 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cyberattackers Exploit Zimbra Zero-Day Via ICS]]></title>
+            <description><![CDATA[A threat actor purporting to be from the Libyan Navy's Office of Protocol targeted Brazil's military earlier this year using the rare tactic....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 18:25:46 GMT</pubDate>
+            <pubDate>Mon, 06 Oct 2025 20:12:51 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[IBIT approaches $100B in AUM as BlackRock’s most profitable ETF]]></title>
+            <description><![CDATA[BlackRock’s iShares Bitcoin Trust ETF (IBIT) has approached $100 billion in assets under management, making it the firm’s most profitable ETF despite its launch just 435 days ago. Bloomberg senior ETF...]]></description>
+            <link>https://cryptoslate.com/ibit-approaches-100b-in-aum-as-blackrocks-most-profitable-etf/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/ibit-approaches-100b-in-aum-as-blackrocks-most-profitable-etf/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 19:49:08 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cathie Wood's ARK Bets on Tokenization With a Stake in BlackRock-Backed Securitize]]></title>
+            <description><![CDATA[The ARK Venture Fund invested around $10 million in the tokenization specialist, according to CoinDesk's calculation....]]></description>
+            <link>https://www.coindesk.com/business/2025/10/06/cathie-wood-s-ark-bets-on-tokenization-with-a-stake-in-blackrock-backed-securitize</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/06/cathie-wood-s-ark-bets-on-tokenization-with-a-stake-in-blackrock-backed-securitize</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 19:43:44 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Clop Ransomware Hits Oracle Customers Via Zero-Day Flaw]]></title>
+            <description><![CDATA[The infamous Clop gang has targeted a wide range of Oracle E-Business Suite customers using a newly disclosed zero-day vulnerability....]]></description>
+            <link>https://www.darkreading.com/application-security/clop-ransomware-oracle-customers-zero-day-flaw</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/clop-ransomware-oracle-customers-zero-day-flaw</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 19:05:37 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-10-06</dc:date>
         </item>
@@ -46,6 +101,17 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Mon, 06 Oct 2025 18:11:46 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ex-BlockFi CEO Zac Prince Returns to Crypto Spotlight to Lead Galaxy Digital’s New Banking Platform]]></title>
+            <description><![CDATA[Prince's BlockFi became a symbol of crypto’s lending boom and bust, offering interest-bearing accounts, before collapsing when FTX’s failure left it short of liquidity....]]></description>
+            <link>https://www.coindesk.com/business/2025/10/06/ex-blockfi-ceo-zac-prince-returns-to-crypto-spotlight-to-lead-galaxy-digital-s-new-banking-platform</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/06/ex-blockfi-ceo-zac-prince-returns-to-crypto-spotlight-to-lead-galaxy-digital-s-new-banking-platform</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 17:22:39 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
@@ -514,28 +580,6 @@ The vulnerability, tr...]]></description>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[Polymarket Bettors Say U.S. Government Shutdown Will be Long But Won't Break Records]]></title>
-            <description><![CDATA[Bettors predict it will last longer than Oct. 15, but won't break the record set by the first Trump administration in 2018-2019....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/06/polymarket-bettors-say-u-s-government-shutdown-won-t-break-records-but-it-will-be-long</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/06/polymarket-bettors-say-u-s-government-shutdown-won-t-break-records-but-it-will-be-long</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 07:43:03 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[XRP, DOGE, SOL See Profit-Taking, Bitcoin’s New High (Maybe) Could Still Rise Higher]]></title>
-            <description><![CDATA[The outlier on a weekly basis remains BNB, roughly at $1,184 and up more than 17% over seven days, which tells us that rotations are still happening inside ecosystems....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/06/xrp-doge-sol-see-profit-taking-but-bitcoin-s-new-lifetime-high-maybe-isn-t-the-top</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/06/xrp-doge-sol-see-profit-taking-but-bitcoin-s-new-lifetime-high-maybe-isn-t-the-top</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 06:04:51 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files]]></title>
             <description><![CDATA[A now patched security vulnerability in Zimbra Collaboration was exploited as a zero-day earlier this year in cyber attacks targeting the Brazilian military.
 Tracked as CVE-2025-27915 (CVSS score: 5.4...]]></description>
@@ -623,28 +667,6 @@ Tracked as CVE-2025-27915 (CVSS score: 5.4...]]></description>
             <pubDate>Sun, 05 Oct 2025 11:21:50 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-10-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Could Metaplanet’s Bitcoin reserve be the new financial frontier?]]></title>
-            <description><![CDATA[Just as Amazon laid the rails for the digital economy, Metaplanet president Simon Gerovich says his company is building the new financial infrastructure. And he argues that the market often misprices ...]]></description>
-            <link>https://cryptoslate.com/could-metaplanets-bitcoin-reserve-be-the-new-financial-frontier/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/could-metaplanets-bitcoin-reserve-be-the-new-financial-frontier/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sat, 04 Oct 2025 17:00:22 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[As stagflation looms, experts advise: own assets or risk being left behind]]></title>
-            <description><![CDATA[Ever get the feeling that the world is spinning faster than at any point in living memory? If you haven’t, you’re not looking at the right data. In today’s new economic order, holding real, tangible a...]]></description>
-            <link>https://cryptoslate.com/as-stagflation-looms-experts-advise-own-assets-or-risk-being-left-behind/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/as-stagflation-looms-experts-advise-own-assets-or-risk-being-left-behind/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sat, 04 Oct 2025 15:00:26 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-04</dc:date>
         </item>
         <item>
             <title><![CDATA[CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief]]></title>
@@ -1325,28 +1347,6 @@ Every SOC leader knows the feeling: hundreds of alerts pouring in, dashboards li
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 29 Sep 2025 20:53:11 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-09-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BlockThreat - Week 39, 2025]]></title>
-            <description><![CDATA[UXLINK | Griffin AI | Hyperdrive | Linea | Seedify | Ideal Protocol | dTrinity | Cool...]]></description>
-            <link>https://newsletter.blockthreat.io/p/blockthreat-week-39-2025</link>
-            <guid isPermaLink="false">https://newsletter.blockthreat.io/p/blockthreat-week-39-2025</guid>
-            <category><![CDATA[Blockthreat]]></category>
-            <dc:creator><![CDATA[Blockthreat]]></dc:creator>
-            <pubDate>Mon, 29 Sep 2025 18:02:18 GMT</pubDate>
-            <dc:source>Blockthreat</dc:source>
-            <dc:date>2025-09-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[UK Crypto Petition Hits Just Under 20K Signatures, Gov Confirms Crypto Regulation Coming This Year]]></title>
-            <description><![CDATA[The U.K. government has responded to a petition calling for it to enhance its efforts in Web3 and crypto. Regulatory frameworks for crypto tokenized assets ......]]></description>
-            <link>https://www.ccn.com/news/crypto/uk-crypto-petition-gov-confirms-regulation/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/uk-crypto-petition-gov-confirms-regulation/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Mon, 29 Sep 2025 15:00:26 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2025-09-29</dc:date>
         </item>
     </channel>
