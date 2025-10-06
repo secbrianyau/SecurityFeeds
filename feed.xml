@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Oct 2025 01:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 03:37:13 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Oct 2025 01:22:29 GMT</pubDate>
+        <pubDate>Mon, 06 Oct 2025 03:37:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
@@ -22,8 +22,30 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 01:17:47 GMT</pubDate>
+            <pubDate>Mon, 06 Oct 2025 03:32:29 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Asia Morning Briefing: Why Russia-Linked Stablecoin Issuer A7A5 Could Exhibit at Token2049 Despite Singapore Sanctions]]></title>
+            <description><![CDATA[Singapore made a bold move in its usual foreign policy of neutrality by sanctioning Promsvyazbank, a bank associated with the ruble stablecoin issuer A7A5, due to Russia's invasion of Ukraine. But A7A...]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/06/asia-morning-briefing-why-russia-linked-stablecoin-issuer-a7a5-could-exhibit-at-token2049-despite-singapore-sanctions</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/06/asia-morning-briefing-why-russia-linked-stablecoin-issuer-a7a5-could-exhibit-at-token2049-despite-singapore-sanctions</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 01:45:07 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Oracle patches EBS zero-day exploited in Clop data theft attacks]]></title>
+            <description><![CDATA[Oracle is warning about a critical E-Business Suite zero-day vulnerability tracked as CVE-2025-61882 that allows attackers to perform unauthenticated remote code execution, with the flaw actively expl...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 06 Oct 2025 01:37:24 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
@@ -567,17 +589,6 @@ The company said it observed a nearly 500% ...]]></description>
             <dc:date>2025-10-03</dc:date>
         </item>
         <item>
-            <title><![CDATA[AAVE Breaks Resistance as DeFi Market Hits Record $219B Size]]></title>
-            <description><![CDATA[The native token of the largest DeFi lending protocol is showing strong momentum despite short-term profit taking above $290....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/03/aave-breaks-resistance-as-defi-market-hits-record-usd219b-size</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/03/aave-breaks-resistance-as-defi-market-hits-record-usd219b-size</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 03 Oct 2025 18:03:01 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-03</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Signal adds new cryptographic defense against quantum attacks]]></title>
             <description><![CDATA[Signal announced the introduction of Sparse Post-Quantum Ratchet (SPQR), a new cryptographic component designed to withstand quantum computing threats. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/</link>
@@ -597,17 +608,6 @@ The company said it observed a nearly 500% ...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Fri, 03 Oct 2025 15:58:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Renault and Dacia UK warn of data breach impacting customers]]></title>
-            <description><![CDATA[Customers of Renault and Dacia in the United Kingdom have been notified that sensitive information they shared with the car maker was compromised following a data breach at a third-party provider. [.....]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 03 Oct 2025 15:52:08 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-10-03</dc:date>
         </item>
         <item>
