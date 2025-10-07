@@ -9,12 +9,122 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Oct 2025 15:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 18:30:12 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Oct 2025 15:23:39 GMT</pubDate>
+        <pubDate>Tue, 07 Oct 2025 18:30:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Clop exploited Oracle zero-day for data theft since early August]]></title>
+            <description><![CDATA[The Clop ransomware gang has been exploiting a critical Oracle E-Business Suite (EBS) zero-day bug in data theft attacks since at least early August, according to cybersecurity company CrowdStrike. [....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 17:27:34 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[North Korean hackers stole over $2 billion in crypto this year]]></title>
+            <description><![CDATA[North Korean hackers have stolen an estimated $2 billion worth of cryptocurrency assets in 2025, marking the largest annual total on record. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 17:02:35 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Medusa Ransomware Actors Exploit Critical Fortra GoAnywhere Flaw]]></title>
+            <description><![CDATA[Researchers say exploitation of CVE-2025-10035 requires a private key, and it's unclear how Storm-1175 threat actors pulled this off....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 16:59:27 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Electronics giant Avnet confirms breach, says stolen data unreadable]]></title>
+            <description><![CDATA[Electronic components distributor Avnet confirmed in a statement for BleepingComputer that it suffered a data breach but noted that the stolen data is unreadable without proprietary tools. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 16:19:56 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CleanCore's Dogecoin Treasury Tops 710M Tokens, Booking $20M+ Gain]]></title>
+            <description><![CDATA[The company has been acquiring DOGE since early September using proceeds from a $175 million private placement....]]></description>
+            <link>https://www.coindesk.com/business/2025/10/07/cleancore-s-dogecoin-treasury-tops-710m-tokens-booking-usd20m-gain</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/07/cleancore-s-dogecoin-treasury-tops-710m-tokens-booking-usd20m-gain</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 15:45:09 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft kills more Microsoft Account bypasses in Windows 11]]></title>
+            <description><![CDATA[Microsoft is removing more methods that help users create local Windows accounts and bypass the Microsoft account requirement when installing Windows 11. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 15:37:40 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bulls exit exchanges at record levels. Bitcoin God candle squeeze incoming?]]></title>
+            <description><![CDATA[Bitcoin’s exchange withdrawals have climbed to their highest sustained level since 2022, even as the asset trades near record highs. While current outflows remain below the 2023 accumulation peak, the...]]></description>
+            <link>https://cryptoslate.com/bitcoin-exits-exchanges-at-record-levels-for-bull-run-god-candle-supply-squeeze-incoming/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-exits-exchanges-at-record-levels-for-bull-run-god-candle-supply-squeeze-incoming/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 15:36:29 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Dips to $122K as Crypto Rally Gets Overheated. What Next?]]></title>
+            <description><![CDATA[The pullback was a broad one, with altcoins like SOL, ADA, and XRP suffering even steeper declines....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/07/bitcoin-dips-to-usd122k-as-crypto-rally-gets-overheated-what-next</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/07/bitcoin-dips-to-usd122k-as-crypto-rally-gets-overheated-what-next</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 15:33:07 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Filecoin Confronts Persistent Selling Pressure as Token Slumps 4%]]></title>
+            <description><![CDATA[The crypto broke through multiple support levels on high volume....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/07/filecoin-confronts-persistent-selling-pressure-as-token-slumps-4</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/07/filecoin-confronts-persistent-selling-pressure-as-token-slumps-4</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 15:27:35 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them]]></title>
+            <description><![CDATA[Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future explo...]]></description>
+            <link>https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 15:18:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
         <item>
             <title><![CDATA[CEA Industries Total BNB Holdings Rise to 480K as Token Hits Record High]]></title>
             <description><![CDATA[The value of CEA's BNB holdings has moved to over $625 million, BNB itself reaching a new all-time high above $1,310....]]></description>
@@ -170,7 +280,7 @@
             <dc:date>2025-10-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[Onwards and Upwards for Bitcoin as MOVE Melts Down, But Dollar and Bonds Signal Caution to BTC]]></title>
+            <title><![CDATA[Bitcoin Risks Sliding to $118K as Dollar and Bonds Signal Caution to BTC; MOVE Supports Bull Case]]></title>
             <description><![CDATA[Traditional markets offer mixed signals as BTC holds key trendline support....]]></description>
             <link>https://www.coindesk.com/markets/2025/10/07/onwards-and-upwards-for-bitcoin-as-move-melts-down-dollar-and-bonds-signal-caution-to-risk-assets</link>
             <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/07/onwards-and-upwards-for-bitcoin-as-move-melts-down-dollar-and-bonds-signal-caution-to-risk-assets</guid>
@@ -247,7 +357,7 @@
             <dc:date>2025-10-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[New York Stock Exchange Owner Nears $2B Stake in Polymarket: WSJ]]></title>
+            <title><![CDATA[New York Stock Exchange Owner to Acquire $2B Stake in Polymarket]]></title>
             <description><![CDATA[The investment could help Polymarket return to the U.S. market, after it was shut off to U.S. users in 2022 following a settlement with the CFTC....]]></description>
             <link>https://www.coindesk.com/business/2025/10/07/new-york-stock-exchange-owner-nears-usd2b-bet-on-polymarket-wsj</link>
             <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/07/new-york-stock-exchange-owner-nears-usd2b-bet-on-polymarket-wsj</guid>
@@ -448,39 +558,6 @@ T...]]></description>
             <dc:date>2025-10-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[FOMOing into Bitcoin? Check Out These Bullish BTC Plays Favored by Analysts]]></title>
-            <description><![CDATA[Bitcoin has surged to record highs above $126,000, consistent with the bullish seasonality....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/07/fomoing-into-btc-check-out-these-bullish-btc-plays-favored-by-analysts</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/07/fomoing-into-btc-check-out-these-bullish-btc-plays-favored-by-analysts</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 07:25:59 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Breaks $126K, What For XRP, ETH, ADA as Shutdown Fears Keep Bulls in Control]]></title>
-            <description><![CDATA[Exchange balances have fallen to a six-year low of 2.83 million BTC, with 170,000 withdrawn in the past month, signaling coins moving off exchanges and into longer-term storage....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/07/bitcoin-breaks-usd126k-what-for-xrp-eth-ada-as-shutdown-fears-keep-bulls-in-control</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/07/bitcoin-breaks-usd126k-what-for-xrp-eth-ada-as-shutdown-fears-keep-bulls-in-control</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 06:54:01 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Fasset Wins Malaysia License to Launch First Stablecoin-Based Islamic Digital Bank]]></title>
-            <description><![CDATA[Approval lets Fasset offer full-service, Shariah-compliant digital banking backed by stablecoins...]]></description>
-            <link>https://www.coindesk.com/business/2025/10/07/fasset-wins-malaysia-license-to-launch-first-stablecoin-based-islamic-digital-bank</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/07/fasset-wins-malaysia-license-to-launch-first-stablecoin-based-islamic-digital-bank</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 05:17:09 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks]]></title>
             <description><![CDATA[CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (a...]]></description>
             <link>https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html</link>
@@ -555,17 +632,6 @@ T...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 06 Oct 2025 20:12:51 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[IBIT approaches $100B in AUM as BlackRock’s most profitable ETF]]></title>
-            <description><![CDATA[BlackRock’s iShares Bitcoin Trust ETF (IBIT) has approached $100 billion in assets under management, making it the firm’s most profitable ETF despite its launch just 435 days ago. Bloomberg senior ETF...]]></description>
-            <link>https://cryptoslate.com/ibit-approaches-100b-in-aum-as-blackrocks-most-profitable-etf/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ibit-approaches-100b-in-aum-as-blackrocks-most-profitable-etf/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 19:49:08 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
@@ -723,17 +789,6 @@ T...]]></description>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[The role of Artificial Intelligence in today’s cybersecurity landscape]]></title>
-            <description><![CDATA[AI is transforming cybersecurity—from detecting phishing and insider threats to accelerating response. See how Waziuh, the open-source XDR and SIEM, integrates AI to turn raw security data into action...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/the-role-of-artificial-intelligence-in-todays-cybersecurity-landscape/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/the-role-of-artificial-intelligence-in-todays-cybersecurity-landscape/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 14:05:15 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations]]></title>
             <description><![CDATA[A Chinese company named the Beijing Institute of Electronics Technology and Application (BIETA) has been assessed to be likely led by the Ministry of State Security (MSS).
 The assessment comes from ev...]]></description>
@@ -743,28 +798,6 @@ The assessment comes from ev...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Mon, 06 Oct 2025 14:00:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Steam and Microsoft warn of Unity flaw exposing gamers to attacks]]></title>
-            <description><![CDATA[A code execution vulnerability in the Unity game engine could be exploited to achieve code execution on Android and privilege escalation on Windows. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 13:56:22 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[XWorm malware resurfaces with ransomware module, over 35 plugins]]></title>
-            <description><![CDATA[New versions of the XWorm backdoor are being distributed in phishing campaigns after the original developer, XCoder, abandoned the project last year. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 11:42:17 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
@@ -1314,40 +1347,6 @@ The activity, observed in September 2025, has been...]]></description>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 30 Sep 2025 20:28:44 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-09-30</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[China Exploited New VMware Bug for Nearly a Year]]></title>
-            <description><![CDATA[A seemingly benign privilege-escalation process in VMware and other software has likely benefited attackers and other malware strains for years, researchers noted....]]></description>
-            <link>https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly</link>
-            <guid isPermaLink="false">https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 30 Sep 2025 19:41:14 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-09-30</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New $50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections]]></title>
-            <description><![CDATA[A group of academics from KU Leuven and the University of Birmingham has demonstrated a new vulnerability called Battering RAM to bypass the latest defenses on Intel and AMD cloud processors.
-"We buil...]]></description>
-            <link>https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 30 Sep 2025 18:42:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-09-30</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Can Shadow AI Risks Be Stopped?]]></title>
-            <description><![CDATA[Agentic AI has introduced abundant shadow artificial intelligence (AI) risks. Cybersecurity startup Entro Security extends its platform to help enterprises combat the growing issue....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/can-shadow-ai-risks-be-stopped</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/can-shadow-ai-risks-be-stopped</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 30 Sep 2025 13:58:14 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-09-30</dc:date>
         </item>
