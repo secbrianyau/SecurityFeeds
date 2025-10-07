@@ -9,12 +9,67 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Oct 2025 18:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 21:19:17 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Oct 2025 18:30:12 GMT</pubDate>
+        <pubDate>Tue, 07 Oct 2025 21:19:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[IREN Declines 6% on $875M Convertible Note Offering ]]></title>
+            <description><![CDATA[The hot-handed bitcoin miner turned high-performance computing play could raise as much as $1 billion in the note sale....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/07/iren-declines-6-on-usd875m-convertible-note-offering</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/07/iren-declines-6-on-usd875m-convertible-note-offering</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 20:43:28 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Google won’t fix new ASCII smuggling attack in Gemini]]></title>
+            <description><![CDATA[Google has decided not to fix a new ASCII smuggling attack in Gemini that could be used to trick the AI assistant into providing users with fake information, alter the model's behavior, and silently p...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 20:35:40 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[DraftKings warns of account breaches in credential stuffing attacks]]></title>
+            <description><![CDATA[Sports betting giant DraftKings has notified an undisclosed number of customers that their accounts had been hacked in a recent wave of credential stuffing attacks. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 19:09:36 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Security Concerns Shadow Vibe Coding Adoption]]></title>
+            <description><![CDATA[In a recent poll, readers shared how they're using vibe coding in AppDev (if they are at all). While some found success, others found the risks too great....]]></description>
+            <link>https://www.darkreading.com/application-security/security-concerns-shadow-vibe-coding-adoption</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/security-concerns-shadow-vibe-coding-adoption</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 19:08:06 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[S&P Global unveils comprehensive benchmark merging crypto and equities]]></title>
+            <description><![CDATA[S&P Global announced plans to launch the S&P Digital Markets 50 Index, a benchmark that combines 15 cryptocurrencies with 35 publicly traded crypto-linked equities, offering a single gauge of the broa...]]></description>
+            <link>https://cryptoslate.com/sp-global-unveils-comprehensive-benchmark-merging-crypto-and-equities/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/sp-global-unveils-comprehensive-benchmark-merging-crypto-and-equities/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 07 Oct 2025 18:29:12 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-07</dc:date>
+        </item>
         <item>
             <title><![CDATA[Clop exploited Oracle zero-day for data theft since early August]]></title>
             <description><![CDATA[The Clop ransomware gang has been exploiting a critical Oracle E-Business Suite (EBS) zero-day bug in data theft attacks since at least early August, according to cybersecurity company CrowdStrike. [....]]></description>
@@ -501,17 +556,6 @@
             <dc:date>2025-10-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[Uniswap, Aave Lead DeFi’s Fee Rebound to $600M as Buybacks Take Center Stage]]></title>
-            <description><![CDATA[Protocols are trying to make token design matter again and are actively routing value back to holders....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/07/uniswap-aave-lead-defi-s-fee-rebound-to-usd600m-as-buybacks-take-center-stage</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/07/uniswap-aave-lead-defi-s-fee-rebound-to-usd600m-as-buybacks-take-center-stage</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 08:59:18 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
             <title><![CDATA[India Uninterested in Joining Pro-Crypto Wave, Sticks to Its CBDC Gamble]]></title>
             <description><![CDATA[Union Minister Piyush Goyal says India does not encourage crypto lacking real-world or sovereign backing. Government policy: no ban, but heavy taxation on private cryptocurrencies. ......]]></description>
             <link>https://www.ccn.com/news/crypto/india-uninterested-pro-crypto-cbdc-gamble/</link>
@@ -613,17 +657,6 @@ T...]]></description>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[Billionaire Paul Tudor Jones says Bitcoin will outpace gold in ‘a world of fiscal expansion’]]></title>
-            <description><![CDATA[Billionaire hedge fund manager Paul Tudor Jones reaffirmed his growing preference for Bitcoin over gold as a hedge against inflation, while also signaling optimism about further market gains. Jones, f...]]></description>
-            <link>https://cryptoslate.com/billionaire-paul-tudor-jones-says-bitcoin-will-outpace-gold-in-a-world-of-fiscal-expansion/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/billionaire-paul-tudor-jones-says-bitcoin-will-outpace-gold-in-a-world-of-fiscal-expansion/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 20:50:23 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Cyberattackers Exploit Zimbra Zero-Day Via ICS]]></title>
             <description><![CDATA[A threat actor purporting to be from the Libyan Navy's Office of Protocol targeted Brazil's military earlier this year using the rare tactic....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics</link>
@@ -690,28 +723,6 @@ T...]]></description>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[OpenAI is testing ChatGPT-powered Agent Builder]]></title>
-            <description><![CDATA[AI startups are convinced AI agents are the future, and OpenAI is building a tool that will allow you to create your own AI Agents. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 16:06:34 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Redis warns of critical flaw impacting thousands of instances]]></title>
-            <description><![CDATA[The Redis security team has released patches for a maximum severity vulnerability that could allow attackers to gain remote code execution on thousands of vulnerable instances. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 15:55:51 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Michael Saylor Pauses Bitcoin Buys, Is Strategy Learning From Past Overspends?]]></title>
             <description><![CDATA[Strategy currently commands 640,031 BTC worth $80 billion with an unrealized profit of $32.7 billion. The firm’s pauses in 2025 have preceded market volatility, though ......]]></description>
             <link>https://www.ccn.com/news/crypto/saylor-pauses-bitcoin-buys-learning-overspends/</link>
@@ -753,17 +764,6 @@ T...]]></description>
             <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
             <pubDate>Mon, 06 Oct 2025 14:55:44 GMT</pubDate>
             <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2025-10-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[LinkedIn sues ProAPIs for using 1M fake accounts to scrape user data]]></title>
-            <description><![CDATA[LinkedIn has filed a lawsuit against Delaware company ProAPIs Inc. and its founder and CTO, Rehmat Alam, for allegedly scraping legitimate data through more than a million fake accounts. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 06 Oct 2025 14:54:08 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-10-06</dc:date>
         </item>
         <item>
