@@ -1,5 +1,82 @@
 [
   {
+    "title": "New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube",
+    "link": "https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/",
+    "date": "2025-10-09T21:06:31.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A new Android spyware called ClayRat is luring potential victims by posing as popular apps and services like WhatsApp, Google Photos, TikTok, and YouTube. [...]..."
+  },
+  {
+    "title": "How Ripple’s Middle East expansion could put XRP and RLUSD in the flow",
+    "link": "https://cryptoslate.com/ripples-middle-east-expansion-could-put-xrp-and-rlusd-in-the-flow-heres-how/",
+    "date": "2025-10-09T20:31:15.000Z",
+    "source": "CryptoSlate",
+    "summary": "Ripple is deepening its presence in the Middle East through a new partnership with Bahrain Fintech Bay (BFB), the kingdom’s leading fintech incubator and blockchain ecosystem builder. The collaboratio..."
+  },
+  {
+    "title": "GitHub Copilot 'CamoLeak' AI Attack Exfiltrates Data",
+    "link": "https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data",
+    "date": "2025-10-09T19:56:30.000Z",
+    "source": "Dark Reading",
+    "summary": "While GitHub has advanced protections for its built-in AI agent, a researcher came up with a creative proof-of-concept (PoC) attack for exfiltrating code and secrets via Copilot...."
+  },
+  {
+    "title": "Microsoft: Hackers target universities in “payroll pirate” attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/",
+    "date": "2025-10-09T19:38:00.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A cybercrime gang tracked as Storm-2657 has been targeting university employees in the United States to hijack salary payments in \"pirate payroll\" attacks since March 2025. [...]..."
+  },
+  {
+    "title": "Hackers now use Velociraptor DFIR tool in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/",
+    "date": "2025-10-09T19:31:55.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Threat actors have started to use the Velociraptor digital forensics and incident response (DFIR) tool in attacks that deploy LockBit and Babuk ransomware. [...]..."
+  },
+  {
+    "title": "SonicWall: 100% of Firewall Backups Possibly Breached",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached",
+    "date": "2025-10-09T19:10:13.000Z",
+    "source": "Dark Reading",
+    "summary": "SonicWall said a breach it disclosed last month affected firewall configuration files for all customers who have used SonicWall’s cloud backup service — up from its previous 5% estimate...."
+  },
+  {
+    "title": "Powell’s silence on rates to fuel Bitcoin’s path toward $150,000",
+    "link": "https://cryptoslate.com/powells-silence-on-rates-to-fuel-bitcoins-path-toward-150000/",
+    "date": "2025-10-09T19:08:05.000Z",
+    "source": "CryptoSlate",
+    "summary": "Fed Chair Jerome Powell avoided discussing monetary policy during his Oct. 9 Community Bank Conference remarks, supporting Bitcoin’s continued advance toward $150,000. Matt Mena, Crypto Research Strat..."
+  },
+  {
+    "title": "Filecoin Drops as Much as 7% as Selling Pressure Intensifies",
+    "link": "https://www.coindesk.com/markets/2025/10/09/filecoin-drops-as-much-as-7-as-selling-pressure-intensifies",
+    "date": "2025-10-09T19:06:30.000Z",
+    "source": "Coindesk",
+    "summary": "The token has established support at $2.23 with resistance at the $2.41 level...."
+  },
+  {
+    "title": "AAVE Plunges Below Key Support Levels Amid Broader Crypto Weakness",
+    "link": "https://www.coindesk.com/markets/2025/10/09/aave-plunges-below-key-support-levels-amid-broader-crypto-weakness",
+    "date": "2025-10-09T18:43:27.000Z",
+    "source": "Coindesk",
+    "summary": "High-volume selling drove the DeFi bluechip token below critical technical thresholds...."
+  },
+  {
+    "title": "Chainlink's LINK Tumbles 4% as Selling Pressure Mounts",
+    "link": "https://www.coindesk.com/markets/2025/10/09/chainlink-s-link-tumbles-4-as-selling-pressure-mounts",
+    "date": "2025-10-09T18:35:47.000Z",
+    "source": "Coindesk",
+    "summary": "Chainlink's native token faced heightened volatility as trading volumes surged during a critical technical breakdown...."
+  },
+  {
+    "title": "Bitcoin defends $120,000 amid profit driven sell pressure, leverage buildup",
+    "link": "https://cryptoslate.com/bitcoin-defends-120000-amid-profit-driven-sell-pressure-leverage-buildup/",
+    "date": "2025-10-09T18:28:09.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitcoin (BTC) state, following its new all-time high of $126,000, is facing tests from profit-taking and elevated leverage. As Glassnode reported on Oct. 8, mid-tier holders that have accumulated betw..."
+  },
+  {
     "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
     "date": "2025-10-09T18:09:26.000Z",
@@ -294,27 +371,6 @@
     "summary": "New encryption, wiper, and cryptocurrency-stealing capabilities make the evolving ransomware-as-a-service operation more dangerous than ever...."
   },
   {
-    "title": "NEAR Intents Activity Spikes as Zcash’s Zashi Wallet Taps It for Private Swaps",
-    "link": "https://www.coindesk.com/markets/2025/10/09/near-intents-activity-spikes-as-zcash-s-zashi-wallet-taps-it-for-private-swaps",
-    "date": "2025-10-09T09:16:29.000Z",
-    "source": "Coindesk",
-    "summary": "Zashi Swaps let users convert BTC, SOL, USDC and other supported assets directly into ZEC inside the app, where they can then be shielded...."
-  },
-  {
-    "title": "Luxembourg Claims Bragging Rights as First Eurozone Nation to Invest in Bitcoin",
-    "link": "https://www.coindesk.com/policy/2025/10/09/luxembourg-claims-bragging-rights-as-first-eurozone-nation-to-invest-in-bitcoin",
-    "date": "2025-10-09T09:05:09.000Z",
-    "source": "Coindesk",
-    "summary": "Luxembourg’s Intergenerational Sovereign Wealth Fund (FSIL) has invested 1% of its holdings in Bitcoin ETFs, making it the first state level fund in the Eurozone to do so...."
-  },
-  {
-    "title": "UK Lifts Retail Ban on Crypto ETNs, Paving Way for Investments From Pensions, ISAs",
-    "link": "https://www.coindesk.com/policy/2025/10/09/uk-lifts-ban-on-crypto-etns-paving-way-for-holding-them-tax-free-in-pensions-isas",
-    "date": "2025-10-09T08:54:52.000Z",
-    "source": "Coindesk",
-    "summary": "The U.K. has ended its ban on crypto exchange-traded notes, letting retail investors hold bitcoin and ether ETNs tax-free in pension and ISA accounts...."
-  },
-  {
     "title": "Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme",
     "link": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
     "date": "2025-10-09T06:57:00.000Z",
@@ -343,32 +399,11 @@
     "summary": "Bitcoin climbed 1.75% over the past 24 hours to $123,250 as of press time, driven by sustained spot ETF inflows, gold’s rally to fresh records, and softer Federal Reserve rate guidance. US spot Bitcoi..."
   },
   {
-    "title": "From index to inflows: how S&P’s ‘Digital 50’ could reshape XRP access",
-    "link": "https://cryptoslate.com/from-index-to-inflows-how-sps-digital-50-could-reshape-xrp-access/",
-    "date": "2025-10-08T22:15:23.000Z",
-    "source": "CryptoSlate",
-    "summary": "S&P Global announced plans to launch the S&P Digital Markets 50 Index, a benchmark that combines 15 crypto with 35 publicly traded crypto-linked equities, and a potential inclusion of XRP might reshap..."
-  },
-  {
-    "title": "Will BoE’s ‘exemptions’ supercharge stablecoin rails into BTC and ETH?",
-    "link": "https://cryptoslate.com/will-boes-exemptions-supercharge-stablecoin-rails-into-btc-and-eth/",
-    "date": "2025-10-08T21:30:47.000Z",
-    "source": "CryptoSlate",
-    "summary": "The Bank of England (BoE) will exempt crypto exchanges and other operationally critical firms from proposed stablecoin holding limits, potentially supercharing money into Bitcoin (BTC) and Ethereum (E..."
-  },
-  {
     "title": "Vampire Bot Malware Sinks Fangs Into Job Hunters",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters",
     "date": "2025-10-08T21:02:42.000Z",
     "source": "Dark Reading",
     "summary": "The campaign is the latest by BatShadow, one of a growing number of cybercrime groups operating out of Vietnam...."
-  },
-  {
-    "title": "DDC Enterprise accelerates Bitcoin treasury plans with third purchase in a week",
-    "link": "https://cryptoslate.com/ddc-enterprise-accelerates-bitcoin-treasury-plans-with-third-purchase-in-a-week/",
-    "date": "2025-10-08T21:00:50.000Z",
-    "source": "CryptoSlate",
-    "summary": "Hong Kong-based DDC Enterprise Limited has added another 100 Bitcoin (BTC) to its balance sheet, accelerating efforts to build a digital asset reserve of over $1 billion. The food conglomerate listed ..."
   },
   {
     "title": "Red Hat Hackers Team Up With Scattered Lapsus$ Hunters",
@@ -397,27 +432,6 @@
     "date": "2025-10-08T18:42:22.000Z",
     "source": "Bleeping Computer",
     "summary": "The Qilin ransomware group has claimed responsibility for the attack at Japanese beer maker Asahi, adding the company to its extortion page on the dark web yesterday. [...]..."
-  },
-  {
-    "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/",
-    "date": "2025-10-08T18:35:01.000Z",
-    "source": "Bleeping Computer",
-    "summary": "​Microsoft is working to resolve an ongoing outage preventing users from accessing Microsoft 365 services, including Microsoft Teams, Exchange Online, and the admin center. [...]..."
-  },
-  {
-    "title": "Microsoft enables Exchange Online auto-archiving by default",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
-    "date": "2025-10-08T17:49:59.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft is enabling threshold-based auto-archiving by default in Exchange Online to prevent email flow issues caused by mailboxes filling up faster than expected. [...]..."
-  },
-  {
-    "title": "Crimson Collective hackers target AWS cloud instances for data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
-    "date": "2025-10-08T17:33:38.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The 'Crimson Collective' threat group has been targeting AWS (Amazon Web Services) cloud environments for the past weeks, to steal data and extort companies. [...]..."
   },
   {
     "title": "Framelink Figma MCP Server Opens Orgs to Agentic AI Compromise",
@@ -824,19 +838,5 @@
     "date": "2025-10-02T17:03:47.000Z",
     "source": "Dark Reading",
     "summary": "With nearly 47,000 CVEs expected by the end of the year, organizations must balance comprehensive vulnerability management with strategic cyber insurance policy selection to effectively navigate this ..."
-  },
-  {
-    "title": "For One NFL Team, Tackling Cyber Threats Is Basic Defense",
-    "link": "https://www.darkreading.com/cybersecurity-operations/for-one-nfl-team-tackling-cyber-threats-basic-defense",
-    "date": "2025-10-02T16:31:10.000Z",
-    "source": "Dark Reading",
-    "summary": "The NFL's cyberattack surface is expanding at an unprecedented rate. To find out more, we spoke with a cyber-defense coordinator from the Cleveland Browns...."
-  },
-  {
-    "title": "Red Hat Investigates Widespread Breach of Private GitLab Repositories",
-    "link": "https://www.darkreading.com/application-security/red-hat-widespread-breaches-private-gitlab-repositories",
-    "date": "2025-10-02T15:46:58.000Z",
-    "source": "Dark Reading",
-    "summary": "A threat actor claimed 28,000 private repositories had been compromised, and the Linux software maker said it had \"initiated necessary remediation steps.\"..."
   }
 ]

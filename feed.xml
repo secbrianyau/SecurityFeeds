@@ -9,12 +9,133 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Oct 2025 18:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 21:19:47 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Oct 2025 18:29:46 GMT</pubDate>
+        <pubDate>Thu, 09 Oct 2025 21:19:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube]]></title>
+            <description><![CDATA[A new Android spyware called ClayRat is luring potential victims by posing as popular apps and services like WhatsApp, Google Photos, TikTok, and YouTube. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 21:06:31 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[How Ripple’s Middle East expansion could put XRP and RLUSD in the flow]]></title>
+            <description><![CDATA[Ripple is deepening its presence in the Middle East through a new partnership with Bahrain Fintech Bay (BFB), the kingdom’s leading fintech incubator and blockchain ecosystem builder. The collaboratio...]]></description>
+            <link>https://cryptoslate.com/ripples-middle-east-expansion-could-put-xrp-and-rlusd-in-the-flow-heres-how/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/ripples-middle-east-expansion-could-put-xrp-and-rlusd-in-the-flow-heres-how/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 20:31:15 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[GitHub Copilot 'CamoLeak' AI Attack Exfiltrates Data]]></title>
+            <description><![CDATA[While GitHub has advanced protections for its built-in AI agent, a researcher came up with a creative proof-of-concept (PoC) attack for exfiltrating code and secrets via Copilot....]]></description>
+            <link>https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 19:56:30 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft: Hackers target universities in “payroll pirate” attacks]]></title>
+            <description><![CDATA[A cybercrime gang tracked as Storm-2657 has been targeting university employees in the United States to hijack salary payments in "pirate payroll" attacks since March 2025. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 19:38:00 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers now use Velociraptor DFIR tool in ransomware attacks]]></title>
+            <description><![CDATA[Threat actors have started to use the Velociraptor digital forensics and incident response (DFIR) tool in attacks that deploy LockBit and Babuk ransomware. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 19:31:55 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SonicWall: 100% of Firewall Backups Possibly Breached]]></title>
+            <description><![CDATA[SonicWall said a breach it disclosed last month affected firewall configuration files for all customers who have used SonicWall’s cloud backup service — up from its previous 5% estimate....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 19:10:13 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Powell’s silence on rates to fuel Bitcoin’s path toward $150,000]]></title>
+            <description><![CDATA[Fed Chair Jerome Powell avoided discussing monetary policy during his Oct. 9 Community Bank Conference remarks, supporting Bitcoin’s continued advance toward $150,000. Matt Mena, Crypto Research Strat...]]></description>
+            <link>https://cryptoslate.com/powells-silence-on-rates-to-fuel-bitcoins-path-toward-150000/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/powells-silence-on-rates-to-fuel-bitcoins-path-toward-150000/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 19:08:05 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Filecoin Drops as Much as 7% as Selling Pressure Intensifies]]></title>
+            <description><![CDATA[The token has established support at $2.23 with resistance at the $2.41 level....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/09/filecoin-drops-as-much-as-7-as-selling-pressure-intensifies</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/09/filecoin-drops-as-much-as-7-as-selling-pressure-intensifies</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 19:06:30 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[AAVE Plunges Below Key Support Levels Amid Broader Crypto Weakness]]></title>
+            <description><![CDATA[High-volume selling drove the DeFi bluechip token below critical technical thresholds....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/09/aave-plunges-below-key-support-levels-amid-broader-crypto-weakness</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/09/aave-plunges-below-key-support-levels-amid-broader-crypto-weakness</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 18:43:27 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Chainlink's LINK Tumbles 4% as Selling Pressure Mounts]]></title>
+            <description><![CDATA[Chainlink's native token faced heightened volatility as trading volumes surged during a critical technical breakdown....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/09/chainlink-s-link-tumbles-4-as-selling-pressure-mounts</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/09/chainlink-s-link-tumbles-4-as-selling-pressure-mounts</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 18:35:47 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin defends $120,000 amid profit driven sell pressure, leverage buildup]]></title>
+            <description><![CDATA[Bitcoin (BTC) state, following its new all-time high of $126,000, is facing tests from profit-taking and elevated leverage. As Glassnode reported on Oct. 8, mid-tier holders that have accumulated betw...]]></description>
+            <link>https://cryptoslate.com/bitcoin-defends-120000-amid-profit-driven-sell-pressure-leverage-buildup/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-defends-120000-amid-profit-driven-sell-pressure-leverage-buildup/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 18:28:09 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
         <item>
             <title><![CDATA[Microsoft Defender mistakenly flags SQL Server as end-of-life]]></title>
             <description><![CDATA[​Microsoft is working to resolve a known issue that causes its Defender for Endpoint enterprise endpoint security platform to incorrectly tag SQL Server software as end-of-life. [...]...]]></description>
@@ -480,39 +601,6 @@ Most companies in 2025 r...]]></description>
             <dc:date>2025-10-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[NEAR Intents Activity Spikes as Zcash’s Zashi Wallet Taps It for Private Swaps]]></title>
-            <description><![CDATA[Zashi Swaps let users convert BTC, SOL, USDC and other supported assets directly into ZEC inside the app, where they can then be shielded....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/09/near-intents-activity-spikes-as-zcash-s-zashi-wallet-taps-it-for-private-swaps</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/09/near-intents-activity-spikes-as-zcash-s-zashi-wallet-taps-it-for-private-swaps</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 09 Oct 2025 09:16:29 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Luxembourg Claims Bragging Rights as First Eurozone Nation to Invest in Bitcoin]]></title>
-            <description><![CDATA[Luxembourg’s Intergenerational Sovereign Wealth Fund (FSIL) has invested 1% of its holdings in Bitcoin ETFs, making it the first state level fund in the Eurozone to do so....]]></description>
-            <link>https://www.coindesk.com/policy/2025/10/09/luxembourg-claims-bragging-rights-as-first-eurozone-nation-to-invest-in-bitcoin</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/10/09/luxembourg-claims-bragging-rights-as-first-eurozone-nation-to-invest-in-bitcoin</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 09 Oct 2025 09:05:09 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[UK Lifts Retail Ban on Crypto ETNs, Paving Way for Investments From Pensions, ISAs]]></title>
-            <description><![CDATA[The U.K. has ended its ban on crypto exchange-traded notes, letting retail investors hold bitcoin and ether ETNs tax-free in pension and ISA accounts....]]></description>
-            <link>https://www.coindesk.com/policy/2025/10/09/uk-lifts-ban-on-crypto-etns-paving-way-for-holding-them-tax-free-in-pensions-isas</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/10/09/uk-lifts-ban-on-crypto-etns-paving-way-for-holding-them-tax-free-in-pensions-isas</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 09 Oct 2025 08:54:52 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme]]></title>
             <description><![CDATA[Threat actors are actively exploiting a critical security flaw impacting the Service Finder WordPress theme that makes it possible to gain unauthorized access to any account, including administrators,...]]></description>
             <link>https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html</link>
@@ -557,28 +645,6 @@ Most companies in 2025 r...]]></description>
             <dc:date>2025-10-08</dc:date>
         </item>
         <item>
-            <title><![CDATA[From index to inflows: how S&P’s ‘Digital 50’ could reshape XRP access]]></title>
-            <description><![CDATA[S&P Global announced plans to launch the S&P Digital Markets 50 Index, a benchmark that combines 15 crypto with 35 publicly traded crypto-linked equities, and a potential inclusion of XRP might reshap...]]></description>
-            <link>https://cryptoslate.com/from-index-to-inflows-how-sps-digital-50-could-reshape-xrp-access/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/from-index-to-inflows-how-sps-digital-50-could-reshape-xrp-access/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 22:15:23 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Will BoE’s ‘exemptions’ supercharge stablecoin rails into BTC and ETH?]]></title>
-            <description><![CDATA[The Bank of England (BoE) will exempt crypto exchanges and other operationally critical firms from proposed stablecoin holding limits, potentially supercharing money into Bitcoin (BTC) and Ethereum (E...]]></description>
-            <link>https://cryptoslate.com/will-boes-exemptions-supercharge-stablecoin-rails-into-btc-and-eth/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/will-boes-exemptions-supercharge-stablecoin-rails-into-btc-and-eth/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 21:30:47 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Vampire Bot Malware Sinks Fangs Into Job Hunters]]></title>
             <description><![CDATA[The campaign is the latest by BatShadow, one of a growing number of cybercrime groups operating out of Vietnam....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters</link>
@@ -587,17 +653,6 @@ Most companies in 2025 r...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 08 Oct 2025 21:02:42 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DDC Enterprise accelerates Bitcoin treasury plans with third purchase in a week]]></title>
-            <description><![CDATA[Hong Kong-based DDC Enterprise Limited has added another 100 Bitcoin (BTC) to its balance sheet, accelerating efforts to build a digital asset reserve of over $1 billion. The food conglomerate listed ...]]></description>
-            <link>https://cryptoslate.com/ddc-enterprise-accelerates-bitcoin-treasury-plans-with-third-purchase-in-a-week/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ddc-enterprise-accelerates-bitcoin-treasury-plans-with-third-purchase-in-a-week/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 21:00:50 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-10-08</dc:date>
         </item>
         <item>
@@ -641,39 +696,6 @@ Most companies in 2025 r...]]></description>
             <category><![CDATA[Bleeping Computer]]></category>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Wed, 08 Oct 2025 18:42:22 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft 365 outage blocks access to Teams, Exchange Online]]></title>
-            <description><![CDATA[​Microsoft is working to resolve an ongoing outage preventing users from accessing Microsoft 365 services, including Microsoft Teams, Exchange Online, and the admin center. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 18:35:01 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft enables Exchange Online auto-archiving by default]]></title>
-            <description><![CDATA[Microsoft is enabling threshold-based auto-archiving by default in Exchange Online to prevent email flow issues caused by mailboxes filling up faster than expected. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 17:49:59 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crimson Collective hackers target AWS cloud instances for data theft]]></title>
-            <description><![CDATA[The 'Crimson Collective' threat group has been targeting AWS (Amazon Web Services) cloud environments for the past weeks, to steal data and extort companies. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 17:33:38 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-10-08</dc:date>
         </item>
@@ -1327,28 +1349,6 @@ Cyb...]]></description>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 02 Oct 2025 17:03:47 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[For One NFL Team, Tackling Cyber Threats Is Basic Defense]]></title>
-            <description><![CDATA[The NFL's cyberattack surface is expanding at an unprecedented rate. To find out more, we spoke with a cyber-defense coordinator from the Cleveland Browns....]]></description>
-            <link>https://www.darkreading.com/cybersecurity-operations/for-one-nfl-team-tackling-cyber-threats-basic-defense</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/for-one-nfl-team-tackling-cyber-threats-basic-defense</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 02 Oct 2025 16:31:10 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Red Hat Investigates Widespread Breach of Private GitLab Repositories]]></title>
-            <description><![CDATA[A threat actor claimed 28,000 private repositories had been compromised, and the Linux software maker said it had "initiated necessary remediation steps."...]]></description>
-            <link>https://www.darkreading.com/application-security/red-hat-widespread-breaches-private-gitlab-repositories</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/red-hat-widespread-breaches-private-gitlab-repositories</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 02 Oct 2025 15:46:58 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-10-02</dc:date>
         </item>
