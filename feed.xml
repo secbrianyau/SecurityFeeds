@@ -9,12 +9,166 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Oct 2025 12:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 15:24:31 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Oct 2025 12:43:29 GMT</pubDate>
+        <pubDate>Tue, 14 Oct 2025 15:24:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Microsoft warns that Windows 10 reaches end of support today]]></title>
+            <description><![CDATA[Microsoft has reminded customers today that Windows 10 has reached the end of support and will no longer receive patches for newly discovered security vulnerabilities. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 14:54:35 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Security firms debate CVE credit in overlapping vulnerability reports]]></title>
+            <description><![CDATA[FuzzingLabs has accused the YCombinator-backed startup, Gecko Security, of replicating its vulnerability disclosures. Gecko allegedly filed for 2 CVEs based on FuzzingLabs' reports without crediting t...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/security-firms-debate-cve-credit-in-overlapping-vulnerability-reports/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/security-firms-debate-cve-credit-in-overlapping-vulnerability-reports/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 14:52:13 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[How $800 hardware can sniff Bitcoin miner traffic via satellite]]></title>
+            <description><![CDATA[UC San Diego and the University of Maryland researchers have reported findings showing that roughly half of GEO satellite downlinks carry data without encryption. Further, data interception can be rep...]]></description>
+            <link>https://cryptoslate.com/researchers-intercept-50-of-all-satellite-traffic-does-it-put-bitcoin-miners-and-nodes-at-risk/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/researchers-intercept-50-of-all-satellite-traffic-does-it-put-bitcoin-miners-and-nodes-at-risk/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 14:50:29 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[When AI Agents Join the Teams: The Hidden Security Shifts No One Expects ]]></title>
+            <description><![CDATA[AI assistants are no longer just helping — they're acting. Autonomous agents now open tickets, fix incidents, and make decisions faster than humans can monitor. As "Shadow AI" spreads, learn from Toke...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/when-ai-agents-join-the-teams-the-hidden-security-shifts-no-one-expects/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/when-ai-agents-join-the-teams-the-hidden-security-shifts-no-one-expects/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 14:01:02 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Monad Opens Airdrop Portal Ahead of Token Launch]]></title>
+            <description><![CDATA[The window to check for eligibility to claim MON tokens will remain open until November 3, the Monad Foundation said....]]></description>
+            <link>https://www.coindesk.com/business/2025/10/14/monad-opens-airdrop-portal-ahead-of-token-launch</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/14/monad-opens-airdrop-portal-ahead-of-token-launch</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 13:54:45 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops]]></title>
+            <description><![CDATA[Around 200,000 Linux computer systems from American computer maker Framework were shipped with signed UEFI shell components that could be exploited to bypass Secure Boot protections. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 13:22:14 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Is the Korean Kimchi Premium still front-running Bitcoin price?]]></title>
+            <description><![CDATA[For almost as long as Bitcoin has been trading, Korea’s “kimchi premium” has been one of the market’s favorite ghost signals. When spot prices in South Korea climb faster than those in the US, traders...]]></description>
+            <link>https://cryptoslate.com/does-thes-kimchi-premium-still-front-run-btc/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/does-thes-kimchi-premium-still-front-run-btc/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 13:15:31 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CoinDesk 20 Performance Update: Index Plunges 6.2% as All Constituents Trade Lower]]></title>
+            <description><![CDATA[Bitcoin (BTC) fell 3.9% and Bitcoin Cash (BCH) dropped 5.6% from Monday....]]></description>
+            <link>https://www.coindesk.com/coindesk-indices/2025/10/14/coindesk-20-performance-update-index-plunges-6-2-as-all-constituents-trade-lower</link>
+            <guid isPermaLink="false">https://www.coindesk.com/coindesk-indices/2025/10/14/coindesk-20-performance-update-index-plunges-6-2-as-all-constituents-trade-lower</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 13:14:40 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Tether and Circle’s Dominance Is Being Put to the Test]]></title>
+            <description><![CDATA[The dominance of Tether and Circle, once seen as unshakable, is now facing its most formidable test yet, crypto product and strategy professional James Murrell argues....]]></description>
+            <link>https://www.coindesk.com/opinion/2025/10/11/tether-and-circle-s-dominance-is-being-put-to-the-test</link>
+            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/10/11/tether-and-circle-s-dominance-is-being-put-to-the-test</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 13:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Miner IREN's AI Pivot Earns $100 Price Target at Cantor Fitzgerald]]></title>
+            <description><![CDATA["While shares have done well over the expectation that IREN will entirely focus on its GPU cloud, we continue to believe there is more room to run," said analyst Brett Knoblauch....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/14/bitcoin-miner-iren-s-ai-pivot-earns-usd100-price-target-at-cantor-fitzgerald</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/14/bitcoin-miner-iren-s-ai-pivot-earns-usd100-price-target-at-cantor-fitzgerald</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 12:58:05 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Markets Today: Bitcoin Tests Key Support as Bullish Optimism Fades]]></title>
+            <description><![CDATA[Bitcoin steadies around $111,000 after a bruising sell-off, as derivatives and options data show mixed signals between cautious futures traders and bullish options buyers....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/14/crypto-markets-today-bitcoin-tests-key-support-as-bullish-optimism-fades</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/14/crypto-markets-today-bitcoin-tests-key-support-as-bullish-optimism-fades</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 12:48:11 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Is Elon Musk Getting Interested in Bitcoin Again?]]></title>
+            <description><![CDATA["Bitcoin is based on energy," said the Tesla chief early Tuesday. "It is impossible to fake energy."...]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/14/is-elon-musk-getting-interested-in-bitcoin-again</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/14/is-elon-musk-getting-interested-in-bitcoin-again</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 12:40:32 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Circle Can Withstand Rate Cuts as Stablecoin Demand Grows: Bernstein]]></title>
+            <description><![CDATA[The broker said lower interest rates could squeeze Circle’s revenue, but rising USDC adoption and operating leverage should keep profits on track....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/14/circle-can-withstand-rate-cuts-as-stablecoin-demand-grows-bernstein</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/14/circle-can-withstand-rate-cuts-as-stablecoin-demand-grows-bernstein</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 12:36:35 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[S&P Global Brings Stablecoin Risk Scores Onchain Through Chainlink]]></title>
+            <description><![CDATA[The assessments score stablecoins from 1 to 5 based on factors such as asset quality, liquidity and regulatory status....]]></description>
+            <link>https://www.coindesk.com/business/2025/10/14/s-and-p-global-brings-stablecoin-risk-scores-onchain-through-chainlink</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/14/s-and-p-global-brings-stablecoin-risk-scores-onchain-through-chainlink</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 12:30:25 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
         <item>
             <title><![CDATA[Chinese hackers abuse geo-mapping tool for year-long persistence]]></title>
             <description><![CDATA[Chinese state hackers remained undetected in a target environment for more than a year by turning a component in the ArcGIS geo-mapping tool into a web shell. [...]...]]></description>
@@ -456,17 +610,6 @@
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Crypto Markets Today: Bitcoin and Altcoins Recover After $500B Crash]]></title>
-            <description><![CDATA[Bitcoin derivatives show renewed optimism after a leverage flush, with open interest and basis rebounding, while options traders tilt bullish as funding rates diverge across exchanges....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/13/crypto-markets-today-bitcoin-and-altcoins-recover-after-usd500b-crash</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/13/crypto-markets-today-bitcoin-and-altcoins-recover-after-usd500b-crash</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 15:55:29 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Crypto Remains Vulnerable to Market Crashes, 66% of Investors Plan To Double Down Anyway]]></title>
             <description><![CDATA[Friday’s market crash demonstrates that Bitcoin is still a highly volatile asset. Nonetheless, a recent survey found that 66% of crypto investors plan to increase ......]]></description>
             <link>https://www.ccn.com/news/crypto/crypto-66-investors-double-down-despite-volatility/</link>
@@ -522,17 +665,6 @@
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Investment Bank China Renaissance Plans $600M BNB Treasury With YZi Labs: Bloomberg]]></title>
-            <description><![CDATA[The proposed investment vehicle would be a publicly traded US company designed to buy and hold BNB, marking one of the largest single bets on BNB by a publicly listed entity....]]></description>
-            <link>https://www.coindesk.com/business/2025/10/13/investment-bank-china-renaissance-plans-usd600m-bnb-treasury-with-yzi-labs-bloomberg</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/13/investment-bank-china-renaissance-plans-usd600m-bnb-treasury-with-yzi-labs-bloomberg</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 14:30:58 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Meet Varonis Interceptor: AI-Native Email Security]]></title>
             <description><![CDATA[AI-generated phishing and social engineering attacks outpace traditional email defenses. Varonis' new Interceptor platform uses multimodal AI — vision, language, and behavior models — to detect zero-h...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/</link>
@@ -577,17 +709,6 @@
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Tom Lee's BitMine Bought the Dip, Adding Over 200K ETH to Ethereum Treasury]]></title>
-            <description><![CDATA[The firm's ether holdings crossed 3 million tokens, halfway through its goal to corner 5% of the crypto's supply....]]></description>
-            <link>https://www.coindesk.com/business/2025/10/13/tom-lee-s-bitmine-bought-the-dip-adding-over-200k-eth-to-ethereum-treasury</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/13/tom-lee-s-bitmine-bought-the-dip-adding-over-200k-eth-to-ethereum-treasury</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 13:27:45 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Microsoft: Windows 11 Media Creation Tool broken on Windows 10 PCs]]></title>
             <description><![CDATA[Microsoft says the latest version of the Windows 11 Media Creation Tool (MCT) no longer works correctly on Windows 10 22H2 computers. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-media-creation-tool-broken-on-windows-10-pcs/</link>
@@ -596,17 +717,6 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Mon, 13 Oct 2025 13:22:16 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[WazirX Restructuring Cleared in Massive Relief for $230M Hack Victims]]></title>
-            <description><![CDATA[The sanction order followed an August re-vote that saw 95.7% of creditors by number and 94.6% by value support the plan....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/13/wazirx-restructuring-cleared-in-massive-relief-for-usd230m-hack-victims</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/13/wazirx-restructuring-cleared-in-massive-relief-for-usd230m-hack-victims</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 13:21:14 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
@@ -665,17 +775,6 @@
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Recovery After $500B Crash Sets Stage for Q4 Rebound: Crypto Daybook Americas]]></title>
-            <description><![CDATA[Your day-ahead look for Oct. 13, 2025...]]></description>
-            <link>https://www.coindesk.com/daybook-us/2025/10/13/recovery-after-usd500b-crash-sets-stage-for-q4-rebound-crypto-daybook-americas</link>
-            <guid isPermaLink="false">https://www.coindesk.com/daybook-us/2025/10/13/recovery-after-usd500b-crash-sets-stage-for-q4-rebound-crypto-daybook-americas</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 11:15:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Harvard investigating breach linked to Oracle zero-day exploit]]></title>
             <description><![CDATA[Harvard University is investigating a data breach after the Clop ransomware gang listed the school on its data leak site, saying the alleged breach was likely caused by a recently disclosed zero-day v...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/harvard-investigating-breach-linked-to-oracle-zero-day-exploit/</link>
@@ -684,17 +783,6 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Mon, 13 Oct 2025 11:14:21 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto market rebounds as Bitcoin and Ethereum recover but volatility signals persist]]></title>
-            <description><![CDATA[The crypto market is bouncing back after one of its most turbulent weekends ever, with major digital assets recovering ground lost during the sudden liquidation wave that erased roughly $20 billion fr...]]></description>
-            <link>https://cryptoslate.com/bitcoin-and-ethereum-rally-after-market-crash/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-and-ethereum-rally-after-market-crash/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 10:39:18 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
@@ -710,17 +798,6 @@ The activity, described as akin to an "exploit sh...]]></description>
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Hyperliquid’s HIP-3 Upgrade to Unlock Permissionless Perp Market Creation]]></title>
-            <description><![CDATA[The upgrade marks a major step toward decentralizing Hyperliquid’s derivatives infrastructure, giving builders the ability to launch perpetual futures markets directly onchain....]]></description>
-            <link>https://www.coindesk.com/business/2025/10/13/hyperliquid-s-hip-3-upgrade-to-unlock-permissionless-perp-market-creation</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/13/hyperliquid-s-hip-3-upgrade-to-unlock-permissionless-perp-market-creation</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 10:01:06 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor]]></title>
             <description><![CDATA[Microsoft said it has revamped the Internet Explorer (IE) mode in its Edge browser after receiving "credible reports" in August 2025 that unknown threat actors were abusing the backward compatibility ...]]></description>
             <link>https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html</link>
@@ -729,39 +806,6 @@ The activity, described as akin to an "exploit sh...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Mon, 13 Oct 2025 09:54:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Synthetix Soars 120% as Derivatives Hype Reignites DeFi’s 'Dino Coin']]></title>
-            <description><![CDATA[The DeFi veteran’s 120% surge comes ahead of a new perpetuals DEX launch and a high-profile trading competition that could reignite interest in legacy protocols....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/13/synthetix-soars-120-as-derivatives-hype-reignites-defi-s-dino-coin</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/13/synthetix-soars-120-as-derivatives-hype-reignites-defi-s-dino-coin</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 09:40:14 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Binance to pay $283M compensation for market chaos as BNB reaches new $1.3k ATH]]></title>
-            <description><![CDATA[BNB, the native token of Binance’s ecosystem, climbed to a record high of $1,355 following a turbulent weekend that saw $20 billion wiped from the broader crypto market. Data from CryptoSlate showed t...]]></description>
-            <link>https://cryptoslate.com/binance-navigates-market-chaos-amid-bnbs-ath/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/binance-navigates-market-chaos-amid-bnbs-ath/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 09:03:14 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[No, Ethena's USDe Didn't De-peg]]></title>
-            <description><![CDATA[The supposed de-pegging was only limited to Binance while deviations were much more restrained on other major liquid avenues like Curve....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/13/no-ethena-s-usde-didn-t-de-peg</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/13/no-ethena-s-usde-didn-t-de-peg</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 08:16:34 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
@@ -786,28 +830,6 @@ The vulnerability, tracked as...]]></description>
             <pubDate>Sun, 12 Oct 2025 17:24:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2025-10-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Fake 'Inflation Refund' texts target New Yorkers in new scam]]></title>
-            <description><![CDATA[An ongoing smishing campaign is targeting New Yorkers with text messages posing as the Department of Taxation and Finance, claiming to offer "Inflation Refunds" in an attempt to steal victims' persona...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sun, 12 Oct 2025 14:19:29 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Spain dismantles “GXC Team” cybercrime syndicate, arrests leader]]></title>
-            <description><![CDATA[Spanish Guardia Civil have dismantled the "GXC Team" cybercrime syndicate and arrested its alleged leader, a 25-year-old Brazilian known as "GoogleXcoder." [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 11 Oct 2025 14:17:42 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-11</dc:date>
         </item>
         <item>
             <title><![CDATA[Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts]]></title>
@@ -1325,28 +1347,6 @@ This includes a Russian‑language threat actor,...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 07 Oct 2025 19:08:06 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Medusa Ransomware Actors Exploit Critical Fortra GoAnywhere Flaw]]></title>
-            <description><![CDATA[Researchers say exploitation of CVE-2025-10035 requires a private key, and it's unclear how Storm-1175 threat actors pulled this off....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 16:59:27 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them]]></title>
-            <description><![CDATA[Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future explo...]]></description>
-            <link>https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 15:18:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-10-07</dc:date>
         </item>
     </channel>
