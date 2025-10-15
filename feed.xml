@@ -9,12 +9,78 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Oct 2025 21:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 01:23:30 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Oct 2025 21:19:17 GMT</pubDate>
+        <pubDate>Wed, 15 Oct 2025 01:23:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Japan is working on new rules to crack down on crypto insider trading]]></title>
+            <description><![CDATA[Japan is set to amend its rules, which would empower its securities regulator to investigate and punish those involved in crypto-related insider trading....]]></description>
+            <link>https://cointelegraph.com/news/japan-regulator-to-ban-crypto-insider-trading?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/japan-regulator-to-ban-crypto-insider-trading?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 23:32:07 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Patch Tuesday, October 2025 ‘End of 10’ Edition]]></title>
+            <description><![CDATA[Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. Oc...]]></description>
+            <link>https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/</link>
+            <guid isPermaLink="false">https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/</guid>
+            <category><![CDATA[Krebs On Security]]></category>
+            <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 22:57:38 GMT</pubDate>
+            <dc:source>Krebs On Security</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Drops Terrifyingly Large October Patch Update]]></title>
+            <description><![CDATA[October 2025's enormous Patch Tuesday offers plenty of nightmares for admins, including actively exploited zero-days and insidious high-severity privilege-escalation bugs — and it spells curtains for ...]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 21:53:11 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[UK politics attempts to copy £5B Trump crypto script, without his levers or power]]></title>
+            <description><![CDATA[At a London conference this week, Reform UK leader Nigel Farage cast himself as “your champion” for digital assets and sketched a platform that includes a flat 10% capital gains tax on crypto, creatio...]]></description>
+            <link>https://cryptoslate.com/uk-politics-attempts-to-adopt-5b-trump-crypto-script-without-his-levers-or-power/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/uk-politics-attempts-to-adopt-5b-trump-crypto-script-without-his-levers-or-power/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 21:35:22 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Malicious crypto-stealing VSCode extensions resurface on OpenVSX]]></title>
+            <description><![CDATA[A threat actor called TigerJack is constantly targeting developers with malicious extensions published on Microsoft's Visual Code (VSCode) marketplace and OpenVSX registry to steal cryptocurrency and ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 21:35:12 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[China's Flax Typhoon Turns Geo-Mapping Server into a Backdoor]]></title>
+            <description><![CDATA[Chinese APT threat actors compromised an organization's ArcGIS server, modifying the widely used geospatial mapping software for stealth access....]]></description>
+            <link>https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 14 Oct 2025 21:12:14 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-14</dc:date>
+        </item>
         <item>
             <title><![CDATA[Pixnapping Attack Lets Attackers Steal 2FA on Android]]></title>
             <description><![CDATA[The proof-of-concept exploit allows an attacker to steal sensitive data from Gmail, Google Accounts, Google Authenticator, Google Maps, Signal, and Venmo....]]></description>
@@ -666,28 +732,6 @@ The activity, per ReliaQuest, is the han...]]></description>
             <dc:date>2025-10-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft restricts IE mode access in Edge after zero-day attacks]]></title>
-            <description><![CDATA[Microsoft is restricting access to Internet Explorer mode in Edge browser after learning that hackers are leveraging zero-day exploits in the Chakra JavaScript engine for access to target devices. [.....]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 21:51:47 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Latest Bitcoin software called “malware” as developers split by code change]]></title>
-            <description><![CDATA[Bitcoin Core, the dominant software powering roughly 80% of all BTC nodes, has rolled out its long-awaited v30.0 update. The update, published on Oct. 11, brings optional encrypted node connections, p...]]></description>
-            <link>https://cryptoslate.com/new-bitcoin-software-labeled-malware-as-btc-developers-split-by-code-change/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/new-bitcoin-software-labeled-malware-as-btc-developers-split-by-code-change/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Oct 2025 19:10:57 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Crypto Remains Vulnerable to Market Crashes, 66% of Investors Plan To Double Down Anyway]]></title>
             <description><![CDATA[Friday’s market crash demonstrates that Bitcoin is still a highly volatile asset. Nonetheless, a recent survey found that 66% of crypto investors plan to increase ......]]></description>
             <link>https://www.ccn.com/news/crypto/crypto-66-investors-double-down-despite-volatility/</link>
@@ -900,6 +944,17 @@ The vulnerability, tracked as...]]></description>
             <dc:date>2025-10-10</dc:date>
         </item>
         <item>
+            <title><![CDATA[Trader loses $21M on Hyperliquid after private key leak: How to be protected]]></title>
+            <description><![CDATA[A Hyperliquid trader lost $21 million in a private key exploit, raising new concerns about DeFi security and user vigilance amid growing DEX activity....]]></description>
+            <link>https://cointelegraph.com/news/hyperliquid-21m-private-key-exploit-defi-security?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/hyperliquid-21m-private-key-exploit-defi-security?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Fri, 10 Oct 2025 17:30:01 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2025-10-10</dc:date>
+        </item>
+        <item>
             <title><![CDATA[Feds Shutter ShinyHunters Salesforce Extortion Site]]></title>
             <description><![CDATA[The group warned that law-enforcement crackdowns are imminent in the wake of the takedown, but its extortion threats against Salesforce victims remain active....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-feds-shutter-salesforce-extortion-site</link>
@@ -1035,6 +1090,17 @@ The zero-day vulnerability, track...]]></description>
             <dc:date>2025-10-10</dc:date>
         </item>
         <item>
+            <title><![CDATA[Monero releases ‘Flourine Fermi’ update to fight spy nodes]]></title>
+            <description><![CDATA[Monero’s “Fluorine Fermi” update enhances privacy by fighting nodes that try to link user IP addresses to their transactions....]]></description>
+            <link>https://cointelegraph.com/news/monero-releases-flourine-fermi-update-to-fight-spy-nodes?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/monero-releases-flourine-fermi-update-to-fight-spy-nodes?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Fri, 10 Oct 2025 02:21:30 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2025-10-10</dc:date>
+        </item>
+        <item>
             <title><![CDATA[GitHub Copilot 'CamoLeak' AI Attack Exfiltrates Data]]></title>
             <description><![CDATA[While GitHub has advanced protections for its built-in AI agent, a researcher came up with a creative proof-of-concept (PoC) attack for exfiltrating code and secrets via Copilot....]]></description>
             <link>https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data</link>
@@ -1099,6 +1165,17 @@ The zero-day vulnerability, track...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Thu, 09 Oct 2025 13:48:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-10-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum devs launch Kohaku roadmap to bring privacy, security to wallets]]></title>
+            <description><![CDATA[Ethereum devs have introduced Kohaku to enhance wallet privacy and security with modular tools, zero-knowledge recovery options and decentralized transaction handling....]]></description>
+            <link>https://cointelegraph.com/news/ethereum-devs-unveil-kohaku-wallet-privacy-roadmap?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/ethereum-devs-unveil-kohaku-wallet-privacy-roadmap?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Thu, 09 Oct 2025 12:37:33 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
             <dc:date>2025-10-09</dc:date>
         </item>
         <item>
@@ -1271,84 +1348,6 @@ The coalition is...]]></description>
             <pubDate>Wed, 08 Oct 2025 10:58:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[No Time to Waste: Embedding AI to Cut Noise and Reduce Risk]]></title>
-            <description><![CDATA[Artificial intelligence is reshaping cybersecurity on both sides of the battlefield. Cybercriminals are using AI-powered tools to accelerate and automate attacks at a scale defenders have never faced ...]]></description>
-            <link>https://thehackernews.com/2025/09/automation-is-redefining-pentest.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/09/automation-is-redefining-pentest.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 08:57:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks]]></title>
-            <description><![CDATA[OpenAI on Tuesday said it disrupted three activity clusters for misusing its ChatGPT artificial intelligence (AI) tool to facilitate malware development.
-This includes a Russian‑language threat actor,...]]></description>
-            <link>https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 07:16:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Cyberattack Leads to Beer Shortage as Asahi Recovers]]></title>
-            <description><![CDATA[A ransomware last week left the Asahi brewery in Japan struggling to take orders and deliver its products domestically, as manufacturers become a favored target....]]></description>
-            <link>https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers</link>
-            <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 08 Oct 2025 01:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ShinyHunters Wage Broad Corporate Extortion Spree]]></title>
-            <description><![CDATA[A cybercriminal group that used voice phishing attacks to siphon more than a billion records from Salesforce customers earlier this year has launched a website that threatens to publish data stolen fr...]]></description>
-            <link>https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/</link>
-            <guid isPermaLink="false">https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/</guid>
-            <category><![CDATA[Krebs On Security]]></category>
-            <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 22:45:35 GMT</pubDate>
-            <dc:source>Krebs On Security</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Attackers Season Spam With a Touch of 'Salt']]></title>
-            <description><![CDATA[Researchers report an increase in the use of hidden content in spam and malicious email to confuse filters and other security mechanisms....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 21:18:57 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Security Concerns Shadow Vibe Coding Adoption]]></title>
-            <description><![CDATA[In a recent poll, readers shared how they're using vibe coding in AppDev (if they are at all). While some found success, others found the risks too great....]]></description>
-            <link>https://www.darkreading.com/application-security/security-concerns-shadow-vibe-coding-adoption</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/security-concerns-shadow-vibe-coding-adoption</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 19:08:06 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Medusa Ransomware Actors Exploit Critical Fortra GoAnywhere Flaw]]></title>
-            <description><![CDATA[Researchers say exploitation of CVE-2025-10035 requires a private key, and it's unclear how Storm-1175 threat actors pulled this off....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 07 Oct 2025 16:59:27 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-07</dc:date>
         </item>
     </channel>
 </rss>
