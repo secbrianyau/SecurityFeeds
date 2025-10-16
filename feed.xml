@@ -9,12 +9,188 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Oct 2025 15:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 18:29:59 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Oct 2025 15:23:57 GMT</pubDate>
+        <pubDate>Thu, 16 Oct 2025 18:29:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Hackers exploit Cisco SNMP flaw to deploy rootkit on switches]]></title>
+            <description><![CDATA[Threat actors exploited a recently patched remote code execution vulnerability (CVE-2025-20352) in older, unprotected Cisco networking devices to deploy a Linux rootkit and gain persistent access. [.....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 18:13:32 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Why is Bitcoin trading below $110,000? Everything that happened in crypto today]]></title>
+            <description><![CDATA[Bitcoin traded at $108,733.66 at press time, declining 2% intraday, driven by trade tensions and leverage unwind. Waning demand also contributed to the correction. US-traded spot Bitcoin ETFs recorded...]]></description>
+            <link>https://cryptoslate.com/why-is-bitcoin-trading-below-110000-everything-that-happened-in-crypto-today/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/why-is-bitcoin-trading-below-110000-everything-that-happened-in-crypto-today/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 18:06:09 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[China Hackers Test AI-Optimized Attack Chains in Taiwan]]></title>
+            <description><![CDATA[AI might help some threat actors in certain respects, but one group is proving that its use for cyberattacks has its limits....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 17:02:24 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Can Bitcoin hold the line as $1.8B in realized profits hits the market?]]></title>
+            <description><![CDATA[Bitcoin is showing the kind of fatigue that typically precedes larger directional moves. On Oct. 15, traders locked in $1.8 billion in profit, one of the heaviest cash-out days since the beginning of ...]]></description>
+            <link>https://cryptoslate.com/can-bitcoin-hold-the-line-as-1-8b-in-realized-profits-hits-the-market/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/can-bitcoin-hold-the-line-as-1-8b-in-realized-profits-hits-the-market/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 17:00:10 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft disrupts ransomware attacks targeting Teams users]]></title>
+            <description><![CDATA[Microsoft has disrupted a wave of Rhysida ransomware attacks in early October by revoking over 200 certificates used to sign malicious Teams installers. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 16:58:36 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Stellar Slides Late as Volatility Returns Despite Institutional Milestone]]></title>
+            <description><![CDATA[WisdomTree introduces Europe's first physically-backed Stellar exchange-traded product amid heightened competition in digital payments infrastructure....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/16/stellar-slides-late-as-volatility-returns-despite-institutional-milestone</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/stellar-slides-late-as-volatility-returns-despite-institutional-milestone</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 16:45:58 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[HBAR Faces Sharp Bearish Reversal After Volatile 24-Hour Trading Window]]></title>
+            <description><![CDATA[Hedera’s HBAR token saw a dramatic 5% intraday swing as institutional investors drove heavy volatility, with early gains erased by late-session corporate liquidation pressure....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/16/hbar-faces-sharp-bearish-reversal-after-volatile-24-hour-trading-window</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/hbar-faces-sharp-bearish-reversal-after-volatile-24-hour-trading-window</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 16:40:58 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Markets Today: Bearish October Continues as Altcoins Dealt Hammer Blow]]></title>
+            <description><![CDATA[Crypto markets extended their steep losses Thursday as altcoins plunged and bitcoin tested key support, with derivatives data showing cautious sentiment amid fading liquidity....]]></description>
+            <link>https://www.coindesk.com/business/2025/10/16/crypto-markets-today-bearish-october-continues-as-altcoins-dealt-hammer-blow</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/16/crypto-markets-today-bearish-october-continues-as-altcoins-dealt-hammer-blow</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 16:28:07 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[TRX Staking Now Available on Ledger Live through Yield.xyz]]></title>
+            <description><![CDATA[New York City, New York, October 16, 2025 – Yield.xyz, a pioneering DeFi infrastructure firm, today announced that TRX, the native utility token of the TRON network, can now be staked directly on Ledg...]]></description>
+            <link>https://cryptoslate.com/trx-staking-now-available-on-ledger-live-through-yield-xyz/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/trx-staking-now-available-on-ledger-live-through-yield-xyz/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 16:00:42 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The Rise and (Mostly) Fall of the PIPE Model in Bitcoin Treasury Strategies]]></title>
+            <description><![CDATA[Once hailed as a fast track to bitcoin accumulation, PIPE financing now faces scrutiny as companies struggle with cratering share prices....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/14/the-rise-and-mostly-fall-of-the-pipe-model-in-bitcoin-treasury-strategies</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/14/the-rise-and-mostly-fall-of-the-pipe-model-in-bitcoin-treasury-strategies</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 16:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Tumbles Below $109K; Tightening Liquidity Key to Crypto's Struggles]]></title>
+            <description><![CDATA[The bounce from the recent leverage flush has failed for the moment....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/16/one-simple-reason-why-bitcoin-ether-xrp-solana-can-t-catch-a-break</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/one-simple-reason-why-bitcoin-ether-xrp-solana-can-t-catch-a-break</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 15:58:56 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft: Office 2016 and Office 2019 have reach end of support]]></title>
+            <description><![CDATA[​​​​​Microsoft reminded customers this week that Office 2016 and Office 2019 have reached the end of extended support on October 14, 2025. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 15:50:04 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Stablecoins Can Cut Cross-Border Payments Cost by 99%, KPMG Says]]></title>
+            <description><![CDATA[Institutions are embracing stablecoin technology to cut costs, speed up settlement times, and unlock liquidity in a $150 trillion payments market....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/16/stablecoins-can-cut-cross-border-payments-cost-by-99-kpmg-says</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/stablecoins-can-cut-cross-border-payments-cost-by-99-kpmg-says</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 15:49:27 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[$3.8B fund tokenized on BNB marks China’s boldest RWA move yet]]></title>
+            <description><![CDATA[CMB International Asset Management tokenized the CMB International USD Money Market Fund on BNB Chain through the CMBMINT and CMBIMINT tokens on Oct. 15. The fund manages over $3.8 billion and ranked ...]]></description>
+            <link>https://cryptoslate.com/3-8b-fund-tokenized-on-bnb-chain-marks-chinas-boldest-rwa-move-yet/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/3-8b-fund-tokenized-on-bnb-chain-marks-chinas-boldest-rwa-move-yet/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 15:45:41 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple Set to Enter Corporate Treasury Business With $1B Acquisition of GTreasury ]]></title>
+            <description><![CDATA[The deal, pending regulatory approvals, would give Ripple access to large enterprise clients as it is building out financial services around its digital asset business....]]></description>
+            <link>https://www.coindesk.com/business/2025/10/16/ripple-set-to-enter-corporate-treasury-business-with-usd1b-acquisition-of-gtreasury</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/16/ripple-set-to-enter-corporate-treasury-business-with-usd1b-acquisition-of-gtreasury</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 15:25:58 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Network Hashrate Took Breather in First Two Weeks of October: JPMorgan ]]></title>
+            <description><![CDATA[The total market cap of the 14 U.S.-listed bitcoin miners that the bank covers rose 41% from the end of last month to a record $79 billion....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/16/bitcoin-network-hashrate-took-breather-in-first-two-weeks-of-october-jpmorgan</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/bitcoin-network-hashrate-took-breather-in-first-two-weeks-of-october-jpmorgan</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 15:14:28 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
         <item>
             <title><![CDATA[The day $300 trillion appeared and then vanished on Ethereum]]></title>
             <description><![CDATA[For a few surreal moments on Oct. 15, the Ethereum blockchain seemed to host the financial equivalent of a dream. Paxos, the issuer behind PayPal’s stablecoin PYUSD, accidentally minted $300 trillion ...]]></description>
@@ -38,6 +214,39 @@
             <dc:date>2025-10-16</dc:date>
         </item>
         <item>
+            <title><![CDATA[Crypto Exchange Coinbase Introduces Its Own Stablecoin Payments Platform ]]></title>
+            <description><![CDATA[Coinbase Business, as the new service is called, will simplify vendor payments, eliminate chargebacks, and offer seamless API integrations....]]></description>
+            <link>https://www.coindesk.com/business/2025/10/16/crypto-exchange-coinbase-introduces-its-own-stablecoin-payments-platform</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/16/crypto-exchange-coinbase-introduces-its-own-stablecoin-payments-platform</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 15:01:45 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto for Advisors: Litecoin Explained]]></title>
+            <description><![CDATA[Litecoin: A resilient digital asset. Explore its history, technical features, innovation, and why it endures as a key component of the crypto ecosystem....]]></description>
+            <link>https://www.coindesk.com/coindesk-indices/2025/10/15/crypto-for-advisors-litecoin-explained</link>
+            <guid isPermaLink="false">https://www.coindesk.com/coindesk-indices/2025/10/15/crypto-for-advisors-litecoin-explained</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 15:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Andreessen Horowitz’s a16z Invests $50M in Solana Staking Protocol Jito]]></title>
+            <description><![CDATA[Jito Foundation will use the funding to grow its validator technology, staking protocol, and developer tools on Solana....]]></description>
+            <link>https://www.coindesk.com/markets/2025/10/16/andreessen-horowitz-s-a16z-invests-usd50m-in-solana-staking-protocol-jito</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/andreessen-horowitz-s-a16z-invests-usd50m-in-solana-staking-protocol-jito</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 14:56:42 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
             <title><![CDATA[CISA: Maximum-severity Adobe flaw now exploited in attacks]]></title>
             <description><![CDATA[CISA has warned that attackers are actively exploiting a maximum-severity vulnerability in Adobe Experience Manager to execute code on unpatched systems. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/</link>
@@ -46,6 +255,18 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Thu, 16 Oct 2025 14:28:38 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets]]></title>
+            <description><![CDATA[An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.
+"Th...]]></description>
+            <link>https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 16 Oct 2025 14:28:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-10-16</dc:date>
         </item>
         <item>
@@ -347,17 +568,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:date>2025-10-16</dc:date>
         </item>
         <item>
-            <title><![CDATA[Australia's Government Proposes New Powers for AUSTRAC to Restrict Crypto ATMs]]></title>
-            <description><![CDATA[AUSTRAC said that the majority of high-value crypto ATM transactions were directly associated with scams or moving money to high-risk jurisdictions....]]></description>
-            <link>https://www.coindesk.com/policy/2025/10/16/australia-s-government-proposes-new-powers-for-austrac-to-restrict-crypto-atms</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/10/16/australia-s-government-proposes-new-powers-for-austrac-to-restrict-crypto-atms</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 09:33:45 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin mining pool’s ‘missing’ $2B BTC may soon form American 340k BTC reserve]]></title>
             <description><![CDATA[The United States could still claim another $2 billion worth of Bitcoin linked to the defunct LuBian mining pool, despite already announcing the largest crypto seizure in its history. On October 15, b...]]></description>
             <link>https://cryptoslate.com/bitcoin-mining-pools-missing-2b-btc-may-soon-form-americas-340k-btc-reserve/</link>
@@ -366,17 +576,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Thu, 16 Oct 2025 09:28:01 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Faces Heavy Selling Pressure Despite Seasonal Bullish Expectations]]></title>
-            <description><![CDATA[Long-term holders and whales continue to offload BTC as profit-taking intensifies and the four-year cycle narrative shows signs of weakening....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/16/bitcoin-faces-heavy-selling-pressure-despite-seasonal-bullish-expectations</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/bitcoin-faces-heavy-selling-pressure-despite-seasonal-bullish-expectations</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 09:24:51 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-10-16</dc:date>
         </item>
         <item>
@@ -413,17 +612,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:date>2025-10-16</dc:date>
         </item>
         <item>
-            <title><![CDATA[France’s Lise Wins License to Launch Europe’s First Tokenized Stock Exchange]]></title>
-            <description><![CDATA[The Paris-based exchange has secured a distributed ledger technology license from French regulator ACPR....]]></description>
-            <link>https://www.coindesk.com/business/2025/10/16/france-s-lise-wins-license-to-launch-europe-s-first-tokenized-stock-exchange</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/10/16/france-s-lise-wins-license-to-launch-europe-s-first-tokenized-stock-exchange</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 08:02:55 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Eric Trump Teases Tokenized Property Plan as SEC’s Atkins Declares Tokenization ‘Job One’]]></title>
             <description><![CDATA[Eric Trump has teased plans to tokenize ownership of Trump Organization properties, starting with one flagship building. U.S. SEC Chairman Paul Atkins has declared tokenization ......]]></description>
             <link>https://www.ccn.com/news/crypto/eric-trump-tokenized-real-estate-sec-pushes-digital-asset-reform/</link>
@@ -435,61 +623,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:date>2025-10-16</dc:date>
         </item>
         <item>
-            <title><![CDATA[How Deep Could BTC Crash If Bulls Fail to Defend $107K–$110K Support Zone?]]></title>
-            <description><![CDATA[BTC hovers close to the key support zone of $107K-$110K. The outcome here could set the stage for significant moves....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/16/how-deep-could-btc-crash-if-bulls-fail-to-defend-usd107k-usd110k-support-zone</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/how-deep-could-btc-crash-if-bulls-fail-to-defend-usd107k-usd110k-support-zone</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 06:15:50 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Holds Near $111K as Traders Weigh China Retaliation, Risk Appetite Cools]]></title>
-            <description><![CDATA[Analysts note that Bitcoin’s correlation with gold is at a multi-year high of 0.9, reinforcing the “digital gold” narrative as both assets move in tandem during geopolitical shocks....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/16/bitcoin-holds-near-usd111k-as-traders-weigh-china-retaliation-risk-appetite-cools</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/bitcoin-holds-near-usd111k-as-traders-weigh-china-retaliation-risk-appetite-cools</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 06:09:35 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ripple, Immunefi Launch $200K Bug Hunt for XRPL’s New Institutional Lending Protocol]]></title>
-            <description><![CDATA[Researchers will focus on vulnerabilities that could threaten fund safety or protocol solvency....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/16/ripple-immunefi-launch-usd200k-bug-hunt-for-xrpl-s-new-institutional-lending-protocol</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/ripple-immunefi-launch-usd200k-bug-hunt-for-xrpl-s-new-institutional-lending-protocol</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 04:50:07 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DOGE Trading Desk Flows Hint Bottoming. Watch $0.214 Flip for Momentum Trigger]]></title>
-            <description><![CDATA[DOGE followed the broader market liquidation triggered by renewed U.S.–China tariff rhetoric, sliding 5% from $0.21 highs to settle at $0.20. President Trump’s proposed 100% tariff plan erased roughly...]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/16/doge-trading-desk-flows-hint-bottoming-watch-usd0-214-flip-for-momentum-trigger</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/doge-trading-desk-flows-hint-bottoming-watch-usd0-214-flip-for-momentum-trigger</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 04:35:51 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Paxos Fat-Fingers $300T of PayPal Stablecoin, Outpacing USD's $2.4T Supply]]></title>
-            <description><![CDATA[The supply deluge was quickly reversed with burn mechanism....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/16/paxos-fat-fingers-usd300t-of-paypal-stablecoin-outpacing-usd-s-usd2-4t-supply</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/paxos-fat-fingers-usd300t-of-paypal-stablecoin-outpacing-usd-s-usd2-4t-supply</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 04:33:29 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
             <title><![CDATA[CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack]]></title>
             <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, ba...]]></description>
             <link>https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html</link>
@@ -498,28 +631,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Thu, 16 Oct 2025 04:26:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[XRP Buildout Near $2.40 Could Precede Sharp Relief Rally if Whales Ease Pressure]]></title>
-            <description><![CDATA[Futures open interest collapsed 50% to $4.22B, signaling forced deleveraging as market makers cut risk exposure amid ongoing macro and regulatory uncertainty....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/16/xrp-buildout-near-usd2-40-could-precede-sharp-relief-rally-if-whales-ease-pressure</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/xrp-buildout-near-usd2-40-could-precede-sharp-relief-rally-if-whales-ease-pressure</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 04:01:30 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Asia Morning Briefing: QCP Says Global Liquidity, Not Fed Cuts, Is Powering the Market]]></title>
-            <description><![CDATA[QCP Capital’s latest note says global markets are pivoting from rate sensitivity to liquidity dependence....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/16/asia-morning-briefing-qcp-says-global-liquidity-not-fed-cuts-is-powering-the-market</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/16/asia-morning-briefing-qcp-says-global-liquidity-not-fed-cuts-is-powering-the-market</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 01:49:15 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-10-16</dc:date>
         </item>
         <item>
@@ -545,17 +656,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:date>2025-10-15</dc:date>
         </item>
         <item>
-            <title><![CDATA[5 things that need to happen for Bitcoin to stay above $100k]]></title>
-            <description><![CDATA[Bitcoin price traded near $110,000 today as ETF flow streaks and the $107,000 support take focus. Spot ETF demand remains the pivot. BlackRock’s IBIT is approaching $100 billion in assets, roughly 799...]]></description>
-            <link>https://cryptoslate.com/5-things-that-need-to-happen-for-bitcoin-to-stay-above-100k/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/5-things-that-need-to-happen-for-bitcoin-to-stay-above-100k/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 15 Oct 2025 21:30:55 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-15</dc:date>
-        </item>
-        <item>
             <title><![CDATA['Mysterious Elephant' Moves Beyond Recycled Malware]]></title>
             <description><![CDATA[The cyber-espionage group has been using sophisticated custom tools to target government and diplomatic entities in South Asia since early 2025....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/mysterious-elephant-recycled-malware</link>
@@ -575,28 +675,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Wed, 15 Oct 2025 20:53:05 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin’s October Slowdown Masks Strength, Analysts Predict Catch-Up With Gold]]></title>
-            <description><![CDATA[Despite a comparably muted October, bitcoin’s steady performance near $110,000 and signs of Fed easing have analysts calling for a breakout....]]></description>
-            <link>https://www.coindesk.com/markets/2025/10/15/bitcoin-s-october-slowdown-masks-strength-analysts-predict-catch-up-with-gold</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/10/15/bitcoin-s-october-slowdown-masks-strength-analysts-predict-catch-up-with-gold</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 15 Oct 2025 20:29:25 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-10-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Anyone can now create Hyperliquid perp contracts with $20M: Is DeFi about to break?]]></title>
-            <description><![CDATA[Hyperliquid’s HIP-3 opens perpetual futures listing to anyone willing to stake $20 million. The question isn’t whether this democratizes the DeFi, but whether the safeguards can handle what comes next...]]></description>
-            <link>https://cryptoslate.com/anyone-can-now-create-hyperliquid-perp-contracts-with-20m-is-defi-about-to-break/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/anyone-can-now-create-hyperliquid-perp-contracts-with-20m-is-defi-about-to-break/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 15 Oct 2025 20:00:17 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-10-15</dc:date>
         </item>
         <item>
@@ -633,28 +711,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:date>2025-10-15</dc:date>
         </item>
         <item>
-            <title><![CDATA[Can New York’s new crypto office thaw America’s coldest market?]]></title>
-            <description><![CDATA[New York City Mayor Eric Adams just built a new power center for crypto inside City Hall. On Oct. 14, he signed Executive Order 57 and created the Office of Digital Assets and Blockchain Technology, a...]]></description>
-            <link>https://cryptoslate.com/can-new-yorks-new-crypto-office-thaw-americas-coldest-market/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/can-new-yorks-new-crypto-office-thaw-americas-coldest-market/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 15 Oct 2025 18:30:14 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[F5 releases BIG-IP patches for stolen security vulnerabilities]]></title>
-            <description><![CDATA[Cybersecurity company F5 has released security updates to address BIG-IP vulnerabilities stolen in a breach detected on August 9, 2025. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 15 Oct 2025 18:01:34 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-15</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months]]></title>
             <description><![CDATA[A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia...]]></description>
             <link>https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html</link>
@@ -666,17 +722,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:date>2025-10-15</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ethereum to onboard 1.4B new users as Chinese AliPay megacorp launches own L2]]></title>
-            <description><![CDATA[Ant Group is betting that the next leap in digital finance will not happen in a bank but on Ethereum. On Oct. 14, the Chinese fintech giant behind Alipay’s 1.4 billion-user payment network launched Jo...]]></description>
-            <link>https://cryptoslate.com/ethereum-to-onboard-1-4b-new-users-as-chinese-alipay-megacorp-launches-own-l2/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ethereum-to-onboard-1-4b-new-users-as-chinese-alipay-megacorp-launches-own-l2/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 15 Oct 2025 17:00:30 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-15</dc:date>
-        </item>
-        <item>
             <title><![CDATA[F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion]]></title>
             <description><![CDATA[U.S. cybersecurity company F5 on Wednesday disclosed that unidentified threat actors broke into its systems and stole files containing some of BIG-IP's source code and information related to undisclos...]]></description>
             <link>https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html</link>
@@ -685,28 +730,6 @@ Security Operations Centers (SOCs) are under unprecedented pressure. According t
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Wed, 15 Oct 2025 16:06:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft: Sept Windows Server updates cause Active Directory issues]]></title>
-            <description><![CDATA[Microsoft has confirmed that the September 2025 security updates are causing Active Directory issues on Windows Server 2025 systems. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 15 Oct 2025 15:54:51 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Clothing giant MANGO discloses data breach exposing customer info]]></title>
-            <description><![CDATA[Spanish fashion retailer MANGO is sending notices of a data breach to its customers, warning that its marketing vendor suffered a compromise exposing personal data. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 15 Oct 2025 15:18:28 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-10-15</dc:date>
         </item>
         <item>
@@ -801,7 +824,7 @@ Synced passkeys inherit the risk of the clou...]]></description>
             <dc:date>2025-10-15</dc:date>
         </item>
         <item>
-            <title><![CDATA[ Quantum computers could bring lost Bitcoin back to life: Here’s how ]]></title>
+            <title><![CDATA[Quantum computers could bring lost Bitcoin back to life: Here’s how]]></title>
             <description><![CDATA[Quantum computing could enable the reverse engineering of private keys from publicly exposed ones, putting the security of Bitcoin holders at risk....]]></description>
             <link>https://cointelegraph.com/explained/quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
             <guid isPermaLink="false">https://cointelegraph.com/explained/quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
@@ -869,7 +892,7 @@ The v...]]></description>
             <dc:date>2025-10-15</dc:date>
         </item>
         <item>
-            <title><![CDATA[ Japan is working on new rules to crack down on crypto insider trading ]]></title>
+            <title><![CDATA[Japan is working on new rules to crack down on crypto insider trading]]></title>
             <description><![CDATA[Japan is set to amend its rules, which would empower its securities regulator to investigate and punish those involved in crypto-related insider trading....]]></description>
             <link>https://cointelegraph.com/news/japan-regulator-to-ban-crypto-insider-trading?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
             <guid isPermaLink="false">https://cointelegraph.com/news/japan-regulator-to-ban-crypto-insider-trading?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
@@ -877,17 +900,6 @@ The v...]]></description>
             <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
             <pubDate>Tue, 14 Oct 2025 23:32:07 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2025-10-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Patch Tuesday, October 2025 ‘End of 10’ Edition]]></title>
-            <description><![CDATA[Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. Oc...]]></description>
-            <link>https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/</link>
-            <guid isPermaLink="false">https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/</guid>
-            <category><![CDATA[Krebs On Security]]></category>
-            <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
-            <pubDate>Tue, 14 Oct 2025 22:57:38 GMT</pubDate>
-            <dc:source>Krebs On Security</dc:source>
             <dc:date>2025-10-14</dc:date>
         </item>
         <item>
@@ -1159,7 +1171,7 @@ The vulnerability, tracked as...]]></description>
             <dc:date>2025-10-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[ Trader loses $21M on Hyperliquid after private key leak: How to be protected ]]></title>
+            <title><![CDATA[Trader loses $21M on Hyperliquid after private key leak: How to be protected]]></title>
             <description><![CDATA[A Hyperliquid trader lost $21 million in a private key exploit, raising new concerns about DeFi security and user vigilance amid growing DEX activity....]]></description>
             <link>https://cointelegraph.com/news/hyperliquid-21m-private-key-exploit-defi-security?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
             <guid isPermaLink="false">https://cointelegraph.com/news/hyperliquid-21m-private-key-exploit-defi-security?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
@@ -1178,17 +1190,6 @@ The vulnerability, tracked as...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 10 Oct 2025 16:38:25 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DDoS Botnet Aisuru Blankets US ISPs in Record DDoS]]></title>
-            <description><![CDATA[The world's largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on U.S. Internet providers like AT&T, Comcast and Ver...]]></description>
-            <link>https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/</link>
-            <guid isPermaLink="false">https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/</guid>
-            <category><![CDATA[Krebs On Security]]></category>
-            <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
-            <pubDate>Fri, 10 Oct 2025 16:10:43 GMT</pubDate>
-            <dc:source>Krebs On Security</dc:source>
             <dc:date>2025-10-10</dc:date>
         </item>
         <item>
@@ -1305,7 +1306,7 @@ The zero-day vulnerability, track...]]></description>
             <dc:date>2025-10-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[ Monero releases ‘Flourine Fermi’ update to fight spy nodes ]]></title>
+            <title><![CDATA[Monero releases ‘Flourine Fermi’ update to fight spy nodes]]></title>
             <description><![CDATA[Monero’s “Fluorine Fermi” update enhances privacy by fighting nodes that try to link user IP addresses to their transactions....]]></description>
             <link>https://cointelegraph.com/news/monero-releases-flourine-fermi-update-to-fight-spy-nodes?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
             <guid isPermaLink="false">https://cointelegraph.com/news/monero-releases-flourine-fermi-update-to-fight-spy-nodes?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
