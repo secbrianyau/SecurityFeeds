@@ -9,12 +9,67 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Oct 2025 18:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 21:20:45 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Oct 2025 18:29:27 GMT</pubDate>
+        <pubDate>Tue, 21 Oct 2025 21:20:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[TP-Link warns of critical command injection flaw in Omada gateways]]></title>
+            <description><![CDATA[TP-Link has made firmware updates available for a broad range of Omada gateway models to address four vulnerabilities, among which a critical pre-auth OS command injection. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 21 Oct 2025 21:11:35 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Electronic Warfare Puts Commercial GPS Users on Notice]]></title>
+            <description><![CDATA[Interference with the global positioning system (GPS) isn't just a problem for airlines, but for shipping, trucking, car navigation, agriculture, and even the financial sector....]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 21 Oct 2025 20:42:46 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[US Bitcoin payments are getting real: Retail rails could push $2M a day on-chain]]></title>
+            <description><![CDATA[Crypto retail checkouts now have two levers that can move quickly, merchant rails that reduce processing cost, and consumer apps that toggle on crypto buying and spending. Walmart’s OnePay sits at the...]]></description>
+            <link>https://cryptoslate.com/bitcoin-payments-are-getting-real-retail-rails-could-push-2m-a-day-on-chain/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-payments-are-getting-real-retail-rails-could-push-2m-a-day-on-chain/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 21 Oct 2025 20:00:50 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw]]></title>
+            <description><![CDATA[CISA has confirmed that an Oracle E-Business Suite flaw tracked as CVE-2025-61884 is being exploited in attacks, adding it to its Known Exploited Vulnerabilities catalog. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 21 Oct 2025 19:15:34 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cursor, Windsurf IDEs riddled with 94+ n-day Chromium vulnerabilities]]></title>
+            <description><![CDATA[The latest releases of Cursor and Windsurf integrated development environments are vulnerable to more than 94 known and patched security issues in the Chromium browser and the V8 JavaScript engine. [....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 21 Oct 2025 19:00:00 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-21</dc:date>
+        </item>
         <item>
             <title><![CDATA[Bitcoin awaits critical US CPI data for jump over $120,000 or decline to $100,000]]></title>
             <description><![CDATA[Bitcoin is bracing for the release of the September US Consumer Price Index (CPI) on Oct. 24, the first major data point since the federal shutdown began. Analysts at The Kobeissi Letter emphasized th...]]></description>
@@ -414,8 +469,8 @@ PolarEdge was first documented by Sekoia in February 2025, attributing it to a c
             <dc:date>2025-10-21</dc:date>
         </item>
         <item>
-            <title><![CDATA[‘PassiveNeuron’ Cyber Spies Target Orgs with Custom Malware]]></title>
-            <description><![CDATA[A persistent cyber espionage campaign focused on SQL servers is targeting government, industrial and financial sectors across Asia, Africa, and Latin America....]]></description>
+            <title><![CDATA[‘PassiveNeuron’ Cyber Spies Target Orgs With Custom Malware]]></title>
+            <description><![CDATA[A persistent cyber-espionage campaign focused on SQL servers is targeting government, industrial, and financial sectors across Asia, Africa, and Latin America....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs</link>
             <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs</guid>
             <category><![CDATA[Dark Reading]]></category>
@@ -623,50 +678,6 @@ PolarEdge was first documented by Sekoia in February 2025, attributing it to a c
             <dc:date>2025-10-20</dc:date>
         </item>
         <item>
-            <title><![CDATA[CISA: High-severity Windows SMB flaw now exploited in attacks]]></title>
-            <description><![CDATA[CISA says threat actors are now actively exploiting a high-severity Windows SMB privilege escalation vulnerability that can let them gain SYSTEM privileges on unpatched systems. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 20 Oct 2025 17:18:16 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-20</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Avail Integration Enables TRON dApps and Users to Access Cross-Chain Liquidity and Unified Markets]]></title>
-            <description><![CDATA[DUBAI, United Arab Emirates – October 20, 2025 – Avail, a leading modular infrastructure provider delivering horizontal scalability, cross-chain connectivity, and unified liquidity, today announced a ...]]></description>
-            <link>https://cryptoslate.com/avail-integration-enables-tron-dapps-and-users-to-access-cross-chain-liquidity-and-unified-markets/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/avail-integration-enables-tron-dapps-and-users-to-access-cross-chain-liquidity-and-unified-markets/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 20 Oct 2025 17:00:48 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-20</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries]]></title>
-            <description><![CDATA[A new and ongoing supply-chain attack is targeting developers on the OpenVSX and Microsoft Visual Studio marketplaces with self-spreading malware called GlassWorm that has been installed an estimated ...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 20 Oct 2025 16:13:20 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-20</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft fixes Windows Server Active Directory sync issues]]></title>
-            <description><![CDATA[Microsoft is rolling out a fix for Active Directory issues affecting some Windows Server 2025 systems after installing security updates released since September. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 20 Oct 2025 15:58:21 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-20</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bombarding Cars With Lasers: Novel Auto Cyberattacks Emerge]]></title>
             <description><![CDATA[Hardware attacks using lasers against silicon chips are difficult but possible. A fresh microchip protection approach aims to make it harder....]]></description>
             <link>https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks</link>
@@ -686,17 +697,6 @@ PolarEdge was first documented by Sekoia in February 2025, attributing it to a c
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 20 Oct 2025 14:39:48 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-20</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft warns of Windows smart card auth issues after October updates]]></title>
-            <description><![CDATA[Microsoft says the October 2025 Windows security updates are causing smart card authentication and certificate issues due to a change designed to strengthen the Windows Cryptographic Services. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 20 Oct 2025 14:21:54 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-10-20</dc:date>
         </item>
         <item>

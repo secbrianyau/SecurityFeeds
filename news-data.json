@@ -1,5 +1,40 @@
 [
   {
+    "title": "TP-Link warns of critical command injection flaw in Omada gateways",
+    "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/",
+    "date": "2025-10-21T21:11:35.000Z",
+    "source": "Bleeping Computer",
+    "summary": "TP-Link has made firmware updates available for a broad range of Omada gateway models to address four vulnerabilities, among which a critical pre-auth OS command injection. [...]..."
+  },
+  {
+    "title": "Electronic Warfare Puts Commercial GPS Users on Notice",
+    "link": "https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice",
+    "date": "2025-10-21T20:42:46.000Z",
+    "source": "Dark Reading",
+    "summary": "Interference with the global positioning system (GPS) isn't just a problem for airlines, but for shipping, trucking, car navigation, agriculture, and even the financial sector...."
+  },
+  {
+    "title": "US Bitcoin payments are getting real: Retail rails could push $2M a day on-chain",
+    "link": "https://cryptoslate.com/bitcoin-payments-are-getting-real-retail-rails-could-push-2m-a-day-on-chain/",
+    "date": "2025-10-21T20:00:50.000Z",
+    "source": "CryptoSlate",
+    "summary": "Crypto retail checkouts now have two levers that can move quickly, merchant rails that reduce processing cost, and consumer apps that toggle on crypto buying and spending. Walmart’s OnePay sits at the..."
+  },
+  {
+    "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
+    "date": "2025-10-21T19:15:34.000Z",
+    "source": "Bleeping Computer",
+    "summary": "CISA has confirmed that an Oracle E-Business Suite flaw tracked as CVE-2025-61884 is being exploited in attacks, adding it to its Known Exploited Vulnerabilities catalog. [...]..."
+  },
+  {
+    "title": "Cursor, Windsurf IDEs riddled with 94+ n-day Chromium vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/",
+    "date": "2025-10-21T19:00:00.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The latest releases of Cursor and Windsurf integrated development environments are vulnerable to more than 94 known and patched security issues in the Chromium browser and the V8 JavaScript engine. [...."
+  },
+  {
     "title": "Bitcoin awaits critical US CPI data for jump over $120,000 or decline to $100,000",
     "link": "https://cryptoslate.com/bitcoin-awaits-critical-us-cpi-data-for-jump-over-120000-or-decline-to-100000/",
     "date": "2025-10-21T18:00:00.000Z",
@@ -252,11 +287,11 @@
     "summary": "More than $320 million in liquidations hit as bitcoin slipped under $108,000 and total crypto market value fell 3.2%..."
   },
   {
-    "title": "‘PassiveNeuron’ Cyber Spies Target Orgs with Custom Malware",
+    "title": "‘PassiveNeuron’ Cyber Spies Target Orgs With Custom Malware",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs",
     "date": "2025-10-21T10:27:11.000Z",
     "source": "Dark Reading",
-    "summary": "A persistent cyber espionage campaign focused on SQL servers is targeting government, industrial and financial sectors across Asia, Africa, and Latin America...."
+    "summary": "A persistent cyber-espionage campaign focused on SQL servers is targeting government, industrial, and financial sectors across Asia, Africa, and Latin America...."
   },
   {
     "title": "How Crypto Investors Protect Wealth with a Family Office",
@@ -385,34 +420,6 @@
     "summary": "Nearly 76,000 WatchGuard Firebox network security appliances are exposed on the public web and still vulnerable to a critical issue (CVE-2025-9242) that could allow a remote attacker to execute code w..."
   },
   {
-    "title": "CISA: High-severity Windows SMB flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/",
-    "date": "2025-10-20T17:18:16.000Z",
-    "source": "Bleeping Computer",
-    "summary": "CISA says threat actors are now actively exploiting a high-severity Windows SMB privilege escalation vulnerability that can let them gain SYSTEM privileges on unpatched systems. [...]..."
-  },
-  {
-    "title": "Avail Integration Enables TRON dApps and Users to Access Cross-Chain Liquidity and Unified Markets",
-    "link": "https://cryptoslate.com/avail-integration-enables-tron-dapps-and-users-to-access-cross-chain-liquidity-and-unified-markets/",
-    "date": "2025-10-20T17:00:48.000Z",
-    "source": "CryptoSlate",
-    "summary": "DUBAI, United Arab Emirates – October 20, 2025 – Avail, a leading modular infrastructure provider delivering horizontal scalability, cross-chain connectivity, and unified liquidity, today announced a ..."
-  },
-  {
-    "title": "Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries",
-    "link": "https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/",
-    "date": "2025-10-20T16:13:20.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A new and ongoing supply-chain attack is targeting developers on the OpenVSX and Microsoft Visual Studio marketplaces with self-spreading malware called GlassWorm that has been installed an estimated ..."
-  },
-  {
-    "title": "Microsoft fixes Windows Server Active Directory sync issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/",
-    "date": "2025-10-20T15:58:21.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft is rolling out a fix for Active Directory issues affecting some Windows Server 2025 systems after installing security updates released since September. [...]..."
-  },
-  {
     "title": "Bombarding Cars With Lasers: Novel Auto Cyberattacks Emerge",
     "link": "https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks",
     "date": "2025-10-20T15:28:45.000Z",
@@ -425,13 +432,6 @@
     "date": "2025-10-20T14:39:48.000Z",
     "source": "Dark Reading",
     "summary": "The sophisticated worm — which uses invisible code to steal credentials and turn developer systems into criminal proxies — has so far infected nearly 36k machines...."
-  },
-  {
-    "title": "Microsoft warns of Windows smart card auth issues after October updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/",
-    "date": "2025-10-20T14:21:54.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft says the October 2025 Windows security updates are causing smart card authentication and certificate issues due to a change designed to strengthen the Windows Cryptographic Services. [...]..."
   },
   {
     "title": "⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
