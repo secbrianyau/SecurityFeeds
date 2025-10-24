@@ -9,12 +9,78 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Oct 2025 21:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 01:20:58 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Oct 2025 21:19:48 GMT</pubDate>
+        <pubDate>Fri, 24 Oct 2025 01:20:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Adrian Wall of Digital Sovereignty Alliance Advocates Digital Sovereignty and Financial Inclusion at UN General Assembly]]></title>
+            <description><![CDATA[Washington, D.C., October 23, 2025 — The Digital Sovereignty Alliance (DSA), a nonprofit organization dedicated to advancing clear and ethical public policy, research and education surrounding emergin...]]></description>
+            <link>https://cryptoslate.com/adrian-wall-of-digital-sovereignty-alliance-advocates-digital-sovereignty-and-financial-inclusion-at-un-general-assembly/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/adrian-wall-of-digital-sovereignty-alliance-advocates-digital-sovereignty-and-financial-inclusion-at-un-general-assembly/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 23 Oct 2025 23:18:15 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-10-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Toys “R” Us Canada warns customers' info leaked in data breach]]></title>
+            <description><![CDATA[Toys "R" Us Canada has sent notices of a data breach to customers informing them of a security incident where threat actors leaked customer records they had previously stolen from its systems. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 23 Oct 2025 22:25:35 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BlockThreat - Week 42, 2025]]></title>
+            <description><![CDATA[Lubian | Typus | Code is Law | Paxos | BlockThreat Today...]]></description>
+            <link>https://newsletter.blockthreat.io/p/blockthreat-week-42-2025</link>
+            <guid isPermaLink="false">https://newsletter.blockthreat.io/p/blockthreat-week-42-2025</guid>
+            <category><![CDATA[Blockthreat]]></category>
+            <dc:creator><![CDATA[Blockthreat]]></dc:creator>
+            <pubDate>Thu, 23 Oct 2025 21:50:58 GMT</pubDate>
+            <dc:source>Blockthreat</dc:source>
+            <dc:date>2025-10-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[HP pulls update that broke Microsoft Entra ID auth on some AI PCs]]></title>
+            <description><![CDATA[HP has pulled an HP OneAgent software update for Windows 11 that mistakenly deleted Microsoft certificates required for some organizations to log in to Microsoft Entra ID, effectively disconnecting th...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 23 Oct 2025 21:50:41 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-10-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Fear the 'SessionReaper': Adobe Commerce Flaw Under Attack]]></title>
+            <description><![CDATA[CVE-2025-54236 is a critical flaw in Adobe Commerce (formerly Magento) that allows attackers to remotely take over sessions on the e-commerce platform....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/sessionreaper-adobe-commerce-flaw-under-attack</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/sessionreaper-adobe-commerce-flaw-under-attack</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 23 Oct 2025 21:25:50 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Tired of Unpaid Toll Texts? Blame the 'Smishing Triad']]></title>
+            <description><![CDATA[Chinese smishers — the bane of every American with a phone — have been shifting to lower-frequency, possibly higher-impact government impersonation attacks....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/unpaid-toll-texts-smishing-triad</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/unpaid-toll-texts-smishing-triad</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 23 Oct 2025 20:19:43 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-10-23</dc:date>
+        </item>
         <item>
             <title><![CDATA[How high would Bitcoin price need to go to erase US $38 trillion debt?]]></title>
             <description><![CDATA[The US has never owed more money that it does today, and some believe the solution isn’t political reform or higher taxes but Bitcoin itself. America’s national debt has crossed $38 trillion, surpassi...]]></description>
@@ -502,17 +568,6 @@ For decades, ...]]></description>
             <dc:date>2025-10-23</dc:date>
         </item>
         <item>
-            <title><![CDATA[Why $8.2B prediction markets’ major league sports backing is huge blow to legacy betting]]></title>
-            <description><![CDATA[The National Hockey League (NHL) has reached licensing agreements with prediction market platforms Kalshi and Polymarket, making it the first major US professional sports league to permit the use of i...]]></description>
-            <link>https://cryptoslate.com/8-2b-prediction-markets-just-got-major-league-sports-backing-do-sportsbooks-lose-share-next/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/8-2b-prediction-markets-just-got-major-league-sports-backing-do-sportsbooks-lose-share-next/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 23 Oct 2025 08:07:05 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-10-23</dc:date>
-        </item>
-        <item>
             <title><![CDATA[“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards]]></title>
             <description><![CDATA[Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer serv...]]></description>
             <link>https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</link>
@@ -697,28 +752,6 @@ For decades, ...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Wed, 22 Oct 2025 16:55:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Meta launches new anti-scam tools for WhatsApp and Messenger]]></title>
-            <description><![CDATA[Meta has announced new tools to help WhatsApp and Messenger users protect themselves from potential scams and secure their accounts. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 22 Oct 2025 15:11:54 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-10-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[FinWise data breach shows why encryption is your last defense]]></title>
-            <description><![CDATA[The FinWise breach shows that when insider threats strike, encryption is the last line of defense. Penta Security's D.AMO platform unites encryption, key management, and access control to keep sensiti...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 22 Oct 2025 15:11:21 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-10-22</dc:date>
         </item>
         <item>
@@ -1311,41 +1344,6 @@ The certif...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 16 Oct 2025 17:02:24 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets]]></title>
-            <description><![CDATA[An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.
-"Th...]]></description>
-            <link>https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 14:28:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform]]></title>
-            <description><![CDATA[Scaling the SOC with AI - Why now? 
-Security Operations Centers (SOCs) are under unprecedented pressure. According to SACR’s AI-SOC Market Landscape 2025, the average organization now faces around 960...]]></description>
-            <link>https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 11:55:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-10-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in 'Zero Disco' Attacks]]></title>
-            <description><![CDATA[Cybersecurity researchers have disclosed details of a new campaign that exploited a recently disclosed security flaw impacting Cisco IOS Software and IOS XE Software to deploy Linux rootkits on older,...]]></description>
-            <link>https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 16 Oct 2025 11:38:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-10-16</dc:date>
         </item>
     </channel>
