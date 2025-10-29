@@ -1,5 +1,33 @@
 [
   {
+    "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+    "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+    "date": "2025-10-29T00:51:05.000Z",
+    "source": "Krebs On Security",
+    "summary": "Aisuru, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable busi..."
+  },
+  {
+    "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
+    "date": "2025-10-28T23:31:28.000Z",
+    "source": "Bleeping Computer",
+    "summary": "​​Microsoft has released the KB5067036 preview cumulative update for Windows 11 24H2 and 25H2, which begins the rollout of the Administrator Protection cybersecurity feature and an updated Start Menu...."
+  },
+  {
+    "title": "Python rejects $1.5M grant from U.S. govt. fearing ethical compromise",
+    "link": "https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/",
+    "date": "2025-10-28T22:16:37.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The Python Software Foundation (PSF) has withdrawn its $1.5 million grant proposal to the U.S. National Science Foundation (NSF) due to funding terms forcing a compromise on its commitment to diversit..."
+  },
+  {
+    "title": "Advertising giant Dentsu reports data breach at subsidiary Merkle",
+    "link": "https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/",
+    "date": "2025-10-28T21:16:26.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Japanese advertising giant Dentsu has disclosed that its U.S.-based subsidiary Merkle suffered a cybersecurity incident  that exposed staff and client data. [...]..."
+  },
+  {
     "title": "Can Solana handle 100M Western Union users sending dollar tokens worldwide?",
     "link": "https://cryptoslate.com/can-solana-handle-100m-western-union-users-sending-dollar-tokens-worldwide/",
     "date": "2025-10-28T21:00:09.000Z",
@@ -12,6 +40,13 @@
     "date": "2025-10-28T20:53:36.000Z",
     "source": "Coindesk",
     "summary": "Volume spiked 180% over average as nearly 2.7M tokens traded in a single minute...."
+  },
+  {
+    "title": "From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership",
+    "link": "https://www.darkreading.com/cybersecurity-operations/chef-ciso-empathy-first-cybersecurity-leadership",
+    "date": "2025-10-28T20:51:11.000Z",
+    "source": "Dark Reading",
+    "summary": "Myke Lyons, CISO at data-processing SaaS company Cribl, shares how he cooked up an unconventional journey from culinary school to cybersecurity leadership...."
   },
   {
     "title": "Tether Tokenized Gold Reserves Exceeded 11.6 Tons in Q3 Amid Yellow Metal's Rally",
@@ -385,13 +420,6 @@
     "summary": "While investigating the cyberattacks, researchers uncovered a new spyware product from Memento Labs, the successor to the infamous Hacking Team...."
   },
   {
-    "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
-    "link": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
-    "date": "2025-10-27T19:36:11.000Z",
-    "source": "Bleeping Computer",
-    "summary": "X is warning that users must re-enroll their security keys or passkeys for two-factor authentication (2FA) before November 10 or they will be locked out of their accounts until they do so. [...]..."
-  },
-  {
     "title": "CISOs Finally Get a Seat at the Board's Table — But There's a Catch",
     "link": "https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table",
     "date": "2025-10-27T19:30:08.000Z",
@@ -399,25 +427,11 @@
     "summary": "AI's explosive growth has lifted cybersecurity to the top of the board's agenda. Here's how CISOs can seize the moment, according to Diana Kelley...."
   },
   {
-    "title": "Ransomware profits drop as victims stop paying hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-as-victims-stop-paying-hackers/",
-    "date": "2025-10-27T19:22:38.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The number of victims paying ransomware threat actors has reached a new low, with just 23% of the breached companies giving in to attackers' demands. [...]..."
-  },
-  {
     "title": "Attackers Sell Turnkey Remote Access Trojan 'Atroposia'",
     "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-sell-turnkey-remote-access-trojan-atroposia",
     "date": "2025-10-27T19:10:22.000Z",
     "source": "Dark Reading",
     "summary": "Atroposia, a new RAT malware, offers low-level cybercriminal affiliates the ability to utilize sophisticated stealth and persistence capabilities...."
-  },
-  {
-    "title": "Windows will soon prompt for memory scans after BSOD crashes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/",
-    "date": "2025-10-27T18:36:05.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has started testing a new feature that prompts Windows 11 users to run a memory scan when logging in after a blue screen of death (BSOD). [...]..."
   },
   {
     "title": "Crypto’s week ahead: Everything you need to know to close out October",
@@ -824,19 +838,5 @@
     "date": "2025-10-21T12:00:14.000Z",
     "source": "CNN.com - Crypto News",
     "summary": "GoMining has over 4 million registered users and powers over 10 million TH/s in Bitcoin miners. Bitcoin mining’s economic incentives will be less about block ......"
-  },
-  {
-    "title": "Securing AI to Benefit from AI",
-    "link": "https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html",
-    "date": "2025-10-21T11:00:00.000Z",
-    "source": "The Hacker News",
-    "summary": "Artificial intelligence (AI) holds tremendous promise for improving cyber defense and making the lives of security practitioners easier. It can help teams cut through alert fatigue, spot patterns fast..."
-  },
-  {
-    "title": "‘PassiveNeuron’ Cyber Spies Target Orgs With Custom Malware",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs",
-    "date": "2025-10-21T10:27:11.000Z",
-    "source": "Dark Reading",
-    "summary": "A persistent cyber-espionage campaign focused on SQL servers is targeting government, industrial, and financial sectors across Asia, Africa, and Latin America...."
   }
 ]
