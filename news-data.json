@@ -1,5 +1,61 @@
 [
   {
+    "title": "Malicious NuGet packages drop disruptive 'time bombs'",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/",
+    "date": "2025-11-07T20:53:48.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Several malicious packages on NuGet have sabotage payloads scheduled to activate in 2027 and 2028, targeting database implementations and Siemens S7 industrial control devices. [...]..."
+  },
+  {
+    "title": "'Ransomvibing' Infests Visual Studio Extension Market",
+    "link": "https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market",
+    "date": "2025-11-07T20:36:15.000Z",
+    "source": "Dark Reading",
+    "summary": "A published VS Code extension didn't hide the fact that it encrypts and exfiltrates data and also failed to remove obvious signs it was AI-generated...."
+  },
+  {
+    "title": "Crypto Markets Manage Modest Move Higher Friday, Trimming Weekly Losses",
+    "link": "https://www.coindesk.com/markets/2025/11/07/crypto-markets-manage-modest-move-higher-friday-trimming-weekly-losses",
+    "date": "2025-11-07T20:18:46.000Z",
+    "source": "Coindesk",
+    "summary": "Fully satiated shorts were likely booking some profits, but there was a bit of bullish news on the tape as well...."
+  },
+  {
+    "title": "Samourai Wallet Co-Founder’s Sentence Sparks Debate on Crypto Privacy",
+    "link": "https://cryptopotato.com/samourai-wallet-co-founders-sentence-sparks-debate-on-crypto-privacy/",
+    "date": "2025-11-07T20:10:18.000Z",
+    "source": "CryptoPotato",
+    "summary": "Judge says Keonne Rodriguez “used his talents to enable fraud,” highlighting tension between privacy and law...."
+  },
+  {
+    "title": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns",
+    "link": "https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns",
+    "date": "2025-11-07T20:08:51.000Z",
+    "source": "Dark Reading",
+    "summary": "In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs...."
+  },
+  {
+    "title": "Bitcoin ETFs break 6-day outflow streak with $240M buy: What it means for liquidity",
+    "link": "https://cryptoslate.com/bitcoin-etfs-break-6-day-outflow-streak-with-240m-buy-what-it-means-for-liquidity/",
+    "date": "2025-11-07T20:00:37.000Z",
+    "source": "CryptoSlate",
+    "summary": "US-traded spot Bitcoin (BTC) exchange-traded funds’ (ETFs) flows turned net positive after nearly a week of redemptions. According to Farside Investors’ data, US spot Bitcoin ETFs recorded $240 millio..."
+  },
+  {
+    "title": "Microsoft testing faster Quick Machine Recovery in Windows 11",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/",
+    "date": "2025-11-07T19:46:32.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft is testing a faster version of Quick Machine Recovery (QMR) and updated Smart App Control (SAC), allowing users to toggle it without requiring a Windows clean install. [...]..."
+  },
+  {
+    "title": "Ripple (XRP) Back at Key Level: Could History Repeat to New ATHs?",
+    "link": "https://cryptopotato.com/ripple-xrp-back-at-key-level-could-history-repeat-to-new-aths/",
+    "date": "2025-11-07T19:01:56.000Z",
+    "source": "CryptoPotato",
+    "summary": "XRP trades near $2.17, revisiting a key support zone seen before past rallies. Analysts watch for a breakout or further downside...."
+  },
+  {
     "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own",
     "link": "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/",
     "date": "2025-11-07T18:24:43.000Z",
@@ -28,11 +84,11 @@
     "summary": "Analysts say the rising stablecoin liquidity on Binance is building a solid base for Bitcoin’s next major move...."
   },
   {
-    "title": "JPMorgan Boosts Bitcoin ETF Holdings by 64% in Latest Filing",
+    "title": "JPMorgan Clients Lifted Spot Bitcoin ETF Holdings in Q3",
     "link": "https://www.coindesk.com/markets/2025/11/07/jpmorgan-boosts-bitcoin-etf-holdings-by-64-in-latest-filing",
     "date": "2025-11-07T18:06:16.000Z",
     "source": "Coindesk",
-    "summary": "The bank disclosed a $343 million stake in iShares Bitcoin Trust, signaling continued institutional demand for bitcoin exposure..."
+    "summary": "The bank disclosed ownership of nearly 5.3 million shares of IBIT as of September 30, up 64% from the previous quarter...."
   },
   {
     "title": "Polymarket’s Trading Volume May Be 25% Fake, Columbia Study Finds",
@@ -140,7 +196,7 @@
     "summary": "Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues...."
   },
   {
-    "title": "AI Security Agents Get Personas to Make Them More Appealing",
+    "title": "AI Security Agents Get Persona Makeovers",
     "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing",
     "date": "2025-11-07T14:29:08.000Z",
     "source": "Dark Reading",
@@ -173,6 +229,13 @@
     "date": "2025-11-07T14:00:00.000Z",
     "source": "Dark Reading",
     "summary": "Security researchers discovered multiple vulnerabilities in AI infrastructure products, including one capable of remote code execution...."
+  },
+  {
+    "title": "Stop Chasing DeFi Yields and Start Doing the Math",
+    "link": "https://www.coindesk.com/opinion/2025/11/04/stop-chasing-defi-yields-and-start-doing-the-math",
+    "date": "2025-11-07T14:00:00.000Z",
+    "source": "Coindesk",
+    "summary": "The DeFi industry has trained everyone to optimize for headline APY numbers while burying the costs that determine your returns, argues Blueprint Finance CEO Nic Roberts-Huntley..."
   },
   {
     "title": "DeAgentAI (AIA) Skyrockets by 730% in a Day: What’s Going on?",
@@ -308,7 +371,7 @@
     "summary": "Bitcoin has recently fallen below the crucial $100K support level, indicating a notable bearish move. If buyers couldn’t hold this critical level, another cascade toward the $95K range will occur. Tec..."
   },
   {
-    "title": "Bitcoin Minder IREN Posts Record First-Quarter Earnings, Looks to Growth in AI ",
+    "title": "Bitcoin Miner IREN Posts Record First-Quarter Earnings, Looks to Growth in AI ",
     "link": "https://www.coindesk.com/markets/2025/11/07/iren-shares-rise-in-pre-market-trading-on-earnings-report-ai-growth-outlook",
     "date": "2025-11-07T10:00:23.000Z",
     "source": "Coindesk",
@@ -406,13 +469,6 @@
     "summary": "Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence – in ot..."
   },
   {
-    "title": "Ether Falls to $3,331 as Support Snaps Amid $1.37B Whale Accumulation",
-    "link": "https://www.coindesk.com/markets/2025/11/07/ether-falls-to-usd3-331-as-support-snaps-amid-usd1-37b-whale-accumulation",
-    "date": "2025-11-07T05:42:25.000Z",
-    "source": "Coindesk",
-    "summary": "A sharp 3.3% decline pushed ether below a key support level, but institutional whales bought the dip, signaling long-term confidence despite technical breakdowns...."
-  },
-  {
     "title": "LP-Free Perpetuals Exchange Leverup Available Now, Powered by Monad",
     "link": "https://cryptopotato.com/lp-free-perpetuals-exchange-leverup-available-now-powered-by-monad/",
     "date": "2025-11-07T05:42:01.000Z",
@@ -432,13 +488,6 @@
     "date": "2025-11-07T05:41:27.000Z",
     "source": "CryptoPotato",
     "summary": "[PRESS RELEASE – Kuala Lumpur, Malaysia, November 6th, 2025] Sonami ($SNMI) today announced the continuation of its presale and the expansion of its ecosystem through the launch of the first Solana La..."
-  },
-  {
-    "title": "Dogecoin ETF Could Go Live in U.S. Soon, but DOGE Technicals Draw Bearish Picture for Now",
-    "link": "https://www.coindesk.com/markets/2025/11/07/dogecoin-etf-could-go-live-in-u-s-soon-but-doge-technicals-draw-bearish-picture-for-now",
-    "date": "2025-11-07T04:45:23.000Z",
-    "source": "Coindesk",
-    "summary": "Technical indicators suggest bearish control, with traders watching key support levels and potential ETF-driven volatility...."
   },
   {
     "title": "Tether Partners KraneShares and Bitfinex Securities to Advance Tokenized Securities",
@@ -560,13 +609,6 @@
     "summary": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.\nThe campaign, detected in May 2..."
   },
   {
-    "title": "How Zohran Mamdani’s victory impacts New York’s crypto future",
-    "link": "https://cryptoslate.com/zohran-mamdanis-victory-tests-nycs-crypto-identity/",
-    "date": "2025-11-06T15:03:33.000Z",
-    "source": "CryptoSlate",
-    "summary": "Zohran Mamdani’s win has put New York’s crypto sector on edge, raising questions about how a mayor critical of both Wall Street and digital-asset wealth will steer the city. On Nov. 4, the 34-year-old..."
-  },
-  {
     "title": "Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense",
     "link": "https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/",
     "date": "2025-11-06T15:02:12.000Z",
@@ -658,32 +700,11 @@
     "summary": "The following is an in-depth review of the popular altcoin-focused cryptocurrency exchange MEXC...."
   },
   {
-    "title": "Sandworm hackers use data wipers to disrupt Ukraine's grain sector",
-    "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/",
-    "date": "2025-11-06T10:01:28.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Russian state-backed hacker group Sandworm has deployed multiple data-wiping malware families in attacks targeting Ukraine's education, government, and the grain sector, the country's main revenue sou..."
-  },
-  {
     "title": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft",
     "link": "https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft",
     "date": "2025-11-06T10:00:00.000Z",
     "source": "Dark Reading",
     "summary": "Attackers can use them to inject arbitrary prompts, exfiltrate personal user information, bypass safety mechanisms, and take other malicious actions...."
-  },
-  {
-    "title": "Fresh Ripple Addresses Jump to 8-Month-High as $6 XRP Target Emerges",
-    "link": "https://cryptopotato.com/fresh-ripple-addresses-jump-to-8-month-high-as-6-xrp-target-emerges/",
-    "date": "2025-11-06T08:45:51.000Z",
-    "source": "CryptoPotato",
-    "summary": "XRP rises to $2.33 after a 12% rebound as 21,595 new wallets are created, marking the highest growth on the XRP Ledger in months...."
-  },
-  {
-    "title": "ZEC Explodes Again by Double Digits, BTC Price Recovers Above $103K: Market Watch",
-    "link": "https://cryptopotato.com/zec-explodes-again-by-double-digits-btc-price-recovers-above-103k-market-watch/",
-    "date": "2025-11-06T08:09:00.000Z",
-    "source": "CryptoPotato",
-    "summary": "ICP is the other massive gainer over the past day...."
   },
   {
     "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
@@ -817,26 +838,5 @@
     "date": "2025-11-04T21:32:44.000Z",
     "source": "Dark Reading",
     "summary": "A threat actor known as \"Curly COMrades\" is using Linux VMs to remain undetected in Windows environments while conducting Russia-aligned activities...."
-  },
-  {
-    "title": "What Makes Ransomware Groups Successful?",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-the-playbook-of-ransomware-s-most-profitable-players",
-    "date": "2025-11-04T21:31:42.000Z",
-    "source": "Dark Reading",
-    "summary": "Successful ransomware groups have three key elements in common. Spoiler alert: Indicators of success don't all revolve around artificial intelligence...."
-  },
-  {
-    "title": "Europe Sees Increase in Ransomware, Extortion Attacks",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/europe-increase-ransomware-extortion",
-    "date": "2025-11-04T21:15:42.000Z",
-    "source": "Dark Reading",
-    "summary": "European organizations face an escalating cyber threat landscape as attackers leverage geopolitical tensions and AI-enhanced social engineering for attacks...."
-  },
-  {
-    "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
-    "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
-    "date": "2025-11-04T17:25:00.000Z",
-    "source": "The Hacker News",
-    "summary": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025.\n\"Since its debu..."
   }
 ]

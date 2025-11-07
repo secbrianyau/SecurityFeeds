@@ -9,12 +9,100 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Nov 2025 18:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 21:18:34 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Nov 2025 18:30:10 GMT</pubDate>
+        <pubDate>Fri, 07 Nov 2025 21:18:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News</comment>
+        <item>
+            <title><![CDATA[Malicious NuGet packages drop disruptive 'time bombs']]></title>
+            <description><![CDATA[Several malicious packages on NuGet have sabotage payloads scheduled to activate in 2027 and 2028, targeting database implementations and Siemens S7 industrial control devices. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 20:53:48 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['Ransomvibing' Infests Visual Studio Extension Market]]></title>
+            <description><![CDATA[A published VS Code extension didn't hide the fact that it encrypts and exfiltrates data and also failed to remove obvious signs it was AI-generated....]]></description>
+            <link>https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 20:36:15 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Markets Manage Modest Move Higher Friday, Trimming Weekly Losses]]></title>
+            <description><![CDATA[Fully satiated shorts were likely booking some profits, but there was a bit of bullish news on the tape as well....]]></description>
+            <link>https://www.coindesk.com/markets/2025/11/07/crypto-markets-manage-modest-move-higher-friday-trimming-weekly-losses</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/07/crypto-markets-manage-modest-move-higher-friday-trimming-weekly-losses</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 20:18:46 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Samourai Wallet Co-Founder’s Sentence Sparks Debate on Crypto Privacy]]></title>
+            <description><![CDATA[Judge says Keonne Rodriguez “used his talents to enable fraud,” highlighting tension between privacy and law....]]></description>
+            <link>https://cryptopotato.com/samourai-wallet-co-founders-sentence-sparks-debate-on-crypto-privacy/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/samourai-wallet-co-founders-sentence-sparks-debate-on-crypto-privacy/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 20:10:18 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Backs Massive AI Push in UAE, Raising Security Concerns]]></title>
+            <description><![CDATA[In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 20:08:51 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin ETFs break 6-day outflow streak with $240M buy: What it means for liquidity]]></title>
+            <description><![CDATA[US-traded spot Bitcoin (BTC) exchange-traded funds’ (ETFs) flows turned net positive after nearly a week of redemptions. According to Farside Investors’ data, US spot Bitcoin ETFs recorded $240 millio...]]></description>
+            <link>https://cryptoslate.com/bitcoin-etfs-break-6-day-outflow-streak-with-240m-buy-what-it-means-for-liquidity/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-etfs-break-6-day-outflow-streak-with-240m-buy-what-it-means-for-liquidity/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 20:00:37 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft testing faster Quick Machine Recovery in Windows 11]]></title>
+            <description><![CDATA[Microsoft is testing a faster version of Quick Machine Recovery (QMR) and updated Smart App Control (SAC), allowing users to toggle it without requiring a Windows clean install. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 19:46:32 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple (XRP) Back at Key Level: Could History Repeat to New ATHs?]]></title>
+            <description><![CDATA[XRP trades near $2.17, revisiting a key support zone seen before past rallies. Analysts watch for a breakout or further downside....]]></description>
+            <link>https://cryptopotato.com/ripple-xrp-back-at-key-level-could-history-repeat-to-new-aths/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripple-xrp-back-at-key-level-could-history-repeat-to-new-aths/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 19:01:56 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
         <item>
             <title><![CDATA[QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own]]></title>
             <description><![CDATA[QNAP has fixed seven zero-day vulnerabilities that security researchers exploited to hack QNAP network-attached storage (NAS) devices during the Pwn2Own Ireland 2025 competition. [...]...]]></description>
@@ -60,8 +148,8 @@
             <dc:date>2025-11-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[JPMorgan Boosts Bitcoin ETF Holdings by 64% in Latest Filing]]></title>
-            <description><![CDATA[The bank disclosed a $343 million stake in iShares Bitcoin Trust, signaling continued institutional demand for bitcoin exposure...]]></description>
+            <title><![CDATA[JPMorgan Clients Lifted Spot Bitcoin ETF Holdings in Q3]]></title>
+            <description><![CDATA[The bank disclosed ownership of nearly 5.3 million shares of IBIT as of September 30, up 64% from the previous quarter....]]></description>
             <link>https://www.coindesk.com/markets/2025/11/07/jpmorgan-boosts-bitcoin-etf-holdings-by-64-in-latest-filing</link>
             <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/07/jpmorgan-boosts-bitcoin-etf-holdings-by-64-in-latest-filing</guid>
             <category><![CDATA[Coindesk]]></category>
@@ -237,7 +325,7 @@ The ac...]]></description>
             <dc:date>2025-11-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[AI Security Agents Get Personas to Make Them More Appealing]]></title>
+            <title><![CDATA[AI Security Agents Get Persona Makeovers]]></title>
             <description><![CDATA[New synthetic security staffers promise to bring artificial intelligence comfortably into the security operations center, but they will require governance to protect security....]]></description>
             <link>https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing</link>
             <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing</guid>
@@ -289,6 +377,17 @@ The ac...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 07 Nov 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-11-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Stop Chasing DeFi Yields and Start Doing the Math]]></title>
+            <description><![CDATA[The DeFi industry has trained everyone to optimize for headline APY numbers while burying the costs that determine your returns, argues Blueprint Finance CEO Nic Roberts-Huntley...]]></description>
+            <link>https://www.coindesk.com/opinion/2025/11/04/stop-chasing-defi-yields-and-start-doing-the-math</link>
+            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/11/04/stop-chasing-defi-yields-and-start-doing-the-math</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 07 Nov 2025 14:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
             <dc:date>2025-11-07</dc:date>
         </item>
         <item>
@@ -501,7 +600,7 @@ The ac...]]></description>
             <dc:date>2025-11-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Minder IREN Posts Record First-Quarter Earnings, Looks to Growth in AI ]]></title>
+            <title><![CDATA[Bitcoin Miner IREN Posts Record First-Quarter Earnings, Looks to Growth in AI ]]></title>
             <description><![CDATA[The company is targeting $3.4 billion in AI Cloud ARR by end of 2026 with expansion to 140,000 GPUs and strengthened financing position....]]></description>
             <link>https://www.coindesk.com/markets/2025/11/07/iren-shares-rise-in-pre-market-trading-on-earnings-report-ai-growth-outlook</link>
             <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/07/iren-shares-rise-in-pre-market-trading-on-earnings-report-ai-growth-outlook</guid>
@@ -655,17 +754,6 @@ The ac...]]></description>
             <dc:date>2025-11-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ether Falls to $3,331 as Support Snaps Amid $1.37B Whale Accumulation]]></title>
-            <description><![CDATA[A sharp 3.3% decline pushed ether below a key support level, but institutional whales bought the dip, signaling long-term confidence despite technical breakdowns....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/07/ether-falls-to-usd3-331-as-support-snaps-amid-usd1-37b-whale-accumulation</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/07/ether-falls-to-usd3-331-as-support-snaps-amid-usd1-37b-whale-accumulation</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 07 Nov 2025 05:42:25 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-07</dc:date>
-        </item>
-        <item>
             <title><![CDATA[LP-Free Perpetuals Exchange Leverup Available Now, Powered by Monad]]></title>
             <description><![CDATA[[PRESS RELEASE – New York, United States, November 6th, 2025] LeverUp Offers Traders a Flexible and Full-Scale DeFi Platform LeverUp, a brand-new Liquidity Provider (LP)-free perpetual exchange, has o...]]></description>
             <link>https://cryptopotato.com/lp-free-perpetuals-exchange-leverup-available-now-powered-by-monad/</link>
@@ -696,17 +784,6 @@ The ac...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Fri, 07 Nov 2025 05:41:27 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-07</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Dogecoin ETF Could Go Live in U.S. Soon, but DOGE Technicals Draw Bearish Picture for Now]]></title>
-            <description><![CDATA[Technical indicators suggest bearish control, with traders watching key support levels and potential ETF-driven volatility....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/07/dogecoin-etf-could-go-live-in-u-s-soon-but-doge-technicals-draw-bearish-picture-for-now</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/07/dogecoin-etf-could-go-live-in-u-s-soon-but-doge-technicals-draw-bearish-picture-for-now</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 07 Nov 2025 04:45:23 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-11-07</dc:date>
         </item>
         <item>
@@ -898,17 +975,6 @@ The campaign, detected in May 2...]]></description>
             <dc:date>2025-11-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[How Zohran Mamdani’s victory impacts New York’s crypto future]]></title>
-            <description><![CDATA[Zohran Mamdani’s win has put New York’s crypto sector on edge, raising questions about how a mayor critical of both Wall Street and digital-asset wealth will steer the city. On Nov. 4, the 34-year-old...]]></description>
-            <link>https://cryptoslate.com/zohran-mamdanis-victory-tests-nycs-crypto-identity/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/zohran-mamdanis-victory-tests-nycs-crypto-identity/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 06 Nov 2025 15:03:33 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-11-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense]]></title>
             <description><![CDATA[Red and blue teams often operate independently, but attackers don't. Picus Security shows how continuous purple teaming and BAS turn red-blue rivalry into real defense, validating controls and closing...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/</link>
@@ -1054,17 +1120,6 @@ Crisis mana...]]></description>
             <dc:date>2025-11-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[Sandworm hackers use data wipers to disrupt Ukraine's grain sector]]></title>
-            <description><![CDATA[Russian state-backed hacker group Sandworm has deployed multiple data-wiping malware families in attacks targeting Ukraine's education, government, and the grain sector, the country's main revenue sou...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 06 Nov 2025 10:01:28 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-11-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Multiple ChatGPT Security Bugs Allow Rampant Data Theft]]></title>
             <description><![CDATA[Attackers can use them to inject arbitrary prompts, exfiltrate personal user information, bypass safety mechanisms, and take other malicious actions....]]></description>
             <link>https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft</link>
@@ -1073,28 +1128,6 @@ Crisis mana...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 06 Nov 2025 10:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-11-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Fresh Ripple Addresses Jump to 8-Month-High as $6 XRP Target Emerges]]></title>
-            <description><![CDATA[XRP rises to $2.33 after a 12% rebound as 21,595 new wallets are created, marking the highest growth on the XRP Ledger in months....]]></description>
-            <link>https://cryptopotato.com/fresh-ripple-addresses-jump-to-8-month-high-as-6-xrp-target-emerges/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/fresh-ripple-addresses-jump-to-8-month-high-as-6-xrp-target-emerges/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 06 Nov 2025 08:45:51 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ZEC Explodes Again by Double Digits, BTC Price Recovers Above $103K: Market Watch]]></title>
-            <description><![CDATA[ICP is the other massive gainer over the past day....]]></description>
-            <link>https://cryptopotato.com/zec-explodes-again-by-double-digits-btc-price-recovers-above-103k-market-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/zec-explodes-again-by-double-digits-btc-price-recovers-above-103k-market-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 06 Nov 2025 08:09:00 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-11-06</dc:date>
         </item>
         <item>
@@ -1307,40 +1340,6 @@ Android phones, such as the Samsung Galaxy, unlock new ways of working. But, as 
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 04 Nov 2025 21:32:44 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-11-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[What Makes Ransomware Groups Successful?]]></title>
-            <description><![CDATA[Successful ransomware groups have three key elements in common. Spoiler alert: Indicators of success don't all revolve around artificial intelligence....]]></description>
-            <link>https://www.darkreading.com/cyberattacks-data-breaches/inside-the-playbook-of-ransomware-s-most-profitable-players</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/inside-the-playbook-of-ransomware-s-most-profitable-players</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 04 Nov 2025 21:31:42 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-11-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Europe Sees Increase in Ransomware, Extortion Attacks]]></title>
-            <description><![CDATA[European organizations face an escalating cyber threat landscape as attackers leverage geopolitical tensions and AI-enhanced social engineering for attacks....]]></description>
-            <link>https://www.darkreading.com/cyberattacks-data-breaches/europe-increase-ransomware-extortion</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/europe-increase-ransomware-extortion</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 04 Nov 2025 21:15:42 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-11-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces]]></title>
-            <description><![CDATA[The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025.
-"Since its debu...]]></description>
-            <link>https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 04 Nov 2025 17:25:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-11-04</dc:date>
         </item>
     </channel>
