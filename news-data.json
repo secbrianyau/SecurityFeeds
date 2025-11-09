@@ -1,10 +1,73 @@
 [
   {
+    "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+    "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+    "date": "2025-11-09T18:14:40.000Z",
+    "source": "Krebs On Security",
+    "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among..."
+  },
+  {
+    "title": "Bitcoin treasury bear market ‘gradually’ ending as renowned short seller closes MSTR/BTC position",
+    "link": "https://cryptoslate.com/bitcoin-treasury-bear-market-gradually-ending-as-renowned-short-seller-closes-mstr-btc-position/",
+    "date": "2025-11-09T18:00:45.000Z",
+    "source": "CryptoSlate",
+    "summary": "Renowned short seller James Chanos has officially closed his $MSTR/Bitcoin hedged trade after 11 months, marking an end to his high-profile bet against Bitcoin-linked equities and Strategy stock.​ The..."
+  },
+  {
+    "title": "Robert Kiyosaki Sets Huge BTC, ETH Price Targets After Warning of an Impending Crash",
+    "link": "https://cryptopotato.com/robert-kiyosaki-sets-huge-btc-eth-price-targets-after-warning-of-an-impending-crash/",
+    "date": "2025-11-09T17:22:47.000Z",
+    "source": "CryptoPotato",
+    "summary": "Here's what Kiyosaki is buying and selling as he prepares for a big market crash...."
+  },
+  {
+    "title": "Why BlackRock remains bullish on Bitcoin despite recent price slowdown",
+    "link": "https://cryptoslate.com/why-blackrock-remains-bullish-on-bitcoin-despite-recent-price-slowdown/",
+    "date": "2025-11-09T16:00:44.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitcoin’s recent struggle to hold the $100,000 level has revived familiar doubts about whether institutional demand is durable. However, in a new filing with the US Securities and Exchange Commission,..."
+  },
+  {
+    "title": "Bitcoin Price Analysis: What BTC Must Do to Regain Bullish Momentum",
+    "link": "https://cryptopotato.com/bitcoin-price-analysis-what-btc-must-do-to-regain-bullish-momentum/",
+    "date": "2025-11-09T15:55:50.000Z",
+    "source": "CryptoPotato",
+    "summary": "Bitcoin continues to consolidate just above the $100K mark after experiencing a sharp rejection from the $116K resistance. While volatility has cooled down, the structure is showing signs of potential..."
+  },
+  {
+    "title": "Bitcoin Price Spikes as Trump Announces $2,000 in Dividends to Some Americans",
+    "link": "https://cryptopotato.com/bitcoin-price-spikes-as-trump-announces-2000-in-dividends-to-some-americans/",
+    "date": "2025-11-09T15:37:33.000Z",
+    "source": "CryptoPotato",
+    "summary": "BTC rose to almost $104,000 minutes ago...."
+  },
+  {
+    "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features",
+    "link": "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/",
+    "date": "2025-11-09T15:30:40.000Z",
+    "source": "Bleeping Computer",
+    "summary": "NAKIVO Backup & Replication v11.1 expands disaster recovery with real-time replication, enhanced Proxmox VE support, and granular physical backups. The update adds MSP Direct Connect for secure client..."
+  },
+  {
     "title": "Bitcoin's $100K Question: Here's Why BTC, XRP, SOL May Surge This Week",
     "link": "https://www.coindesk.com/markets/2025/11/09/bitcoin-s-usd100k-question-here-s-why-btc-may-surge-this-week",
     "date": "2025-11-09T15:14:20.000Z",
     "source": "Coindesk",
     "summary": "Bitcoin has rebounded above $103,000, lifting altcoins...."
+  },
+  {
+    "title": "Lost iPhone? Don’t fall for phishing texts saying it was found",
+    "link": "https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/",
+    "date": "2025-11-09T15:12:22.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The Swiss National Cyber Security Centre (NCSC) is warning iPhone owners about a phishing scam that claims to have found your lost or stolen iPhone but is actually trying to steal your Apple ID creden..."
+  },
+  {
+    "title": "Dangerous runC flaws could allow hackers to escape Docker containers",
+    "link": "https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/",
+    "date": "2025-11-09T15:11:12.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Three newly disclosed vulnerabilities in the runC container runtime used in Docker and Kubernetes could be exploited to bypass isolation restrictions and get access to the host system. [...]..."
   },
   {
     "title": "Crypto Prices Rise as Trump Announces ‘At Least’ $2K Tariff Dividend Per American",
@@ -175,13 +238,6 @@
     "summary": "The GlassWorm malware campaign, which impacted the OpenVSX and Visual Studio Code marketplaces last month, has returned with three new VSCode extensions that have already been downloaded over 10,000 t..."
   },
   {
-    "title": "Convicted Russian crypto scammer and his wife found murdered in the UAE",
-    "link": "https://cryptoslate.com/convicted-russian-crypto-scammer-and-his-wife-found-murdered-in-the-uae/",
-    "date": "2025-11-08T16:00:18.000Z",
-    "source": "CryptoSlate",
-    "summary": "Russian entrepreneur Roman Novak, a convicted crypto fraudster, and his wife Anna were abducted and found murdered in the United Arab Emirates, after a plot linked to ransom demands and digital assets..."
-  },
-  {
     "title": "Still on Windows 10? Enroll in free ESU before next week’s Patch Tuesday",
     "link": "https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/",
     "date": "2025-11-08T15:09:19.000Z",
@@ -208,13 +264,6 @@
     "date": "2025-11-08T14:29:00.000Z",
     "source": "The Hacker News",
     "summary": "Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean details abou..."
-  },
-  {
-    "title": "Zcash soars 1,486% in 3 months and reaches highest price since 2018",
-    "link": "https://cryptoslate.com/zcash-soars-1486-in-3-months-and-reaches-highest-price-since-2018/",
-    "date": "2025-11-08T14:00:25.000Z",
-    "source": "CryptoSlate",
-    "summary": "Zcash (ZEC) trades at $676.64 as of press time, marking its highest valuation since January 2018. The privacy-focused cryptocurrency posted a 26% gain in the past 24 hours and a 1,486% surge over the ..."
   },
   {
     "title": "Long DATs, Short Futures: A New Wrinkle On The Basis Trade",
@@ -616,13 +665,6 @@
     "summary": "Bitcoin has recently fallen below the crucial $100K support level, indicating a notable bearish move. If buyers couldn’t hold this critical level, another cascade toward the $95K range will occur. Tec..."
   },
   {
-    "title": "Why Is Ripple’s (XRP) Price Down Today (November 7)?",
-    "link": "https://cryptopotato.com/why-is-ripples-xrp-price-down-today-october-7/",
-    "date": "2025-11-07T09:29:17.000Z",
-    "source": "CryptoPotato",
-    "summary": "Most of the crypto market is in the red, but XRP's daily losses are worse than the rest of the larger caps...."
-  },
-  {
     "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
     "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
     "date": "2025-11-07T09:15:00.000Z",
@@ -630,39 +672,11 @@
     "summary": "Google on Thursday said it's rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform ..."
   },
   {
-    "title": "10,000 BTC Bought by Whales Overnight: What Does it Mean for Bitcoin’s Price?",
-    "link": "https://cryptopotato.com/10000-btc-bought-by-whales-overnight-what-does-it-mean-for-bitcoins-price/",
-    "date": "2025-11-07T08:53:58.000Z",
-    "source": "CryptoPotato",
-    "summary": "Bitcoin whales added 10,000 BTC in 24 hours as price nears key support. On-chain and technical data show both warning signs and rebound signals...."
-  },
-  {
-    "title": "Balancer’s $120M Meltdown: How A Series of Small Swaps Almost Broke a Top AMM",
-    "link": "https://cryptopotato.com/balancers-120m-meltdown-how-a-series-of-small-swaps-almost-broke-a-top-amm/",
-    "date": "2025-11-07T07:10:54.000Z",
-    "source": "CryptoPotato",
-    "summary": "Balancer has offered a 20% bounty to white hats and the hacker if they return the stolen crypto. But as of now, the bounty remains unclaimed...."
-  },
-  {
     "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities",
     "link": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
     "date": "2025-11-07T06:48:00.000Z",
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence – in ot..."
-  },
-  {
-    "title": "U.S. Congressional Budget Office hit by suspected foreign cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/",
-    "date": "2025-11-07T00:22:30.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The U.S. Congressional Budget Office (CBO) confirms it suffered a cybersecurity incident after a suspected foreign hacker breached its network, potentially exposing sensitive data. [...]..."
-  },
-  {
-    "title": "AI-Slop ransomware test sneaks on to VS Code marketplace",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/",
-    "date": "2025-11-06T21:52:47.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A malicious extension with basic ransomware capabilities seemingly created with the help of AI, has been published on Microsoft's official VS Code marketplace. [...]..."
   },
   {
     "title": "Sora 2 Makes Videos So Believable, Reality Checks Are Required",
@@ -824,19 +838,5 @@
     "date": "2025-11-05T06:12:00.000Z",
     "source": "The Hacker News",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog..."
-  },
-  {
-    "title": "Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users",
-    "date": "2025-11-05T02:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "The well-known North Korean threat group continues to improve the obfuscation and anti-analysis features of its attack toolchain...."
-  },
-  {
-    "title": "AI App Spending Report: Where Are the Security Tools?",
-    "link": "https://www.darkreading.com/cybersecurity-operations/ai-app-spending-report-where-are-the-security-tools",
-    "date": "2025-11-04T21:59:44.000Z",
-    "source": "Dark Reading",
-    "summary": "An analysis of startup firms' spending on AI applications finds the top categories to be productivity and content-generation. Security? Not so much...."
   }
 ]
