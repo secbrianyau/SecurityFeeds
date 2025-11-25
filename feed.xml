@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 12:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 15:25:03 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 12:43:17 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 15:25:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,19 +22,239 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 25 Nov 2025 12:38:59 GMT</pubDate>
+            <pubDate>Tue, 25 Nov 2025 15:20:22 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-11-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Explore Our Online Events]]></title>
-            <description><![CDATA[No summary available]]></description>
-            <link>https://www.darkreading.com/events/dark-reading-online-events</link>
-            <guid isPermaLink="false">https://www.darkreading.com/events/dark-reading-online-events</guid>
+            <title><![CDATA[Polkadot Slides 4% as Technical Resistance Triggers Selloff]]></title>
+            <description><![CDATA[The altcoin carved out a $0.21 trading range, marking 9% intraday volatility as bearish forces gained control....]]></description>
+            <link>https://www.coindesk.com/markets/2025/11/25/polkadot-slides-4-as-technical-resistance-triggers-selloff</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/25/polkadot-slides-4-as-technical-resistance-triggers-selloff</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 15:08:06 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Upbit Considering Appeal of $25M Fine by South Korea Regulator]]></title>
+            <description><![CDATA[The country's largest crypto exchange said the Financial Intelligence Unit has been wrong in the past and had actions overturned in court....]]></description>
+            <link>https://www.coindesk.com/policy/2025/11/25/upbit-considering-appeal-of-usd25m-fine-by-south-korea-regulator</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/11/25/upbit-considering-appeal-of-usd25m-fine-by-south-korea-regulator</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:51:38 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft is speeding up the Teams desktop client for Windows]]></title>
+            <description><![CDATA[Microsoft says it will add a new Teams call handler beginning in January 2026 to reduce launch times and boost call performance for the Windows desktop client. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:24:54 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Pump.fun Co-Founder Denies Cashing Out ICO Funds, Calls Allegations ‘Misinformation’]]></title>
+            <description><![CDATA[Lookonchain flagged the movement of $436.5 million USDC through Kraken, but Pump.fun's co-founder said it's a simple treasury reshuffling from the PUMP ICO....]]></description>
+            <link>https://cryptopotato.com/pump-fun-co-founder-denies-cashing-out-ico-funds-calls-allegations-misinformation/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/pump-fun-co-founder-denies-cashing-out-ico-funds-calls-allegations-misinformation/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:19:10 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers]]></title>
+            <description><![CDATA[Cybersecurity researchers are calling attention to a new campaign that's leveraging a combination of ClickFix lures and fake adult websites to deceive users into running malicious commands under the g...]]></description>
+            <link>https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:18:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SGX’s Bitcoin and Ethereum Perpetual Futures Debut Strong with $35 Million Volume]]></title>
+            <description><![CDATA[Trading volumes reached nearly 2,000 lots traded on day one, representing about $35 million in notional value....]]></description>
+            <link>https://www.coindesk.com/markets/2025/11/25/sgx-s-bitcoin-and-ethereum-perpetual-futures-debut-strong-with-usd35-million-volume</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/25/sgx-s-bitcoin-and-ethereum-perpetual-futures-debut-strong-with-usd35-million-volume</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:12:55 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Swedish Buy Now, Pay Later Giant Klarna Rolling Out Stablecoin with Stripe's Bridge]]></title>
+            <description><![CDATA[Digital bank Klarna's stablecoin, issued by Stripe’s Bridge on top of the upcoming Tempo blockchain, is set to debut next year....]]></description>
+            <link>https://www.coindesk.com/business/2025/11/25/swedish-buy-now-pay-later-giant-klarna-rolling-out-stablecoin-with-stripe-s-bridge</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/11/25/swedish-buy-now-pay-later-giant-klarna-rolling-out-stablecoin-with-stripe-s-bridge</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:12:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Can Cardano (ADA) Finish the Year Above $1? 4 AIs Give Controversial Price Predictions]]></title>
+            <description><![CDATA[ADA's chances of touching $1 at least once before New Year's Eve are over 60%, ChatGPT estimated....]]></description>
+            <link>https://cryptopotato.com/can-cardano-ada-finish-the-year-above-1-4-ais-give-controversial-price-predictions/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/can-cardano-ada-finish-the-year-above-1-4-ais-give-controversial-price-predictions/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:11:23 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CoinDesk 20 Performance Update: Index Drops 2% as All Constituents Trade Lower]]></title>
+            <description><![CDATA[Bitcoin Cash (BCH) fell 6.3% and Polkadot (DOT) dropped 5.8%, leading the index lower from Monday....]]></description>
+            <link>https://www.coindesk.com/coindesk-indices/2025/11/25/coindesk-20-performance-update-index-drops-2-as-all-constituents-trade-lower</link>
+            <guid isPermaLink="false">https://www.coindesk.com/coindesk-indices/2025/11/25/coindesk-20-performance-update-index-drops-2-as-all-constituents-trade-lower</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:09:03 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Year-end approaches: How to maximize your cyber spend]]></title>
+            <description><![CDATA[Year-end budgeting is the perfect time to close real security gaps by strengthening identity controls, reducing redundant tools, and investing in outcome-driven engagements. The article highlights how...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/year-end-approaches-how-to-maximize-your-cyber-spend/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/year-end-approaches-how-to-maximize-your-cyber-spend/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:03:20 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[No, 800k BTC didn’t hit the market: Why exchange internal transfers fooled traders]]></title>
+            <description><![CDATA[Over the weekend, Coinbase shuffled nearly 800,000 BTC, roughly $69.5 billion at prevailing prices, between its own wallets, describing it as a scheduled internal migration. On-chain alert bots regist...]]></description>
+            <link>https://cryptoslate.com/no-800k-btc-didnt-hit-the-market-how-exchange-utxo-housekeeping-fooled-traders/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/no-800k-btc-didnt-hit-the-market-how-exchange-utxo-housekeeping-fooled-traders/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:00:27 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The Coming Bitcoin Treasury Bubble]]></title>
+            <description><![CDATA[Today’s uncertain macroeconomic climate has created an environment where corporate leaders are desperate to look innovative – Bitcoin treasuries give them a way to do that, without fixing their broken...]]></description>
+            <link>https://www.coindesk.com/opinion/2025/11/21/the-coming-bitcoin-treasury-bubble</link>
+            <guid isPermaLink="false">https://www.coindesk.com/opinion/2025/11/21/the-coming-bitcoin-treasury-bubble</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 14:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Exodus’ W3C Deal Adds Stability as Firm Builds Full Payments Stack: Benchmark ]]></title>
+            <description><![CDATA[The acquisition pushes the crypto-wallet maker toward a more fintech-style business model....]]></description>
+            <link>https://www.coindesk.com/markets/2025/11/25/exodus-w3c-deal-adds-stability-as-firm-builds-full-payments-stack-benchmark</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/25/exodus-w3c-deal-adds-stability-as-firm-builds-full-payments-stack-benchmark</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 13:50:24 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Taurus Expands Institutional Footprint With Super Validator Role on Canton Network]]></title>
+            <description><![CDATA[The digital-asset infrastructure provider will help secure and govern the Canton Network while expanding custody services for institutions....]]></description>
+            <link>https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 13:45:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BitMEX Launches the ‘BitMEX Legends’ Campaign With a 5 BTC Prize Pool to Celebrate 11-Year Anniversary]]></title>
+            <description><![CDATA[[PRESS RELEASE – Mahe, Seychelles, November 25th, 2025] BitMEX, one of the safest crypto exchanges, recently announced the launch of the ‘BitMEX Legends,’ a global campaign featuring a 5 BTC and 100,0...]]></description>
+            <link>https://cryptopotato.com/bitmex-launches-the-bitmex-legends-campaign-with-a-5-btc-prize-pool-to-celebrate-11-year-anniversary/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitmex-launches-the-bitmex-legends-campaign-with-a-5-btc-prize-pool-to-celebrate-11-year-anniversary/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 13:44:55 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple Price Analysis: Has XRP Turned Bullish After Surge to Crucial Zone?]]></title>
+            <description><![CDATA[Ripple’s XRP has printed its first meaningful relief bounce after a prolonged selloff, reclaiming the $2.10–$2.20 zone. Despite the short-term strength, the broader structure remains intact on the dow...]]></description>
+            <link>https://cryptopotato.com/ripple-price-analysis-has-xrp-turned-bullish-after-surge-to-crucial-zone/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripple-price-analysis-has-xrp-turned-bullish-after-surge-to-crucial-zone/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 13:44:06 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[UK privacy regulator has seen ‘collapse in enforcement activity,’ rights coalition says]]></title>
+            <description><![CDATA[Suzanne Smalley reports: More than 70 civil liberties advocacy groups, academics and legal experts are calling for an investigation into a “collapse in enforcement activity” by the United Kingdom’s pr...]]></description>
+            <link>https://databreaches.net/2025/11/25/uk-privacy-regulator-has-seen-collapse-in-enforcement-activity-rights-coalition-says/?pk_campaign=feed&amp;pk_kwd=uk-privacy-regulator-has-seen-collapse-in-enforcement-activity-rights-coalition-says</link>
+            <guid isPermaLink="false">https://databreaches.net/2025/11/25/uk-privacy-regulator-has-seen-collapse-in-enforcement-activity-rights-coalition-says/?pk_campaign=feed&amp;pk_kwd=uk-privacy-regulator-has-seen-collapse-in-enforcement-activity-rights-coalition-says</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 13:26:49 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Aptos' APT Underperforms Wider Crypto Markets]]></title>
+            <description><![CDATA[Price consolidation continues near key support as volume activity remains elevated above weekly averages....]]></description>
+            <link>https://www.coindesk.com/markets/2025/11/25/aptos-apt-underperforms-wider-crypto-markets</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/25/aptos-apt-underperforms-wider-crypto-markets</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 13:22:13 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[VanEck quietly backpedals on BNB ETF staking in latest SEC filing]]></title>
+            <description><![CDATA[VanEck’s amended BNB ETF filing scraps all staking plans, unlike its Solana product, explicitly distancing itself from BNB staking amid regulatory risk....]]></description>
+            <link>https://cointelegraph.com/news/vaneck-backpedals-on-bnb-staking-in-latest-etf-filing?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/vaneck-backpedals-on-bnb-staking-in-latest-etf-filing?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 13:16:44 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['JackFix' Attack Circumvents ClickFix Mitigations]]></title>
+            <description><![CDATA[A new ClickFix variant ratchets up the psychological pressure to 100 and addresses some technical mitigations to classic ClickFix attacks....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/jackfix-attack-clickfix-mitigations</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/jackfix-attack-clickfix-mitigations</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 25 Nov 2025 12:38:59 GMT</pubDate>
+            <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple (XRP) Open Interest Crashes to 1-Year Low: Here’s What It Means]]></title>
+            <description><![CDATA[XRP traders have pulled back aggressively, driving Open Interest to one-year lows....]]></description>
+            <link>https://cryptopotato.com/ripple-xrp-open-interest-crashes-to-1-year-low-heres-what-it-means/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripple-xrp-open-interest-crashes-to-1-year-low-heres-what-it-means/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 25 Nov 2025 12:41:33 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-11-25</dc:date>
         </item>
         <item>
@@ -82,10 +302,10 @@
             <dc:date>2025-11-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Code-formatters expose thousands of secrets from banks, govt, tech orgs]]></title>
+            <title><![CDATA[Code beautifiers expose credentials from banks, govt, tech orgs]]></title>
             <description><![CDATA[Thousands of credentials, authentication keys, and configuration data impacting organizations in sensitive sectors have been sitting in publicly accessible JSON snippets submitted to the JSONFormatter...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/code-formatters-expose-thousands-of-secrets-from-banks-govt-tech-orgs/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/code-formatters-expose-thousands-of-secrets-from-banks-govt-tech-orgs/</guid>
+            <link>https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/</guid>
             <category><![CDATA[Bleeping Computer]]></category>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Tue, 25 Nov 2025 12:01:20 GMT</pubDate>
@@ -534,17 +754,6 @@
             <dc:date>2025-11-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[TON Rallies 8% as Telegram Ecosystem Expands With AI Launch, Tokenized Stocks]]></title>
-            <description><![CDATA[Recent developments include the launch of Confidential Compute Open Network (COCOON) and the integration of tokenized US stocks and digital collectibles....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/ton-rallies-8-as-telegram-ecosystem-expands-with-ai-launch-tokenized-stocks</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/ton-rallies-8-as-telegram-ecosystem-expands-with-ai-launch-tokenized-stocks</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 19:57:16 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Triple-Digit Move Incoming? XLM Hits Key $0.23 Support Again]]></title>
             <description><![CDATA[Stellar (XLM) retests key $0.23 level after past 33–133% rallies. Falling wedge forms again as traders eye a potential breakout....]]></description>
             <link>https://cryptopotato.com/triple-digit-move-incoming-xlm-hits-key-0-23-support-again/</link>
@@ -556,39 +765,6 @@
             <dc:date>2025-11-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[CME Crypto Futures Volume Hits Record 795K Contracts Amid Volatility]]></title>
-            <description><![CDATA[A surge in institutional and retail demand has pushed CME’s crypto average daily volume up 132% year-over-year, with open interest climbing 82%....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/cme-crypto-futures-volume-hits-record-795k-contracts-amid-volatility</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/cme-crypto-futures-volume-hits-record-795k-contracts-amid-volatility</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 19:09:44 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BNB Rebounds Above $860 After Testing Key Support]]></title>
-            <description><![CDATA[The recovery lifted BNB above multiple resistance zones, but the relatively low volume behind the move may limit follow-through as traders watch the $870 level....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/bnb-rebounds-above-usd860-after-testing-key-support</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/bnb-rebounds-above-usd860-after-testing-key-support</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 19:01:12 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Celestia’s TIA Token Rises as ‘Matcha’ Upgrade Preps Network for Cross-Chain Future]]></title>
-            <description><![CDATA[The event is being called its biggest software upgrade yet, which boosts the network’s capacity and improves token economics....]]></description>
-            <link>https://www.coindesk.com/tech/2025/11/24/celestia-s-tia-token-rises-as-matcha-upgrade-preps-network-for-cross-chain-future</link>
-            <guid isPermaLink="false">https://www.coindesk.com/tech/2025/11/24/celestia-s-tia-token-rises-as-matcha-upgrade-preps-network-for-cross-chain-future</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 18:54:57 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Is Your Android TV Streaming Box Part of a Botnet?]]></title>
             <description><![CDATA[On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ser...]]></description>
             <link>https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/</link>
@@ -597,17 +773,6 @@
             <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
             <pubDate>Mon, 24 Nov 2025 18:44:52 GMT</pubDate>
             <dc:source>Krebs On Security</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Stellar Climbs 3.5% to $0.25 as Technical Recovery Gains Momentum]]></title>
-            <description><![CDATA[Network fundamentals improved alongside price action as token demonstrated resilience following recent consolidation period....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/stellar-climbs-3-5-to-usd0-25-as-technical-recovery-gains-momentum</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/stellar-climbs-3-5-to-usd0-25-as-technical-recovery-gains-momentum</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 18:15:34 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-11-24</dc:date>
         </item>
         <item>
@@ -641,50 +806,6 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Mon, 24 Nov 2025 17:36:28 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[HBAR Gains 2.4% From Major Support as Axelar Integration Drives DeFi Activity]]></title>
-            <description><![CDATA[Volume surge validates advance despite token's underperformance versus broader crypto market rally....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/hbar-gains-2-4-from-major-support-as-axelar-integration-drives-defi-activity</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/hbar-gains-2-4-from-major-support-as-axelar-integration-drives-defi-activity</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 17:35:10 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Franklin Templeton Joins XRP ETF Race, Calling It ‘Foundational’ to Global Finance]]></title>
-            <description><![CDATA[With XRPZ debuting on NYSE Arca, Franklin becomes the latest financial heavyweight betting on crypto’s future in global payments....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/franklin-templeton-joins-xrp-etf-race-calling-it-foundational-to-global-finance</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/franklin-templeton-joins-xrp-etf-race-calling-it-foundational-to-global-finance</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 17:24:13 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto Market Mood Lifted as Amazon Pours $50B Into AI Infrastructure]]></title>
-            <description><![CDATA[The price of bitcoin jumped back above $87,000 and crypto miners with a focus on AI/high-performance computing are surging....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/bitcoin-miners-surge-as-amazon-pours-usd50b-into-ai-infrastructure</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/bitcoin-miners-surge-as-amazon-pours-usd50b-into-ai-infrastructure</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 17:10:37 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Rumble Gains 13% After Tether Boosts Stake by 1M Shares]]></title>
-            <description><![CDATA[The advance occurred alongside a rally in data center and high-performance computing stocks....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/rumble-gains-13-after-tether-boosts-stake-by-1m-shares</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/rumble-gains-13-after-tether-boosts-stake-by-1m-shares</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 16:47:26 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-11-24</dc:date>
         </item>
         <item>
@@ -1108,28 +1229,6 @@ The new supply chain campaign, dubbe...]]></description>
             <dc:date>2025-11-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[Malaysia Hit By $1B Power Theft as Illegal Crypto Miners Drain the Grid]]></title>
-            <description><![CDATA[Malaysian authorities launched coordinated raids after discovering massive meter tampering by mining operators across thousands of premises since 2020....]]></description>
-            <link>https://cryptopotato.com/mayasia-hit-by-1b-power-theft-as-illegal-crypto-miners-drain-the-grid/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/mayasia-hit-by-1b-power-theft-as-illegal-crypto-miners-drain-the-grid/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 04:39:24 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DeFi Lending Skyrockets in Q3, Crushing CeFi: Galaxy Reports]]></title>
-            <description><![CDATA[Amidst incentives, stronger collateral, and rising prices, DeFi lending surged in Q3, capturing a record 55.7% market share during the quarter....]]></description>
-            <link>https://cryptopotato.com/defi-lending-skyrocket-in-q3-crushing-cefi-galaxy-reports/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/defi-lending-skyrocket-in-q3-crushing-cefi-galaxy-reports/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 23 Nov 2025 22:35:15 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-23</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Home invasion stalked $4.3M crypto wallet: How a single data leak can put anyone’s safety at risk]]></title>
             <description><![CDATA[The playbook was simple enough to work once: dress as delivery drivers, knock on the door, force entry at gunpoint, and extract private keys under threat. In June 2024, three men executed that script ...]]></description>
             <link>https://cryptoslate.com/the-uks-4-3m-crypto-home-invasion-shows-how-a-single-data-leak-can-put-anyones-wallet-and-safety-at-risk/</link>
@@ -1141,17 +1240,6 @@ The new supply chain campaign, dubbe...]]></description>
             <dc:date>2025-11-23</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ethereum DAT Ambitions of China’s Crypto Heavyweights Collapse Amidst Bleak Market Signals]]></title>
-            <description><![CDATA[A massive Ether treasury project led by China's crypto elites amidst market rout....]]></description>
-            <link>https://cryptopotato.com/ethereum-dat-ambitions-of-chinas-crypto-heavyweights-collapse-amidst-bleak-market-signals/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ethereum-dat-ambitions-of-chinas-crypto-heavyweights-collapse-amidst-bleak-market-signals/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 23 Nov 2025 19:26:23 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-23</dc:date>
-        </item>
-        <item>
             <title><![CDATA[SEC Voluntarily Dismisses SolarWinds Litigation]]></title>
             <description><![CDATA[Caleb Skeath, Emily Pehrsson, and Jess Gonzalez Valenzuela of Covington and Burling write: On November 20, 2025, the Securities and Exchange Commission (“SEC”) announced that it was voluntarily dismis...]]></description>
             <link>https://databreaches.net/2025/11/23/sec-voluntarily-dismisses-solarwinds-litigation/?pk_campaign=feed&amp;pk_kwd=sec-voluntarily-dismisses-solarwinds-litigation</link>
@@ -1160,61 +1248,6 @@ The new supply chain campaign, dubbe...]]></description>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Sun, 23 Nov 2025 18:42:40 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2025-11-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Japan’s 20% crypto tax sets a new bar in Asia, pressuring Singapore and Hong Kong as retail costs fall]]></title>
-            <description><![CDATA[Japan is quietly preparing the most pro-crypto shift of any G7 nation. According to multiple reports from local media, the Financial Services Agency (FSA) is drafting a sweeping reclassification of di...]]></description>
-            <link>https://cryptoslate.com/japans-20-crypto-tax-sets-a-new-bar-in-asia-pressuring-singapore-and-hong-kong-as-retail-costs-fall/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/japans-20-crypto-tax-sets-a-new-bar-in-asia-pressuring-singapore-and-hong-kong-as-retail-costs-fall/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sun, 23 Nov 2025 18:00:10 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-11-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Is the Crypto Bull Cycle Over, or Is This Just a Deep Correction? CryptoQuant Offers Insights]]></title>
-            <description><![CDATA[Demand has dried up, and BTC has fallen below its 365-day moving average. Could the market already be in bear season, or is this just a deep correction?...]]></description>
-            <link>https://cryptopotato.com/is-the-crypto-bull-cycle-over-or-is-this-just-a-deep-correction-cryptoquant-offers-insights/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/is-the-crypto-bull-cycle-over-or-is-this-just-a-deep-correction-cryptoquant-offers-insights/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 23 Nov 2025 17:55:21 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Robert Kiyosaki Cashes Out Bitcoin: What’s Behind His Surprising Decision?]]></title>
-            <description><![CDATA[The popular author also praised silver....]]></description>
-            <link>https://cryptopotato.com/robert-kiyosaki-cashes-out-bitcoin-whats-behind-his-surprising-decision/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/robert-kiyosaki-cashes-out-bitcoin-whats-behind-his-surprising-decision/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 23 Nov 2025 16:37:04 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop]]></title>
-            <description><![CDATA[Google has added interoperability support between Android Quick Share and Apple AirDrop, to let users share files between Pixel devices and iPhones. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sun, 23 Nov 2025 15:32:46 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-11-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Enterprise password security and secrets management with Passwork 7]]></title>
-            <description><![CDATA[Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the full system with a free trial and up to 50% Black ...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sun, 23 Nov 2025 14:45:54 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-11-23</dc:date>
         </item>
         <item>
@@ -1304,39 +1337,6 @@ The new supply chain campaign, dubbe...]]></description>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Fri, 21 Nov 2025 20:19:55 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2025-11-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[LINE Messaging Bugs Open Asian Users to Cyber Espionage]]></title>
-            <description><![CDATA[In a potential gift to geopolitical adversaries, the encrypted messaging app uses a leaky custom protocol that allows message replays, impersonation attacks, and sensitive information exposure from ch...]]></description>
-            <link>https://www.darkreading.com/application-security/line-messaging-bugs-asian-cyber-espionage</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/line-messaging-bugs-asian-cyber-espionage</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 21 Nov 2025 20:18:01 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-11-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy]]></title>
-            <description><![CDATA[Even the most advanced systems like Cloudflare can fall victim to software issues and become a global point of failure, Dr. David Utzke argues, adding that the recent outage should be a warning for en...]]></description>
-            <link>https://www.darkreading.com/cybersecurity-operations/cloudflares-one-stop-shop-convenience-global-digital-economy</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/cloudflares-one-stop-shop-convenience-global-digital-economy</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 21 Nov 2025 20:15:07 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-11-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hack the Hackers: 6 Laws for Staying Ahead of the Attackers]]></title>
-            <description><![CDATA[A new security framework responds to a shift in attackers' tactics, one that allows them to infiltrate enterprises "silently" through their own policies....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/hack-hackers-6-laws-staying-ahead-cyberattackers</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/hack-hackers-6-laws-staying-ahead-cyberattackers</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 21 Nov 2025 20:11:28 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
             <dc:date>2025-11-21</dc:date>
         </item>
     </channel>
