@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Nov 2025 21:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 01:27:17 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Nov 2025 21:22:18 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 01:27:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,9 +22,9 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 21:17:35 GMT</pubDate>
+            <pubDate>Tue, 25 Nov 2025 01:22:35 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-11-24</dc:date>
+            <dc:date>2025-11-25</dc:date>
         </item>
         <item>
             <title><![CDATA[Explore Our Online Events]]></title>
@@ -33,7 +33,84 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/dark-reading-online-events</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 21:17:35 GMT</pubDate>
+            <pubDate>Tue, 25 Nov 2025 01:22:35 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-11-25</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ShadowRay 2.0 Turns AI Clusters into Crypto Botnets]]></title>
+            <description><![CDATA[A threat actor is leveraging a flaw in the Ray framework to hijack AI infrastructure worldwide and distribute a self-propagating cryptomining and data theft botnet....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/shadowray-20-ai-clusters-crypto-botnets</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/shadowray-20-ai-clusters-crypto-botnets</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 24 Nov 2025 22:22:50 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-11-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[On-Chain Proof: The Crash Was a Bitcoin Panic, Not an Ethereum Collapse]]></title>
+            <description><![CDATA[Ethereum's supply mechanics limited selling pressure, keeping losses smaller than typical Bitcoin corrections....]]></description>
+            <link>https://cryptopotato.com/on-chain-proof-the-crash-was-a-bitcoin-panic-not-an-ethereum-collapse/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/on-chain-proof-the-crash-was-a-bitcoin-panic-not-an-ethereum-collapse/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 24 Nov 2025 22:16:03 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-11-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[XRP, SUI Lead Crypto Rebound as Bitcoin Tops $89K; Relief Rally Faces $100K Wall, Trader Says]]></title>
+            <description><![CDATA[Traders now see a December rate cut increasingly likely, following fresh comments from San Francisco Fed President Mary Daly....]]></description>
+            <link>https://www.coindesk.com/markets/2025/11/24/xrp-sui-lead-crypto-rebound-as-bitcoin-tops-usd89k-relief-rally-faces-usd100k-wall-trader-says</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/xrp-sui-lead-crypto-rebound-as-bitcoin-tops-usd89k-relief-rally-faces-usd100k-wall-trader-says</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 24 Nov 2025 22:14:08 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Malicious Blender model files deliver StealC infostealing malware]]></title>
+            <description><![CDATA[A Russian-linked campaign delivers the StealC V2 information stealer malware through malicious Blender files uploaded to 3D model marketplaces like CGTrader. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 24 Nov 2025 22:00:45 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-11-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Critical Flaw in Oracle Identity Manager Under Exploitation]]></title>
+            <description><![CDATA[The exploitation of CVE-2025-61757 follows a breach of Oracle Cloud earlier this year as well as a recent extortion campaign targeting Oracle E-Business Suite customers....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/critical-flaw-oracle-identity-manager-under-exploitation</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/critical-flaw-oracle-identity-manager-under-exploitation</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 24 Nov 2025 21:39:50 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-11-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Filecoin Rises 2% After Breaking $1.63 Resistance]]></title>
+            <description><![CDATA[FIL broke out on heavy volume as technical momentum accelerated past critical threshold levels....]]></description>
+            <link>https://www.coindesk.com/markets/2025/11/24/filecoin-rises-2-after-breaking-usd1-63-resistance</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/filecoin-rises-2-after-breaking-usd1-63-resistance</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 24 Nov 2025 21:17:38 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Infamous Shai-hulud Worm Resurfaces From the Depths]]></title>
+            <description><![CDATA[This campaign introduces a new variant that executes malicious code during preinstall, significantly increasing potential exposure in build and runtime environments, researchers said....]]></description>
+            <link>https://www.darkreading.com/application-security/infamous-shai-hulud-worm-resurfaces-from-depths</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/infamous-shai-hulud-worm-resurfaces-from-depths</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 24 Nov 2025 21:17:37 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2025-11-24</dc:date>
         </item>
@@ -634,17 +711,6 @@ The new supply chain campaign, dubbe...]]></description>
             <dc:date>2025-11-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[Where Next?: Crypto Daybook Americas]]></title>
-            <description><![CDATA[Your day-ahead look for Nov. 24, 2025...]]></description>
-            <link>https://www.coindesk.com/daybook-us/2025/11/24/where-next-crypto-daybook-americas</link>
-            <guid isPermaLink="false">https://www.coindesk.com/daybook-us/2025/11/24/where-next-crypto-daybook-americas</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 12:15:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
             <title><![CDATA[NPM supply-chain attack compromises major ENS and crypto libraries]]></title>
             <description><![CDATA[A researcher warned that more than 400 NPM libraries, including at least 10 crypto packages mostly tied to ENS, were compromised by Shai Hulud malware....]]></description>
             <link>https://cointelegraph.com/news/new-npm-supply-chain-attack-compromises-major-ens-and-crypto-libraries?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
@@ -675,17 +741,6 @@ The new supply chain campaign, dubbe...]]></description>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Mon, 24 Nov 2025 11:47:01 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Revolut Hits $75B Valuation in Fundraise Backed by Coatue, NVIDIA, Fidelity ]]></title>
-            <description><![CDATA[Revolut is growing its crypto offerings, including a recent partnership with Polygon Labs and a MiCA license to offer crypto services across Europe....]]></description>
-            <link>https://www.coindesk.com/business/2025/11/24/revolut-hits-usd75b-valuation-in-fundraise-backed-by-coatue-nvidia-fidelity</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/11/24/revolut-hits-usd75b-valuation-in-fundraise-backed-by-coatue-nvidia-fidelity</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 24 Nov 2025 11:42:02 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-11-24</dc:date>
         </item>
         <item>
@@ -1173,28 +1228,6 @@ The new supply chain campaign, dubbe...]]></description>
             <dc:date>2025-11-22</dc:date>
         </item>
         <item>
-            <title><![CDATA[Cox Enterprises discloses Oracle E-Business Suite data breach]]></title>
-            <description><![CDATA[Cox Enterprises is notifying impacted individuals of a data breach that exposed their personal data to hackers who breached the company network after exploiting a zero-day flaw in Oracle E-Business Su...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 22 Nov 2025 15:16:23 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-11-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Loses $90K Support as On-Chain Data Hints at $70K Next]]></title>
-            <description><![CDATA[On-chain data indicates that BTC is trading within a new range, moving between $70,000 and $90,000, with a point of control near $83,000....]]></description>
-            <link>https://cryptopotato.com/bitcoin-loses-90k-support-as-on-chain-data-hints-at-70k-next/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-loses-90k-support-as-on-chain-data-hints-at-70k-next/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 22 Nov 2025 13:45:47 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-22</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Cyberattack disables Onsolve Code Red emergency alert system across St. Louis region (1)]]></title>
             <description><![CDATA[Russell Kinsaul reports a serious situation in St. Louis, Missouri: A cyberattack has caused a nationwide outage of the Code Red emergency notification system, leaving cities and counties across the S...]]></description>
             <link>https://databreaches.net/2025/11/22/cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region/?pk_campaign=feed&amp;pk_kwd=cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region</link>
@@ -1304,39 +1337,6 @@ The vulnerability, tracked a...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Fri, 21 Nov 2025 15:40:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-11-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Two suspected Scattered Spider hackers plead not guilty over Transport for London cyberattack]]></title>
-            <description><![CDATA[Alexander Martin reports: Two British teenagers charged with Computer Misuse Act offenses over a cyberattack on Transport for London (TfL) last year pleaded not guilty during a court appearance on Fri...]]></description>
-            <link>https://databreaches.net/2025/11/21/two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack/?pk_campaign=feed&amp;pk_kwd=two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack</link>
-            <guid isPermaLink="false">https://databreaches.net/2025/11/21/two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack/?pk_campaign=feed&amp;pk_kwd=two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Fri, 21 Nov 2025 15:05:51 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2025-11-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline?]]></title>
-            <description><![CDATA[Automation is rewriting early-career cybersecurity work, raising urgent questions about how the next generation of security professionals will gain real-world expertise....]]></description>
-            <link>https://www.darkreading.com/cybersecurity-careers/with-ai-reshaping-entry-level-cyber-what-happens-to-the-security-talent-pipeline-</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-careers/with-ai-reshaping-entry-level-cyber-what-happens-to-the-security-talent-pipeline-</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 21 Nov 2025 15:02:45 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-11-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin ASIC producer Bitmain under US investigation over national security risks: Report]]></title>
-            <description><![CDATA[US authorities are investigating Chinese Bitcoin mining hardware giant Bitmain over potential national security risks tied to alleged remote capabilities, according to Bloomberg....]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-asic-producer-bitmain-faces-us-probe-over-national-security-risks-bloomberg?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
-            <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-asic-producer-bitmain-faces-us-probe-over-national-security-risks-bloomberg?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
-            <category><![CDATA[Cointelegraph - Security]]></category>
-            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
-            <pubDate>Fri, 21 Nov 2025 14:55:46 GMT</pubDate>
-            <dc:source>Cointelegraph - Security</dc:source>
             <dc:date>2025-11-21</dc:date>
         </item>
     </channel>
