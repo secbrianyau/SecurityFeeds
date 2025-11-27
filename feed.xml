@@ -9,12 +9,56 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Nov 2025 21:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 01:26:27 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Nov 2025 21:20:56 GMT</pubDate>
+        <pubDate>Thu, 27 Nov 2025 01:26:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[New ShadowV2 botnet malware used AWS outage as a test opportunity]]></title>
+            <description><![CDATA[A new Mirai-based botnet malware named 'ShadowV2' has been observed targeting IoT devices from D-Link, TP-Link, and other vendors with exploits for known vulnerabilities. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 26 Nov 2025 22:24:14 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Alien BTC findings: If humans vanished, Bitcoin’s block time and difficulty would preserve our collapse]]></title>
+            <description><![CDATA[This is a speculative report translated for non-specialists. The narrator is an investigator who arrived long after humans were gone. Everything described as measured relies on real Bitcoin mechanics:...]]></description>
+            <link>https://cryptoslate.com/alien-btc-findings-if-humans-vanished-bitcoins-block-time-and-difficulty-would-preserve-our-collapse/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/alien-btc-findings-if-humans-vanished-bitcoins-block-time-and-difficulty-would-preserve-our-collapse/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 26 Nov 2025 22:15:48 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Japan Emerges as Potential Bitcoin Demand Giant After Rule Changes]]></title>
+            <description><![CDATA[Although Japan only has 20k–40k active BTC addresses daily, its huge household wealth could flow in via ETFs and regulated funds....]]></description>
+            <link>https://cryptopotato.com/japan-emerges-as-potential-bitcoin-demand-giant-after-rule-changes/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/japan-emerges-as-potential-bitcoin-demand-giant-after-rule-changes/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 26 Nov 2025 22:13:18 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New UAE Sweeping Banking Decree Looks to Cement Country’s Global Crypto Position]]></title>
+            <description><![CDATA[UAE’s new financial law brings crypto and blockchain into traditional finance and under Central Bank’s supervision....]]></description>
+            <link>https://www.coindesk.com/policy/2025/11/26/new-uae-sweeping-banking-decree-looks-to-cement-country-s-global-crypto-position</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/11/26/new-uae-sweeping-banking-decree-looks-to-cement-country-s-global-crypto-position</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 26 Nov 2025 21:31:44 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-11-26</dc:date>
+        </item>
         <item>
             <title><![CDATA[Dogecoin Pump Ahead? Breakout Targets Double-Digit Move]]></title>
             <description><![CDATA[Dogecoin breaks out of inverse H&S, targeting a major move. ETF launch and whale activity show mixed signals as short-term trend shifts bullish....]]></description>
@@ -348,7 +392,7 @@ The Socket Research Team said it identified...]]></description>
         </item>
         <item>
             <title><![CDATA[How Malware Authors Are Incorporating LLMs to Evade Detection]]></title>
-            <description><![CDATA[Cyberattackers are integrating large language models (LLMs) into the malware, running prompts at runtime to evade detection and augment their code on demand....]]></description>
+            <description><![CDATA[Cyberattackers are integrating large language models (LLMs) into malware, running prompts at runtime to evade detection and augment their code on demand....]]></description>
             <link>https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection</link>
             <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection</guid>
             <category><![CDATA[Dark Reading]]></category>
@@ -619,17 +663,6 @@ The Socket Research Team said it identified...]]></description>
             <category><![CDATA[Coindesk]]></category>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Wed, 26 Nov 2025 11:33:07 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-11-26</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[KR1 Stakes 'Blue-Chip' Ambition With London Stock Exchange Debut]]></title>
-            <description><![CDATA[The Isle of Man-based contrasted its active staking and investment strategy with a more passive digital-asset treasury approach....]]></description>
-            <link>https://www.coindesk.com/markets/2025/11/24/kr1-stakes-blue-chip-ambition-with-london-stock-exchange-debut</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/11/24/kr1-stakes-blue-chip-ambition-with-london-stock-exchange-debut</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 26 Nov 2025 11:31:04 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
             <dc:date>2025-11-26</dc:date>
         </item>
@@ -909,17 +942,6 @@ The Socket Research Team said it identified...]]></description>
             <dc:date>2025-11-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Inside the JPMorgan boycott drama defending Bitcoin treasuries being kicked off major indexes]]></title>
-            <description><![CDATA[American financial services company MSCI’s October consultation on “digital asset treasury companies” arrived at a time when the mechanics of Bitcoin (BTC) exposure had already begun to fracture. By m...]]></description>
-            <link>https://cryptoslate.com/inside-the-jpmorgan-boycott-drama-to-defend-strategys-inclusion-in-major-indexes/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/inside-the-jpmorgan-boycott-drama-to-defend-strategys-inclusion-in-major-indexes/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Tue, 25 Nov 2025 18:10:58 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-11-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[BNB Hits Major Buy Zone After 2024 Breakout Retest]]></title>
             <description><![CDATA[BNB retests key 2024 breakout level as futures interest dips and user activity grows. Traders eye $950–$1,050 if support holds....]]></description>
             <link>https://cryptopotato.com/bnb-hits-major-buy-zone-after-2024-breakout-retest/</link>
@@ -938,17 +960,6 @@ The Socket Research Team said it identified...]]></description>
             <category><![CDATA[Bleeping Computer]]></category>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Tue, 25 Nov 2025 17:23:23 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-11-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Tor switches to new Counter Galois Onion relay encryption algorithm]]></title>
-            <description><![CDATA[Tor has announced improved encryption and security for the circuit traffic by replacing the old tor1 relay encryption algorithm with a new design called Counter Galois Onion (CGO). [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 25 Nov 2025 17:09:19 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-11-25</dc:date>
         </item>
@@ -1225,17 +1236,6 @@ The Socket Research Team said it identified...]]></description>
             <category><![CDATA[CryptoPotato]]></category>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Tue, 25 Nov 2025 09:28:11 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-11-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ripple’s XRP Eyes $7? Only If This Critical Level Holds Firm]]></title>
-            <description><![CDATA[XRP holds above $2 amid ETF inflows of $164M and key technical support. Analysts eye potential upside to $7 if the level continues to hold....]]></description>
-            <link>https://cryptopotato.com/ripples-xrp-eyes-7-only-if-this-critical-level-holds-firm/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ripples-xrp-eyes-7-only-if-this-critical-level-holds-firm/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 25 Nov 2025 09:27:36 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-11-25</dc:date>
         </item>
