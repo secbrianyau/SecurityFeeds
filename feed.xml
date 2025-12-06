@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Dec 2025 09:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 12:39:40 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Dec 2025 09:22:33 GMT</pubDate>
+        <pubDate>Sat, 06 Dec 2025 12:39:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,41 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/gisec-global</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sat, 06 Dec 2025 09:17:55 GMT</pubDate>
+            <pubDate>Sat, 06 Dec 2025 12:34:56 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation]]></title>
+            <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (RSC) to its Known Exploited Vulnerabilities (KEV) ...]]></description>
+            <link>https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 11:40:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[These Altcoins Bleed Out as Bitcoin (BTC) Loses $90K Support: Weekend Watch]]></title>
+            <description><![CDATA[The total crypto market cap is down by over $60 billion daily....]]></description>
+            <link>https://cryptopotato.com/these-altcoins-bleed-out-as-bitcoin-btc-loses-90k-support-weekend-watch/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/these-altcoins-bleed-out-as-bitcoin-btc-loses-90k-support-weekend-watch/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 10:41:56 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Is Base’s Solana bridge a ‘vampire attack’ on SOL liquidity or multichain pragmatism?]]></title>
+            <description><![CDATA[Base launched a bridge to Solana on Dec. 4, and within hours, Solana’s most vocal builders accused Jesse Pollak of running a vampire attack disguised as interoperability. The bridge uses Chainlink CCI...]]></description>
+            <link>https://cryptoslate.com/is-bases-solana-bridge-a-vampire-attack-on-sol-liquidity-or-multichain-pragmatism/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/is-bases-solana-bridge-a-vampire-attack-on-sol-liquidity-or-multichain-pragmatism/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 10:29:47 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-12-06</dc:date>
         </item>
         <item>
@@ -68,6 +101,17 @@
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sat, 06 Dec 2025 05:10:31 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[XRP Faces Downside Risk as Social Sentiment Turns Wildly Negative]]></title>
+            <description><![CDATA[The turn in crowd mood comes after a two-month slide of roughly 31%, leaving the token vulnerable to further downside if risk appetite weakens across majors....]]></description>
+            <link>https://www.coindesk.com/markets/2025/12/05/xrp-faces-downside-risk-as-social-sentiment-turns-wildly-negative</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/05/xrp-faces-downside-risk-as-social-sentiment-turns-wildly-negative</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 04:30:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
             <dc:date>2025-12-06</dc:date>
         </item>
         <item>
@@ -446,7 +490,7 @@ The vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CVSS s...]]><
             <dc:date>2025-12-05</dc:date>
         </item>
         <item>
-            <title><![CDATA[2025 was officially a wipeout year for US spot Bitcoin ETFs – now flat YoY and down $48B since October]]></title>
+            <title><![CDATA[How Bitcoin ETFs lost a whole year of inflows – now down $48B since October]]></title>
             <description><![CDATA[U.S. spot Bitcoin ETFs gave back nearly all of their 2025 gains after hitting a cycle high in early October, with total net assets sliding to $120.68 billion as of Dec. 4, down $48.86 billion from the...]]></description>
             <link>https://cryptoslate.com/2025-was-officially-a-wipeout-year-for-us-spot-bitcoin-etfs-now-flat-yoy-and-down-48b-since-october/</link>
             <guid isPermaLink="false">https://cryptoslate.com/2025-was-officially-a-wipeout-year-for-us-spot-bitcoin-etfs-now-flat-yoy-and-down-48b-since-october/</guid>
@@ -799,17 +843,6 @@ The vulnerability ...]]></description>
             <dc:date>2025-12-05</dc:date>
         </item>
         <item>
-            <title><![CDATA[Kraken Launches High-Touch VIP Program for Ultra High Net Worth Clients ]]></title>
-            <description><![CDATA[Kraken VIP members are paired with a specialist relationship manager, backed by 24/7 support and early insight into Kraken’s full product ecosystem....]]></description>
-            <link>https://www.coindesk.com/business/2025/12/05/kraken-launches-high-touch-vip-program-for-ultra-high-net-worth-clients</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/05/kraken-launches-high-touch-vip-program-for-ultra-high-net-worth-clients</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 05 Dec 2025 07:25:21 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-05</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Tom Lee Forecasts Ethereum Rally to $20K on 2026 Tokenization Boom]]></title>
             <description><![CDATA[Fundstrat’s Tom Lee remains bullish on Bitcoin and Ethereum with some big price predictions at the Binance Blockchain Week....]]></description>
             <link>https://cryptopotato.com/tom-lee-forecasts-ethereum-rally-to-20k-on-2026-tokenization-boom/</link>
@@ -973,17 +1006,6 @@ The vulnerab...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Thu, 04 Dec 2025 20:36:15 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum prepares a controversial 2026 overhaul that will forcibly strip power from the network’s most dominant players]]></title>
-            <description><![CDATA[Ethereum completed its Fusaka upgrade on Dec. 3, marking one of the network’s most essential steps toward long-term scalability. The upgrade builds on a series of changes since the 2022 Merge and foll...]]></description>
-            <link>https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 20:20:02 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-12-04</dc:date>
         </item>
         <item>
@@ -1207,17 +1229,6 @@ The vulnerab...]]></description>
             <dc:date>2025-12-04</dc:date>
         </item>
         <item>
-            <title><![CDATA[Incubator MEETLabs Officially Launches the Web3 P2E 3D-Fishing Game “DeFishing”]]></title>
-            <description><![CDATA[[PRESS RELEASE – Dubai, United Arab Emirates, December 4th, 2025] On December 4, incubator MEETLabs announced the official launch of the Web3 P2E 3D-fishing game “DeFishing.” As the first GameFi on ME...]]></description>
-            <link>https://cryptopotato.com/incubator-meetlabs-officially-launches-the-web3-p2e-3d-fishing-game-defishing/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/incubator-meetlabs-officially-launches-the-web3-p2e-3d-fishing-game-defishing/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 11:11:40 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-04</dc:date>
-        </item>
-        <item>
             <title><![CDATA[GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections]]></title>
             <description><![CDATA[Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam by impe...]]></description>
             <link>https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html</link>
@@ -1327,19 +1338,6 @@ The vulnerability, tracked as CVE-2025-5518...]]></description>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Wed, 03 Dec 2025 17:59:19 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2025-12-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar]]></title>
-            <description><![CDATA[Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a "Prince" in a distant country?
-Those days are over.
-Today, a 16-year-old with zero coding skills and...]]></description>
-            <link>https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 03 Dec 2025 17:56:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-12-03</dc:date>
         </item>
     </channel>
