@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Dec 2025 18:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 21:20:04 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Dec 2025 18:29:22 GMT</pubDate>
+        <pubDate>Sat, 06 Dec 2025 21:20:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,52 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/gisec-global</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sat, 06 Dec 2025 18:24:40 GMT</pubDate>
+            <pubDate>Sat, 06 Dec 2025 21:15:19 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Corporate Bitcoin portfolios are hiding a massive liability crisis that triggered an average 27% crash last month]]></title>
+            <description><![CDATA[Corporate Bitcoin holdings have been treated as a straightforward signal for years: a company buys BTC, investors read it as conviction, and the stock trades with a built-in Bitcoin premium. While thi...]]></description>
+            <link>https://cryptoslate.com/bitcoin-corporate-debt-outweighs-btc/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-corporate-debt-outweighs-btc/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 21:05:19 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable]]></title>
+            <description><![CDATA[Over 77,000 Internet-exposed IP addresses are vulnerable to the critical React2Shell remote code execution flaw (CVE-2025-55182), with researchers now confirming that attackers have already compromise...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 19:07:33 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ETH to $20K by 2026? AI Examines Tom Lee’s Ultra-Bullish Prediction]]></title>
+            <description><![CDATA[Will ETH surge to $60K in 2026 as Lee predicted? Here's ChatGPT's take on it....]]></description>
+            <link>https://cryptopotato.com/eth-to-20k-by-2026-ai-examines-tom-lees-ultra-bullish-prediction/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/eth-to-20k-by-2026-ai-examines-tom-lees-ultra-bullish-prediction/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 18:48:11 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Citadel pushes SEC to classify open-source developers as unregistered stockbrokers – Uniswap fires back]]></title>
+            <description><![CDATA[On Dec. 2, Citadel Securities filed a 13-page letter with the SEC arguing that decentralized protocols facilitating tokenized US equity trading already meet statutory definitions of exchanges and brok...]]></description>
+            <link>https://cryptoslate.com/citadel-pushes-sec-to-classify-open-source-developers-as-unregistered-stockbrokers-uniswap-fires-back/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/citadel-pushes-sec-to-classify-open-source-developers-as-unregistered-stockbrokers-uniswap-fires-back/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 18:30:00 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
             <dc:date>2025-12-06</dc:date>
         </item>
         <item>
@@ -101,6 +145,17 @@
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Sat, 06 Dec 2025 15:24:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-12-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New wave of VPN login attempts targets Palo Alto GlobalProtect portals]]></title>
+            <description><![CDATA[A campaign has been observed targeting Palo Alto GlobalProtect portals with login attempts and launching scanning activity against SonicWall SonicOS API endpoints. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 06 Dec 2025 15:18:19 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-12-06</dc:date>
         </item>
         <item>
@@ -887,17 +942,6 @@ The vulnerability ...]]></description>
             <dc:date>2025-12-05</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin on-chain data just flashed critical bearish signal that CryptoQuant warns marks a verified cycle top]]></title>
-            <description><![CDATA[On Dec. 3, CryptoQuant CEO Ki Young Ju made the feared call that “most Bitcoin on-chain indicators are bearish.” He added, “Without macro liquidity, we enter a bear cycle.” The CEO was explicit. He ti...]]></description>
-            <link>https://cryptoslate.com/bitcoin-on-chain-data-just-flashed-critical-bearish-signal-that-cryptoquant-warns-marks-a-verified-cycle-top/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-on-chain-data-just-flashed-critical-bearish-signal-that-cryptoquant-warns-marks-a-verified-cycle-top/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 05 Dec 2025 10:10:09 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-12-05</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Cloudflare down, websites offline with 500 Internal Server Error]]></title>
             <description><![CDATA[Cloudflare is down, as websites are crashing with a 500 Internal Server Error. Cloudflare is investigating the reports. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/</link>
@@ -985,17 +1029,6 @@ The vulnerab...]]></description>
             <pubDate>Fri, 05 Dec 2025 05:40:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2025-12-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin is quietly becoming the ultimate expert witness, forcing judges to accept a new standard of truth]]></title>
-            <description><![CDATA[The year is 2075. The judge does not ask for a deed. She asks for a transaction ID. The landlord’s lawyer queues up a Bitcoin transaction from fifteen years earlier that moved a token representing the...]]></description>
-            <link>https://cryptoslate.com/bitcoin-is-quietly-becoming-the-ultimate-expert-witness-forcing-judges-to-accept-a-new-standard-of-truth/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-is-quietly-becoming-the-ultimate-expert-witness-forcing-judges-to-accept-a-new-standard-of-truth/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 23:35:38 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-12-04</dc:date>
         </item>
         <item>
             <title><![CDATA[How Agentic AI Can Boost Cyber Defense]]></title>
@@ -1119,17 +1152,6 @@ The vulnerab...]]></description>
             <dc:date>2025-12-04</dc:date>
         </item>
         <item>
-            <title><![CDATA[Russia blocks FaceTime and Snapchat for alleged use by terrorists]]></title>
-            <description><![CDATA[Russian telecommunications watchdog Roskomnadzor has blocked access to Apple's FaceTime video conferencing platform and the Snapchat instant messaging service, claiming they're being used to coordinat...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 19:12:18 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-12-04</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Marquis data breach impacts over 74 US banks, credit unions]]></title>
             <description><![CDATA[Bleeping Computer reports: Financial software provider Marquis Software Solutions is warning that it suffered a data breach that impacted dozens of banks and credit unions across the US. Marquis Softw...]]></description>
             <link>https://databreaches.net/2025/12/04/marquis-data-breach-impacts-over-74-us-banks-credit-unions/?pk_campaign=feed&amp;pk_kwd=marquis-data-breach-impacts-over-74-us-banks-credit-unions</link>
@@ -1138,17 +1160,6 @@ The vulnerab...]]></description>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Thu, 04 Dec 2025 18:29:26 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2025-12-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[CISA warns of Chinese "BrickStorm" malware attacks on VMware servers]]></title>
-            <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned network defenders of Chinese hackers backdooring VMware vSphere servers with Brickstorm malware. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 18:19:55 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-12-04</dc:date>
         </item>
         <item>
@@ -1237,17 +1248,6 @@ The vulnerab...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 04 Dec 2025 15:29:11 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-12-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[TrueNorth Raises $3M to Build Domain-Specific AI for Finance]]></title>
-            <description><![CDATA[[PRESS RELEASE – San Francisco, California, USA, December 4th, 2025] 54% of investors now use ChatGPT for trading and investment decisions. Only 11% trust the results. That gap, between AI’s promise a...]]></description>
-            <link>https://cryptopotato.com/truenorth-raises-3m-to-build-domain-specific-ai-for-finance/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/truenorth-raises-3m-to-build-domain-specific-ai-for-finance/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 14:12:49 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-12-04</dc:date>
         </item>
         <item>
