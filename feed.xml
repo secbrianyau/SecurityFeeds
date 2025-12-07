@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Dec 2025 15:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 18:28:53 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Dec 2025 15:20:38 GMT</pubDate>
+        <pubDate>Sun, 07 Dec 2025 18:28:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,41 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/gisec-global</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sun, 07 Dec 2025 15:15:56 GMT</pubDate>
+            <pubDate>Sun, 07 Dec 2025 18:24:11 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[A sudden $13.5 billion Fed liquidity injection exposes a crack in the dollar that Bitcoin was built for]]></title>
+            <description><![CDATA[The number didn’t look dramatic at first glance ($13.5 billion in overnight repos on Dec. 1), but for anyone who watches the Federal Reserve’s plumbing, it was a noticeable spike. These operations rar...]]></description>
+            <link>https://cryptoslate.com/bitcoin-watches-the-feds-13-5b-repo-jump-what-does-fresh-liquidity-mean-now/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-watches-the-feds-13-5b-repo-jump-what-does-fresh-liquidity-mean-now/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sun, 07 Dec 2025 17:05:11 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-12-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[What’s Behind Strategy’s $1.44B Reserve: Is It Bullish or Bearish for BTC?]]></title>
+            <description><![CDATA[Strategy will become a dual-reserve company, managing both Bitcoin and USD reserve funds....]]></description>
+            <link>https://cryptopotato.com/whats-behind-strategys-1-44b-reserve-is-it-bullish-or-bearish-for-btc/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/whats-behind-strategys-1-44b-reserve-is-it-bullish-or-bearish-for-btc/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sun, 07 Dec 2025 16:23:09 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-07</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Portugal updates cybercrime law to exempt security researchers]]></title>
+            <description><![CDATA[While the U.K. is considering amending its Computer Misuse Act to exempt or provide some safe harbor for security researchers, Portugal has actually enacted an update to its law. Bill Toulas reports: ...]]></description>
+            <link>https://databreaches.net/2025/12/07/portugal-updates-cybercrime-law-to-exempt-security-researchers/?pk_campaign=feed&amp;pk_kwd=portugal-updates-cybercrime-law-to-exempt-security-researchers</link>
+            <guid isPermaLink="false">https://databreaches.net/2025/12/07/portugal-updates-cybercrime-law-to-exempt-security-researchers/?pk_campaign=feed&amp;pk_kwd=portugal-updates-cybercrime-law-to-exempt-security-researchers</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Sun, 07 Dec 2025 15:51:51 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
             <dc:date>2025-12-07</dc:date>
         </item>
         <item>
@@ -842,17 +875,6 @@ The vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CVSS s...]]><
             <dc:date>2025-12-05</dc:date>
         </item>
         <item>
-            <title><![CDATA[How Bitcoin ETFs lost a whole year of inflows – now down $48B since October]]></title>
-            <description><![CDATA[U.S. spot Bitcoin ETFs gave back nearly all of their 2025 gains after hitting a cycle high in early October, with total net assets sliding to $120.68 billion as of Dec. 4, down $48.86 billion from the...]]></description>
-            <link>https://cryptoslate.com/2025-was-officially-a-wipeout-year-for-us-spot-bitcoin-etfs-now-flat-yoy-and-down-48b-since-october/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/2025-was-officially-a-wipeout-year-for-us-spot-bitcoin-etfs-now-flat-yoy-and-down-48b-since-october/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 05 Dec 2025 15:05:31 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-12-05</dc:date>
-        </item>
-        <item>
             <title><![CDATA[A Practical Guide to Continuous Attack Surface Visibility ]]></title>
             <description><![CDATA[Passive scan data goes stale fast as cloud assets shift daily, leaving teams blind to real exposures. Sprocket Security shows how continuous, automated recon gives accurate, up-to-date attack surface ...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/</link>
@@ -1262,17 +1284,6 @@ The vulnerab...]]></description>
             <dc:date>2025-12-04</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ripple Price Analysis: What’s Holding XRP Back From Breaking Out?]]></title>
-            <description><![CDATA[XRP continues to struggle with downward pressure despite broader market attempts to recover. The recent weakness in price action highlights a lack of momentum from buyers as the token remains trapped ...]]></description>
-            <link>https://cryptopotato.com/ripple-price-analysis-whats-holding-xrp-back-from-breaking-out/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ripple-price-analysis-whats-holding-xrp-back-from-breaking-out/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 16:55:53 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-04</dc:date>
-        </item>
-        <item>
             <title><![CDATA[ServiceNow's Acquisition of NHI Provider Veza Strengthens Governance Portfolio]]></title>
             <description><![CDATA[The deal, believed to be valued at $1 billion, will bring nonhuman identity access control of agents and machines to ServiceNow's offerings, including its new AI Control Tower....]]></description>
             <link>https://www.darkreading.com/cyber-risk/servicenow-acquire-nhi-provider-veza-strengthen-governance-portfolio</link>
@@ -1325,17 +1336,6 @@ The vulnerab...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Thu, 04 Dec 2025 09:27:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-12-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA['MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic]]></title>
-            <description><![CDATA[Iran's top state-sponsored APT is usually rather crass. But in a recent spate of attacks, it tried out some interesting evasion tactics, including delving into Snake, an old-school mobile game....]]></description>
-            <link>https://www.darkreading.com/threat-intelligence/muddywater-hackers-israeli-orgs-retro-game</link>
-            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/muddywater-hackers-israeli-orgs-retro-game</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 07:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
             <dc:date>2025-12-04</dc:date>
         </item>
     </channel>
