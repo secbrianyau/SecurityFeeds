@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Dec 2025 21:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 01:29:40 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Dec 2025 21:20:53 GMT</pubDate>
+        <pubDate>Tue, 09 Dec 2025 01:29:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,85 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/gisec-global</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 08 Dec 2025 21:15:52 GMT</pubDate>
+            <pubDate>Tue, 09 Dec 2025 01:24:54 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ransomware gangs turn to Shanya EXE packer to hide EDR killers]]></title>
+            <description><![CDATA[Several ransomware groups have been spotted using a packer-as-a-service (PaaS) platform named Shanya to assist in EDR (endpoint detection and response) killing operations. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 09 Dec 2025 00:00:05 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-12-09</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[European Authorities Bust $815M Crypto Fraud Ring, Arrest Nine Across Border]]></title>
+            <description><![CDATA[Following the arrest, the authorities seized over $1.8 million and other valuable assets from the criminals....]]></description>
+            <link>https://cryptopotato.com/european-authorities-bust-815m-crypto-fraud-ring-arrest-nine-across-border/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/european-authorities-bust-815m-crypto-fraud-ring-arrest-nine-across-border/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 08 Dec 2025 23:45:45 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-08</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Malicious VSCode extensions on Microsoft's registry drop infostealers]]></title>
+            <description><![CDATA[Two malicious extensions on Microsoft's Visual Studio Code Marketplace infect developers' machines with information-stealing malware that can take screenshots, steal credentials, and hijack browser se...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 08 Dec 2025 22:30:19 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-12-08</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Apache Issues Max-Severity Tika CVE After Patch Miss]]></title>
+            <description><![CDATA[The Apache Software Foundation's earlier fix for a critical Tika flaw missed the full scope of the vulnerability, prompting an updated advisory and CVE....]]></description>
+            <link>https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 08 Dec 2025 22:01:47 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-08</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CFTC Launches Digital Assets Pilot Allowing Bitcoin, Ether and USDC as Collateral]]></title>
+            <description><![CDATA[Acting Chair Caroline Pham has unveiled a first-of-its-kind U.S. program to permit tokenized collateral in derivatives markets, citing "clear guardrails" for firms....]]></description>
+            <link>https://www.coindesk.com/policy/2025/12/08/cftc-launches-digital-assets-pilot-allowing-bitcoin-ether-usdc-as-collateral</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/12/08/cftc-launches-digital-assets-pilot-allowing-bitcoin-ether-usdc-as-collateral</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 08 Dec 2025 21:55:13 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-08</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Exploitation Activity Ramps Up Against React2Shell]]></title>
+            <description><![CDATA[Attacks against CVE-2025-55182, which began almost immediately after public disclosure last week, have increased as more threat actors take advantage of the flaw....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/exploitation-activity-ramps-react2shell</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/exploitation-activity-ramps-react2shell</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 08 Dec 2025 21:41:25 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-08</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin vs. Ethereum: Which Crypto Makes The Nice List This December? (Op-ed)]]></title>
+            <description><![CDATA[Bitcoin and Ethereum both crashed about 12% in November and over 30% in Q4. But these reasons will determine which coin performs better in December....]]></description>
+            <link>https://cryptopotato.com/bitcoin-vs-ethereum-which-crypto-makes-the-nice-list-this-december-op-ed/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-vs-ethereum-which-crypto-makes-the-nice-list-this-december-op-ed/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 08 Dec 2025 21:15:53 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-12-08</dc:date>
         </item>
         <item>
@@ -573,17 +650,6 @@
             <category><![CDATA[Coindesk]]></category>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Mon, 08 Dec 2025 12:42:58 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Polkadot's Gain Underperforms Wider Crypto Markets]]></title>
-            <description><![CDATA[The token has support at $2.05 and resistance near the $2.16 level....]]></description>
-            <link>https://www.coindesk.com/markets/2025/12/08/polkadot-s-gain-underperforms-wider-crypto-markets</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/08/polkadot-s-gain-underperforms-wider-crypto-markets</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 08 Dec 2025 12:31:37 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
             <dc:date>2025-12-08</dc:date>
         </item>
@@ -1195,28 +1261,6 @@ The cyber...]]></description>
             <dc:date>2025-12-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ripple Price Struggles at $2: AI With Worrying XRP Predictions for Week Ahead]]></title>
-            <description><![CDATA[What are XRP's chances to remain above $2.00 in the following week?...]]></description>
-            <link>https://cryptopotato.com/ripple-price-struggles-at-2-ai-with-worrying-xrp-predictions-for-week-ahead/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ripple-price-struggles-at-2-ai-with-worrying-xrp-predictions-for-week-ahead/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 06 Dec 2025 07:29:47 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Will PI Rebound In The Week Ahead? ChatGPT With Pi Network Price Predictions]]></title>
-            <description><![CDATA[What's in store for PI in the second week of December?...]]></description>
-            <link>https://cryptopotato.com/will-pi-rebound-in-the-week-ahead-chatgpt-with-pi-network-price-predictions/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/will-pi-rebound-in-the-week-ahead-chatgpt-with-pi-network-price-predictions/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 06 Dec 2025 05:10:31 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Rust Code Delivers Better Security, Also Streamlines DevOps]]></title>
             <description><![CDATA[Software teams at Google and other Rust adopters see safer code when using the memory-safe language, and also fewer rollbacks and less code review....]]></description>
             <link>https://www.darkreading.com/application-security/rust-code-delivers-better-security-streamlines-devops</link>
@@ -1291,51 +1335,6 @@ The cyber...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Fri, 05 Dec 2025 17:53:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-12-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[FBI warns of virtual kidnapping scams using altered social media photos]]></title>
-            <description><![CDATA[The FBI warns of criminals altering images shared on social media and using them as fake proof of life photos in virtual kidnapping ransom scams. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 05 Dec 2025 16:37:28 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-12-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch]]></title>
-            <description><![CDATA[A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack.
-The vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CVSS s...]]></description>
-            <link>https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 05 Dec 2025 16:23:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-12-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Threat Landscape Grows Increasingly Dangerous for Manufacturers]]></title>
-            <description><![CDATA[Manufacturers are the top target for cyberattacks in 2025 because of their still-plentiful cybersecurity gaps and a lack of expertise....]]></description>
-            <link>https://www.darkreading.com/cyberattacks-data-breaches/threat-landscape-increasingly-dangerous-manufacturers</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/threat-landscape-increasingly-dangerous-manufacturers</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 05 Dec 2025 15:34:58 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-12-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[React2Shell Vulnerability Under Attack From China-Nexus Groups]]></title>
-            <description><![CDATA[A maximum-severity vulnerability affecting the React JavaScript library has been exploited in the wild, further stressing the need to patch now....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 05 Dec 2025 15:14:26 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
             <dc:date>2025-12-05</dc:date>
         </item>
     </channel>
