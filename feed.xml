@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Dec 2025 12:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 15:27:04 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Dec 2025 12:46:29 GMT</pubDate>
+        <pubDate>Thu, 11 Dec 2025 15:27:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,305 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/gisec-global</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 11 Dec 2025 12:42:06 GMT</pubDate>
+            <pubDate>Thu, 11 Dec 2025 15:22:20 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New ConsentFix attack hijacks Microsoft accounts via Azure CLI]]></title>
+            <description><![CDATA[A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) ve...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:10:49 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[AI is accelerating cyberattacks. Is your network prepared?]]></title>
+            <description><![CDATA[AI-driven attacks now automate reconnaissance, generate malware variants, and evade detection at a speed that overwhelms traditional defenses. Corelight explains how network detection and response (ND...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:05:15 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Is Bitcoin’s Price About to Fall of a Cliff or is the Correction Over?]]></title>
+            <description><![CDATA[Bitcoin’s loss metric sits far above past bottom levels, while price action and futures data suggest the market may face more downside....]]></description>
+            <link>https://cryptopotato.com/is-bitcoins-price-about-to-fall-of-a-cliff-or-is-the-correction-over/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/is-bitcoins-price-about-to-fall-of-a-cliff-or-is-the-correction-over/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:01:43 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Most Influential: The Social Media Traders]]></title>
+            <description><![CDATA[Crypto Twitter’s social media traders turned their X dashboards into public PnL reality shows in 2025, sending billions in volume through memecoins and perp DEXs in real time....]]></description>
+            <link>https://www.coindesk.com/business/2025/12/11/most-influential-the-social-media-traders</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/11/most-influential-the-social-media-traders</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Most Influential: Sirgoo Lee]]></title>
+            <description><![CDATA[Lee shaped the exchange that defines Korea’s crypto market, but even after his exit this year, the country’s hyperactive retail engine will keep moving....]]></description>
+            <link>https://www.coindesk.com/business/2025/12/11/most-influential-sirgoo-lee</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/11/most-influential-sirgoo-lee</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Taps Chainlink CCIP as Sole Bridge for $7B in Wrapped Tokens Across Chains]]></title>
+            <description><![CDATA[The integration enables users to move these assets across different networks and applications, leveraging Chainlink's secure oracle networks....]]></description>
+            <link>https://www.coindesk.com/web3/2025/12/11/coinbase-taps-chainlink-ccip-as-sole-bridge-for-usd7b-in-wrapped-tokens-across-chains</link>
+            <guid isPermaLink="false">https://www.coindesk.com/web3/2025/12/11/coinbase-taps-chainlink-ccip-as-sole-bridge-for-usd7b-in-wrapped-tokens-across-chains</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Most Influential: Shayne Coplan]]></title>
+            <description><![CDATA[Once mired in legal trouble that included federal probes and law enforcement raids, Polymarket founder and CEO Shayne Coplan has emerged victorious this year, casting off the yoke of regulatory scruti...]]></description>
+            <link>https://www.coindesk.com/business/2025/12/11/most-influential-shayne-coplan</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/11/most-influential-shayne-coplan</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Most Influential: Arthur Hayes]]></title>
+            <description><![CDATA[BitMEX co-founder Arthur Hayes has re-emerged in recent years as one of the industry’s most consistently influential macro thinkers....]]></description>
+            <link>https://www.coindesk.com/business/2025/12/11/most-influential-arthur-hayes</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/11/most-influential-arthur-hayes</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Most Influential: Cathie Wood]]></title>
+            <description><![CDATA[Throughout crypto’s ups and downs, Ark Invest CEO Cathie Wood has remained unflaggingly bullish on the industry’s future....]]></description>
+            <link>https://www.coindesk.com/business/2025/12/11/most-influential-cathie-wood</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/11/most-influential-cathie-wood</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 15:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[AI in OT Sparks Cascade of Complex Challenges]]></title>
+            <description><![CDATA[Using artificial intelligence in operational technology environments could be a bumpy ride full of trust issues and security challenges....]]></description>
+            <link>https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely</link>
+            <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:50:59 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[XRP’s Price Dumps 8% in a Week: Traders Watch $1.90 Support]]></title>
+            <description><![CDATA[XRP trades near $2.01 as RSI compresses, network activity hits 3-month low, and traders watch for a $1.90 support retest....]]></description>
+            <link>https://cryptopotato.com/xrps-price-dumps-8-in-a-week-traders-watch-1-90-support/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/xrps-price-dumps-8-in-a-week-traders-watch-1-90-support/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:42:54 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[HAI Group Unveils CORE.3 Platform, Introducing Probability of Loss (PoL) Risk Metric for Web3]]></title>
+            <description><![CDATA[Abu Dhabi, UAE, 11th December 2025, Chainwire...]]></description>
+            <link>https://cryptopotato.com/hai-group-unveils-core-3-platform-introducing-probability-of-loss-pol-risk-metric-for-web3/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/hai-group-unveils-core-3-platform-introducing-probability-of-loss-pol-risk-metric-for-web3/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:37:20 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BitMEX Debuts New Mobile Trading Experience With Intuitive Design and Controls]]></title>
+            <description><![CDATA[Mahe, Seychelles, 11th December 2025, Chainwire...]]></description>
+            <link>https://cryptopotato.com/bitmex-debuts-new-mobile-trading-experience-with-intuitive-design-and-controls/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitmex-debuts-new-mobile-trading-experience-with-intuitive-design-and-controls/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:37:15 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Everstake and KODA Partner to Bring Regulated Institutional Staking to South Korea]]></title>
+            <description><![CDATA[Miami, FL, 11th December 2025, Chainwire...]]></description>
+            <link>https://cryptopotato.com/everstake-and-koda-partner-to-bring-regulated-institutional-staking-to-south-korea/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/everstake-and-koda-partner-to-bring-regulated-institutional-staking-to-south-korea/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:36:46 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Trading Volumes Deteriorated Across Board Last Month as Market Slumped: JPMorgan]]></title>
+            <description><![CDATA[Bitcoin, ether and most majors fell last month as spot, derivatives and stablecoin volumes dropped and U.S. crypto ETPs saw heavy outflows....]]></description>
+            <link>https://www.coindesk.com/markets/2025/12/11/crypto-trading-volumes-deteriorated-across-board-last-month-as-market-slumped-jpmorgan</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/11/crypto-trading-volumes-deteriorated-across-board-last-month-as-market-slumped-jpmorgan</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:36:34 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CoinDesk 20 Performance Update: Bitcoin (BTC) Drops 3.6% as Index Trades Lower]]></title>
+            <description><![CDATA[Bitcoin Cash (BCH), down 2.8%, also traded lower....]]></description>
+            <link>https://www.coindesk.com/coindesk-indices/2025/12/11/coindesk-20-performance-update-bitcoin-btc-drops-3-6-as-index-trades-lower</link>
+            <guid isPermaLink="false">https://www.coindesk.com/coindesk-indices/2025/12/11/coindesk-20-performance-update-bitcoin-btc-drops-3-6-as-index-trades-lower</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:24:28 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BlackRock’s move into Ethereum staking signals a brutal new fee regime that mid-tier operators won’t survive]]></title>
+            <description><![CDATA[BlackRock filed for a staking-enabled Ethereum (ETH) trust on Dec. 5, which reframes the question of what kind of risk stack institutional investors will accept. The document outlines a structure that...]]></description>
+            <link>https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/blackrocks-move-into-ethereum-staking-signals-a-brutal-new-fee-regime-that-mid-tier-operators-wont-survive/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:00:39 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Nexo Agrees to Buy Argentina’s Buenbit to Expand Crypto Services Across Latin America]]></title>
+            <description><![CDATA[The deal gives Nexo access to Buenbit's user base and enables it to offer crypto-backed loans, high-yield savings accounts and trading tools....]]></description>
+            <link>https://www.coindesk.com/business/2025/12/11/nexo-agrees-to-buy-argentina-s-buenbit-to-expand-crypto-services-across-latin-america</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/11/nexo-agrees-to-buy-argentina-s-buenbit-to-expand-crypto-services-across-latin-america</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[DYdX Launches Solana Spot Trading, Opens Access to U.S. Users]]></title>
+            <description><![CDATA[The launch marks a notable shift for the decentralized exchange, which has until now been known almost entirely for its derivatives markets....]]></description>
+            <link>https://www.coindesk.com/business/2025/12/11/dydx-launches-solana-spot-trading-opens-access-to-u-s-users</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/11/dydx-launches-solana-spot-trading-opens-access-to-u-s-users</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 14:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Klarna Partners With Privy to Explore Crypto Wallet Use Within its Ecosystem]]></title>
+            <description><![CDATA[The project aims to make crypto more accessible to everyday users, building on Klarna's recent launch of KlarnaUSD, a dollar-backed stablecoin....]]></description>
+            <link>https://www.coindesk.com/business/2025/12/11/klarna-partners-with-privy-to-explore-crypto-wallet-use-within-its-ecosystem</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/11/klarna-partners-with-privy-to-explore-crypto-wallet-use-within-its-ecosystem</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 13:50:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Filecoin Declines 7%, Breaking Below $1.43 Support ]]></title>
+            <description><![CDATA[The token now has support at the $1.37 level and resistance at $1.43....]]></description>
+            <link>https://www.coindesk.com/markets/2025/12/11/filecoin-declines-7-breaking-below-usd1-43-support</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/11/filecoin-declines-7-breaking-below-usd1-43-support</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 13:44:18 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cardano Ecosystem Gets a Privacy Boost as Midnight’s NIGHT Goes Live]]></title>
+            <description><![CDATA[The network uses a dual-state architecture that separates public and private data while allowing controlled disclosure to auditors, institutions or counterparties....]]></description>
+            <link>https://www.coindesk.com/markets/2025/12/11/cardano-ecosystem-gets-a-privacy-boost-as-midnight-s-night-goes-live</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/11/cardano-ecosystem-gets-a-privacy-boost-as-midnight-s-night-goes-live</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 13:41:17 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories]]></title>
+            <description><![CDATA[This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and gov...]]></description>
+            <link>https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 13:40:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Mexico’s Central Bank Keeps a ‘Healthy Distance’ From Crypto]]></title>
+            <description><![CDATA[Banxico’s year-end report reaffirms its anti-crypto stance, highlighting legal risks, low adoption, and the need for international regulation....]]></description>
+            <link>https://www.coindesk.com/policy/2025/12/11/mexico-s-central-bank-keeps-a-healthy-distance-from-crypto</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/12/11/mexico-s-central-bank-keeps-a-healthy-distance-from-crypto</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 13:31:27 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers exploit unpatched Gogs zero-day to breach 700 servers]]></title>
+            <description><![CDATA[An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on Internet-facing instances and compromise hundreds of servers. [.....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 13:19:50 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[XRP Edges Toward Another U.S. Spot ETF After Cboe Approves 21Shares' Fund]]></title>
+            <description><![CDATA[Once live, the ETF will track the CME CF XRP-Dollar Reference Rate (New York Variant), giving investors exposure to XRP via a regulated fund structure without handling the asset directly....]]></description>
+            <link>https://www.coindesk.com/markets/2025/12/11/xrp-edges-toward-another-u-s-spot-etf-after-cboe-grants-listing-approval</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/11/xrp-edges-toward-another-u-s-spot-etf-after-cboe-grants-listing-approval</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 13:01:39 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Satoshi Nakamoto Lands on Wall Street: NYSE Unveils New Statue]]></title>
+            <description><![CDATA[Twenty One Capital has brought Satoshi Nakamoto's sculpture to the NYSE trading floor....]]></description>
+            <link>https://cryptopotato.com/satoshi-nakamoto-lands-on-wall-street-nyse-unveils-new-statue/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/satoshi-nakamoto-lands-on-wall-street-nyse-unveils-new-statue/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 12:51:37 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-12-11</dc:date>
         </item>
         <item>
@@ -38,7 +335,7 @@
             <dc:date>2025-12-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[$500M Flows MIA for Month: Crypto Daybook Americas]]></title>
+            <title><![CDATA[Bitcoin Pulls Back to $90K as Oracle Results Sour Market Mood: Crypto Daybook Americas]]></title>
             <description><![CDATA[Your day-ahead look for Dec. 11, 2025...]]></description>
             <link>https://www.coindesk.com/daybook-us/2025/12/10/usd500m-flows-mia-for-month-crypto-daybook-americas</link>
             <guid isPermaLink="false">https://www.coindesk.com/daybook-us/2025/12/10/usd500m-flows-mia-for-month-crypto-daybook-americas</guid>
@@ -79,6 +376,17 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Thu, 11 Dec 2025 11:45:00 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2025-12-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The Impact of Robotic Process Automation (RPA) on Identity and Access Management]]></title>
+            <description><![CDATA[As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However...]]></description>
+            <link>https://thehackernews.com/2025/12/the-impact-of-robotic-process.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/12/the-impact-of-robotic-process.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 11 Dec 2025 11:30:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-12-11</dc:date>
         </item>
         <item>
@@ -282,61 +590,6 @@ The vulnerability, rated high...]]></description>
             <dc:date>2025-12-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[XRP Slides as Traders Take Bitcoin Profits, With ETF Flows Still Strong]]></title>
-            <description><![CDATA[Institutional flows surged 54% above the weekly average, indicating strategic selling rather than retail panic....]]></description>
-            <link>https://www.coindesk.com/markets/2025/12/11/xrp-slides-as-traders-take-bitcoin-profits-with-etf-flows-still-strong</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/11/xrp-slides-as-traders-take-bitcoin-profits-with-etf-flows-still-strong</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 11 Dec 2025 05:18:32 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Why is Bitcoin Trading Lower Today?]]></title>
-            <description><![CDATA[Market uncertainty persists due to internal Fed divisions and unclear future rate paths until 2026....]]></description>
-            <link>https://www.coindesk.com/markets/2025/12/11/why-is-bitcoin-trading-lower-today</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/11/why-is-bitcoin-trading-lower-today</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 11 Dec 2025 04:32:05 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Senate's Crypto Market Structure Bill Gets Messy as Calendar Weighs Down]]></title>
-            <description><![CDATA[The White House has shut down proposals, and lawmakers are circulating the Democrats' asks in what had been a close negotiation, revealing 11th-hour pressure....]]></description>
-            <link>https://www.coindesk.com/policy/2025/12/10/u-s-senate-s-crypto-market-structure-bill-gets-messy-as-calendar-weighs-down</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/12/10/u-s-senate-s-crypto-market-structure-bill-gets-messy-as-calendar-weighs-down</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 11 Dec 2025 03:35:18 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Asia Morning Briefing: Fed Cut Brings Little Volatility as Bitcoin Waits for Japan]]></title>
-            <description><![CDATA[CryptoQuant data shows seller exhaustion as whales pull back from exchanges, while traders prepare for a closely watched BOJ meeting that could influence global liquidity....]]></description>
-            <link>https://www.coindesk.com/markets/2025/12/11/asia-morning-briefing-fed-cut-brings-little-volatility-as-bitcoin-waits-for-japan</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/11/asia-morning-briefing-fed-cut-brings-little-volatility-as-bitcoin-waits-for-japan</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 11 Dec 2025 02:17:47 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bhutan Debuts TER Gold-Backed Token on Solana]]></title>
-            <description><![CDATA[The Himalayan kingdom introduced TER, a Solana-based token backed by physical gold and issued through Gelephu Mindfulness City....]]></description>
-            <link>https://www.coindesk.com/business/2025/12/10/bhutan-debuts-ter-gold-backed-token-on-solana</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/10/bhutan-debuts-ter-gold-backed-token-on-solana</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 11 Dec 2025 02:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Silk Road Bitcoin wallets just woke up, but one critical on-chain detail defies the usual crash narrative]]></title>
             <description><![CDATA[Two Bitcoin wallets linked by analysts to Silk Road–era activity last moved 3,421 BTC in May this year. Now, follow-on activity on Dec. 10 added a fresh pulse to a year of dormant-supply awakenings. A...]]></description>
             <link>https://cryptoslate.com/silk-road-bitcoin-wallets-just-woke-up-but-one-critical-on-chain-detail-defies-the-usual-crash-narrative/</link>
@@ -381,39 +634,6 @@ The vulnerability, rated high...]]></description>
             <dc:date>2025-12-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[State Street and Galaxy to Launch Tokenized Liquidity Fund on Solana in 2026]]></title>
-            <description><![CDATA[The fund will run on Solana at launch and use PYUSD....]]></description>
-            <link>https://www.coindesk.com/markets/2025/12/10/state-street-and-galaxy-to-launch-tokenized-liquidity-fund-on-solana-in-2026</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/10/state-street-and-galaxy-to-launch-tokenized-liquidity-fund-on-solana-in-2026</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 22:30:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto CEOs Join U.S. CFTC's Innovation Council to Steer Market Developments ]]></title>
-            <description><![CDATA[The chief executives of firms such as Gemini and Kraken will pitch in on U.S. policy efforts through the council's future, public discussions....]]></description>
-            <link>https://www.coindesk.com/policy/2025/12/10/crypto-ceos-join-u-s-cftc-s-innovation-council-to-steer-market-developments</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/12/10/crypto-ceos-join-u-s-cftc-s-innovation-council-to-steer-market-developments</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 22:22:08 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Stripe Acqui-Hires Crypto Payments Startup Valora, Venturing Further Into Stablecoins ]]></title>
-            <description><![CDATA[The team behind the Celo-based app is joining Stripe, while the intellectual property is returned to cLabs....]]></description>
-            <link>https://www.coindesk.com/business/2025/12/10/stripe-acqui-hires-crypto-payments-startup-valora-venturing-further-into-stablecoins</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/10/stripe-acqui-hires-crypto-payments-startup-valora-venturing-further-into-stablecoins</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 22:00:48 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Storm-0249 Abuses EDR Processes in Stealthy Attacks]]></title>
             <description><![CDATA[The initial access broker has been weaponizing endpoint detection and response (EDR) platforms and Windows utilities in recent high-precision attacks....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks</link>
@@ -436,17 +656,6 @@ The vulnerability, rated high...]]></description>
             <dc:date>2025-12-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[U.S. Banking Regulator Warns Wall Street on 'Debanking,' Claims Practices 'Unlawful']]></title>
-            <description><![CDATA[The Office of the Comptroller of the Currency probed debanking of certain industries, including digital assets, and said it'll pursue any repeat of such activity....]]></description>
-            <link>https://www.coindesk.com/policy/2025/12/10/u-s-banking-regulator-warns-wall-street-on-debanking-claims-practices-unlawful</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/12/10/u-s-banking-regulator-warns-wall-street-on-debanking-claims-practices-unlawful</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 21:23:19 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery]]></title>
             <description><![CDATA[A new twist on the social engineering tactic is making waves, combining SEO poisoning and legitimate AI domains to install malware on victims' computers....]]></description>
             <link>https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware</link>
@@ -466,17 +675,6 @@ The vulnerability, rated high...]]></description>
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Wed, 10 Dec 2025 21:00:26 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Swings Wildly as Fed's Powell Straddles Labor Market and Inflation Issues]]></title>
-            <description><![CDATA["Powell is threading the needle between their two mandates," said one analyst....]]></description>
-            <link>https://www.coindesk.com/markets/2025/12/10/bitcoin-volatile-near-usd94k-as-fed-s-powell-straddles-labor-market-and-inflation-issues</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/10/bitcoin-volatile-near-usd94k-as-fed-s-powell-straddles-labor-market-and-inflation-issues</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 20:37:45 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-12-10</dc:date>
         </item>
         <item>
@@ -535,28 +733,6 @@ The vulnerability, rated high...]]></description>
             <dc:date>2025-12-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[A16z Crypto to Open Seoul Office, Hire Sungmo Park to Lead Asia Efforts]]></title>
-            <description><![CDATA[Andreessen Horowitz's crypto venture capital unit pointed to high levels of crypto ownership in South Korea and Singapore, and growing onchain activity in Japan....]]></description>
-            <link>https://www.coindesk.com/business/2025/12/10/a16z-crypto-to-open-seoul-office-hire-sungmo-park-to-lead-asia-efforts</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2025/12/10/a16z-crypto-to-open-seoul-office-hire-sungmo-park-to-lead-asia-efforts</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 20:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Consumer Groups Join Unions Trying to Derail U.S. Crypto Market Structure Bill ]]></title>
-            <description><![CDATA[Political progressives have joined forces to oppose current versions of the industry-backed legislative effort in the Senate....]]></description>
-            <link>https://www.coindesk.com/policy/2025/12/10/consumer-groups-join-unions-trying-to-derail-u-s-crypto-market-structure-bill</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/12/10/consumer-groups-join-unions-trying-to-derail-u-s-crypto-market-structure-bill</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 19:50:10 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Microsoft Teams to warn of suspicious traffic with external domains]]></title>
             <description><![CDATA[Microsoft is working on a new Teams security feature that will analyze suspicious traffic with external domains to help IT administrators tackle potential security threats. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/</link>
@@ -591,17 +767,6 @@ WatchTowr Labs, which has coden...]]></description>
             <dc:date>2025-12-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Paxful Pleads Guilty to Aiding Crime, Ignoring AML Laws]]></title>
-            <description><![CDATA[The DOJ said the firm knowingly facilitated illicit trades tied to sex work, sanctions evasion, and fraud, earning millions in fees while ignoring U.S. law....]]></description>
-            <link>https://www.coindesk.com/policy/2025/12/10/paxful-pleads-guilty-to-aiding-crime-ignoring-aml-laws</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2025/12/10/paxful-pleads-guilty-to-aiding-crime-ignoring-aml-laws</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 19:20:36 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Price Reacts as US Federal Reserve Cuts Rates by 25 BPS]]></title>
             <description><![CDATA[Bitcoin’s price has declined by more than $2,000 in the last 24 hours. It dropped by some $500 in the past few minutes, and then recovered, right as the US Federal Reserve announced another rate cut –...]]></description>
             <link>https://cryptopotato.com/bitcoin-price-reacts-as-us-federal-reserve-cuts-rates-by-25-bps/</link>
@@ -610,17 +775,6 @@ WatchTowr Labs, which has coden...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Wed, 10 Dec 2025 19:11:44 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Federal Reserve Cuts Rates 25 Basis Points, With Two Members Voting for Steady Policy]]></title>
-            <description><![CDATA[The anticipated move comes as policymakers are still operating without several key economic data releases that remain delayed or suspended due to the U.S. government shutdown....]]></description>
-            <link>https://www.coindesk.com/markets/2025/12/10/federal-reserve-cuts-rates-25-basis-points-as-expected</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2025/12/10/federal-reserve-cuts-rates-25-basis-points-as-expected</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 18:51:13 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-12-10</dc:date>
         </item>
         <item>
@@ -643,17 +797,6 @@ WatchTowr Labs, which has coden...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Wed, 10 Dec 2025 18:15:46 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[The Protocol: Stripe’s Tempo Testnet Goes Live]]></title>
-            <description><![CDATA[Also: ZKSync Lite to Sunset, Blockstream App Update, Axelar’s AgentFlux...]]></description>
-            <link>https://www.coindesk.com/tech/2025/12/10/the-protocol-stripe-s-tempo-testnet-goes-live</link>
-            <guid isPermaLink="false">https://www.coindesk.com/tech/2025/12/10/the-protocol-stripe-s-tempo-testnet-goes-live</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 17:21:16 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2025-12-10</dc:date>
         </item>
         <item>
@@ -922,17 +1065,6 @@ Standard security tools often...]]></description>
             <dc:date>2025-12-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Crypto market adds $150 billion in 24 hours: Why is Bitcoin up today?]]></title>
-            <description><![CDATA[Bitcoin (BTC) trades at $92,900, up 4% on the day, as $150 billion flowed into the total crypto market cap, a 3% gain as of press time. The price briefly touched $94,600 before pulling back, capping a...]]></description>
-            <link>https://cryptoslate.com/crypto-market-adds-150-billion-in-24-hours-what-happened-today/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/crypto-market-adds-150-billion-in-24-hours-what-happened-today/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 09:57:32 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2025-12-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ethereum ‘Breaks Out’ With 7% Gain as Analysts Eye Further Upside]]></title>
             <description><![CDATA[Ether has outperformed Bitcoin over the past day with a 7% gain and a breakout that could lead to further gains....]]></description>
             <link>https://cryptopotato.com/ethereum-breaks-out-with-7-gain-as-analysts-eye-further-upside/</link>
@@ -1023,17 +1155,6 @@ The Fortinet vul...]]></description>
             <dc:date>2025-12-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[SAP fixes three critical vulnerabilities across multiple products]]></title>
-            <description><![CDATA[SAP has released its December security updates addressing 14 vulnerabilities across a range of products, including three critical-severity flaws. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 22:41:26 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Microsoft Fixes Exploited Zero Day in Light Patch Tuesday]]></title>
             <description><![CDATA[Proof-of-concept exploit code is publicly available for two other flaws in this month's Patch Tuesday. In total, the company issued patches for more than 1,150 flaws this year....]]></description>
             <link>https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday</link>
@@ -1056,17 +1177,6 @@ The Fortinet vul...]]></description>
             <dc:date>2025-12-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[Windows PowerShell now warns when running Invoke-WebRequest scripts]]></title>
-            <description><![CDATA[Microsoft says Windows PowerShell now warns when running scripts that use the Invoke-WebRequest cmdlet to download web content, aiming to prevent potentially risky code from executing. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 20:45:20 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitget CEO Sounds Alarm on Rising Zoom and Teams Phishing Threat to Crypto]]></title>
             <description><![CDATA[Hackers pose as meeting hosts, claim audio issues, and trick victims into downloading malicious software during calls....]]></description>
             <link>https://cryptopotato.com/bitget-ceo-sounds-alarm-on-rising-zoom-and-teams-phishing-threat-to-crypto/</link>
@@ -1086,17 +1196,6 @@ The Fortinet vul...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 09 Dec 2025 20:10:32 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft releases Windows 10 KB5071546 extended security update]]></title>
-            <description><![CDATA[Microsoft has released the KB5071546 extended security update to resolve 57 security vulnerabilities, including three zero-day flaws. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 19:54:26 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-12-09</dc:date>
         </item>
         <item>
@@ -1199,17 +1298,6 @@ The Fortinet vul...]]></description>
             <dc:date>2025-12-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[Polygon Rolls Out Madhugiri Hardfork With 33% More Capacity]]></title>
-            <description><![CDATA[The upgrade lifts Polygon's block gas limit from 30M to 45M, allowing much more transaction data per block across the PoS chain....]]></description>
-            <link>https://cryptopotato.com/polygon-rolls-out-madhugiri-hardfork-with-33-more-capacity/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/polygon-rolls-out-madhugiri-hardfork-with-33-more-capacity/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 14:15:46 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading]]></title>
             <description><![CDATA[The threat actor known as Storm-0249 is likely shifting from its role as an initial access broker to adopt a combination of more advanced tactics like domain spoofing, DLL side-loading, and fileless P...]]></description>
             <link>https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html</link>
@@ -1218,17 +1306,6 @@ The Fortinet vul...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Tue, 09 Dec 2025 13:37:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[HashKey Seeks Historic IPO as Hong Kong Bets Big on Regulated Crypto]]></title>
-            <description><![CDATA[Despite falling trading volumes, HashKey is pushing ahead with its IPO....]]></description>
-            <link>https://cryptopotato.com/hashkey-seeks-historic-ipo-as-hong-kong-bets-big-on-regulated-crypto/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/hashkey-seeks-historic-ipo-as-hong-kong-bets-big-on-regulated-crypto/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 12:15:26 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-12-09</dc:date>
         </item>
         <item>
@@ -1254,17 +1331,6 @@ The Fortinet vul...]]></description>
             <dc:date>2025-12-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[Will the Fed Crash Bitcoin (BTC) or Spark a $100K Rally?]]></title>
-            <description><![CDATA[Bitcoin (BTC) trades above $90K ahead of the Fed meeting, with analysts split on a breakout to $100K or a possible drop to $70K or lower....]]></description>
-            <link>https://cryptopotato.com/will-the-fed-crash-bitcoin-btc-or-spark-a-100k-rally/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/will-the-fed-crash-bitcoin-btc-or-spark-a-100k-rally/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 11:29:51 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats]]></title>
             <description><![CDATA[Google on Monday announced a set of new security features in Chrome, following the company's addition of agentic artificial intelligence (AI) capabilities to the web browser.
 To that end, the tech gia...]]></description>
@@ -1275,74 +1341,6 @@ To that end, the tech gia...]]></description>
             <pubDate>Tue, 09 Dec 2025 11:14:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin (BTC) Retreats to $90K, Hyperliquid (HYPE) Plunges by 9% Daily: Market Watch]]></title>
-            <description><![CDATA[The total cryptocurrency market capitalization slid to around $3.15 trillion....]]></description>
-            <link>https://cryptopotato.com/bitcoin-btc-retreats-to-90k-hyperliquid-hype-plunges-by-9-daily-market-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-btc-retreats-to-90k-hyperliquid-hype-plunges-by-9-daily-market-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 10:37:54 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware]]></title>
-            <description><![CDATA[Canadian organizations have emerged as the focus of a targeted cyber campaign orchestrated by a threat activity cluster known as STAC6565.
-Cybersecurity company Sophos said it investigated almost 40 i...]]></description>
-            <link>https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 09:35:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Zcash (ZEC) Price Jumps 24% Weekly: Is $616 the Next Target?]]></title>
-            <description><![CDATA[Zcash (ZEC) is up 24% this week, approaching key resistance at $472 as whales accumulate, retail sells, and a new fee model is proposed....]]></description>
-            <link>https://cryptopotato.com/zcash-zec-price-jumps-24-weekly-is-616-the-next-target/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/zcash-zec-price-jumps-24-weekly-is-616-the-next-target/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 09:28:44 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[TrustLinq Seeks to Solve Cryptocurrency’s Multi-Billion Dollar Usability Problem]]></title>
-            <description><![CDATA[Zug, Switzerland, 9th December 2025, Chainwire...]]></description>
-            <link>https://cryptopotato.com/trustlinq-seeks-to-solve-cryptocurrencys-multi-billion-dollar-usability-problem/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/trustlinq-seeks-to-solve-cryptocurrencys-multi-billion-dollar-usability-problem/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 08:32:38 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data]]></title>
-            <description><![CDATA[Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.
-The VS Code exte...]]></description>
-            <link>https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 09 Dec 2025 08:07:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-12-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Apache Issues Max-Severity Tika CVE After Patch Miss]]></title>
-            <description><![CDATA[The Apache Software Foundation's earlier fix for a critical Tika flaw missed the full scope of the vulnerability, prompting an updated advisory and CVE....]]></description>
-            <link>https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 08 Dec 2025 22:01:47 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-12-08</dc:date>
         </item>
     </channel>
 </rss>
