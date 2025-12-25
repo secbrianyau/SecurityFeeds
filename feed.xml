@@ -9,12 +9,34 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Dec 2025 21:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 01:31:43 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Dec 2025 21:21:34 GMT</pubDate>
+        <pubDate>Thu, 25 Dec 2025 01:31:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[OpenAI is reportedly testing Claude-like Skills for ChatGPT]]></title>
+            <description><![CDATA[OpenAI is testing a new ChatGPT feature called "Skills," which will be similar to Claude's feature, also called Skills. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 24 Dec 2025 22:31:28 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-12-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Gnosis Chain Executes Hard Fork to Recover Funds Linked to Balancer Exploit]]></title>
+            <description><![CDATA[Balancer suffered a major exploit in November that resulted in the theft of almost $120 million worth of digital assets....]]></description>
+            <link>https://cryptopotato.com/gnosis-chain-executes-hard-fork-to-recover-funds-linked-to-balancer-exploit/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/gnosis-chain-executes-hard-fork-to-recover-funds-linked-to-balancer-exploit/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 24 Dec 2025 21:47:41 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-24</dc:date>
+        </item>
         <item>
             <title><![CDATA[Market Maker Sounds Alarm: Volatility Persists in Thin Holiday Trading]]></title>
             <description><![CDATA[Wintermute reports repeated selloffs as Bitcoin briefly dipped below $85K and Ethereum fell under $3K last week....]]></description>
@@ -71,6 +93,17 @@
             <dc:date>2025-12-24</dc:date>
         </item>
         <item>
+            <title><![CDATA[Fake MAS Windows activation domain used to spread PowerShell malware]]></title>
+            <description><![CDATA[A typosquatted domain impersonating the Microsoft Activation Scripts (MAS) tool was used to distribute malicious PowerShell scripts that infect Windows systems with the 'Cosmali Loader'. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 24 Dec 2025 17:44:46 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2025-12-24</dc:date>
+        </item>
+        <item>
             <title><![CDATA[Singing River Health System temporarily shut down access to patient medical records]]></title>
             <description><![CDATA[When you have been reporting on breaches for as long as this site has, you experience a lot of deja vu. This time, a headline about Singing River Health System in Mississippi spotting a potential atta...]]></description>
             <link>https://databreaches.net/2025/12/24/singing-river-health-system-temporarily-shut-down-access-to-patient-medical-records/?pk_campaign=feed&amp;pk_kwd=singing-river-health-system-temporarily-shut-down-access-to-patient-medical-records</link>
@@ -79,6 +112,17 @@
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Wed, 24 Dec 2025 16:38:03 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2025-12-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Teams to let admins block external users via Defender portal]]></title>
+            <description><![CDATA[Microsoft announced that security administrators will soon be able to block external users from sending messages, calls, or meeting invitations to members of their organization via Teams. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 24 Dec 2025 16:22:44 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-12-24</dc:date>
         </item>
         <item>
@@ -1062,17 +1106,6 @@ Th...]]></description>
             <dc:date>2025-12-23</dc:date>
         </item>
         <item>
-            <title><![CDATA[Baker University says 2024 data breach impacts 53,000 people]]></title>
-            <description><![CDATA[Baker University has disclosed a data breach after attackers gained access to its network one year ago and stole the personal, health, and financial information of over 53,000 individuals. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 23 Dec 2025 09:50:08 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-12-23</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Is the Bitcoin Price at Risk of Falling Further? Market Faces Critical Test Below Bull Channel]]></title>
             <description><![CDATA[Bitcoin trades below its bull channel as analysts debate a rebound toward $100K or further downside, with market signals mixed late in 2025....]]></description>
             <link>https://cryptopotato.com/is-the-bitcoin-price-at-risk-of-falling-further-market-faces-critical-test-below-bull-channel/</link>
@@ -1163,39 +1196,6 @@ To that end, the agency h...]]></description>
             <dc:date>2025-12-23</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Suffers Worst Q4 Since 2018 Crash with Near-22% Plunge]]></title>
-            <description><![CDATA[Bitcoin is heading to its worst Q4 since 2018, down nearly 22% as macro pressure and fading demand weigh on prices....]]></description>
-            <link>https://cryptopotato.com/bitcoin-suffers-worst-q4-since-2018-crash-with-near-22-plunge/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-suffers-worst-q4-since-2018-crash-with-near-22-plunge/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 22 Dec 2025 22:42:19 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Nissan says thousands of customers exposed in Red Hat breach]]></title>
-            <description><![CDATA[Nissan Motor Co. Ltd. (Nissan) has confirmed that information of thousands of its customers has been compromised after the data breach at Red Hat in September. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 22 Dec 2025 21:32:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-12-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New MacSync malware dropper evades macOS Gatekeeper checks]]></title>
-            <description><![CDATA[The latest variant of the MacSync information stealer targeting macOS systems is delivered through a digitally signed, notarized Swift application. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 22 Dec 2025 20:43:38 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2025-12-22</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices]]></title>
             <description><![CDATA[With attacks on the critical firewall vulnerability, WatchGuard joins a list of edge device vendors whose products have been targeted in recent weeks....]]></description>
             <link>https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox</link>
@@ -1204,17 +1204,6 @@ To that end, the agency h...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 22 Dec 2025 20:29:34 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-12-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Interpol-led action decrypts 6 ransomware strains, arrests hundreds]]></title>
-            <description><![CDATA[An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incident...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 22 Dec 2025 18:38:08 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2025-12-22</dc:date>
         </item>
         <item>
@@ -1338,6 +1327,17 @@ Data centers, constant connectivity, and resource-heavy browsing habits all cont
             <pubDate>Sat, 20 Dec 2025 08:02:16 GMT</pubDate>
             <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2025-12-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cisco VPNs, Email Services Hit in Separate Threat Campaigns]]></title>
+            <description><![CDATA[The company suffered one sophisticated five-alarm campaign and one messy spray-and-pray attack, mere days apart....]]></description>
+            <link>https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns</link>
+            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 19 Dec 2025 20:05:38 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2025-12-19</dc:date>
         </item>
     </channel>
 </rss>
