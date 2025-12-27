@@ -9,12 +9,46 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Dec 2025 06:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 09:23:33 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Dec 2025 06:33:09 GMT</pubDate>
+        <pubDate>Sat, 27 Dec 2025 09:23:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory]]></title>
+            <description><![CDATA[A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.
+The vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), ha...]]></description>
+            <link>https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Sat, 27 Dec 2025 07:52:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2025-12-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Why Is Cardano’s Hoskinson Leaving X and What Does it Mean for ADA’s Price?]]></title>
+            <description><![CDATA[Five more days left on X, he said....]]></description>
+            <link>https://cryptopotato.com/why-is-cardanos-hoskinson-leaving-x-and-what-does-it-mean-for-adas-price/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/why-is-cardanos-hoskinson-leaving-x-and-what-does-it-mean-for-adas-price/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sat, 27 Dec 2025 07:24:36 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-27</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Bear Market Bottom: When and How Low Will BTC Go?]]></title>
+            <description><![CDATA[BTC was rejected once again yesterday....]]></description>
+            <link>https://cryptopotato.com/bitcoin-bear-market-bottom-when-and-how-low-will-btc-go/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-bear-market-bottom-when-and-how-low-will-btc-go/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sat, 27 Dec 2025 06:46:49 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2025-12-27</dc:date>
+        </item>
         <item>
             <title><![CDATA[Pi Network Price Outlook: With $0.20 Barely Holding, Can PI Avoid a Breakdown in the Final Week of 2025?]]></title>
             <description><![CDATA[PI has held above the crucial support: can the bulls defend it decisively?...]]></description>
@@ -49,7 +83,7 @@
             <dc:date>2025-12-26</dc:date>
         </item>
         <item>
-            <title><![CDATA[Fake GrubHub emails promise tenfold return on sent cryptocurrency]]></title>
+            <title><![CDATA[Fake Grubhub emails promise tenfold return on sent cryptocurrency]]></title>
             <description><![CDATA[Grubhub users received fraudulent messages, apparently from a company email address, promising a tenfold bitcoin payout in return for a transfer to a specified wallet. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/</link>
             <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/</guid>
@@ -1130,17 +1164,6 @@ Th...]]></description>
             <dc:date>2025-12-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ethereum Stablecoin Shift: B2B Volume Jumps 156%, P2B Payments Up 167%]]></title>
-            <description><![CDATA[New data shows business-linked wallets dominate stablecoin volume on Ethereum, signaling real-world payment adoption....]]></description>
-            <link>https://cryptopotato.com/ethereum-stablecoin-shift-b2b-volume-jumps-156-p2b-payments-up-167/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ethereum-stablecoin-shift-b2b-volume-jumps-156-p2b-payments-up-167/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 23 Dec 2025 22:22:31 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2025-12-23</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Industry Continues to Push Back on HIPAA Security Rule Overhaul]]></title>
             <description><![CDATA[Healthcare cyberattacks are on the rise, but industry organizations say the proposed changes to the security rules fall short of what's needed....]]></description>
             <link>https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul</link>
@@ -1149,17 +1172,6 @@ Th...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 23 Dec 2025 20:22:19 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-12-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[VanEck Says Bitcoin Hashrate Dip Could Set Up 2026 Rally]]></title>
-            <description><![CDATA[Miner stress increased as lower prices and higher costs pushed hash rate to its sharpest decline since April 2024....]]></description>
-            <link>https://cryptopotato.com/vaneck-says-bitcoin-hashrate-dip-could-set-up-2026-rally/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/vaneck-says-bitcoin-hashrate-dip-could-set-up-2026-rally/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 23 Dec 2025 20:03:50 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2025-12-23</dc:date>
         </item>
         <item>
@@ -1325,18 +1337,6 @@ The ...]]></description>
             <category><![CDATA[The Hacker News]]></category>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Tue, 23 Dec 2025 07:34:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2025-12-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks]]></title>
-            <description><![CDATA[The U.S. Federal Communications Commission (FCC) on Monday announced a ban on all drones and critical components made in a foreign country, citing national security concerns.
-To that end, the agency h...]]></description>
-            <link>https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 23 Dec 2025 06:58:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2025-12-23</dc:date>
         </item>
