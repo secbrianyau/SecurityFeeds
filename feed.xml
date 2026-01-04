@@ -9,12 +9,34 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jan 2026 21:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 01:51:47 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Jan 2026 21:21:24 GMT</pubDate>
+        <pubDate>Sun, 04 Jan 2026 01:51:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Hundreds of MetaMask wallets drained: What to check before you ‘update’]]></title>
+            <description><![CDATA[On-chain security researcher ZachXBT flagged hundreds of wallets across multiple EVM chains getting drained for small amounts, typically under $2,000 per victim, funneling into a single suspicious add...]]></description>
+            <link>https://cryptoslate.com/hundreds-of-evm-wallets-drained-what-to-check-before-you-update/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/hundreds-of-evm-wallets-drained-what-to-check-before-you-update/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 03 Jan 2026 22:55:43 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-01-03</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right]]></title>
+            <description><![CDATA[Bitcoin has a talent for looking calm right up until it isn’t. In the first trading days of 2026, the tape has had that familiar, coiled feel: enough headline noise to keep traders alert, not enough c...]]></description>
+            <link>https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 03 Jan 2026 21:55:20 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-01-03</dc:date>
+        </item>
         <item>
             <title><![CDATA[Crypto Exploits Decline Sharply, With Only $76M Stolen in December 2025]]></title>
             <description><![CDATA[December’s losses were spread across 26 incidents, showing fewer large-scale breaches rather than a total absence of attacks....]]></description>
@@ -27,10 +49,10 @@
             <dc:date>2026-01-03</dc:date>
         </item>
         <item>
-            <title><![CDATA[ShinyHunters claims Resecurity hack, firm says it’s a honeypot]]></title>
+            <title><![CDATA[Hackers claim to hack Resecurity, firm says it was a honeypot]]></title>
             <description><![CDATA[The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeyp...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/</guid>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/</guid>
             <category><![CDATA[Bleeping Computer]]></category>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Sat, 03 Jan 2026 20:34:22 GMT</pubDate>
@@ -50,7 +72,7 @@
         </item>
         <item>
             <title><![CDATA[ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot]]></title>
-            <description><![CDATA[As seen on the SLSH Telegram channel: We would like to announce that we have gained full access to REsecurity systems 🙂 We took everything: – All internal chats and logs – Full employee data: names, ...]]></description>
+            <description><![CDATA[Update: A spokesperson for ShinyHunters contacted Databreaches to state that attribution for the attack should be to SLH.  As seen on the SLSH Telegram channel: We would like to announce that we have ...]]></description>
             <link>https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&amp;pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot</link>
             <guid isPermaLink="false">https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&amp;pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot</guid>
             <category><![CDATA[DataBreaches.net]]></category>
@@ -732,17 +754,6 @@ Security teams deploy ASM, asset inventories grow, alerts start flowing, and das
             <dc:date>2026-01-02</dc:date>
         </item>
         <item>
-            <title><![CDATA[Controversial trader exploits a New Year glitch on Binance to make $1.5 million in under 24 hours]]></title>
-            <description><![CDATA[A crypto trader, Vida, realized more than $1.5 million in gains after spotting an anomalous wall of buy orders on Binance for the little-known token BROCCOLI714 on New Year's Day. Vida, who shared det...]]></description>
-            <link>https://cryptoslate.com/how-this-trader-turned-binances-new-year-glitch-into-a-1-5-million-windfall/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/how-this-trader-turned-binances-new-year-glitch-into-a-1-5-million-windfall/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 02 Jan 2026 07:30:01 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-01-02</dc:date>
-        </item>
-        <item>
             <title><![CDATA[$2.2B Crypto Options Are Expiring Today, Will Markets React?]]></title>
             <description><![CDATA[The first Friday of the new year has arrived, and more Bitcoin and Ether options are expiring as spot market momentum remains muted....]]></description>
             <link>https://cryptopotato.com/2-2b-crypto-options-are-expiring-today-will-markets-react/</link>
@@ -828,17 +839,6 @@ Security teams deploy ASM, asset inventories grow, alerts start flowing, and das
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Thu, 01 Jan 2026 22:19:21 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-01</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitwise just filed for 11 new crypto ETFs, and the market’s silence exposes a brutal new reality]]></title>
-            <description><![CDATA[Bitwise's year-end barrage of ETF paperwork should have been a perfect spark for “alt season.” On Dec. 30, the issuer filed with the US Securities and Exchange Commission to launch 11 single-token “st...]]></description>
-            <link>https://cryptoslate.com/bitwise-just-filed-for-11-new-crypto-etfs-and-the-markets-silence-exposes-a-brutal-new-reality/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitwise-just-filed-for-11-new-crypto-etfs-and-the-markets-silence-exposes-a-brutal-new-reality/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 01 Jan 2026 21:25:45 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-01-01</dc:date>
         </item>
         <item>
