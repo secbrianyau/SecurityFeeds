@@ -9,12 +9,23 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jan 2026 01:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 04:19:59 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Jan 2026 01:52:10 GMT</pubDate>
+        <pubDate>Mon, 05 Jan 2026 04:19:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Ethereum ready to solve blockchain trilemma: Vitalik Buterin]]></title>
+            <description><![CDATA[Ethereum's co-founder says PeerDAS and ZK-EVMs have solved crypto's scalability vs. security vs. decentralization trade-off....]]></description>
+            <link>https://cointelegraph.com/news/blockchain-trilemma-solved-zkevms-and-peerdas-vitalik-buterin?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/blockchain-trilemma-solved-zkevms-and-peerdas-vitalik-buterin?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Mon, 05 Jan 2026 03:14:42 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2026-01-05</dc:date>
+        </item>
         <item>
             <title><![CDATA[Asia Morning Briefing: Data shows legacy media took a more balanced view of bitcoin in 2025]]></title>
             <description><![CDATA[Media attention shifted from bitcoin’s environmental footprint to crime and kidnapping in 2025, while overall sentiment remained broadly neutral, according to crypto intelligence platform Perception....]]></description>
@@ -1325,17 +1336,6 @@ The npm pack...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 29 Dec 2025 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2025-12-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More]]></title>
-            <description><![CDATA[Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. Ne...]]></description>
-            <link>https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 29 Dec 2025 13:38:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2025-12-29</dc:date>
         </item>
     </channel>
