@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jan 2026 01:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jan 2026 04:09:13 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jan 2026 01:50:49 GMT</pubDate>
+        <pubDate>Sun, 18 Jan 2026 04:09:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,19 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/rsac-2026-conference</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sun, 18 Jan 2026 01:46:07 GMT</pubDate>
+            <pubDate>Sun, 18 Jan 2026 04:04:30 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-01-18</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Google Chrome now lets you turn off on-device AI model powering scam detection]]></title>
+            <description><![CDATA[Google Chrome now lets you delete the local AI models that power the "Enhanced Protection" feature, which was upgraded with AI capabilities last year. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sun, 18 Jan 2026 02:05:01 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-01-18</dc:date>
         </item>
         <item>
@@ -149,6 +160,17 @@ In addition, the group's al...]]></description>
             <dc:date>2026-01-17</dc:date>
         </item>
         <item>
+            <title><![CDATA[Credential-stealing Chrome extensions target enterprise HR platforms]]></title>
+            <description><![CDATA[Malicious Chrome extensions on the Chrome Web Store masquerading as productivity and security tools for enterprise HR and ERP platforms were discovered stealing authentication credentials or blocking ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 17 Jan 2026 16:19:30 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-01-17</dc:date>
+        </item>
+        <item>
             <title><![CDATA[A faceless hacker stole my therapy notes – now my deepest secrets are online forever]]></title>
             <description><![CDATA[In September 2025, a Helsinki court ordered the release of Aleksanteri Tomminpoika Kivimäki  (aka “Julius Kivimäki” aka “Zeekill”) pending the resolution of his appeal of an April 2024 conviction stem...]]></description>
             <link>https://databreaches.net/2026/01/17/a-faceless-hacker-stole-my-therapy-notes-now-my-deepest-secrets-are-online-forever/?pk_campaign=feed&amp;pk_kwd=a-faceless-hacker-stole-my-therapy-notes-now-my-deepest-secrets-are-online-forever</link>
@@ -179,6 +201,17 @@ In addition, the group's al...]]></description>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Sat, 17 Jan 2026 15:24:50 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2026-01-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Malicious GhostPoster browser extensions found with 840,000 installs]]></title>
+            <description><![CDATA[Another set of 17 malicious extensions linked to the GhostPoster campaign has been discovered in Chrome, Firefox, and Edge stores, where they accumulated a total of 840,000 installations. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 17 Jan 2026 15:23:34 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-01-17</dc:date>
         </item>
         <item>
@@ -976,39 +1009,6 @@ The targeted ma...]]></description>
             <dc:date>2026-01-16</dc:date>
         </item>
         <item>
-            <title><![CDATA[Google now lets you change your @gmail.com address, rolling out]]></title>
-            <description><![CDATA[Google has confirmed that it's now possible to change your @gmail.com address. This means that if your current email is xyz@gmail.com, you can now change it to abc@gmail.com. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 00:36:10 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ChatGPT is now more reliable at finding and remembering your past chat]]></title>
-            <description><![CDATA[OpenAI is rolling out a big upgrade for ChatGPT with support for advanced chat history search, but the feature is rolling out to Plus and Pro subscribers only. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 00:14:44 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Gootloader now uses 1,000-part ZIP archives for stealthy delivery]]></title>
-            <description><![CDATA[The Gootloader malware, typically used for initial access, is now using a malformed ZIP archive designed to evade detection by concatenating up to 1,000 archives. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 15 Jan 2026 22:54:34 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-15</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Robinhood CEO Warns US Crypto Regulation Lags with Staking Blocked in 4 States While EU Moves Ahead]]></title>
             <description><![CDATA[Robinhood’s CEO warned US crypto regulation is lagging as staking remains blocked in four states while Europe moves ahead....]]></description>
             <link>https://cryptopotato.com/robinhood-ceo-warns-us-crypto-regulation-lags-with-staking-blocked-in-4-states-while-eu-moves-ahead/</link>
@@ -1017,17 +1017,6 @@ The targeted ma...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Thu, 15 Jan 2026 22:20:09 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Grubhub confirms hackers stole data in recent security breach]]></title>
-            <description><![CDATA[Food delivery platform Grubhub has confirmed a recent data breach after hackers accessed its systems, with sources telling BleepingComputer the company is now facing extortion demands. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 15 Jan 2026 21:38:51 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-01-15</dc:date>
         </item>
         <item>
@@ -1340,6 +1329,17 @@ AISURU a...]]></description>
             <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
             <pubDate>Wed, 14 Jan 2026 17:55:35 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2026-01-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['VoidLink' Malware Poses Advanced Threat to Linux Systems]]></title>
+            <description><![CDATA[Researchers discovered a modular, "cloud-first" framework that is feature-rich and designed to maintain stealthy, long-term access to Linux environments....]]></description>
+            <link>https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 14 Jan 2026 15:59:49 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-01-14</dc:date>
         </item>
     </channel>
