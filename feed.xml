@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jan 2026 15:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 18:35:04 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Jan 2026 15:29:25 GMT</pubDate>
+        <pubDate>Mon, 19 Jan 2026 18:35:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,96 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/rsac-2026-conference</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 19 Jan 2026 15:24:43 GMT</pubDate>
+            <pubDate>Mon, 19 Jan 2026 18:30:07 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ChatGPT Health Raises Big Security, Safety Concerns]]></title>
+            <description><![CDATA[ChatGPT Health promises robust data protection, but elements of the rollout raise big questions regarding user security and safety....]]></description>
+            <link>https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns</link>
+            <guid isPermaLink="false">https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 17:57:52 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites]]></title>
+            <description><![CDATA[Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar...]]></description>
+            <link>https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 17:21:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[UK govt. warns about ongoing Russian hacktivist group attacks]]></title>
+            <description><![CDATA[The U.K. government is warning of continued malicious activity from Russian-aligned hacktivist groups targeting critical infrastructure and local government organizations in the country in disruptive ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 17:20:39 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin faces a massive liquidity shift as these five crypto gatekeepers prepare to tighten the remaining market chokepoints]]></title>
+            <description><![CDATA[Bitcoin pricing in 2026 may hinge on officials and executives who set dollar liquidity, US market access, ETF distribution, stablecoin settlement capacity, and exchange venue rules, based on a market-...]]></description>
+            <link>https://cryptoslate.com/bitcoin-faces-a-massive-liquidity-shift-as-these-five-market-gatekeepers-prepare-to-tighten-the-markets-remaining-chokepoints/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-faces-a-massive-liquidity-shift-as-these-five-market-gatekeepers-prepare-to-tighten-the-markets-remaining-chokepoints/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 17:15:18 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[A crypto trader turned $285 into $627,000 in one day, but some say the game was rigged]]></title>
+            <description><![CDATA[A wallet linked to a pump.fun memecoin turned $285 into a small fortune on Monday, reviving concerns about insider activity during the latest memecoin surge....]]></description>
+            <link>https://www.coindesk.com/business/2026/01/19/a-crypto-trader-turned-usd285-into-usd627-000-in-one-day-but-some-say-the-game-was-rigged</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/01/19/a-crypto-trader-turned-usd285-into-usd627-000-in-one-day-but-some-say-the-game-was-rigged</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 17:10:31 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Hash Rate Slips Below 1 ZH/s as Miners Face Growing Profitability Pressure]]></title>
+            <description><![CDATA[Bitcoin miners face profitability headwinds as network hash rate declines and difficulty is set to adjust downward....]]></description>
+            <link>https://cryptopotato.com/bitcoin-hash-rate-slips-below-1-zh-s-as-miners-face-growing-profitability-pressure/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-hash-rate-slips-below-1-zh-s-as-miners-face-growing-profitability-pressure/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 17:07:37 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin price consolidation nears 60-day window that's historically triggered rallies]]></title>
+            <description><![CDATA[Range-bound price action continues within a familiar cycle pattern....]]></description>
+            <link>https://www.coindesk.com/markets/2026/01/19/bitcoin-price-consolidation-nears-60-day-window-that-s-historically-triggered-rallies</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/01/19/bitcoin-price-consolidation-nears-60-day-window-that-s-historically-triggered-rallies</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 16:16:30 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hacker admits to leaking stolen Supreme Court data on Instagram]]></title>
+            <description><![CDATA[A Tennessee man has pleaded guilty to hacking the U.S. Supreme Court's electronic filing system and breaching accounts at the AmeriCorps U.S. federal agency and the Department of Veterans Affairs. [.....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 16:04:14 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-01-19</dc:date>
         </item>
         <item>
@@ -38,7 +126,7 @@
             <dc:date>2026-01-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[How Trump’s tariff threat cycle broke from past playbook for the first time causing Bitcoin to miss Sunday night relief rally]]></title>
+            <title><![CDATA[Trump just broke from his tariff threat playbook for the first time causing Bitcoin to miss Sunday night relief rally]]></title>
             <description><![CDATA[On Monday morning, the market did that thing it always does when politics stops being background noise and starts grabbing the steering wheel. Screens went red, chats filled with the same half-jokes a...]]></description>
             <link>https://cryptoslate.com/trumps-tariff-threat-cycle-breaks-from-past-playbook-for-the-first-time-causing-bitcoin-to-miss-sunday-night-relief-rally/</link>
             <guid isPermaLink="false">https://cryptoslate.com/trumps-tariff-threat-cycle-breaks-from-past-playbook-for-the-first-time-causing-bitcoin-to-miss-sunday-night-relief-rally/</guid>
@@ -126,7 +214,7 @@
             <dc:date>2026-01-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[Crypto’s worst year for hacks wasn’t a smart contract problem. It was a people problem.]]></title>
+            <title><![CDATA[Crypto’s worst year for hacks wasn’t a smart contract issue. It was a people problem.]]></title>
             <description><![CDATA[In an exclusive interview with CoinDesk, Immunefi’s CEO, Mitchell Amador, said onchain security is improving despite losses continuing to rise....]]></description>
             <link>https://www.coindesk.com/business/2026/01/19/crypto-s-worst-year-for-hacks-wasn-t-a-smart-contract-problem-it-was-a-people-problem</link>
             <guid isPermaLink="false">https://www.coindesk.com/business/2026/01/19/crypto-s-worst-year-for-hacks-wasn-t-a-smart-contract-problem-it-was-a-people-problem</guid>
@@ -710,17 +798,6 @@ The security flaw, codenamed...]]></description>
             <dc:date>2026-01-18</dc:date>
         </item>
         <item>
-            <title><![CDATA[Wall Street integration will power crypto’s next phase, says Fidelity Digital Assets]]></title>
-            <description><![CDATA[Infrastructure, institutions and advisors are laying the groundwork for a structural shift in global finance....]]></description>
-            <link>https://www.coindesk.com/markets/2026/01/18/wall-street-integration-will-power-crypto-s-next-phase-says-fidelity</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/01/18/wall-street-integration-will-power-crypto-s-next-phase-says-fidelity</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Sun, 18 Jan 2026 15:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-01-18</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ethereum staking just hit a $118B record at 30% of all coins, but one whale might be skewing the signal]]></title>
             <description><![CDATA[More than 36 million ETH is now staked in Ethereum's proof-of-stake system, close to 30% of the circulating supply and worth over $118 billion at recent prices. That headline number sounds like a clea...]]></description>
             <link>https://cryptoslate.com/30-of-eth-is-now-staked-but-one-whale-might-be-skewing-the-signal/</link>
@@ -776,17 +853,6 @@ The security flaw, codenamed...]]></description>
             <dc:date>2026-01-18</dc:date>
         </item>
         <item>
-            <title><![CDATA[Here's why Coinbase and other companies soured on the major crypto bill]]></title>
-            <description><![CDATA[Provisions addressing decentralized finance, SEC jurisdiction and authorities and — of course — stablecoin yield all alarmed industry participants....]]></description>
-            <link>https://www.coindesk.com/news-analysis/2026/01/18/here-s-why-coinbase-and-other-companies-soured-on-major-crypto-bill</link>
-            <guid isPermaLink="false">https://www.coindesk.com/news-analysis/2026/01/18/here-s-why-coinbase-and-other-companies-soured-on-major-crypto-bill</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Sun, 18 Jan 2026 14:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-01-18</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bear Market Rally? Bitcoin Demand Shows Improvement but Remains Weak (CryptoQuant​)]]></title>
             <description><![CDATA[Bitcoin demand conditions have shown improvement recently; however, they are still weak despite bitcoin’s latest rally....]]></description>
             <link>https://cryptopotato.com/bear-market-rally-bitcoin-demand-shows-improvement-but-remains-weak-cryptoquant/</link>
@@ -795,17 +861,6 @@ The security flaw, codenamed...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sun, 18 Jan 2026 13:10:16 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[How crypto is being devoured by TradFi, killing Satoshi’s dream by rewarding centralization]]></title>
-            <description><![CDATA[Bitcoin’s price, and thus the entire crypto market, is increasingly being anchored by flows through regulated wrappers. Crypto is increasingly being subsumed by TradFi rather than offering an alternat...]]></description>
-            <link>https://cryptoslate.com/how-crypto-is-being-devoured-by-tradfi-killing-satoshis-dream-by-rewarding-centralization/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/how-crypto-is-being-devoured-by-tradfi-killing-satoshis-dream-by-rewarding-centralization/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sun, 18 Jan 2026 12:05:14 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-01-18</dc:date>
         </item>
         <item>
@@ -1074,28 +1129,6 @@ In addition, the group's al...]]></description>
             <dc:date>2026-01-17</dc:date>
         </item>
         <item>
-            <title><![CDATA[ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads]]></title>
-            <description><![CDATA[OpenAI's $8 ChatGPT Go subscription, which gives you 10x more messages, is now available in the United States and other regions. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 23:43:49 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI says its new ChatGPT ads won't influence answers]]></title>
-            <description><![CDATA[OpenAI has confirmed ChatGPT is getting ads in the coming weeks, but it promises that ads won't influence answers generated by ChatGPT. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 23:06:36 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-16</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Iran’s Crypto Economy Explodes Past $7.78B Amidst Protests, War, and Sanctions]]></title>
             <description><![CDATA[From missile strikes to protests, Iran's political shocks repeatedly triggered crypto spikes....]]></description>
             <link>https://cryptopotato.com/irans-crypto-economy-explodes-past-7-78b-amidst-protests-war-and-sanctions/</link>
@@ -1147,17 +1180,6 @@ In addition, the group's al...]]></description>
             <category><![CDATA[CryptoPotato]]></category>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Fri, 16 Jan 2026 18:15:16 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Polygon Axes 30% Workforce, Eyes Stablecoin Domination Post-Acquisitions]]></title>
-            <description><![CDATA[What's behind the latest lay-off spree?...]]></description>
-            <link>https://cryptopotato.com/polygon-axes-30-workforce-eyes-stablecoin-domination-post-acquisitions/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/polygon-axes-30-workforce-eyes-stablecoin-domination-post-acquisitions/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 17:10:14 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-01-16</dc:date>
         </item>
@@ -1314,29 +1336,6 @@ The targeted ma...]]></description>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 15 Jan 2026 19:10:05 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-01-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access]]></title>
-            <description><![CDATA[A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.
-The vulnerability, tracked as CVE-2026-23550 (CVSS sco...]]></description>
-            <link>https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 15 Jan 2026 15:31:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-01-15</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Vulnerabilities Surge, But Messy Reporting Blurs Picture]]></title>
-            <description><![CDATA[MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge....]]></description>
-            <link>https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 15 Jan 2026 15:19:31 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2026-01-15</dc:date>
         </item>
