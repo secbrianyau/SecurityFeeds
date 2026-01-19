@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jan 2026 21:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 01:49:24 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jan 2026 21:21:01 GMT</pubDate>
+        <pubDate>Mon, 19 Jan 2026 01:49:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,41 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/rsac-2026-conference</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sun, 18 Jan 2026 21:16:37 GMT</pubDate>
+            <pubDate>Mon, 19 Jan 2026 01:44:43 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin slides below $93,000 as $680 million longs are liquidated]]></title>
+            <description><![CDATA[Glassnode says the push toward $96,000 was driven by leverage, while CryptoQuant warns demand remains too weak to confirm a trend reversal....]]></description>
+            <link>https://www.coindesk.com/markets/2026/01/19/bitcoin-slides-below-usd93-000-as-usd680-million-longs-are-liquidated-asia-morning-briefing</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/01/19/bitcoin-slides-below-usd93-000-as-usd680-million-longs-are-liquidated-asia-morning-briefing</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 01:12:05 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New OpenAI leak hints at upcoming ChatGPT features]]></title>
+            <description><![CDATA[OpenAI is internally testing a new update for ChatGPT, at least on the web. It'll begin rolling out in the coming weeks. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 19 Jan 2026 00:29:05 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-01-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Is Crypto Fraud Becoming Industrialized? Cyvers Reviews On-Chain Threats From 2025]]></title>
+            <description><![CDATA[Cyvers found that pig butchering schemes were the most organized and persistent threat, while access control attacks caused the most security incidents....]]></description>
+            <link>https://cryptopotato.com/is-crypto-fraud-becoming-industrialized-cyvers-reviews-on-chain-threats-from-2025/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/is-crypto-fraud-becoming-industrialized-cyvers-reviews-on-chain-threats-from-2025/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sun, 18 Jan 2026 22:22:11 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-01-18</dc:date>
         </item>
         <item>
@@ -952,17 +985,6 @@ In addition, the group's al...]]></description>
             <dc:date>2026-01-16</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin pulls back to $94,300 as U.S. stocks sink, precious metals tumble]]></title>
-            <description><![CDATA[A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment....]]></description>
-            <link>https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/01/16/bitcoin-pulls-back-to-usd94-000-as-u-s-stocks-sink-precious-metals-tumble</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 16:07:16 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-01-16</dc:date>
-        </item>
-        <item>
             <title><![CDATA[CISOs Rise to Prominence: Security Leaders Join the Executive Suite]]></title>
             <description><![CDATA[Security professionals are moving up the executive ranks as enterprises face rising regulatory and compliance standards....]]></description>
             <link>https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite</link>
@@ -1051,17 +1073,6 @@ In addition, the group's al...]]></description>
             <dc:date>2026-01-16</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft: Windows 11 update causes Outlook freezes for POP users]]></title>
-            <description><![CDATA[Microsoft confirmed that the KB5074109 January Windows 11 security update causes the classic Outlook desktop client to freeze and hang for users with POP email accounts. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 12:12:41 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-16</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin (BTC) Sell Signal Sparks Fears of Major Price Drop]]></title>
             <description><![CDATA[Bitcoin faces a key sell signal on the weekly chart, rejection at $126K, and mixed technical setups as traders watch $95.5K and $102K levels....]]></description>
             <link>https://cryptopotato.com/bitcoin-btc-sell-signal-sparks-fears-of-major-price-drop/</link>
@@ -1137,17 +1148,6 @@ The targeted ma...]]></description>
             <category><![CDATA[CryptoPotato]]></category>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Fri, 16 Jan 2026 07:13:56 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[First Time in 3 Months: Bitcoin Fear and Greed Index Signals Greed]]></title>
-            <description><![CDATA[The index climbed to 61, the highest point witnessed since the beginning of October 2025....]]></description>
-            <link>https://cryptopotato.com/first-time-in-3-months-bitcoin-fear-and-greed-index-signals-greed/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/first-time-in-3-months-bitcoin-fear-and-greed-index-signals-greed/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 04:32:20 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-01-16</dc:date>
         </item>
