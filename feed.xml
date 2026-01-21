@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 21:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 01:47:34 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Jan 2026 21:24:00 GMT</pubDate>
+        <pubDate>Wed, 21 Jan 2026 01:47:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,7 +22,84 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/rsac-2026-conference</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 20 Jan 2026 21:19:18 GMT</pubDate>
+            <pubDate>Wed, 21 Jan 2026 01:42:48 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-01-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Google says Gemini won’t have ads, as ChatGPT prepares to add them]]></title>
+            <description><![CDATA[OpenAI recently rolled out ads to ChatGPT in the United States if you use $8 Go subscription or a free account, but Google says it does not plan to put ads in Gemini. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-01-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Wall Street’s secret blockchain platform is coming for your dividends and it’s using stablecoins to do it]]></title>
+            <description><![CDATA[NYSE said it is developing a platform for trading and on-chain settlement of tokenized securities, and will seek regulatory approvals for a proposed new NYSE venue powered by that infrastructure. Acco...]]></description>
+            <link>https://cryptoslate.com/wall-streets-secret-blockchain-platform-is-coming-for-your-dividends-and-its-using-stablecoins-to-do-it/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/wall-streets-secret-blockchain-platform-is-coming-for-your-dividends-and-its-using-stablecoins-to-do-it/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 20 Jan 2026 23:35:55 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-01-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI rolls out age prediction model on ChatGPT to detect your age]]></title>
+            <description><![CDATA[OpenAI is rolling out an age prediction model on ChatGPT to detect your age and apply possible safety-related restrictions to prevent misuse by teens. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 20 Jan 2026 22:57:21 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-01-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ACF plugin bug gives hackers admin on 50,000 WordPress sites]]></title>
+            <description><![CDATA[A critical-severity vulnerability in the Advanced Custom Fields: Extended (ACF Extended) plugin for WordPress can be exploited remotely by unauthenticated attackers to obtain administrative permission...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 20 Jan 2026 22:12:27 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-01-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BlackRock, JPMorgan Among 35 Firms Building on Ethereum]]></title>
+            <description><![CDATA[Institutions are using Ethereum to launch tokenized stocks, money market funds, stablecoins, and deposits....]]></description>
+            <link>https://cryptopotato.com/blackrock-jpmorgan-among-35-firms-building-on-ethereum/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/blackrock-jpmorgan-among-35-firms-building-on-ethereum/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 20 Jan 2026 21:54:02 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-01-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Strategy just crossed 700k BTC but its “circular” Bitcoin funding loop risks a massive high-yield credit disaster]]></title>
+            <description><![CDATA[Strategy (formerly MicroStrategy) acquired an additional 22,305 Bitcoin for approximately $2.13 billion between Jan. 12 and Jan. 19, continuing an aggressive accumulation campaign that has absorbed 3....]]></description>
+            <link>https://cryptoslate.com/strategy-just-crossed-700k-btc-but-its-circular-bitcoin-funding-loop-risks-a-massive-high-yield-credit-disaster/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/strategy-just-crossed-700k-btc-but-its-circular-bitcoin-funding-loop-risks-a-massive-high-yield-credit-disaster/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 20 Jan 2026 21:45:56 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-01-20</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['CrashFix' Scam Crashes Browsers, Delivers Malware]]></title>
+            <description><![CDATA[The attack consists of a NexShield malicious browser extension, a social engineering technique to crash the browser, and a Python-based RAT....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 20 Jan 2026 21:10:14 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2026-01-20</dc:date>
         </item>
@@ -258,7 +335,7 @@
             <dc:date>2026-01-20</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin falls below $90,000 amid new tariff war concerns, bond selloff: Markets Liveblog]]></title>
+            <title><![CDATA[Bitcoin falls below $89,000 amid new tariff war concerns, bond selloff: Markets Liveblog]]></title>
             <description><![CDATA[Analysts, CoinDesk reporters and longtime industry participants weigh in on today's bitcoin, crypto and market price action....]]></description>
             <link>https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-briefly-below-usd90-000-amid-meltdown-markets-liveblog</link>
             <guid isPermaLink="false">https://www.coindesk.com/markets/2026/01/20/bitcoin-falls-briefly-below-usd90-000-amid-meltdown-markets-liveblog</guid>
@@ -943,17 +1020,6 @@ The blockchain intell...]]></description>
             <dc:date>2026-01-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin faces a massive liquidity shift as these 5 crypto gatekeepers prepare to tighten the remaining market chokepoints]]></title>
-            <description><![CDATA[Bitcoin pricing in 2026 may hinge on officials and executives who set dollar liquidity, US market access, ETF distribution, stablecoin settlement capacity, and exchange venue rules, based on a market-...]]></description>
-            <link>https://cryptoslate.com/bitcoin-faces-a-massive-liquidity-shift-as-these-five-market-gatekeepers-prepare-to-tighten-the-markets-remaining-chokepoints/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-faces-a-massive-liquidity-shift-as-these-five-market-gatekeepers-prepare-to-tighten-the-markets-remaining-chokepoints/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 19 Jan 2026 17:15:18 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-01-19</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Hash Rate Slips Below 1 ZH/s as Miners Face Growing Profitability Pressure]]></title>
             <description><![CDATA[Bitcoin miners face profitability headwinds as network hash rate declines and difficulty is set to adjust downward....]]></description>
             <link>https://cryptopotato.com/bitcoin-hash-rate-slips-below-1-zh-s-as-miners-face-growing-profitability-pressure/</link>
@@ -987,17 +1053,6 @@ The blockchain intell...]]></description>
             <dc:date>2026-01-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[United States unusually breaks from its tariff playbook causing Bitcoin to miss Sunday night relief rally]]></title>
-            <description><![CDATA[On Monday morning, the market did that thing it always does when politics stops being background noise and starts grabbing the steering wheel. Screens went red, chats filled with the same half-jokes a...]]></description>
-            <link>https://cryptoslate.com/trumps-tariff-threat-cycle-breaks-from-past-playbook-for-the-first-time-causing-bitcoin-to-miss-sunday-night-relief-rally/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/trumps-tariff-threat-cycle-breaks-from-past-playbook-for-the-first-time-causing-bitcoin-to-miss-sunday-night-relief-rally/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 19 Jan 2026 15:05:54 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-01-19</dc:date>
-        </item>
-        <item>
             <title><![CDATA[DipCoin Launches Vaults, Bringing On-Chain Strategy Trading to Perpetual Markets]]></title>
             <description><![CDATA[[PRESS RELEASE – San Francisco, CA, January 19th, 2026] DipCoin, a decentralized perpetual trading protocol built on the Sui blockchain, has launched DipCoin Vaults, a new on-chain system that allows ...]]></description>
             <link>https://cryptopotato.com/dipcoin-launches-vaults-bringing-on-chain-strategy-trading-to-perpetual-markets/</link>
@@ -1020,17 +1075,6 @@ The blockchain intell...]]></description>
             <dc:date>2026-01-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[Jordanian pleads guilty to selling access to 50 corporate networks]]></title>
-            <description><![CDATA[A Jordanian man has pleaded guilty to operating as an "access broker" who sold access to the computer networks of at least 50 companies. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 19 Jan 2026 14:38:32 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-19</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Binance to Delist 23 Trading Pairs on January 20: What Altcoin Traders Need to Know]]></title>
             <description><![CDATA[Check out the latest and most important amendments enforced by Binance....]]></description>
             <link>https://cryptopotato.com/binance-to-delist-23-trading-pairs-on-januar-20-what-altcoin-traders-need-to-know/</link>
@@ -1039,17 +1083,6 @@ The blockchain intell...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 19 Jan 2026 13:40:59 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ingram Micro says ransomware attack affected 42,000 people]]></title>
-            <description><![CDATA[​Information technology giant Ingram Micro has revealed that a ransomware attack on its systems in July 2025 led to a data breach affecting over 42,000 individuals. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 19 Jan 2026 13:33:45 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-01-19</dc:date>
         </item>
         <item>
@@ -1219,28 +1252,6 @@ The security flaw, codenamed...]]></description>
             <dc:date>2026-01-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[OpenAI hostname hints at a new ChatGPT feature codenamed "Sonata"]]></title>
-            <description><![CDATA[OpenAI is reportedly testing a new feature or product codenamed "Sonata," and it could be related to music or audio-related experiences on ChatGPT. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 19 Jan 2026 01:47:00 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Is Crypto Fraud Becoming Industrialized? Cyvers Reviews On-Chain Threats From 2025]]></title>
-            <description><![CDATA[Cyvers found that pig butchering schemes were the most organized and persistent threat, while access control attacks caused the most security incidents....]]></description>
-            <link>https://cryptopotato.com/is-crypto-fraud-becoming-industrialized-cyvers-reviews-on-chain-threats-from-2025/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/is-crypto-fraud-becoming-industrialized-cyvers-reviews-on-chain-threats-from-2025/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 18 Jan 2026 22:22:11 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-18</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Anchorage police department takes servers offline after cyberattack on service provider]]></title>
             <description><![CDATA[Jonathan Greig reports: The Anchorage Police Department said it took a range of actions to address a recent cyberattack on one of its technology service providers. A police department spokesperson tol...]]></description>
             <link>https://databreaches.net/2026/01/18/anchorage-police-department-takes-servers-offline-after-cyberattack-on-service-provider/?pk_campaign=feed&amp;pk_kwd=anchorage-police-department-takes-servers-offline-after-cyberattack-on-service-provider</link>
@@ -1328,17 +1339,6 @@ In addition, the group's al...]]></description>
             <pubDate>Sat, 17 Jan 2026 08:34:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2026-01-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[More Problems for Fortinet: Critical FortiSIEM Flaw Exploited]]></title>
-            <description><![CDATA[CVE-2025-64155, a command injection vulnerability, was disclosed earlier this week and quickly came under attack from a variety of IP addresses....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 16 Jan 2026 21:03:37 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-01-16</dc:date>
         </item>
     </channel>
 </rss>
