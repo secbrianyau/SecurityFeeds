@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jan 2026 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 12:42:23 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Jan 2026 09:23:44 GMT</pubDate>
+        <pubDate>Sat, 24 Jan 2026 12:42:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,97 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/rsac-2026-conference</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sat, 24 Jan 2026 09:19:02 GMT</pubDate>
+            <pubDate>Sat, 24 Jan 2026 12:37:37 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-01-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.]]></title>
+            <description><![CDATA[Telehealth provider Call-On-Doc, Inc., dba Call-On-Doc.com, advertises that it has 2 million active patients and treats 150+ medical conditions. It claims to be the most highly rated telehealth servic...]]></description>
+            <link>https://databreaches.net/2026/01/24/call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment/?pk_campaign=feed&amp;pk_kwd=call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/01/24/call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment/?pk_campaign=feed&amp;pk_kwd=call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 12:05:02 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-01-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin is trapped on a “liquidation treadmill” where risky positions are being systematically hunted]]></title>
+            <description><![CDATA[Bitcoin’s recent price action had a familiar signature: leverage built on the bounce, funding turned supportive for longs, then the market ran the nearest pockets of fragility until forced selling too...]]></description>
+            <link>https://cryptoslate.com/btc-liquidation-treadmill-is-back-and-futures-still-run-the-tape/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/btc-liquidation-treadmill-is-back-and-futures-still-run-the-tape/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 12:01:50 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-01-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ShinyHunters claim to be behind SSO-account data theft attacks]]></title>
+            <description><![CDATA[Lawrence Abrams reports: The ShinyHunters extortion gang claims it is behind a wave of ongoing voice phishing attacks targeting single sign-on (SSO) accounts at Okta, Microsoft, and Google, enabling t...]]></description>
+            <link>https://databreaches.net/2026/01/24/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/?pk_campaign=feed&amp;pk_kwd=shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/01/24/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/?pk_campaign=feed&amp;pk_kwd=shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 12:00:41 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-01-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[R3 bets on Solana to bring institutional yield onchain]]></title>
+            <description><![CDATA[As DeFi investors seek stable, uncorrelated returns, R3 is building Solana-native structures to bring private credit and trade finance into crypto markets....]]></description>
+            <link>https://www.coindesk.com/business/2026/01/24/r3-bets-on-solana-to-bring-institutional-yield-onchain</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/01/24/r3-bets-on-solana-to-bring-institutional-yield-onchain</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 12:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-01-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[France’s Waltio faces ransom threat from notorious hacker collective]]></title>
+            <description><![CDATA[Caroline Alvarez reports: Waltio, a French crypto tax platform, is under siege from ShinyHunters, a notorious ransomware group claiming to hold the personal data of nearly 50,000 users. ShinyHunters, ...]]></description>
+            <link>https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&amp;pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&amp;pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 11:58:39 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-01-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware]]></title>
+            <description><![CDATA[A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT.
+"The attack begins with social engineering lures delivere...]]></description>
+            <link>https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 11:09:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-01-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hyperliquid (HYPE) Soars 11% After Recent Crash, Bitcoin (BTC) Still Below $90K: Weekend Watch]]></title>
+            <description><![CDATA[RIVER has entered the top 100 alts after a massive 30% surge today....]]></description>
+            <link>https://cryptopotato.com/hyperliquid-hype-soars-11-after-recent-crash-bitcoin-btc-still-below-90k-weekend-watch/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/hyperliquid-hype-soars-11-after-recent-crash-bitcoin-btc-still-below-90k-weekend-watch/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 10:53:35 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-01-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Why one pound still buys more than one dollar, a crypto native guide to the least intuitive chart on Earth]]></title>
+            <description><![CDATA[If you have ever landed in London, opened your banking app, and felt that tiny jolt of disbelief, you are not alone. One pound shows up as more than one dollar, again, and it feels wrong in the same w...]]></description>
+            <link>https://cryptoslate.com/why-1-still-buys-more-than-1-a-crypto-native-guide-to-the-least-intuitive-chart-on-earth/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/why-1-still-buys-more-than-1-a-crypto-native-guide-to-the-least-intuitive-chart-on-earth/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 24 Jan 2026 09:35:35 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-01-24</dc:date>
         </item>
         <item>
@@ -797,17 +886,6 @@
             <dc:date>2026-01-23</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin stalls as risk-off mood lifts gold while altcoins attempts breakout: Crypto Markets Today]]></title>
-            <description><![CDATA[Bitcoin and ether were little changed alongside softer U.S. equity futures as investors leaned risk-off. Some altcoins bucked the trend due to thin liquidity....]]></description>
-            <link>https://www.coindesk.com/markets/2026/01/23/bitcoin-stalls-as-risk-off-mood-lifts-gold-altcoins-diverge-crypto-markets-today</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/01/23/bitcoin-stalls-as-risk-off-mood-lifts-gold-altcoins-diverge-crypto-markets-today</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 23 Jan 2026 11:40:30 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-01-23</dc:date>
-        </item>
-        <item>
             <title><![CDATA[TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order]]></title>
             <description><![CDATA[TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S.
 The new venture, named TikTok USDS J...]]></description>
@@ -839,17 +917,6 @@ The new venture, named TikTok USDS J...]]></description>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Fri, 23 Jan 2026 10:39:03 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-01-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[From prison to Davos, pardoned Binance founder CZ exposes a $33 trillion secret the global elite can’t hide anymore]]></title>
-            <description><![CDATA[Changpeng Zhao spoke at the World Economic Forum's 2026 Annual Meeting in Davos this week, his first appearance on the official programme since Binance's 2023 US settlement and his subsequent guilty p...]]></description>
-            <link>https://cryptoslate.com/from-prison-to-davos-pardoned-binance-founder-cz-exposes-a-33-trillion-secret-that-the-global-elite-can-no-longer-hide-from-you/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/from-prison-to-davos-pardoned-binance-founder-cz-exposes-a-33-trillion-secret-that-the-global-elite-can-no-longer-hide-from-you/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 23 Jan 2026 10:21:43 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-01-23</dc:date>
         </item>
         <item>
@@ -983,17 +1050,6 @@ The new venture, named TikTok USDS J...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Thu, 22 Jan 2026 20:22:18 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BlackRock backs Ethereum gatekeeping tokenization even though its market share is under threat]]></title>
-            <description><![CDATA[BlackRock’s 2026 Thematic Outlook put Ethereum at the center of its tokenization thesis, asking whether the network could serve as a “toll road.” BlackRock stated that “of tokenized assets 65%+ are on...]]></description>
-            <link>https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/blackrock-puts-ethereum-at-tokenizations-center-but-one-quiet-metric-could-wreck-the-toll-road-bet/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 22 Jan 2026 20:15:00 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-01-22</dc:date>
         </item>
         <item>
@@ -1282,63 +1338,6 @@ The vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0...]]></de
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Thu, 22 Jan 2026 10:04:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-01-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Canton (CC) Surges in Double Digits as BTC Settles After Turbulent Moves: Market Watch]]></title>
-            <description><![CDATA[MYX and RAIN are the other big gainers today....]]></description>
-            <link>https://cryptopotato.com/canton-cc-surges-in-double-digits-as-btc-settles-after-turbulent-moves-market-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/canton-cc-surges-in-double-digits-as-btc-settles-after-turbulent-moves-market-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 22 Jan 2026 09:53:53 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-01-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release]]></title>
-            <description><![CDATA[A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.
-The vulnerability, which currently does not have a...]]></description>
-            <link>https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 22 Jan 2026 09:46:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-01-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations]]></title>
-            <description><![CDATA[Cybersecurity company Arctic Wolf has warned of a "new cluster of automated malicious activity" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.
-The activity, i...]]></description>
-            <link>https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 22 Jan 2026 05:55:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-01-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex]]></title>
-            <description><![CDATA[Cisco has released fresh patches to address what it described as a "critical" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that i...]]></description>
-            <link>https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 22 Jan 2026 04:06:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-01-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Dark Reading Confidential: Reviving the Hacker Ethos That Built Cybersecurity]]></title>
-            <description><![CDATA[Dark Reading Confidential Episode 14: How curious, ethical problem solving can continue to serve as a guiding principle for an evolving cybersecurity sector....]]></description>
-            <link>https://www.darkreading.com/cybersecurity-operations/untitled</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/untitled</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 22 Jan 2026 00:24:21 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-01-22</dc:date>
         </item>
     </channel>
