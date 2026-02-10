@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Feb 2026 05:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 07:06:30 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Feb 2026 05:06:48 GMT</pubDate>
+        <pubDate>Tue, 10 Feb 2026 07:06:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,31 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 05:02:03 GMT</pubDate>
+            <pubDate>Tue, 10 Feb 2026 07:01:47 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-02-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Analysts Warn of Extended Downturn as Bitcoin Struggles at $68K]]></title>
+            <description><![CDATA[Crypto market analysts have become increasingly bearish, with technical signals favoring further downside before any meaningful recovery....]]></description>
+            <link>https://cryptopotato.com/analysts-warn-of-extended-downturn-as-bitcoin-struggles-at-68k/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/analysts-warn-of-extended-downturn-as-bitcoin-struggles-at-68k/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 10 Feb 2026 06:19:54 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-02-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution]]></title>
+            <description><![CDATA[Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems.
+The vulnerability, tracked as CVE-...]]></description>
+            <link>https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 10 Feb 2026 04:38:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-02-10</dc:date>
         </item>
         <item>
@@ -1206,17 +1229,6 @@ The ac...]]></description>
             <dc:date>2026-02-07</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ethereum Reclaims $2K Level, Bitcoin Recovery Halted at $72K: Weekend Watch]]></title>
-            <description><![CDATA[Meanwhile, XRP and SOL are among the top performers today, with notable increases following the latest market crash....]]></description>
-            <link>https://cryptopotato.com/ethereum-reclaims-2k-level-bitcoin-recovery-halted-at-72k-weekend-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ethereum-reclaims-2k-level-bitcoin-recovery-halted-at-72k-weekend-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 07 Feb 2026 11:40:00 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-02-07</dc:date>
-        </item>
-        <item>
             <title><![CDATA[German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists]]></title>
             <description><![CDATA[Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a...]]></description>
             <link>https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html</link>
@@ -1324,17 +1336,6 @@ The ac...]]></description>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Fri, 06 Feb 2026 15:01:11 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-02-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk]]></title>
-            <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and rem...]]></description>
-            <link>https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 06 Feb 2026 13:43:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-02-06</dc:date>
         </item>
     </channel>
