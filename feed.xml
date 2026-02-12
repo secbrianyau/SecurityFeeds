@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Feb 2026 21:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 02:08:24 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Feb 2026 21:36:06 GMT</pubDate>
+        <pubDate>Thu, 12 Feb 2026 02:08:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,63 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 21:31:42 GMT</pubDate>
+            <pubDate>Thu, 12 Feb 2026 02:03:41 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-02-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Apple fixes zero-day flaw used in 'extremely sophisticated' attacks]]></title>
+            <description><![CDATA[Apple has released security updates to fix a zero-day vulnerability that was exploited in an "extremely sophisticated attack" targeting specific individuals. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 01:06:05 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-02-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Windows 11 Notepad flaw let files execute silently via Markdown links]]></title>
+            <description><![CDATA[Microsoft has fixed a "remote code execution" vulnerability in Windows 11 Notepad that allowed attackers to execute local or remote programs by tricking users into clicking specially crafted Markdown ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 23:15:41 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-02-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Banks Take Hard Line on Stablecoin Yields as White House Talks Stall]]></title>
+            <description><![CDATA[Crypto and banks clashed over stablecoin rewards, with no agreement reached ahead of the March 1 deadline....]]></description>
+            <link>https://cryptopotato.com/banks-take-hard-line-on-stablecoin-yields-as-white-house-talks-stall/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/banks-take-hard-line-on-stablecoin-yields-as-white-house-talks-stall/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 22:05:44 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-02-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[North Korea's UNC1069 Hammers Crypto Firms With AI]]></title>
+            <description><![CDATA[In moving away from traditional banks to focus on Web3 companies, the threat actor is leveraging LLMs, deepfakes, legitimate platforms, and ClickFix....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 21:56:11 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-02-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts]]></title>
+            <description><![CDATA[The AgreeTo add-in for Outlook has been hijacked and turned into a phishing kit that stole more than 4,000 Microsoft account credentials. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 21:53:58 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-02-11</dc:date>
         </item>
         <item>
@@ -156,6 +211,18 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Wed, 11 Feb 2026 17:48:02 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2026-02-11</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials]]></title>
+            <description><![CDATA[Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.
+In this unusual supply chain attack detailed by Koi Security, an un...]]></description>
+            <link>https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 17:45:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-02-11</dc:date>
         </item>
         <item>
@@ -965,17 +1032,6 @@ Of the 59 flaws, five are r...]]></description>
             <dc:date>2026-02-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft rolls out new Secure Boot certificates before June expiration]]></title>
-            <description><![CDATA[Microsoft has begun rolling out updated Secure Boot certificates through monthly Windows updates to replace the original 2011 certificates that will expire in late June 2026. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 17:00:00 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-02-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Singapore says China-backed hackers targeted its four largest phone companies]]></title>
             <description><![CDATA[Zack Whittaker reports: Singapore’s government has blamed a known Chinese cyber-espionage group for targeting four of its top telecommunication companies as part of a months-long attack. In a statemen...]]></description>
             <link>https://databreaches.net/2026/02/10/singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies/?pk_campaign=feed&amp;pk_kwd=singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies</link>
@@ -1039,28 +1095,6 @@ Of the 59 flaws, five are r...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Tue, 10 Feb 2026 15:46:27 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-02-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft 365 outage takes down admin center in North America]]></title>
-            <description><![CDATA[Microsoft is investigating an outage that blocks some administrators with business or enterprise subscriptions from accessing the Microsoft 365 admin center. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 15:45:15 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-02-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[How to Automate AWS Incident Investigation with Tines and AI]]></title>
-            <description><![CDATA[Cloud incidents drag on when analysts have to leave cases to hunt through AWS consoles and CLIs. Tines shows how automated agents pull AWS CLI data directly into cases, reducing MTTR and manual invest...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 15:01:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-02-10</dc:date>
         </item>
         <item>
@@ -1306,39 +1340,6 @@ The incident took place on January 29, 2026, wh...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 09 Feb 2026 23:05:21 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-02-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[How 2 Wallet Errors and Phishing Attacks Cost Crypto Users $62M]]></title>
-            <description><![CDATA[Two crypto users lost $12.25 million and $50 million after copying incorrect wallet addresses....]]></description>
-            <link>https://cryptopotato.com/how-2-wallet-errors-and-phishing-attacks-cost-crypto-users-62m/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/how-2-wallet-errors-and-phishing-attacks-cost-crypto-users-62m/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 09 Feb 2026 22:36:39 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-02-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Warlock Gang Breaches SmarterTools Via SmarterMail Bugs]]></title>
-            <description><![CDATA[The ransomware group breached SmarterTools through a vulnerability in the company's own SmarterMail product....]]></description>
-            <link>https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 09 Feb 2026 21:59:02 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-02-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hackers Use Signal QR Codes to Spy on Military and Political Leaders]]></title>
-            <description><![CDATA[Deeba Ahmed reports: Security experts in Germany are on high alert following a wave of digital attacks aimed at high-ranking officials and public figures. The warning comes from the country’s top secu...]]></description>
-            <link>https://databreaches.net/2026/02/09/hackers-use-signal-qr-codes-to-spy-on-military-and-political-leaders/?pk_campaign=feed&amp;pk_kwd=hackers-use-signal-qr-codes-to-spy-on-military-and-political-leaders</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/02/09/hackers-use-signal-qr-codes-to-spy-on-military-and-political-leaders/?pk_campaign=feed&amp;pk_kwd=hackers-use-signal-qr-codes-to-spy-on-military-and-political-leaders</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Mon, 09 Feb 2026 21:42:17 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
             <dc:date>2026-02-09</dc:date>
         </item>
     </channel>
