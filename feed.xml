@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 21:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 02:11:10 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Feb 2026 21:36:29 GMT</pubDate>
+        <pubDate>Fri, 13 Feb 2026 02:11:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,74 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 12 Feb 2026 21:31:47 GMT</pubDate>
+            <pubDate>Fri, 13 Feb 2026 02:06:35 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-02-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Russia tries to block WhatsApp, Telegram in communication blockade]]></title>
+            <description><![CDATA[The Russian government is attempting to block WhatsApp in the country as its crackdown on communication platforms not under its control intensifies. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 22:57:54 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-02-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto execs Armstrong, Garlinghouse among many named to U.S. CFTC advisory group]]></title>
+            <description><![CDATA[The Commodity Futures Trading Commission's new chief, Mike Selig, repurposed the agency's previous CEO innovation council, almost tripling its members....]]></description>
+            <link>https://www.coindesk.com/policy/2026/02/12/crypto-execs-armstrong-garlinghouse-among-many-named-to-u-s-cftc-advisory-group</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/02/12/crypto-execs-armstrong-garlinghouse-among-many-named-to-u-s-cftc-advisory-group</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 22:22:41 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-02-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Lender BlockFills Temporarily Freezes Transfers as Liquidity Pressures Emerge]]></title>
+            <description><![CDATA[The company blamed it on the most recent violent correction in the crypto market....]]></description>
+            <link>https://cryptopotato.com/crypto-lender-blockfills-temporarily-freezes-transfers-as-liquidity-pressures-emerge/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/crypto-lender-blockfills-temporarily-freezes-transfers-as-liquidity-pressures-emerge/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 22:16:36 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-02-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again]]></title>
+            <description><![CDATA[It's time to phase out the "patch and pray" approach, eliminate needless public interfaces, and enforce authentication controls, one expert says....]]></description>
+            <link>https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit</link>
+            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 22:05:32 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-02-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitwarden introduces ‘Cupid Vault’ for secure password sharing]]></title>
+            <description><![CDATA[Bitwarden has launched a new system called 'Cupid Vault' that allows users to safely share passwords with trusted email addresses. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 21:55:24 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-02-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Critical BeyondTrust RCE flaw now exploited in attacks, patch now]]></title>
+            <description><![CDATA[A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published onli...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2026 21:34:12 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-02-12</dc:date>
         </item>
         <item>
@@ -93,7 +159,7 @@
             <dc:date>2026-02-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Those 'Summarize With AI' Buttons May Lying to You]]></title>
+            <title><![CDATA[Those 'Summarize With AI' Buttons May Be Lying to You]]></title>
             <description><![CDATA[Microsoft uncovered AI recommendation poisoning in 31 companies across 14 industries, and turnkey tools make it trivially easy to pull off....]]></description>
             <link>https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying</link>
             <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying</guid>
@@ -643,17 +709,6 @@
             <dc:date>2026-02-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin defies 'extreme fear,' hot jobs report to show signs of resilience]]></title>
-            <description><![CDATA[Bitcoin rose after the U.S. jobs report indicated employment growth in many sectors of the economy was restrained even as the headline number surged....]]></description>
-            <link>https://www.coindesk.com/markets/2026/02/12/bitcoin-defies-extreme-fear-hot-jobs-report-to-show-signs-of-resilience</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/02/12/bitcoin-defies-extreme-fear-hot-jobs-report-to-show-signs-of-resilience</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 12 Feb 2026 11:43:19 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-02-12</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Uniswap is bringing BlackRock’s $2.2 billion BUIDL to DeFi, but the trade access comes with a catch]]></title>
             <description><![CDATA[On Feb. 11, Uniswap announced that BlackRock's $2.2 billion USD Institutional Digital Liquidity Fund (BUIDL) would trade on UniswapX via a partnership with Securitize. The integration enables BUIDL ho...]]></description>
             <link>https://cryptoslate.com/uniswap-is-bringing-blackrocks-2-2-billion-buidl-to-defi-but-the-trade-access-comes-with-a-catch/</link>
@@ -952,25 +1007,14 @@ In this unusual supply chain attack detailed by Koi Security, an un...]]></descr
             <dc:date>2026-02-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[Proactive strategies for cyber resilience with Wazuh]]></title>
-            <description><![CDATA[Cyber resilience means anticipating threats, detecting them early, and recovering fast when incidents occur. Wazuh shows how its open source SIEM and XDR unify visibility, detection, and automated res...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 17:40:28 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-02-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[LummaStealer infections surge after CastleLoader malware campaigns]]></title>
-            <description><![CDATA[A surge in LummaStealer infections has been observed, driven by social engineering campaigns leveraging the ClickFix technique to deliver the CastleLoader malware. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 17:02:29 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
+            <title><![CDATA[Kimwolf Botnet Swamps Anonymity Network I2P]]></title>
+            <description><![CDATA[For the past week, the massive "Internet of Things" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network design...]]></description>
+            <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
+            <guid isPermaLink="false">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
+            <category><![CDATA[Krebs On Security]]></category>
+            <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
+            <pubDate>Wed, 11 Feb 2026 16:08:11 GMT</pubDate>
+            <dc:source>Krebs On Security</dc:source>
             <dc:date>2026-02-11</dc:date>
         </item>
         <item>
@@ -1219,17 +1263,6 @@ Of the 59 flaws, five are r...]]></description>
             <dc:date>2026-02-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft releases Windows 11 26H1 for select and upcoming CPUs]]></title>
-            <description><![CDATA[Microsoft has announced Windows 11 26H1, but it's not for existing PCs. Instead, it will ship on devices with Snapdragon X2 processors and possibly other rumored ARM chips.w [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 02:06:42 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-02-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Asia Fumbles With Throttling Back Telnet Traffic in Region]]></title>
             <description><![CDATA[Only Taiwan made the top 10 list of governments, effectively blocking the threat-ridden protocol, but overall, the region lagged in curbing Telnet traffic....]]></description>
             <link>https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic</link>
@@ -1274,6 +1307,17 @@ Of the 59 flaws, five are r...]]></description>
             <dc:date>2026-02-10</dc:date>
         </item>
         <item>
+            <title><![CDATA[Patch Tuesday, February 2026 Edition]]></title>
+            <description><![CDATA[Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six "zero-day" vulnerabilities that attackers ...]]></description>
+            <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
+            <guid isPermaLink="false">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
+            <category><![CDATA[Krebs On Security]]></category>
+            <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
+            <pubDate>Tue, 10 Feb 2026 21:49:53 GMT</pubDate>
+            <dc:source>Krebs On Security</dc:source>
+            <dc:date>2026-02-10</dc:date>
+        </item>
+        <item>
             <title><![CDATA[In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware']]></title>
             <description><![CDATA[With access to SIM, location data, and a preview of recent SMSes, attackers have everything they need for account takeover or targeted social engineering....]]></description>
             <link>https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market</link>
@@ -1293,50 +1337,6 @@ Of the 59 flaws, five are r...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Tue, 10 Feb 2026 21:00:36 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-02-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[South Korea government is promoting bill for statutory damages for personal information leaks.]]></title>
-            <description><![CDATA[Kwon Soon-wan reports: The Democratic Party of Korea and the government are pushing for a bill that would hold companies liable for damages in personal information leaks even in the absence of intent ...]]></description>
-            <link>https://databreaches.net/2026/02/10/south-korea-government-is-promoting-bill-for-statutory-damages-for-personal-information-leaks/?pk_campaign=feed&amp;pk_kwd=south-korea-government-is-promoting-bill-for-statutory-damages-for-personal-information-leaks</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/02/10/south-korea-government-is-promoting-bill-for-statutory-damages-for-personal-information-leaks/?pk_campaign=feed&amp;pk_kwd=south-korea-government-is-promoting-bill-for-statutory-damages-for-personal-information-leaks</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 20:52:55 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-02-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hyperliquid Records $2.6T Volume, Leaving Coinbase Behind: Artemis]]></title>
-            <description><![CDATA[Coinbase is being quietly eclipsed by Hyperliquid, whose trading volume is nearly double that of Coinbase....]]></description>
-            <link>https://cryptopotato.com/hyperliquid-records-2-6t-volume-leaving-coinbase-behind-artemis/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/hyperliquid-records-2-6t-volume-leaving-coinbase-behind-artemis/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 20:25:45 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-02-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies]]></title>
-            <description><![CDATA[The information technology (IT) workers associated with the Democratic People's Republic of Korea (DPRK) are now applying to remote positions using real LinkedIn accounts of individuals they're impers...]]></description>
-            <link>https://thehackernews.com/2026/02/dprk-operatives-impersonate.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/02/dprk-operatives-impersonate.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 17:44:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-02-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Singapore says China-backed hackers targeted its four largest phone companies]]></title>
-            <description><![CDATA[Zack Whittaker reports: Singapore’s government has blamed a known Chinese cyber-espionage group for targeting four of its top telecommunication companies as part of a months-long attack. In a statemen...]]></description>
-            <link>https://databreaches.net/2026/02/10/singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies/?pk_campaign=feed&amp;pk_kwd=singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/02/10/singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies/?pk_campaign=feed&amp;pk_kwd=singapore-says-china-backed-hackers-targeted-its-four-largest-phone-companies</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Tue, 10 Feb 2026 16:49:48 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
             <dc:date>2026-02-10</dc:date>
         </item>
     </channel>
