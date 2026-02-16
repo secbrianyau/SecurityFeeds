@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 21:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 02:06:22 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Feb 2026 21:27:17 GMT</pubDate>
+        <pubDate>Mon, 16 Feb 2026 02:06:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,52 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sun, 15 Feb 2026 21:22:33 GMT</pubDate>
+            <pubDate>Mon, 16 Feb 2026 02:01:39 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-02-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Solution worse than problem? Adam Back opposes BIP-110 Ordinals fix]]></title>
+            <description><![CDATA[Blockstream's Adam Back said BIP-110 could be used to freeze user funds, but the proposal’s creator argues there are safeguards in place to prevent it....]]></description>
+            <link>https://cointelegraph.com/news/adam-back-opposes-bip110-fixing-arbitrary-data-spam?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/adam-back-opposes-bip110-fixing-arbitrary-data-spam?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Mon, 16 Feb 2026 01:57:35 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2026-02-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS]]></title>
+            <description><![CDATA[Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 16 Feb 2026 00:29:00 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-02-16</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Windows 11 KB5077181 fixes boot failures linked to failed updates]]></title>
+            <description><![CDATA[Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot with an "UNMOUNTABLE_BOOT_VOLUME" error after installing recent security updates, with the fix deliv...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sun, 15 Feb 2026 22:08:53 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-02-15</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Flows to Human Trafficking Services Jump 85% to Hundreds of Millions in 2025]]></title>
+            <description><![CDATA[As Epstein-linked revelations emerged, new data show crypto payments to suspected trafficking services surged 85% globally in 2025....]]></description>
+            <link>https://cryptopotato.com/crypto-flows-to-human-trafficking-services-jump-85-to-hundreds-of-millions-in-2025/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/crypto-flows-to-human-trafficking-services-jump-85-to-hundreds-of-millions-in-2025/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sun, 15 Feb 2026 22:07:55 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-02-15</dc:date>
         </item>
         <item>
@@ -1074,17 +1118,6 @@ The extension, named CL S...]]></description>
             <dc:date>2026-02-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Playnance Turns Creators Into Platform Owners With $1 Digital Businesses]]></title>
-            <description><![CDATA[[PRESS RELEASE – Tel Aviv, Israel, February 12th, 2026] Playnance has expanded Be The Boss, its global partner program, through PlayW3, the Web3 social gaming platform built and operated by Playnance....]]></description>
-            <link>https://cryptopotato.com/playnance-turns-creators-into-platform-owners-with-1-digital-businesses/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/playnance-turns-creators-into-platform-owners-with-1-digital-businesses/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Fri, 13 Feb 2026 06:27:18 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-02-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Russia tries to block WhatsApp, Telegram in communication blockade]]></title>
             <description><![CDATA[The Russian government is attempting to block WhatsApp in the country as its crackdown on communication platforms not under its control intensifies. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/</link>
@@ -1184,17 +1217,6 @@ The extension, named CL S...]]></description>
             <dc:date>2026-02-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft: New Windows LNK spoofing issues aren't vulnerabilities]]></title>
-            <description><![CDATA[Today, at Wild West Hackin' Fest, security researcher Wietze Beukema disclosed multiple vulnerabilities in Windows LK shortcut files that allow attackers to deploy malicious payloads. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 12 Feb 2026 21:01:00 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-02-12</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Those 'Summarize With AI' Buttons May Be Lying to You]]></title>
             <description><![CDATA[Microsoft uncovered AI recommendation poisoning in 31 companies across 14 industries, and turnkey tools make it trivially easy to pull off....]]></description>
             <link>https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying</link>
@@ -1214,17 +1236,6 @@ The extension, named CL S...]]></description>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Thu, 12 Feb 2026 19:17:24 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-02-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Romania's oil pipeline operator Conpet confirms data stolen in attack]]></title>
-            <description><![CDATA[Romania's national oil pipeline operator, Conpet S.A., confirmed that the Qilin ransomware gang stole company data in an attack last week. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 12 Feb 2026 19:16:38 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-02-12</dc:date>
         </item>
         <item>
@@ -1324,18 +1335,6 @@ The extension, named CL S...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 11 Feb 2026 19:35:53 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-02-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials]]></title>
-            <description><![CDATA[Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.
-In this unusual supply chain attack detailed by Koi Security, an un...]]></description>
-            <link>https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 11 Feb 2026 17:45:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-02-11</dc:date>
         </item>
     </channel>
