@@ -9,12 +9,34 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 02:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 04:48:48 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 02:06:01 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 04:48:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[$1 Billion Floods Back Into Crypto Funds, Snapping Five-Week $4B Bleed]]></title>
+            <description><![CDATA[CoinShares reported $1 billion weekly turnaround, driven by Bitcoin buying and renewed investor appetite across major markets....]]></description>
+            <link>https://cryptopotato.com/1-billion-floods-back-into-crypto-funds-snapping-five-week-4b-bleed/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/1-billion-floods-back-into-crypto-funds-snapping-five-week-4b-bleed/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 03 Mar 2026 04:21:59 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-03-03</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[OpenZeppelin finds data contamination in OpenAI’s EVMbench]]></title>
+            <description><![CDATA[Security auditor OpenZepplin found that EVMbench’s dataset contains training data leaks and at least four invalid high-severity vulnerability classifications....]]></description>
+            <link>https://cointelegraph.com/news/openzeppelin-audits-openai-evmbench-finds-data-contamination?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/openzeppelin-audits-openai-evmbench-finds-data-contamination?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 03 Mar 2026 04:18:22 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2026-03-03</dc:date>
+        </item>
         <item>
             <title><![CDATA[CyberStrikeAI tool adopted by hackers for AI-powered attacks]]></title>
             <description><![CDATA[Researchers warn that a newly identified open-source AI security testing platform called CyberStrikeAI was used by the same threat actor behind a recent campaign that breached hundreds of Fortinet For...]]></description>
@@ -90,6 +112,17 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Mon, 02 Mar 2026 21:38:56 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2026-03-02</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era]]></title>
+            <description><![CDATA[Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page....]]></description>
+            <link>https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 02 Mar 2026 21:32:04 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-03-02</dc:date>
         </item>
         <item>
@@ -1151,17 +1184,6 @@ On paper, everything looks great: more sign-ups, more sessions, more API calls..
             <dc:date>2026-02-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[Not the Bottom Yet? CryptoQuant Data Exposes Bitcoin’s Brutal Deleveraging]]></title>
-            <description><![CDATA[The combination of both metrics suggests the current regime is consolidative or mid-cycle bearish, with definitive capitulation likely to occur soon....]]></description>
-            <link>https://cryptopotato.com/not-the-bottom-yet-cryptoquant-data-exposes-bitcoins-brutal-deleveraging/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/not-the-bottom-yet-cryptoquant-data-exposes-bitcoins-brutal-deleveraging/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 28 Feb 2026 11:15:09 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-02-28</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement]]></title>
             <description><![CDATA[New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private da...]]></description>
             <link>https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html</link>
@@ -1316,30 +1338,6 @@ The Go mod...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 27 Feb 2026 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-02-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms]]></title>
-            <description><![CDATA[Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT).
-"A malicious downl...]]></description>
-            <link>https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 27 Feb 2026 10:06:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-02-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams]]></title>
-            <description><![CDATA[Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam.
-As part of the effor...]]></description>
-            <link>https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 27 Feb 2026 07:56:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-02-27</dc:date>
         </item>
     </channel>
