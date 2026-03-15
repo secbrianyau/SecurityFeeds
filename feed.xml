@@ -9,14 +9,80 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 12:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 15:31:20 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 12:54:37 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 15:31:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
         <item>
-            <title><![CDATA[The CFTC starts crack down on the growing insider problem in prediction markets]]></title>
+            <title><![CDATA[Ransomware incident responder gave info to BlackCat cybercriminals during negotiations, DOJ alleges]]></title>
+            <description><![CDATA[It’s not like threat actors weren’t telling some of us about rogue negotiators. They were. Now I wonder how many other journalists also disbelieved the threat actors when they were telling the truth. ...]]></description>
+            <link>https://databreaches.net/2026/03/15/ransomware-incident-responder-gave-info-to-blackcat-cybercriminals-during-negotiations-doj-alleges/?pk_campaign=feed&amp;pk_kwd=ransomware-incident-responder-gave-info-to-blackcat-cybercriminals-during-negotiations-doj-alleges</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/03/15/ransomware-incident-responder-gave-info-to-blackcat-cybercriminals-during-negotiations-doj-alleges/?pk_campaign=feed&amp;pk_kwd=ransomware-incident-responder-gave-info-to-blackcat-cybercriminals-during-negotiations-doj-alleges</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Sun, 15 Mar 2026 15:00:32 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-03-15</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Betterleaks, a new open-source secrets scanner to replace Gitleaks]]></title>
+            <description><![CDATA[A new open-source tool called Betterleaks can scan directories, files, and git repositories and identify valid secrets using default or customized rules. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sun, 15 Mar 2026 14:17:23 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-03-15</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin’s $71k rally has a problem most traders aren’t watching]]></title>
+            <description><![CDATA[Bitcoin entered the weekend hovering near $71,000, well off the previous week's spike above $74,000, but far below the highs it touched at the beginning of the year. On price alone, the market looks p...]]></description>
+            <link>https://cryptoslate.com/bitcoins-71k-rally-has-a-problem-most-traders-arent-watching/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoins-71k-rally-has-a-problem-most-traders-arent-watching/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sun, 15 Mar 2026 14:00:54 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-03-15</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitwise’s Matt Hougan revisits $1 million bitcoin — analysts agree but debate his timeline]]></title>
+            <description><![CDATA[Hougan says bitcoin could reach that milestone if it captures a larger share of the global store-of-value market, though analysts say it would likely take years of institutional adoption and macro shi...]]></description>
+            <link>https://www.coindesk.com/markets/2026/03/15/bitwise-s-matt-hougan-revisits-usd1-million-bitcoin-analysts-agree-but-debate-his-timeline</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/03/15/bitwise-s-matt-hougan-revisits-usd1-million-bitcoin-analysts-agree-but-debate-his-timeline</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sun, 15 Mar 2026 14:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-03-15</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[We Asked ChatGPT if XRP Can Indeed Hit $48: Here Is the (Un)Surprising Answer]]></title>
+            <description><![CDATA[We were skeptical, but what about the highly utilized AI solution?...]]></description>
+            <link>https://cryptopotato.com/we-asked-chatgpt-if-xrp-can-indeed-hit-48-here-is-the-unsurprising-answer/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/we-asked-chatgpt-if-xrp-can-indeed-hit-48-here-is-the-unsurprising-answer/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sun, 15 Mar 2026 13:10:13 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-03-15</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Visa is ready for AI agents. So is Coinbase. They're building very different internets]]></title>
+            <description><![CDATA[The next trillion-dollar payments network won't have a checkout page. No card number, no CVV, no human at the keyboard. Just machines paying machines, thousands of times a second, for fractions of a c...]]></description>
+            <link>https://www.coindesk.com/tech/2026/03/15/visa-is-ready-for-ai-agents-so-is-coinbase-they-re-building-very-different-internets</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/03/15/visa-is-ready-for-ai-agents-so-is-coinbase-they-re-building-very-different-internets</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sun, 15 Mar 2026 13:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-03-15</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The CFTC starts crackdown on the growing insider problem in prediction markets]]></title>
             <description><![CDATA[On Mar. 12, the Commodity Futures Trading Commission (CFTC) issued a staff advisory telling exchanges to tighten surveillance on event contracts. Simultaneously, the regulator opened a 45-day rulemaki...]]></description>
             <link>https://cryptoslate.com/the-cftc-to-crack-down-on-the-growing-insider-problem-in-prediction-markets/</link>
             <guid isPermaLink="false">https://cryptoslate.com/the-cftc-to-crack-down-on-the-growing-insider-problem-in-prediction-markets/</guid>
@@ -101,6 +167,17 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Sat, 14 Mar 2026 21:48:14 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-03-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto broker Bitpanda bets on banks and tokenization to expand globally ahead of IPO plans]]></title>
+            <description><![CDATA[The Vienna-based crypto broker eyes emerging markets, teaming up with institutions rather than competing with local exchanges, said Vishal Sacheendran, VP of global markets strategy and operations....]]></description>
+            <link>https://www.coindesk.com/business/2026/03/14/crypto-broker-bitpanda-bets-on-banks-and-tokenization-to-expand-globally-ahead-of-ipo-plans</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/03/14/crypto-broker-bitpanda-bets-on-banks-and-tokenization-to-expand-globally-ahead-of-ipo-plans</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sat, 14 Mar 2026 20:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
             <dc:date>2026-03-14</dc:date>
         </item>
         <item>
@@ -203,7 +280,7 @@
             <dc:date>2026-03-14</dc:date>
         </item>
         <item>
-            <title><![CDATA[Tether’s stablecoin supremacy under threat as USDC closes the gap after market cap explosion]]></title>
+            <title><![CDATA[Stablecoins in 2026: USDC surges 8% to $79B as Circle captures institutional flow from Tether]]></title>
             <description><![CDATA[A quiet shift is underway in the stablecoin hierarchy. While Tether’s USDT still dominates the digital dollar market, the gap between the two largest issuers is narrowing as USDC steadily expands its ...]]></description>
             <link>https://cryptoslate.com/the-digital-dollar-power-balance-cracks-as-circles-growth-spurt-closes-in-on-tethers-dominance/</link>
             <guid isPermaLink="false">https://cryptoslate.com/the-digital-dollar-power-balance-cracks-as-circles-growth-spurt-closes-in-on-tethers-dominance/</guid>
@@ -788,17 +865,6 @@
             <dc:date>2026-03-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin rises to one-month high of $73,800, continuing to outperform since start of Iran war]]></title>
-            <description><![CDATA[Falling oil prices are helping, but a bounce seemed in the cards after some of the worst sentiment in bitcoin's history....]]></description>
-            <link>https://www.coindesk.com/markets/2026/03/13/bitcoin-rises-to-usd73-300-continuing-to-outperform-since-iran-war-and-taking-aim-at-one-month-high</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/03/13/bitcoin-rises-to-usd73-300-continuing-to-outperform-since-iran-war-and-taking-aim-at-one-month-high</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 14:27:11 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-03-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[From VMware to what’s next: Protecting data during hypervisor migration]]></title>
             <description><![CDATA[Hypervisor migrations can introduce hidden risks that threaten data availability and recovery. Acronis explains why verified backups and cross-platform recovery are essential during VMware transitions...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/</link>
@@ -807,28 +873,6 @@
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Fri, 13 Mar 2026 14:15:25 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-03-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BlackRock’s new product just made Ethereum income impossible to ignore]]></title>
-            <description><![CDATA[BlackRock's new staked Ethereum ETF (ETHB) is easy to misunderstand. This is not the first time ETH staking has finally reached exchange-traded products, as Grayscale has already crossed that bridge. ...]]></description>
-            <link>https://cryptoslate.com/blackrock-may-have-just-made-ethereum-income-impossible-to-ignore/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/blackrock-may-have-just-made-ethereum-income-impossible-to-ignore/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 14:05:47 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-03-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[U.S. sanctions 6 people, 2 companies that laundered $800 million in crypto for North Korea]]></title>
-            <description><![CDATA[The Treasury Department said North Korea infiltrated IT workers into U.S. businesses and channeled their wages back to the country to fund weapons of mass destruction programs....]]></description>
-            <link>https://www.coindesk.com/business/2026/03/13/u-s-sanctions-6-people-2-companies-that-laundered-usd800-million-in-crypto-for-north-korea</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/03/13/u-s-sanctions-6-people-2-companies-that-laundered-usd800-million-in-crypto-for-north-korea</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 14:00:26 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-03-13</dc:date>
         </item>
         <item>
@@ -896,17 +940,6 @@
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Fri, 13 Mar 2026 13:20:21 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-03-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[CoinDesk 20 performance update: index jumps 3.7% as all constituents climb higher]]></title>
-            <description><![CDATA[Sui (SUI) gained 6.7% and Cardano (ADA) rose 5.8%, leading the index higher....]]></description>
-            <link>https://www.coindesk.com/coindesk-indices/2026/03/13/coindesk-20-performance-update-index-jumps-3-7-as-all-constituents-climb-higher</link>
-            <guid isPermaLink="false">https://www.coindesk.com/coindesk-indices/2026/03/13/coindesk-20-performance-update-index-jumps-3-7-as-all-constituents-climb-higher</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 13 Mar 2026 13:14:46 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-03-13</dc:date>
         </item>
         <item>
@@ -1187,17 +1220,6 @@ The vulner...]]></description>
             <dc:date>2026-03-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin’s Big Players Haven’t Budged: What Whale Dormancy Could Mean for the Market]]></title>
-            <description><![CDATA[Retail traders are selling Bitcoin at losses while long-term holders remain inactive, a split analysts say could tighten supply conditions....]]></description>
-            <link>https://cryptopotato.com/bitcoins-big-players-havent-budged-what-whale-dormancy-could-mean-for-the-market/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoins-big-players-havent-budged-what-whale-dormancy-could-mean-for-the-market/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 19:54:45 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-03-12</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Delinea's StrongDM Acquisition Highlights the Changing Role of PAM]]></title>
             <description><![CDATA[StrongDM, which injects ephemeral, real-time credentials into developer workflows, will enable Delinea to offer privilege access management across cloud, SaaS, Kubernetes, and database environments....]]></description>
             <link>https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam</link>
@@ -1206,17 +1228,6 @@ The vulner...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 12 Mar 2026 17:02:11 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-03-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Veeam warns of critical flaws exposing backup servers to RCE attacks]]></title>
-            <description><![CDATA[Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution (RCE) vulnerabilities. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 16:59:20 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-03-12</dc:date>
         </item>
         <item>
@@ -1326,18 +1337,6 @@ The vulner...]]></description>
             <category><![CDATA[The Hacker News]]></category>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Thu, 12 Mar 2026 11:30:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-03-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit]]></title>
-            <description><![CDATA[Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.
-The vulnerability, tracked a...]]></description>
-            <link>https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 12 Mar 2026 09:58:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2026-03-12</dc:date>
         </item>
