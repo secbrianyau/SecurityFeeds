@@ -2,9 +2,58 @@
   {
     "title": "Black Hat USA",
     "link": "https://www.darkreading.com/events/black-hat-usa",
-    "date": "2026-03-31T21:37:23.088Z",
+    "date": "2026-04-01T02:27:58.798Z",
     "source": "Dark Reading",
     "summary": ""
+  },
+  {
+    "title": "Claude Code source code accidentally leaked in NPM package",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
+    "date": "2026-04-01T00:32:25.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]..."
+  },
+  {
+    "title": "Google now allows you to change your @gmail.com address",
+    "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
+    "date": "2026-03-31T23:13:56.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]..."
+  },
+  {
+    "title": "Bitcoin enters the public bond market as Moody’s gives a first-of-its-kind crypto deal a rating",
+    "link": "https://www.coindesk.com/markets/2026/03/31/bitcoin-enters-the-public-bond-market-as-moody-s-gives-a-first-of-its-kind-crypto-deal-a-rating",
+    "date": "2026-03-31T22:58:55.000Z",
+    "source": "Coindesk",
+    "summary": "A New Hampshire state authority is set to issue a first-of-its-kind bitcoin-backed bond with a Ba2 rating, marking an early test of how crypto can function as collateral inside traditional public fina..."
+  },
+  {
+    "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+    "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+    "date": "2026-03-31T22:42:07.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]..."
+  },
+  {
+    "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+    "date": "2026-03-31T22:28:02.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]..."
+  },
+  {
+    "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+    "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+    "date": "2026-03-31T21:45:14.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]..."
+  },
+  {
+    "title": "Analyst: Bitcoin’s S&P Correlation Is Not the Bull Sign It Looks",
+    "link": "https://cryptopotato.com/analyst-bitcoins-sp-correlation-is-not-the-bull-sign-it-looks/",
+    "date": "2026-03-31T21:35:11.000Z",
+    "source": "CryptoPotato",
+    "summary": "A negative BTC-S&P correlation doesn't mean Bitcoin is gaining strength; it may reflect isolated it bounces alternating with the Index's weakness...."
   },
   {
     "title": "Cardano’s $9B network has little real activity — its new system aims to fix that",
@@ -504,13 +553,6 @@
     "summary": "The company offloaded Bitcoin at around $70,422 per coin, far below its weighted average acquisition cost from last year...."
   },
   {
-    "title": "Bitcoin holds $67,500 as Trump signals he may end Iran war with Hormuz still shut ",
-    "link": "https://www.coindesk.com/markets/2026/03/31/bitcoin-holds-usd67-500-as-trump-signals-he-may-end-iran-war-with-hormuz-still-shut",
-    "date": "2026-03-31T05:48:37.000Z",
-    "source": "Coindesk",
-    "summary": "Equity futures rallied and oil erased gains on the report, but the S&P 500 is on its longest losing streak since 2022 and MSCI Asia Pacific is heading for its worst month since 2008...."
-  },
-  {
     "title": "Oil Prices Climb, New Revelations About the US–Iran War and What It Means for Crypto",
     "link": "https://cryptopotato.com/oil-prices-climb-new-revelations-about-the-us-iran-war-and-what-it-means-for-crypto/",
     "date": "2026-03-31T05:08:21.000Z",
@@ -658,20 +700,6 @@
     "summary": "The vulnerability, which is allegedly triggered by a corrupted sticker in the messaging app, received a 9.8 CVSS score, but Telegram denies it exists...."
   },
   {
-    "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
-    "date": "2026-03-30T14:32:34.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks. [...]..."
-  },
-  {
-    "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
-    "date": "2026-03-30T14:01:11.000Z",
-    "source": "Bleeping Computer",
-    "summary": "AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from hype..."
-  },
-  {
     "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
     "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
     "date": "2026-03-30T13:56:00.000Z",
@@ -735,13 +763,6 @@
     "summary": "Jan Vermeulen reports: Statistics South Africa has become the latest government entity to fall victim to a ransomware attack by the emerging cybercrime group known as XP95. The threat actors claim to ..."
   },
   {
-    "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-    "date": "2026-03-30T10:59:38.000Z",
-    "source": "Bleeping Computer",
-    "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatche..."
-  },
-  {
     "title": "Pro-XRP Attorney and Ripple CEO Agree the U.S. Can’t Afford Another Gary Gensler Moment",
     "link": "https://cryptopotato.com/pro-xrp-attorney-and-ripple-ceo-agree-the-u-s-cant-afford-another-gary-gensler-moment/",
     "date": "2026-03-30T10:16:55.000Z",
@@ -749,25 +770,11 @@
     "summary": "Both Deaton and Garlinghouse agree that another Gensler experience could lead to further weaponization of crypto policy in the U.S...."
   },
   {
-    "title": "Microsoft pulls KB5079391 Windows update over install issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-    "date": "2026-03-30T09:38:45.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]..."
-  },
-  {
     "title": "Bitcoin Rebounds From New Monthly Lows, Ethereum Reclaims $2K: Market Watch",
     "link": "https://cryptopotato.com/bitcoin-rebounds-from-new-monthly-lows-ethereum-reclaims-2k-market-watch/",
     "date": "2026-03-30T09:22:27.000Z",
     "source": "CryptoPotato",
     "summary": "SIREN continues to outperform the rest of the altcoins...."
-  },
-  {
-    "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-    "date": "2026-03-30T07:48:17.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused. [...]..."
   },
   {
     "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
@@ -782,13 +789,6 @@
     "date": "2026-03-30T06:51:04.000Z",
     "source": "CryptoPotato",
     "summary": "Monday already began with intense volatility, will the rest of the week only increase it?..."
-  },
-  {
-    "title": "Bitcoin Volatility Spikes as Trump Brags for Hitting Big Targets in Iran",
-    "link": "https://cryptopotato.com/bitcoin-volatility-spikes-as-trump-brags-for-hitting-big-targets-in-iran/",
-    "date": "2026-03-30T06:12:52.000Z",
-    "source": "CryptoPotato",
-    "summary": "The POTUS also reportedly said he wants to take the oil in Iran and seize Kharg Island...."
   },
   {
     "title": "Did you sign up for the new White House app?  Don’t use it until you read this!",

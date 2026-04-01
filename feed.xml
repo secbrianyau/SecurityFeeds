@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 21:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 02:34:38 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 21:41:59 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 02:34:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,85 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/black-hat-usa</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 21:37:23 GMT</pubDate>
+            <pubDate>Wed, 01 Apr 2026 02:27:58 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-04-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Claude Code source code accidentally leaked in NPM package]]></title>
+            <description><![CDATA[Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 00:32:25 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-04-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Google now allows you to change your @gmail.com address]]></title>
+            <description><![CDATA[Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 23:13:56 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-03-31</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin enters the public bond market as Moody’s gives a first-of-its-kind crypto deal a rating]]></title>
+            <description><![CDATA[A New Hampshire state authority is set to issue a first-of-its-kind bitcoin-backed bond with a Ba2 rating, marking an early test of how crypto can function as collateral inside traditional public fina...]]></description>
+            <link>https://www.coindesk.com/markets/2026/03/31/bitcoin-enters-the-public-bond-market-as-moody-s-gives-a-first-of-its-kind-crypto-deal-a-rating</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/03/31/bitcoin-enters-the-public-bond-market-as-moody-s-gives-a-first-of-its-kind-crypto-deal-a-rating</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 22:58:55 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-03-31</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Proton launches new "Meet" privacy-focused conferencing platform]]></title>
+            <description><![CDATA[Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 22:42:07 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-03-31</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[GIGABYTE Control Center vulnerable to arbitrary file write flaw]]></title>
+            <description><![CDATA[The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 22:28:02 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-03-31</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Claude AI finds Vim, Emacs RCE bugs that trigger on file open]]></title>
+            <description><![CDATA[Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 21:45:14 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-03-31</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Analyst: Bitcoin’s S&P Correlation Is Not the Bull Sign It Looks]]></title>
+            <description><![CDATA[A negative BTC-S&P correlation doesn't mean Bitcoin is gaining strength; it may reflect isolated it bounces alternating with the Index's weakness....]]></description>
+            <link>https://cryptopotato.com/analyst-bitcoins-sp-correlation-is-not-the-bull-sign-it-looks/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/analyst-bitcoins-sp-correlation-is-not-the-bull-sign-it-looks/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 21:35:11 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-03-31</dc:date>
         </item>
         <item>
@@ -809,17 +886,6 @@ The de...]]></description>
             <dc:date>2026-03-31</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin holds $67,500 as Trump signals he may end Iran war with Hormuz still shut ]]></title>
-            <description><![CDATA[Equity futures rallied and oil erased gains on the report, but the S&P 500 is on its longest losing streak since 2022 and MSCI Asia Pacific is heading for its worst month since 2008....]]></description>
-            <link>https://www.coindesk.com/markets/2026/03/31/bitcoin-holds-usd67-500-as-trump-signals-he-may-end-iran-war-with-hormuz-still-shut</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/03/31/bitcoin-holds-usd67-500-as-trump-signals-he-may-end-iran-war-with-hormuz-still-shut</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 31 Mar 2026 05:48:37 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-03-31</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Oil Prices Climb, New Revelations About the US–Iran War and What It Means for Crypto]]></title>
             <description><![CDATA[Oil prices are on the move again, but what does this mean for crypto markets?...]]></description>
             <link>https://cryptopotato.com/oil-prices-climb-new-revelations-about-the-us-iran-war-and-what-it-means-for-crypto/</link>
@@ -1052,28 +1118,6 @@ The de...]]></description>
             <dc:date>2026-03-30</dc:date>
         </item>
         <item>
-            <title><![CDATA[Apple adds macOS Terminal warning to block ClickFix attacks]]></title>
-            <description><![CDATA[Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 14:32:34 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-03-30</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking]]></title>
-            <description><![CDATA[AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from hype...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 14:01:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-03-30</dc:date>
-        </item>
-        <item>
             <title><![CDATA[⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More]]></title>
             <description><![CDATA[Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped bein...]]></description>
             <link>https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</link>
@@ -1174,17 +1218,6 @@ The CTRL to...]]></description>
             <dc:date>2026-03-30</dc:date>
         </item>
         <item>
-            <title><![CDATA[Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now]]></title>
-            <description><![CDATA[F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatche...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 10:59:38 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-03-30</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Pro-XRP Attorney and Ripple CEO Agree the U.S. Can’t Afford Another Gary Gensler Moment]]></title>
             <description><![CDATA[Both Deaton and Garlinghouse agree that another Gensler experience could lead to further weaponization of crypto policy in the U.S....]]></description>
             <link>https://cryptopotato.com/pro-xrp-attorney-and-ripple-ceo-agree-the-u-s-cant-afford-another-gary-gensler-moment/</link>
@@ -1196,17 +1229,6 @@ The CTRL to...]]></description>
             <dc:date>2026-03-30</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft pulls KB5079391 Windows update over install issues]]></title>
-            <description><![CDATA[Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 09:38:45 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-03-30</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Rebounds From New Monthly Lows, Ethereum Reclaims $2K: Market Watch]]></title>
             <description><![CDATA[SIREN continues to outperform the rest of the altcoins....]]></description>
             <link>https://cryptopotato.com/bitcoin-rebounds-from-new-monthly-lows-ethereum-reclaims-2k-market-watch/</link>
@@ -1215,17 +1237,6 @@ The CTRL to...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 09:22:27 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-03-30</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Critical Fortinet Forticlient EMS flaw now exploited in attacks]]></title>
-            <description><![CDATA[Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 07:48:17 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-03-30</dc:date>
         </item>
         <item>
@@ -1248,17 +1259,6 @@ The campaign...]]></description>
             <category><![CDATA[CryptoPotato]]></category>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 06:51:04 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-03-30</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Volatility Spikes as Trump Brags for Hitting Big Targets in Iran]]></title>
-            <description><![CDATA[The POTUS also reportedly said he wants to take the oil in Iran and seize Kharg Island....]]></description>
-            <link>https://cryptopotato.com/bitcoin-volatility-spikes-as-trump-brags-for-hitting-big-targets-in-iran/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-volatility-spikes-as-trump-brags-for-hitting-big-targets-in-iran/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 30 Mar 2026 06:12:52 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-03-30</dc:date>
         </item>
