@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 05:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 07:10:30 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 05:16:48 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 07:10:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,42 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/black-hat-usa</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 05:10:08 GMT</pubDate>
+            <pubDate>Sun, 05 Apr 2026 07:03:51 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-04-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Dips as US-Europe Alliance Reaches ‘Breaking Point’ Over Iran War: Report]]></title>
+            <description><![CDATA[Trump has reportedly expresed "disgust" with European allies....]]></description>
+            <link>https://cryptopotato.com/bitcoin-price-dips-as-us-europe-alliance-reaches-breaking-point-over-iran-war-report/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-price-dips-as-us-europe-alliance-reaches-breaking-point-over-iran-war-report/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 06:38:27 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-04-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants]]></title>
+            <description><![CDATA[Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploit...]]></description>
+            <link>https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 05:07:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-04-05</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS]]></title>
+            <description><![CDATA[Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild.
+The vulnerability, tracked as CVE-2026-35616 (CVSS score: ...]]></description>
+            <link>https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 04:32:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-04-05</dc:date>
         </item>
         <item>
@@ -1272,17 +1306,6 @@ The campaign has bee...]]></description>
             <dc:date>2026-04-02</dc:date>
         </item>
         <item>
-            <title><![CDATA[Wall Street Just Gave Ripple (XRP) a Big Vote of Confidence: What the New BBB Rating Really Means]]></title>
-            <description><![CDATA[KBRA noted that a key factor behind the strong rating is Ripple's solid financial backing....]]></description>
-            <link>https://cryptopotato.com/wall-street-just-gave-ripple-xrp-a-big-vote-of-confidence-what-the-new-bbb-rating-really-means/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/wall-street-just-gave-ripple-xrp-a-big-vote-of-confidence-what-the-new-bbb-rating-really-means/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 14:45:52 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-04-02</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime]]></title>
             <description><![CDATA[Threat actors are exploiting vacant homes as "drop addresses" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/</link>
@@ -1313,29 +1336,6 @@ The campaign has bee...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 13:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-04-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories]]></title>
-            <description><![CDATA[The latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No corporate fluff or boring lectures here, just a quick and honest look at the messy reali...]]></description>
-            <link>https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 12:45:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-04-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners]]></title>
-            <description><![CDATA[A financially motivated operation codenamed REF1695 has been observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November 2023.
-"Beyond cryptomin...]]></description>
-            <link>https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 11:42:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-04-02</dc:date>
         </item>
     </channel>
