@@ -9,12 +9,34 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 05:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 07:15:42 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 05:27:49 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 07:15:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[XRP drops to $1.33 as bitcoin weakness pulls down majors]]></title>
+            <description><![CDATA[Sudden selloff triggered liquidation-style move, with weak recovery reinforcing bearish structure despite compressed volatility setup....]]></description>
+            <link>https://www.coindesk.com/markets/2026/04/12/xrp-drops-to-usd1-33-as-bitcoin-weakness-pulls-down-majors</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/04/12/xrp-drops-to-usd1-33-as-bitcoin-weakness-pulls-down-majors</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 05:57:25 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-04-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads]]></title>
+            <description><![CDATA[Unknown threat actors compromised CPUID ("cpuid[.]com"), a website that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve m...]]></description>
+            <link>https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 05:54:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-04-12</dc:date>
+        </item>
         <item>
             <title><![CDATA[Peace Talks Fail: Why Bitcoin Just Tanked and What Happens Next]]></title>
             <description><![CDATA[Despite the failure, Pakistan's foreign Minister insisted that the two-week ceasefire must be upheld....]]></description>
@@ -24,6 +46,18 @@
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 04:57:36 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-04-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621]]></title>
+            <description><![CDATA[Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that has come under active exploitation in the wild.
+The vulnerability, assigned the CVE identifier CVE-2026-3462...]]></description>
+            <link>https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 04:25:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-04-12</dc:date>
         </item>
         <item>
@@ -853,17 +887,6 @@ A new report from LayerX ...]]></description>
             <dc:date>2026-04-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Japan moves to classify cryptocurrencies as financial products]]></title>
-            <description><![CDATA[The new rules ban insider trading, require issuers to publish annual disclosures, and impose stricter penalties: up to 10 years in prison and 10 million yen in fines for operating without registration...]]></description>
-            <link>https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 08:58:19 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-04-10</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows]]></title>
             <description><![CDATA[Google has made Device Bound Session Credentials (DBSC) generally available to all Windows users of its Chrome web browser, months after it began testing the security feature in open beta.
 The public ...]]></description>
@@ -1317,29 +1340,6 @@ The finding, detailed by EXPMON's H...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 20:21:32 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-04-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties]]></title>
-            <description><![CDATA[Discovery used to be the bottleneck for open source bugs, but with automated discovery, remediation's the bottleneck, which bounties don't fund....]]></description>
-            <link>https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties</link>
-            <guid isPermaLink="false">https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 19:47:32 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-04-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy]]></title>
-            <description><![CDATA[Cybersecurity researchers have flagged a new variant ofmalware called Chaosthat'scapable of hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure.
-"Cha...]]></description>
-            <link>https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 17:51:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-04-08</dc:date>
         </item>
     </channel>
