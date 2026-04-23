@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 19:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 21:47:38 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 19:13:55 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 21:47:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -25,6 +25,61 @@
             <pubDate>Fri, 24 Apr 2026 01:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2026-04-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers exploit file upload bug in Breeze Cache WordPress plugin]]></title>
+            <description><![CDATA[Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 21:33:45 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-04-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Aave rallies DeFi partners to contain fallout from $292 million KelpDAO hack]]></title>
+            <description><![CDATA[Industry players are coordinating a recovery effort as the year's biggest crypto theft rattled Aave, with Lido and EtherFi being firsts to offer aid....]]></description>
+            <link>https://www.coindesk.com/business/2026/04/23/aave-rallies-defi-partners-to-contain-fallout-from-usd292-million-kelpdao-hack</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/04/23/aave-rallies-defi-partners-to-contain-fallout-from-usd292-million-kelpdao-hack</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 20:52:33 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-04-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitwarden CLI npm package compromised to steal developer credentials]]></title>
+            <description><![CDATA[The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 19:21:01 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-04-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[We Asked 3 AIs: Which 3 Cryptocurrencies Will Explode Next Bull Cycle?]]></title>
+            <description><![CDATA[Surprise or not, none of the AI-powered chatbots we consulted picked BTC....]]></description>
+            <link>https://cryptopotato.com/we-asked-3-ais-which-3-cryptocurrencies-will-explode-next-bull-cycle/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/we-asked-3-ais-which-3-cryptocurrencies-will-explode-next-bull-cycle/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 19:18:13 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-04-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cardano development teams wants almost $50 million for Bitcoin DeFi and Vision 2030]]></title>
+            <description><![CDATA[Input Output Global, the primary software laboratory behind the Cardano blockchain, has halved its annual treasury funding request, asking the network’s decentralized governance body for $46.8 million...]]></description>
+            <link>https://cryptoslate.com/cardano-development-teams-wants-almost-50-million-for-bitcoin-defi-and-vision-2030/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/cardano-development-teams-wants-almost-50-million-for-bitcoin-defi-and-vision-2030/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 19:10:10 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-04-23</dc:date>
         </item>
         <item>
             <title><![CDATA[Trigona ransomware attacks use custom exfiltration tool to steal data]]></title>
@@ -780,17 +835,6 @@ The vulnerability, tracked as CVE-2026-28950...]]></description>
             <dc:date>2026-04-22</dc:date>
         </item>
         <item>
-            <title><![CDATA[Elon Musk's Tesla reports unchanged bitcoin holdings, books $173 million digital asset loss]]></title>
-            <description><![CDATA[The company's bitcoin stash remained at 11,509 BTC, worth about $880 million at bitcoin's current price of around $78,000....]]></description>
-            <link>https://www.coindesk.com/markets/2026/04/22/elon-musk-s-tesla-reports-unchanged-bitcoin-holdings-books-usd173-million-digital-asset-loss</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/04/22/elon-musk-s-tesla-reports-unchanged-bitcoin-holdings-books-usd173-million-digital-asset-loss</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 20:36:19 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-04-22</dc:date>
-        </item>
-        <item>
             <title><![CDATA[New Mirai campaign exploits RCE flaw in EoL D-Link routers]]></title>
             <description><![CDATA[A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/</link>
@@ -1014,28 +1058,6 @@ The supply ...]]></description>
             <dc:date>2026-04-22</dc:date>
         </item>
         <item>
-            <title><![CDATA[New npm supply-chain attack self-spreads to steal auth tokens]]></title>
-            <description><![CDATA[A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 12:57:42 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-04-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft Teams to get efficiency mode on PCs with limited resources]]></title>
-            <description><![CDATA[Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 12:24:38 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-04-22</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Pi Network (PI) Drops Major Announcement; Community Reacts With Mixed Feelings]]></title>
             <description><![CDATA["Developers are encouraged to try integrating subscriptions in their own apps," the official message reads....]]></description>
             <link>https://cryptopotato.com/pi-network-pi-drops-major-announcement-community-reacts-with-mixed-feelings/</link>
@@ -1066,17 +1088,6 @@ The supply ...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 10:41:36 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-04-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto’s new trust test: which chains are truly quantum ready — and which are just talking]]></title>
-            <description><![CDATA[Crypto’s quantum problem is no longer a distant thought experiment. With NIST finalizing standards, Coinbase warning of exposed addresses, and Google shrinking the resources needed to break today’s si...]]></description>
-            <link>https://cryptoslate.com/is-your-favorite-cryptocurrency-quantum-ready-the-new-trend-among-crypto-developers/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/is-your-favorite-cryptocurrency-quantum-ready-the-new-trend-among-crypto-developers/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 10:36:37 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-04-22</dc:date>
         </item>
         <item>
@@ -1335,17 +1346,6 @@ Angelo Martino, 41, of Land O'Lakes, Florida, teamed ...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 14:31:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-04-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Arbitrum Freezes $70 Million in ETH Linked to KelpDAO Exploit in Emergency Security Move]]></title>
-            <description><![CDATA[Arbitrum's Security Council froze exploiter-held ETH after coordinating with law enforcement....]]></description>
-            <link>https://cryptopotato.com/arbitrum-freezes-70-million-in-eth-linked-to-kelpdao-exploit-in-emergency-security-move/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/arbitrum-freezes-70-million-in-eth-linked-to-kelpdao-exploit-in-emergency-security-move/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 14:17:52 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-04-21</dc:date>
         </item>
     </channel>
