@@ -9,12 +9,23 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 21:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 05:56:22 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 21:40:14 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 05:56:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400]]></title>
+            <description><![CDATA[No summary available]]></description>
+            <link>https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 05:47:29 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-04-27</dc:date>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Prediction: What Is BTC’s Most Likely Move in the Next Few Days]]></title>
             <description><![CDATA[Bitcoin is trading at $78k, closing out the final week of April with a quiet but persistent grind higher that has now taken price above the $75k–$80k resistance band’s midpoint. The move has been orde...]]></description>
@@ -654,6 +665,17 @@
             <dc:date>2026-04-24</dc:date>
         </item>
         <item>
+            <title><![CDATA[Helping Romance Scam Victims Require a Proactive, Empathic Approach]]></title>
+            <description><![CDATA[People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial and government institutions to work together and protect them....]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 22:34:13 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-04-24</dc:date>
+        </item>
+        <item>
             <title><![CDATA[U.S. CFTC adds New York to string of states its suing to stop prediction market pushback]]></title>
             <description><![CDATA[The federal regulator has been suing states that seek to curtail prediction markets activity and claim it should be deemed state-regulated gaming....]]></description>
             <link>https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback</link>
@@ -804,17 +826,6 @@
             <category><![CDATA[Coindesk]]></category>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 16:38:39 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-04-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Jane Street asks court to reject Terraform claims tied to UST-LUNA crash]]></title>
-            <description><![CDATA[A filing Thursday said the lawsuit rehashes events already settled in court and seeks damages for losses caused by internal misconduct....]]></description>
-            <link>https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 15:53:44 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
             <dc:date>2026-04-24</dc:date>
         </item>
@@ -1019,7 +1030,7 @@ As discussed in our previous article, AI agents are exposing a structural gap in
         </item>
         <item>
             <title><![CDATA[LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure]]></title>
-            <description><![CDATA[A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public discl...]]></description>
+            <description><![CDATA[A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hour...]]></description>
             <link>https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html</link>
             <guid isPermaLink="false">https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html</guid>
             <category><![CDATA[The Hacker News]]></category>
@@ -1327,17 +1338,6 @@ The vulnerability, tracked as CVE-2026-28950...]]></description>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Wed, 22 Apr 2026 22:39:57 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-04-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA['The Gentlemen' Rapidly Rises to Ransomware Prominence]]></title>
-            <description><![CDATA[Not nearly as polite as the name suggests, the ransomware gang has impressed researchers with its speed in scaling up operations — and its sophistication....]]></description>
-            <link>https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware</link>
-            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 22 Apr 2026 20:51:55 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-04-22</dc:date>
         </item>
     </channel>
