@@ -9,12 +9,111 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 19:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 02:51:44 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 19:45:29 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 02:51:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures]]></title>
+            <description><![CDATA[The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 21:38:39 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Broken VECT 2.0 ransomware acts as a data wiper for large files]]></title>
+            <description><![CDATA[Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 21:25:57 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Analyst: Trump’s Meme Coin Is a Major Roadblock to the CLARITY Act]]></title>
+            <description><![CDATA[According to critics, half of crypto's most influential people were at Trump's recent meme coin dinner, which is why they can't say anything....]]></description>
+            <link>https://cryptopotato.com/analyst-trumps-meme-coin-is-a-major-roadblock-to-the-clarity-act/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/analyst-trumps-meme-coin-is-a-major-roadblock-to-the-clarity-act/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 21:18:24 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw]]></title>
+            <description><![CDATA[Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability  tracked as CVE-2026-42208. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 21:07:23 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later]]></title>
+            <description><![CDATA[Chris Inglis was the head civilian in charge at the NSA when the Snowden leak exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threat...]]></description>
+            <link>https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 20:38:59 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[In Moldova, hackers attacked a medical database, damaging 30% of the information]]></title>
+            <description><![CDATA[UNN reports: Moldova’s Cybersecurity Agency has reported a large-scale attack on the country’s main medical database, resulting in damage to around 30% of the information, according to Point, as repor...]]></description>
+            <link>https://databreaches.net/2026/04/28/in-moldova-hackers-attacked-a-medical-database-damaging-30-of-the-information/?pk_campaign=feed&amp;pk_kwd=in-moldova-hackers-attacked-a-medical-database-damaging-30-of-the-information</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/04/28/in-moldova-hackers-attacked-a-medical-database-damaging-30-of-the-information/?pk_campaign=feed&amp;pk_kwd=in-moldova-hackers-attacked-a-medical-database-damaging-30-of-the-information</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 20:32:52 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue]]></title>
+            <description><![CDATA[While the trading platform’s crypto revenue tanked 47% to $134 million, a record-breaking surge in prediction market bets helped push overall revenue up 15% to $1.07 billion....]]></description>
+            <link>https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 20:28:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Feuding Ransomware Groups Leak Each Other's Data]]></title>
+            <description><![CDATA[When 0APT and KryBit attacked each other, they exposed infrastructure and operational data, giving defenders rare insight into ransomware operations....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 20:13:30 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks]]></title>
+            <description><![CDATA[It will be "really hard to make money" in stocks over the next decade, said the billionaire investor, noting that the S&P 500's valuation reminds him of the 2000 dot-com bubble....]]></description>
+            <link>https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 19:56:15 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-04-28</dc:date>
+        </item>
         <item>
             <title><![CDATA[CLARITY Act stablecoin fight shifts from yield to who captures digital-dollar economics]]></title>
             <description><![CDATA[Washington is turning stablecoins into regulated payment instruments while trying to keep issuer-paid yield away from holders. That combination changesthe economics of digital dollars and puts the val...]]></description>
@@ -747,28 +846,6 @@ The vulnerability in que...]]></description>
             <dc:date>2026-04-28</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin loses $77,000, ether, solana slide as Hormuz standoff lifts oil to 3-week high]]></title>
-            <description><![CDATA[Bitcoin traded at $76,923 on Tuesday morning, down 2.4% over 24 hours after rejecting $79,400 the previous day, with the entire top 10 closing red as Brent crude extended its rally to a seventh straig...]]></description>
-            <link>https://www.coindesk.com/markets/2026/04/28/bitcoin-loses-usd77-000-ether-solana-slide-as-hormuz-standoff-lifts-oil-to-3-week-high</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/04/28/bitcoin-loses-usd77-000-ether-solana-slide-as-hormuz-standoff-lifts-oil-to-3-week-high</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 05:23:25 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-04-28</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin pressured by Fed uncertainty, oil, and AI slowdown]]></title>
-            <description><![CDATA[Enflux points to oil-driven inflation as the main constraint, while questions around AI demand could reshape miner selling in the months ahead....]]></description>
-            <link>https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 28 Apr 2026 04:42:11 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-04-28</dc:date>
-        </item>
-        <item>
             <title><![CDATA[MARA forms foundation to support Bitcoin network health, adoption ]]></title>
             <description><![CDATA[As part of its launch, the MARA Foundation has asked the community to vote on which of three Bitcoin companies should receive a $100,000 contribution....]]></description>
             <link>https://cointelegraph.com/news/mara-forms-foundation-to-harden-bitcoin-against-quantum-other-threats?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
@@ -1000,17 +1077,6 @@ The vulnerability in que...]]></description>
             <dc:date>2026-04-27</dc:date>
         </item>
         <item>
-            <title><![CDATA[Home security giant ADT data breach affects 5.5 million people]]></title>
-            <description><![CDATA[The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notificat...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 14:43:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-04-27</dc:date>
-        </item>
-        <item>
             <title><![CDATA[One ransomware crew now drives half of all cyber claims: At-Bay]]></title>
             <description><![CDATA[Kenneth Araullo reports: A single ransomware crew exploiting a single brand of firewall is now driving nearly half of all cyber insurance claims, At-Bay has warned, in a finding that recasts how under...]]></description>
             <link>https://databreaches.net/2026/04/27/one-ransomware-crew-now-drives-half-of-all-cyber-claims-at-bay/?pk_campaign=feed&amp;pk_kwd=one-ransomware-crew-now-drives-half-of-all-cyber-claims-at-bay</link>
@@ -1030,17 +1096,6 @@ The vulnerability in que...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 14:28:16 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-04-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Webinar: Spotting cyberattacks before they begin]]></title>
-            <description><![CDATA[On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can ...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 27 Apr 2026 14:25:35 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-04-27</dc:date>
         </item>
         <item>
@@ -1233,17 +1288,6 @@ That's accord...]]></description>
             <dc:date>2026-04-27</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Price Prediction: What Is BTC’s Most Likely Move in the Next Few Days]]></title>
-            <description><![CDATA[Bitcoin is trading at $78k, closing out the final week of April with a quiet but persistent grind higher that has now taken price above the $75k–$80k resistance band’s midpoint. The move has been orde...]]></description>
-            <link>https://cryptopotato.com/bitcoin-price-prediction-what-is-btcs-most-likely-move-in-the-next-few-days/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-price-prediction-what-is-btcs-most-likely-move-in-the-next-few-days/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 26 Apr 2026 21:04:47 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-04-26</dc:date>
-        </item>
-        <item>
             <title><![CDATA[TH: Hacker steals personal data of 350,000 engineers]]></title>
             <description><![CDATA[The Bangkok Post reports: The Council of Engineers Thailand has warned about 350,000 members their personal data was stolen when its database was hacked recently, and could be misused. Prof Amorn Pima...]]></description>
             <link>https://databreaches.net/2026/04/26/th-hacker-steals-personal-data-of-350000-engineers/?pk_campaign=feed&amp;pk_kwd=th-hacker-steals-personal-data-of-350000-engineers</link>
@@ -1296,50 +1340,6 @@ That's accord...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Fri, 24 Apr 2026 17:06:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-04-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[US Busts Myanmar Ring Targeting US Citizens in Financial Fraud]]></title>
-            <description><![CDATA[Some 29 people were charged, including a Cambodian senator, and authorities seized more than 500 Web domains tied to fake investment sites....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 16:48:04 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-04-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Glasswing Secured the Code. The Rest of Your Stack Is Still on You]]></title>
-            <description><![CDATA[Forgotten integrations, shadow IT, SaaS, and now shadow AI and agents are everywhere, and attackers don't need sophisticated AI models to take advantage....]]></description>
-            <link>https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 15:04:29 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-04-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software]]></title>
-            <description><![CDATA[The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campai...]]></description>
-            <link>https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 14:13:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-04-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[AI Phishing Is No. 1 With a Bullet for Cyberattackers]]></title>
-            <description><![CDATA[In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 24 Apr 2026 13:30:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-04-24</dc:date>
         </item>
     </channel>
