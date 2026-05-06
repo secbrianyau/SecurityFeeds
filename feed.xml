@@ -9,12 +9,188 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 16:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 19:47:52 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 16:30:18 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 19:47:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[If the bear market bottom is in, when will Bitcoin price reach a new all-time high above $126k?]]></title>
+            <description><![CDATA[With Bitcoin trading near $82,000, a move back into price-discovery territory depends on whether ETF buyers keep absorbing supply while macro pressure remains contained. That is the practical answer t...]]></description>
+            <link>https://cryptoslate.com/if-the-bear-market-bottom-is-in-when-will-bitcoin-price-reach-a-new-all-time-high/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/if-the-bear-market-bottom-is-in-when-will-bitcoin-price-reach-a-new-all-time-high/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 19:00:03 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Critical vm2 sandbox bug lets attackers execute code on hosts]]></title>
+            <description><![CDATA[A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 18:38:38 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic signs Elon Musk's SpaceX for Colossus 1 compute ahead of June IPO]]></title>
+            <description><![CDATA[The Claude maker said Wednesday it would use all the compute capacity at SpaceX's Colossus 1 data center, the latest partnership stitched onto its AI infrastructure buildout....]]></description>
+            <link>https://www.coindesk.com/tech/2026/05/06/anthropic-signs-elon-musk-s-spacex-for-colossus-1-compute-ahead-of-june-ipo</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/05/06/anthropic-signs-elon-musk-s-spacex-for-colossus-1-compute-ahead-of-june-ipo</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 18:20:57 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[TON Social Buzz Explodes 6x in an Hour: Centralization Suddenly Looks Bullish?]]></title>
+            <description><![CDATA[Social activity around TON intensified quickly after Telegram's Pavel Durov revealed plans for deeper control of the network....]]></description>
+            <link>https://cryptopotato.com/ton-social-buzz-explodes-6x-in-an-hour-centralization-suddenly-looks-bullish/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ton-social-buzz-explodes-6x-in-an-hour-centralization-suddenly-looks-bullish/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 18:08:52 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Eric Trump takes shot at JPMorgan rethinking bitcoin after 'crapping' on asset]]></title>
+            <description><![CDATA[The U.S. president's son, who co-founded American Bitcoin, said there's been a turnaround from traditional institutional firms now embracing bitcoin....]]></description>
+            <link>https://www.coindesk.com/policy/2026/05/06/eric-trump-takes-shot-at-jpmorgan-rethinking-bitcoin-after-crapping-on-asset</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/05/06/eric-trump-takes-shot-at-jpmorgan-rethinking-bitcoin-after-crapping-on-asset</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 18:07:58 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New Cisco DoS flaw requires manual reboot to revive devices]]></title>
+            <description><![CDATA[Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 18:06:21 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ The time is now: the Senate must act on crypto market structure legislation]]></title>
+            <description><![CDATA[The United States needs to finally establish a clear framework that the market needs....]]></description>
+            <link>https://www.coindesk.com/opinion/2026/05/06/the-time-is-now-the-senate-must-act-on-crypto-market-structure-legislation</link>
+            <guid isPermaLink="false">https://www.coindesk.com/opinion/2026/05/06/the-time-is-now-the-senate-must-act-on-crypto-market-structure-legislation</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 17:25:31 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators]]></title>
+            <description><![CDATA[Premier David Burt said Bermuda's "onchain economy" plan aims to bring stablecoins into everyday commerce....]]></description>
+            <link>https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 17:16:29 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand]]></title>
+            <description><![CDATA[The Democratic lawmaker has been a negotiator for the Clarity Act, and one of the final sticking points is the crypto constraint on officials, including the president....]]></description>
+            <link>https://www.coindesk.com/policy/2026/05/06/crypto-bill-won-t-move-without-a-ban-on-officials-industry-ties-says-u-s-senator-gillibrand</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/05/06/crypto-bill-won-t-move-without-a-ban-on-officials-industry-ties-says-u-s-senator-gillibrand</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 17:08:15 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[How to choose a safe DeFi platform before you deposit in 2026]]></title>
+            <description><![CDATA[In 2026, choosing where to deposit in DeFi starts with a question that audits and total value locked (TVL) leave unresolved: what breaks under stress? That is the shift behind any serious trust check ...]]></description>
+            <link>https://cryptoslate.com/how-to-choose-a-safe-defi-platform-before-you-deposit-in-2026/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/how-to-choose-a-safe-defi-platform-before-you-deposit-in-2026/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 17:00:53 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Missouri regulators escalate pressure on Conduent over data breach potentially affecting millions]]></title>
+            <description><![CDATA[Sarah Motter reports: Missouri regulators say a major national vendor is stonewalling their investigation into a cybersecurity breach that could affect millions of consumers. The Missouri Department o...]]></description>
+            <link>https://databreaches.net/2026/05/06/missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions/?pk_campaign=feed&amp;pk_kwd=missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/05/06/missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions/?pk_campaign=feed&amp;pk_kwd=missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 16:55:58 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The end of ads: Coinbase engineer says AI agents could kill the internet’s favorite business model]]></title>
+            <description><![CDATA[Erik Reppel, who created the x402 protocol, said that the web economy depends heavily on advertising revenue generated from humans. AI agents bypass that system entirely....]]></description>
+            <link>https://www.coindesk.com/tech/2026/05/06/the-end-of-ads-coinbase-engineer-says-ai-agents-could-kill-the-internet-s-favorite-business-model</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/05/06/the-end-of-ads-coinbase-engineer-says-ai-agents-could-kill-the-internet-s-favorite-business-model</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 16:44:38 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[DAEMON Tools devs confirm breach, release malware-free version]]></title>
+            <description><![CDATA[Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 16:43:30 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Analyst Spots an Ethereum (ETH) Golden Cross: Is a Big Rally on the Way?]]></title>
+            <description><![CDATA[Is ETH on track for a pump to almost $2,700 next?...]]></description>
+            <link>https://cryptopotato.com/analyst-spots-an-ethereum-eth-golden-cross-is-a-big-rally-on-the-way/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/analyst-spots-an-ethereum-eth-golden-cross-is-a-big-rally-on-the-way/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 16:39:42 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[When Your Vendor’s Breach Becomes Your Lawsuit: Privacy Risk Lessons from Recent Bank Litigation]]></title>
+            <description><![CDATA[Nancy Eff Presnell, Gene F. Price, and Matthew R. Schantz write: A recent high-profile incident illustrates the growing litigation and regulatory risks that financial institutions face from vendor-dri...]]></description>
+            <link>https://databreaches.net/2026/05/06/when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation/?pk_campaign=feed&amp;pk_kwd=when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/05/06/when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation/?pk_campaign=feed&amp;pk_kwd=when-your-vendors-breach-becomes-your-lawsuit-privacy-risk-lessons-from-recent-bank-litigation</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 16:36:06 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Kevin O’Leary says Wall Street’s tokenization boom is all talk without crypto rules]]></title>
+            <description><![CDATA[O’Leary says institutional investors still see tokenization as too risky without clear U.S. crypto regulation and compliance standards....]]></description>
+            <link>https://www.coindesk.com/markets/2026/05/06/kevin-o-leary-says-wall-street-s-tokenization-boom-is-all-talk-without-crypto-rules</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/05/06/kevin-o-leary-says-wall-street-s-tokenization-boom-is-all-talk-without-crypto-rules</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 16:27:36 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-06</dc:date>
+        </item>
         <item>
             <title><![CDATA[Crypto Long & Short: In quiet crypto markets, yield is the trade]]></title>
             <description><![CDATA[In this week’s Crypto Long & Short Newsletter, Maxime Seiler notes that weak crypto prices mask adoption, making yield strategies the main trade. Then, Kavita Maharaj‑Alexander writes on crypto’s next...]]></description>
@@ -445,28 +621,6 @@
             <dc:date>2026-05-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[Blockchain.com launches SnapMarkets as prediction markets move into faster crypto bets]]></title>
-            <description><![CDATA[The launch occurs as prediction markets surge, facing regulatory conflicts between the pro-market CFTC and challenging state gambling authorities....]]></description>
-            <link>https://www.coindesk.com/business/2026/05/06/blockchain-com-launches-snapmarkets-as-prediction-markets-move-into-faster-crypto-bets</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/05/06/blockchain-com-launches-snapmarkets-as-prediction-markets-move-into-faster-crypto-bets</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 09:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-05-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[OKX joins crypto’s pre-IPO frenzy with OpenAI, SpaceX perpetual futures]]></title>
-            <description><![CDATA[Crypto exchanges are increasingly competing to offer retail traders exposure to Silicon Valley’s most valuable private firms, despite the products conferring neither equity ownership nor shareholder r...]]></description>
-            <link>https://www.coindesk.com/markets/2026/05/06/okx-joins-crypto-s-pre-ipo-frenzy-with-openai-spacex-perpetual-futures</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/05/06/okx-joins-crypto-s-pre-ipo-frenzy-with-openai-spacex-perpetual-futures</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 08:59:36 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-05-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Strategy to “sell some Bitcoin” after posting $12.7 billion Q1 loss as Saylor points to $5 billion Bitcoin gain]]></title>
             <description><![CDATA[Strategy reported a massive first-quarter loss after Bitcoin’s early-year drawdown overwhelmed its software revenue, even as Michael Saylor pointed to internal Bitcoin metrics showing continued gains ...]]></description>
             <link>https://cryptoslate.com/strategy-posts-12-7-billion-q1-loss-as-saylor-points-to-5-billion-bitcoin-gain/</link>
@@ -475,17 +629,6 @@
             <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
             <pubDate>Wed, 06 May 2026 08:37:09 GMT</pubDate>
             <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-05-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Beyond humans: Lily Liu says Solana is building the payment rails for the 'AI machine economy']]></title>
-            <description><![CDATA[At Consensus Miami 2026, Solana Foundation President Lily Liu argued that stablecoin adoption by firms like Western Union validates Solana’s role as financial infrastructure for both human and machine...]]></description>
-            <link>https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 08:35:24 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-05-06</dc:date>
         </item>
         <item>
@@ -500,28 +643,6 @@
             <dc:date>2026-05-06</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin's price rally has a hidden rhythm. Here are the hours and days driving gains.]]></title>
-            <description><![CDATA[Bitcoin’s three-month rally shows a clear internal structure than most traders might expect, with performance clustering around specific trading windows across global sessions....]]></description>
-            <link>https://www.coindesk.com/markets/2026/05/06/bitcoin-s-price-rally-has-a-hidden-rhythm-here-are-the-hours-and-days-driving-gains</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/05/06/bitcoin-s-price-rally-has-a-hidden-rhythm-here-are-the-hours-and-days-driving-gains</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 08:29:21 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-05-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto custodian Taurus moves straight into EU capital markets with MiFID license in Cyprus]]></title>
-            <description><![CDATA[The license allows the firm to offer tokenized financial instruments to EU banks as well as secondary trading for tokenized bonds, fund shares, equities, and structured products....]]></description>
-            <link>https://www.coindesk.com/policy/2026/05/06/crypto-custody-firm-taurus-granted-mifid-license-in-cyprus</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/05/06/crypto-custody-firm-taurus-granted-mifid-license-in-cyprus</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 08:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-05-06</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Strategy Posts $12.5B Q1 Loss as BTC Prices Weigh on Results]]></title>
             <description><![CDATA[Michael Saylor said Strategy may have to sell some of its Bitcoin to pay a dividend and "inoculate the market."...]]></description>
             <link>https://cryptopotato.com/strategy-posts-12-5b-q1-loss-as-btc-prices-weigh-on-results/</link>
@@ -530,17 +651,6 @@
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Wed, 06 May 2026 07:53:38 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-05-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.]]></title>
-            <description><![CDATA[Crypto and traditional finance are converging fast, with perpetual futures emerging as the strongest bridge between the two....]]></description>
-            <link>https://www.coindesk.com/markets/2026/05/06/equity-perps-could-become-more-popular-than-crypto-perps-as-the-line-between-crypto-and-wall-street-dissolves</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/05/06/equity-perps-could-become-more-popular-than-crypto-perps-as-the-line-between-crypto-and-wall-street-dissolves</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 07:23:57 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-05-06</dc:date>
         </item>
         <item>
@@ -575,17 +685,6 @@ The vulnerability, tracked as CVE-2026-0300, ha...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 06 May 2026 05:30:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-05-06</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[North Korea terror victims escalate fight to seize $71 million from Aave hack ]]></title>
-            <description><![CDATA[In a 30-page response filed Tuesday, attorneys for victims of three North Korea terrorism cases reframed the April 18 Aave hack as fraud rather than theft — a distinction that could give the attackers...]]></description>
-            <link>https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 06 May 2026 05:09:22 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-05-06</dc:date>
         </item>
         <item>
@@ -897,17 +996,6 @@ The vulnerability, tracked as CVE-2026-0300, ha...]]></description>
             <dc:date>2026-05-05</dc:date>
         </item>
         <item>
-            <title><![CDATA[Aave warns $71M exploit recovery could be seized before victims are repaid]]></title>
-            <description><![CDATA[Aave is asking a New York court to stop creditors from reaching frozen ETH that was set aside for victims of a major DeFi exploit. The fight turns a crypto recovery effort into a legal test over wheth...]]></description>
-            <link>https://cryptoslate.com/aave-says-creditors-are-trying-to-seize-stolen-eth-before-victims-get-their-71m-back/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/aave-says-creditors-are-trying-to-seize-stolen-eth-before-victims-get-their-71m-back/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 12:22:16 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-05-05</dc:date>
-        </item>
-        <item>
             <title><![CDATA[The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed]]></title>
             <description><![CDATA[Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic...]]></description>
             <link>https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html</link>
@@ -975,17 +1063,6 @@ The vulnerability in...]]></description>
             <dc:date>2026-05-05</dc:date>
         </item>
         <item>
-            <title><![CDATA[CLARITY Act risks slipping as housing fight stalls Senate crypto markup]]></title>
-            <description><![CDATA[The CLARITY Act’s next problem is whether Senate Republicans can keep the crypto market structure bill on schedule while a housing dispute and unresolved DeFi protections pull the markup into a narrow...]]></description>
-            <link>https://cryptoslate.com/crypto-clarity-rules-may-be-delayed-because-congress-is-stuck-arguing-over-housing/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/crypto-clarity-rules-may-be-delayed-because-congress-is-stuck-arguing-over-housing/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 10:30:17 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-05-05</dc:date>
-        </item>
-        <item>
             <title><![CDATA[We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is]]></title>
             <description><![CDATA[While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fas...]]></description>
             <link>https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html</link>
@@ -997,28 +1074,6 @@ The vulnerability in...]]></description>
             <dc:date>2026-05-05</dc:date>
         </item>
         <item>
-            <title><![CDATA[Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison]]></title>
-            <description><![CDATA[A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his "cold case" negotiator role in the Russian Karakurt ransomware group. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 10:13:17 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-05-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs]]></title>
-            <description><![CDATA[A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobil...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 10:03:52 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-05-05</dc:date>
-        </item>
-        <item>
             <title><![CDATA[TON and M Skyrocket by 30% Each, BTC Price Tapped $81K: Market Watch]]></title>
             <description><![CDATA[MORPHO follows suit in terms of daily gains, but remains far behind the two leaders today....]]></description>
             <link>https://cryptopotato.com/ton-and-m-skyrocket-by-30-each-btc-price-tapped-81k-market-watch/</link>
@@ -1027,17 +1082,6 @@ The vulnerability in...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Tue, 05 May 2026 09:16:26 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-05-05</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ScarCruft hackers push BirdCall Android malware via game platform]]></title>
-            <description><![CDATA[The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 09:04:13 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-05-05</dc:date>
         </item>
         <item>
@@ -1285,17 +1329,6 @@ MOVEit Automation (formerly Central) ...]]></description>
             <dc:date>2026-05-04</dc:date>
         </item>
         <item>
-            <title><![CDATA[WLFI Lawsuit Sparks Response: Justin Sun Calls It ‘Meritless’]]></title>
-            <description><![CDATA[He added that he stands by his actions as the lawsuits between the two parties unfold....]]></description>
-            <link>https://cryptopotato.com/wlfi-lawsuit-sparks-response-justin-sun-calls-it-meritless/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/wlfi-lawsuit-sparks-response-justin-sun-calls-it-meritless/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 14:31:20 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-05-04</dc:date>
-        </item>
-        <item>
             <title><![CDATA[⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More]]></title>
             <description><![CDATA[This week, the shadows moved faster than the patches.
 While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors,...]]></description>
@@ -1305,39 +1338,6 @@ While most teams were still triaging last month’s alerts, attackers had alread
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Mon, 04 May 2026 14:23:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-05-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DeLorean Brings Its Iconic IP to Solana]]></title>
-            <description><![CDATA[[PRESS RELEASE – Miami, Florida, May 4th, 2026] For decades, the DeLorean has meant something to people. It’s a car, yes, but more than that, it’s a symbol. Of the future. Of rebellion. It’s the degen...]]></description>
-            <link>https://cryptopotato.com/delorean-brings-its-iconic-ip-to-solana/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/delorean-brings-its-iconic-ip-to-solana/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 14:18:00 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-05-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[2026: The Year of AI-Assisted Attacks]]></title>
-            <description><![CDATA[On December 4, 2025, a 17-year-old was arrested in Osaka under Japan’s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of...]]></description>
-            <link>https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 11:58:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-05-04</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[How Dark Reading Lifted Off the Launchpad in 2006]]></title>
-            <description><![CDATA[Twenty years ago, this media brand didn't have a print edition to attract eyeballs and sponsors. Top-notch content and editorial talent did the heavy lifting....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 04 May 2026 11:15:08 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-05-04</dc:date>
         </item>
     </channel>
