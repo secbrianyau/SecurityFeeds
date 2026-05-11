@@ -1,10 +1,290 @@
 [
   {
+    "title": "Official CheckMarx Jenkins package compromised with infostealer",
+    "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+    "date": "2026-05-11T22:03:06.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]..."
+  },
+  {
+    "title": "New GhostLock tool abuses Windows API to block file access",
+    "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+    "date": "2026-05-11T22:02:00.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SM..."
+  },
+  {
+    "title": "The Gentlemen Ransomware Group Becomes a Victim",
+    "link": "https://databreaches.net/2026/05/11/the-gentlemen-ransomware-group-becomes-a-victim/?pk_campaign=feed&pk_kwd=the-gentlemen-ransomware-group-becomes-a-victim",
+    "date": "2026-05-11T21:45:06.000Z",
+    "source": "DataBreaches.net",
+    "summary": "Ah, more drama in the cybercrime ecosystem.  Matthew J. Schwartz reports: A ransomware organization is suffering an extreme case of turnabout is fair play through a data breach that splaying internal ..."
+  },
+  {
+    "title": "Bitcoin Pulls In $706M as Traders Abandon Short Positions in Massive Sentiment Shift",
+    "link": "https://cryptopotato.com/bitcoin-pulls-in-706m-as-traders-abandon-short-positions-in-massive-sentiment-shift/",
+    "date": "2026-05-11T21:43:40.000Z",
+    "source": "CryptoPotato",
+    "summary": "While Bitcoin dominated headlines, Solana and XRP investment products also recorded sharp increases in activity...."
+  },
+  {
+    "title": "FCC Softens Ban on Foreign-Made Routers",
+    "link": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
+    "date": "2026-05-11T21:15:48.000Z",
+    "source": "Dark Reading",
+    "summary": "The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place...."
+  },
+  {
+    "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
+    "link": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
+    "date": "2026-05-11T20:21:44.000Z",
+    "source": "Coindesk",
+    "summary": "Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point...."
+  },
+  {
+    "title": "Tron in Trouble? ‘Glaring Divergence’ Flagged Behind TRX’s Latest Surge",
+    "link": "https://cryptopotato.com/tron-in-trouble-glaring-divergence-flagged-behind-trxs-latest-surge/",
+    "date": "2026-05-11T20:06:31.000Z",
+    "source": "CryptoPotato",
+    "summary": "TRX's latest upward momentum appears increasingly disconnected from actual blockchain usage and transaction activity levels...."
+  },
+  {
+    "title": "'I don’t think that’s crazy': Here is why Circle is betting on new $3 billion blockchain",
+    "link": "https://www.coindesk.com/business/2026/05/11/i-don-t-think-that-s-crazy-here-is-why-circle-is-betting-on-new-usd3-billion-blockchain",
+    "date": "2026-05-11T19:51:09.000Z",
+    "source": "Coindesk",
+    "summary": "The USDC stablecoin issuer is betting Arc can become Wall Street’s blockchain rail for payments and tokenized finance, though analysts still see it as speculative...."
+  },
+  {
+    "title": "Tech Can't Stop These Threats — Your People Can",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can",
+    "date": "2026-05-11T19:50:20.000Z",
+    "source": "Dark Reading",
+    "summary": "Security controls can do only so much. Here are four attacks where your employees are usually your first, and only, line of cyber defense...."
+  },
+  {
+    "title": "This week Bitcoin faces as a new fed chair colliding with inflation in its biggest macro test of the year",
+    "link": "https://cryptoslate.com/bitcoin-faces-its-biggest-scheduled-macro-test-of-2026-as-new-fed-chair-collides-with-inflation/",
+    "date": "2026-05-11T19:15:39.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitcoin faces 2026's densest macro test as CPI, Warsh, and Trump-Xi collide This week (May 11-15) has a credible claim to being the most consequential macro window of 2026 so far, as it compresses eve..."
+  },
+  {
+    "title": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
+    "link": "https://www.coindesk.com/business/2026/05/08/kraken-parent-payward-seeks-fresh-funding-at-usd20-billion-valuation-ahead-of-potential-ipo",
+    "date": "2026-05-11T18:42:27.000Z",
+    "source": "Coindesk",
+    "summary": "The crypto exchange operator is pursuing a new fundraising round as it ramps up acquisitions across derivatives and stablecoins while laying the groundwork for a future public listing...."
+  },
+  {
+    "title": "Is Bitcoin’s Rally Fake? Analyst Sees Massive Downside Ahead",
+    "link": "https://cryptopotato.com/is-bitcoins-rally-fake-analyst-sees-massive-downside-ahead/",
+    "date": "2026-05-11T18:18:18.000Z",
+    "source": "CryptoPotato",
+    "summary": "Some market watchers see the recent recovery as the beginning of expansion, while others view it as exit liquidity...."
+  },
+  {
+    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+    "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+    "date": "2026-05-11T17:54:00.000Z",
+    "source": "The Hacker News",
+    "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.\nThe attack ex..."
+  },
+  {
+    "title": "White House reveals US banks ‘refused’ to attend meetings to resolve stablecoin rewards issue in CLARITY Act",
+    "link": "https://cryptoslate.com/white-house-reveals-us-banks-refused-to-attend-meetings-to-resolve-stablecoin-rewards-issue-in-clarity-act/",
+    "date": "2026-05-11T17:20:34.000Z",
+    "source": "CryptoSlate",
+    "summary": "A senior White House official has accused major banking trade leaders of refusing to join earlier talks on stablecoin rewards, escalating a dispute that has become one of the final pressure points ahe..."
+  },
+  {
+    "title": "How Bitcoin Outperformed ETH, XRP, BNB, and SOL During 2025-2026 Market Stress",
+    "link": "https://cryptopotato.com/how-bitcoin-outperformed-eth-xrp-bnb-and-sol-during-2025-2026-market-stress/",
+    "date": "2026-05-11T16:37:43.000Z",
+    "source": "CryptoPotato",
+    "summary": "SOL fell the furthest at 71.6%, from $238 to $67, but also bounced the hardest, recovering 38% from its bottom...."
+  },
+  {
+    "title": "Anchorage is stepping back from Robinhood and Kraken-backed stablecoin group",
+    "link": "https://www.coindesk.com/business/2026/05/11/anchorage-is-stepping-back-from-robinhood-and-kraken-backed-stablecoin-group",
+    "date": "2026-05-11T16:30:09.000Z",
+    "source": "Coindesk",
+    "summary": "Anchorage Digital co-founder and CEO Nathan McCauley said there will be ‘increased neutrality’ from his firm on stablecoins...."
+  },
+  {
+    "title": "Why the TradFi takeover of crypto might not be the death blow analysts expect",
+    "link": "https://www.coindesk.com/business/2026/05/11/why-the-tradfi-takeover-of-crypto-might-not-be-the-death-blow-analysts-expect",
+    "date": "2026-05-11T16:29:48.000Z",
+    "source": "Coindesk",
+    "summary": "Gate’s CBO argues that Bloomberg’s warning of a TradFi takeover is \"oversimplified,\" noting that global exchanges evolved past fee-only models years ago...."
+  },
+  {
+    "title": "Thousands of DICOM servers exposed due to shameful lack of basic security measures",
+    "link": "https://databreaches.net/2026/05/11/thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures/?pk_campaign=feed&pk_kwd=thousands-of-dicom-servers-exposed-due-to-shameful-lack-of-basic-security-measures",
+    "date": "2026-05-11T15:49:55.000Z",
+    "source": "DataBreaches.net",
+    "summary": "From the way-too-slow-learning-curve dept. Steve Alder reports: Healthcare organizations are exposing a vast amount of patient data by failing to implement even basic security measures for DICOM serve..."
+  },
+  {
+    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+    "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+    "date": "2026-05-11T15:45:00.000Z",
+    "source": "The Hacker News",
+    "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the..."
+  },
+  {
+    "title": "These forces could push Bitcoin higher this week even as US-Iran tensions continue to rattle markets",
+    "link": "https://cryptoslate.com/these-forces-could-push-bitcoin-higher-this-week-even-as-us-iran-tensions-continue-to-rattle-markets/",
+    "date": "2026-05-11T15:32:47.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitcoin is entering one of its most consequential trading weeks since its February correction, with Middle East tensions pushing oil prices higher, inflation expectations hardening, and options trader..."
+  },
+  {
+    "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+    "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+    "date": "2026-05-11T15:26:26.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]..."
+  },
+  {
+    "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
+    "date": "2026-05-11T15:05:45.000Z",
+    "source": "Dark Reading",
+    "summary": "The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation...."
+  },
+  {
+    "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
+    "link": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
+    "date": "2026-05-11T14:43:29.000Z",
+    "source": "Coindesk",
+    "summary": "The American Bankers Association amplified warnings the Senate’s Clarity Act could push deposit flight into stablecoins unless lawmakers tighten yield limits...."
+  },
+  {
+    "title": "Corpay taps BVNK to bring stablecoin wallets to corporate payments",
+    "link": "https://www.coindesk.com/business/2026/05/11/corpay-taps-bvnk-to-bring-stablecoin-wallets-to-corporate-payments",
+    "date": "2026-05-11T14:34:29.000Z",
+    "source": "Coindesk",
+    "summary": "Corpay will use stablecoin rails in its treasury operations to improve capital efficiency, reduce reliance on pre-funded accounts, and move funds across its global footprint...."
+  },
+  {
+    "title": "The biggest consensus overhaul in Solana history is officially live for testing",
+    "link": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+    "date": "2026-05-11T14:18:58.000Z",
+    "source": "Coindesk",
+    "summary": "The upgrade, known as Alpenglow, is live on a community test cluster, said Solana core developer Anza...."
+  },
+  {
+    "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
+    "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+    "date": "2026-05-11T13:53:56.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]..."
+  },
+  {
+    "title": "Ripple raises $200 million from Neuberger Berman to expand its Ripple Prime platform",
+    "link": "https://www.coindesk.com/business/2026/05/11/ripple-raises-usd200-million-from-neuberger-berman-to-expand-its-ripple-prime-platform",
+    "date": "2026-05-11T13:47:38.000Z",
+    "source": "Coindesk",
+    "summary": "Ripple announced its agreement with the global investment firm Monday, noting that Ripple Prime’s revenue has tripled in the last year, when. it acquired it for $1.25 billion...."
+  },
+  {
+    "title": "Ripple (XRP) Makes a $200 Million Move to Strengthen Institutional Ties",
+    "link": "https://cryptopotato.com/ripple-xrp-makes-a-200-million-move-to-strengthen-institutional-ties/",
+    "date": "2026-05-11T13:23:54.000Z",
+    "source": "CryptoPotato",
+    "summary": "Ripple's Prime President said that such dependable access to financing and balance sheet strength are 'critical to institutional participants.'..."
+  },
+  {
+    "title": "CoinDesk 20 performance update: SUI surges 25% over weekend  ",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/05/11/coindesk-20-performance-update-sui-surges-25-over-weekend",
+    "date": "2026-05-11T13:17:36.000Z",
+    "source": "Coindesk",
+    "summary": "Cronos (CRO), up 9.7% from Friday, joined Sui (SUI) as a top performer...."
+  },
+  {
+    "title": "Tom Lee Doubles Down on ‘Crypto Spring’ Theory but Bitmine Slows ETH Accumulation",
+    "link": "https://cryptopotato.com/tom-lee-doubles-down-on-crypto-spring-theory-but-bitmine-slows-eth-accumulation/",
+    "date": "2026-05-11T13:10:18.000Z",
+    "source": "CryptoPotato",
+    "summary": "Here's what ETH has to do to validate the end of the current bear market...."
+  },
+  {
+    "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+    "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+    "date": "2026-05-11T13:02:30.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]..."
+  },
+  {
+    "title": "CLARITY Act’s markup progress now hinges on these Democrat lawmakers",
+    "link": "https://cryptoslate.com/clarity-acts-markup-hinges-on-these-seven-democrat-lawmakers/",
+    "date": "2026-05-11T13:00:32.000Z",
+    "source": "CryptoSlate",
+    "summary": "The CLARITY Act is heading back to the Senate Banking Committee on May 14 after months of stalled negotiations, putting a small group of Democrats at the center of the crypto industry’s push for a fed..."
+  },
+  {
+    "title": "Hackers Use AI for Exploit Development, Attack Automation",
+    "link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
+    "date": "2026-05-11T13:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks...."
+  },
+  {
+    "title": "Tom Lee's Bitmine slows down ether purchases after already buying 1 million tokens this year",
+    "link": "https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year",
+    "date": "2026-05-11T12:56:58.000Z",
+    "source": "Coindesk",
+    "summary": "The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000...."
+  },
+  {
+    "title": "Sui (SUI) Soars 35% Weekly: What Fueled the Pump and What’s Next?",
+    "link": "https://cryptopotato.com/sui-sui-soars-35-weekly-what-fueled-the-pump-and-whats-next/",
+    "date": "2026-05-11T12:52:24.000Z",
+    "source": "CryptoPotato",
+    "summary": "SUI's market capitalization has climbed past $5 billion...."
+  },
+  {
+    "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+    "date": "2026-05-11T12:30:00.000Z",
+    "source": "Bleeping Computer",
+    "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]..."
+  },
+  {
+    "title": "Korea’s child rights agency data mishandling exposes a lot of sensitive and personal info",
+    "link": "https://databreaches.net/2026/05/11/koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info/?pk_campaign=feed&pk_kwd=koreas-child-rights-agency-data-mishandling-exposes-a-lot-of-sensitive-and-personal-info",
+    "date": "2026-05-11T12:23:39.000Z",
+    "source": "DataBreaches.net",
+    "summary": "Jung Da-hyun reports: A recent data breach at the National Center for the Rights of the Child (NCRC), exposing sensitive personal records of adoptees, is drawing criticism from overseas adoptee groups..."
+  },
+  {
+    "title": "Strategy buys 535 bitcoin for $43 million days after signaling potential BTC sales",
+    "link": "https://www.coindesk.com/markets/2026/05/11/strategy-buys-535-bitcoin-for-usd43-million-days-after-signaling-potential-btc-sales",
+    "date": "2026-05-11T12:17:04.000Z",
+    "source": "Coindesk",
+    "summary": "Last week's purchases were funded by sales of the company's common stock...."
+  },
+  {
+    "title": "Ronin set to transition to Ethereum layer 2 from independent sidechain",
+    "link": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
+    "date": "2026-05-11T12:11:28.000Z",
+    "source": "Coindesk",
+    "summary": "The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022...."
+  },
+  {
     "title": "Strategy’s Bitcoin Buying Spree Resumes With Fresh 535 BTC Accumulation",
     "link": "https://cryptopotato.com/strategys-bitcoin-buying-spree-resumes-with-fresh-535-btc-accumulation/",
     "date": "2026-05-11T12:05:51.000Z",
     "source": "CryptoPotato",
     "summary": "The company and its former CEO attracted a lot of controversy recently after hinting at potentially selling some of the BTC holdings...."
+  },
+  {
+    "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
+    "date": "2026-05-11T12:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries' world view...."
   },
   {
     "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
@@ -210,13 +490,6 @@
     "summary": "XRP's breakout actually appears a lot stronger this time...."
   },
   {
-    "title": "Policy at Consensus Miami: State of Crypto ",
-    "link": "https://www.coindesk.com/policy/2026/05/10/policy-at-consensus-miami-state-of-crypto",
-    "date": "2026-05-10T18:30:00.000Z",
-    "source": "Coindesk",
-    "summary": "This was a hectic week...."
-  },
-  {
     "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
     "date": "2026-05-10T17:52:15.000Z",
@@ -266,27 +539,6 @@
     "summary": "Bitcoin continues to trade within a broader recovery structure following the strong rebound from the $60K region. However, despite the recent bullish momentum, the market has been struggling to reclai..."
   },
   {
-    "title": "Agentic commerce will run on crypto rails, PayPal and Google reps tell Consensus Miami",
-    "link": "https://www.coindesk.com/business/2026/05/10/agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-miami",
-    "date": "2026-05-10T14:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "Senior figures from PayPal and Google Cloud said open payment protocols, machine-readable merchant catalogs and multi-party crypto custody are needed to scale agentic commerce...."
-  },
-  {
-    "title": "Firefox finds 20 year old bug and patches 14 months of fixes in 30 days using Anthropic’s Mythos AI",
-    "link": "https://cryptoslate.com/firefox-finds-20-year-old-bug-and-patches-14-months-of-fixes-in-30-days-using-anthropics-mythos-ai/",
-    "date": "2026-05-10T13:00:11.000Z",
-    "source": "CryptoSlate",
-    "summary": "Mozilla’s latest Firefox security update provides a rare glimpse into what happens when frontier AI capabilities reach defenders before attackers. The company said it fixed 423 Firefox security bugs i..."
-  },
-  {
-    "title": "Bored Ape NFTs are finally making a comeback as crypto traders rediscover their appetite for risk",
-    "link": "https://www.coindesk.com/business/2026/05/10/bored-ape-nfts-are-finally-making-a-comeback-as-crypto-traders-rediscover-their-appetite-for-risk",
-    "date": "2026-05-10T13:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "BAYC floor prices have doubled in a month as traders rotate back into speculative crypto bets, reviving hopes of a broader NFT recovery...."
-  },
-  {
     "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
     "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
     "date": "2026-05-10T12:41:00.000Z",
@@ -301,25 +553,11 @@
     "summary": "Binance highlighted areas where crypto has driven financial inclusion, namely access to capital markets and the democratization of private markets through tokenization...."
   },
   {
-    "title": "BlackRock looks to sidestep Clarity yield issues, filing for two new tokenized money market funds",
-    "link": "https://cryptoslate.com/blackrock-files-sidestep-clarity-yield-issues-with-two-new-tokenized-money-market-funds/",
-    "date": "2026-05-10T10:00:45.000Z",
-    "source": "CryptoSlate",
-    "summary": "BlackRock is accelerating its push to bring Wall Street yields to the blockchain, filing paperwork with US regulators to introduce a pair of tokenized money market funds. The move represents a major e..."
-  },
-  {
     "title": "Bitcoin Investors Took More Profit as BTC Rallied to 3-Month High: CQ",
     "link": "https://cryptopotato.com/bitcoin-investors-took-more-profit-as-btc-rallied-to-3-month-high-cq/",
     "date": "2026-05-10T08:22:38.000Z",
     "source": "CryptoPotato",
     "summary": "Bitcoin holders are sitting on their highest unrealized profit margin since June 2025 as BTC rallies to a three-month high...."
-  },
-  {
-    "title": "JPMorgan, Mastercard and Ripple complete cross-border XRP tokenized Treasury settlement",
-    "link": "https://cryptoslate.com/jpmorgan-mastercard-and-ripple-complete-cross-border-tokenized-treasury-settlement/",
-    "date": "2026-05-10T07:10:07.000Z",
-    "source": "CryptoSlate",
-    "summary": "Ondo Finance said Ripple has redeemed OUSG on XRP Ledger and received a USD payout in Singapore through Mastercard and Kinexys by J.P. Morgan. The May 6 pilot tested whether a tokenized fund redemptio..."
   },
   {
     "title": "Pi Network’s PI Token Slips Again as Bitcoin (BTC) Taps $81K: Weekend Watch",
@@ -357,81 +595,11 @@
     "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based..."
   },
   {
-    "title": "Second Bitcoin ETF issuer predicts BTC hitting $1M – but cuts timeline to within the next US Presidential term",
-    "link": "https://cryptoslate.com/bitcoin-etf-issuer-vaneck-predicts-bitcoin-hitting-1m-during-the-next-presidential-term/",
-    "date": "2026-05-09T19:00:03.000Z",
-    "source": "CryptoSlate",
-    "summary": "Matthew Sigel of VanEck said Bitcoin could reach $1 million by the next US Presidential term. That puts a 1,150% increase as a 2031 target inside a market that is still trying to prove it can hold the..."
-  },
-  {
     "title": "Hacker Drains $5.9M From Ethereum Liquidity Provider TrustedVolumes",
     "link": "https://cryptopotato.com/hacker-drains-5-9m-from-ethereum-liquidity-provider-trustedvolumes/",
     "date": "2026-05-09T17:49:44.000Z",
     "source": "CryptoPotato",
     "summary": "Early reports framed the incident as a 1inch exploit, but the protocol clarified that it was not compromised and no user funds were affected...."
-  },
-  {
-    "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
-    "link": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
-    "date": "2026-05-09T17:28:08.000Z",
-    "source": "Coindesk",
-    "summary": "The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss...."
-  },
-  {
-    "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
-    "link": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
-    "date": "2026-05-09T17:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "Novig CEO Jacob Fortinsky said his company will transition to a federal Designated Contract Market framework this summer to launch in all 50 states, while 57 Maiden's Adam Mastrelli said he was banned..."
-  },
-  {
-    "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
-    "link": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
-    "date": "2026-05-09T16:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "Quantum computing does not only pose a risk to up to $3 trillion in digital assets, it also threatens the security of banking systems, military communications, digital identities and more, Project Ele..."
-  },
-  {
-    "title": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
-    "link": "https://www.coindesk.com/policy/2026/05/09/crypto-industry-cheers-senate-clarity-act-markup-date-as-market-structure-push-resumes",
-    "date": "2026-05-09T15:56:49.000Z",
-    "source": "Coindesk",
-    "summary": "The bill's progress follows talks on jurisdiction, consumer/developer protections, and stablecoin rewards, with crypto firms backing a yield compromise...."
-  },
-  {
-    "title": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
-    "link": "https://www.coindesk.com/business/2026/05/09/emerging-market-users-are-treating-crypto-exchanges-like-banking-apps-binance-says",
-    "date": "2026-05-09T15:41:38.000Z",
-    "source": "Coindesk",
-    "summary": "One point three billion adults lack financial services, 4.7 billion lack credit, and 1.4 billion savers in low-income nations earn no deposit interest, Binance said...."
-  },
-  {
-    "title": "Why a 2017 Linux bug is now a major concern for the crypto industry ",
-    "link": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2026-05-09T15:30:00.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "The “Copy Fail” Linux bug could impact crypto infrastructure that relies on Linux servers, highlighting growing cybersecurity risks in the digital asset industry.\nFormat: Explained..."
-  },
-  {
-    "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
-    "link": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
-    "date": "2026-05-09T15:28:09.000Z",
-    "source": "Coindesk",
-    "summary": "The initiative sought to amend Switzerland's constitution, requiring the Swiss National Bank (SNB) to hold BTC alongside gold and foreign-currency reserves...."
-  },
-  {
-    "title": "CME is set to let traders bet on bitcoin volatility, not just price",
-    "link": "https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme",
-    "date": "2026-05-09T15:14:52.000Z",
-    "source": "Coindesk",
-    "summary": "CME Group plans to launch bitcoin volatility futures on June 1 pending regulatory approval bringing a easy way to bet on the degree of price swings...."
-  },
-  {
-    "title": "How DeFi is changing the financial landscape for Latin Americans",
-    "link": "https://www.coindesk.com/opinion/2026/05/09/how-defi-is-changing-the-financial-landscape-for-latin-americans",
-    "date": "2026-05-09T14:30:00.000Z",
-    "source": "Coindesk",
-    "summary": "DeFi is quietly shifting from niche crypto experiment to a legitimate financial tool across the region, explains Serrano...."
   },
   {
     "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
@@ -446,20 +614,6 @@
     "date": "2026-05-09T14:14:48.000Z",
     "source": "CryptoPotato",
     "summary": "Here's how XRP can skyrocket by at least 1,000%...."
-  },
-  {
-    "title": "Crypto wallets are being rebuilt for AI agents, Trust Wallet and Mesh executives say at Consensus Miami",
-    "link": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
-    "date": "2026-05-09T14:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are creating a new role for crypto wallets...."
-  },
-  {
-    "title": "BlackRock deepens tokenization push with new onchain fund offerings",
-    "link": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
-    "date": "2026-05-09T13:57:07.000Z",
-    "source": "Coindesk",
-    "summary": "The world's largest asset manager filed paperwork to expand its tokenized fund lineup as real-world assets grow 200% year over year...."
   },
   {
     "title": "Bitcoin vs. The Hantavirus: Is BTC Bracing for Another ‘Black Swan’ Event?",
@@ -539,13 +693,6 @@
     "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms.\nThe activity is being tra..."
   },
   {
-    "title": "Swiss Bitcoin Reserve Dream Collapses After Signature Campaign Falls Short: Report",
-    "link": "https://cryptopotato.com/swiss-bitcoin-reserve-dream-collapses-after-signature-campaign-falls-short-report/",
-    "date": "2026-05-08T17:10:01.000Z",
-    "source": "CryptoPotato",
-    "summary": "Switzerland's effort to make the central bank hold Bitcoin is ending early after supporters secured only half the signatures...."
-  },
-  {
     "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
     "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
     "date": "2026-05-08T16:18:31.000Z",
@@ -553,25 +700,11 @@
     "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]..."
   },
   {
-    "title": "The Hantavirus Danger: Can a Potential Outbreak Spark a New Meme Coin Frenzy?",
-    "link": "https://cryptopotato.com/the-hantavirus-danger-can-a-potential-outbreak-spark-a-new-meme-coin-frenzy/",
-    "date": "2026-05-08T15:49:41.000Z",
-    "source": "CryptoPotato",
-    "summary": "Meme coins associated with the virus have already accumulated multimillion-dollar market caps...."
-  },
-  {
     "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
     "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
     "date": "2026-05-08T15:08:00.000Z",
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users..."
-  },
-  {
-    "title": "Bitcoin Price Analysis: Rejection at $83K Shows Major Weaknesses in BTC’s Structure",
-    "link": "https://cryptopotato.com/bitcoin-price-analysis-rejection-at-83k-shows-major-weaknesses-in-btcs-structure/",
-    "date": "2026-05-08T14:45:47.000Z",
-    "source": "CryptoPotato",
-    "summary": "Bitcoin is trading around $80k, holding slightly above the psychological threshold that has defined the ceiling of every recovery attempt over the past three months. The ascending channel is intact, t..."
   },
   {
     "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
@@ -588,25 +721,11 @@
     "summary": "The hardest part of cybersecurity isn't the technology, it’s the people.\nEvery major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\"..."
   },
   {
-    "title": "Bitcoin Fights for $80K, Strategy Posts Big Q1 Loss, Coinbase Cuts Jobs: Your Weekly Crypto Recap",
-    "link": "https://cryptopotato.com/bitcoin-fights-for-80k-strategy-posts-big-q1-loss-coinbase-cuts-jobs-your-weekly-crypto-recap/",
-    "date": "2026-05-08T13:57:40.000Z",
-    "source": "CryptoPotato",
-    "summary": "One of the other major developments in the past week was the counter-lawsuit initiated by the Trump-backed WLFI against Justin Sun...."
-  },
-  {
     "title": "Trellix source code breach claimed by RansomHouse hackers",
     "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
     "date": "2026-05-08T13:23:23.000Z",
     "source": "Bleeping Computer",
     "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]..."
-  },
-  {
-    "title": "Ripple (XRP) Joins an Exclusive Club Next to SpaceX, OpenAI: Details Inside",
-    "link": "https://cryptopotato.com/ripple-xrp-joins-an-exclusive-club-next-to-spacex-openai-details-inside/",
-    "date": "2026-05-08T13:06:19.000Z",
-    "source": "CryptoPotato",
-    "summary": "Ripple now appears alongside heavyweights like SpaceX, OpenAI, and Anthropic. Check out how...."
   },
   {
     "title": "One size does not fit all — sometimes, victims probably should pay ransom",
@@ -616,25 +735,11 @@
     "summary": "DataBreaches posted the following opinion piece on LinkedIn this morning in my Dissent Doe, PhD account: Last night, Canvas was restored, and the Instructure leak site listing was removed from the thr..."
   },
   {
-    "title": "Crypto Price Analysis May-08: ETH, XRP, ADA, BNB, and HYPE",
-    "link": "https://cryptopotato.com/crypto-price-analysis-may-08-eth-xrp-ada-bnb-and-hype/",
-    "date": "2026-05-08T12:28:41.000Z",
-    "source": "CryptoPotato",
-    "summary": "This Friday, we examine Ethereum, Ripple, Cardano, Binance Coin, and Hyperliquid in greater detail. Ethereum (ETH) Unfortunately, Ethereum was rejected at the $2,400 resistance this week. Bulls did no..."
-  },
-  {
     "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
     "date": "2026-05-08T12:16:32.000Z",
     "source": "Bleeping Computer",
     "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]..."
-  },
-  {
-    "title": "Recent Bitcoin Price Predictions, Shiba Inu’s Latest Achievement, and More: Bits Recap May 8",
-    "link": "https://cryptopotato.com/recent-bitcoin-price-predictions-shiba-inus-latest-achievement-and-more-bits-recap-may-8/",
-    "date": "2026-05-08T11:38:41.000Z",
-    "source": "CryptoPotato",
-    "summary": "Here's everything most interesting around BTC, SHIB, and ETH...."
   },
   {
     "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
@@ -644,13 +749,6 @@
     "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functio..."
   },
   {
-    "title": "Zara data breach exposed personal information of 197,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-    "date": "2026-05-08T10:42:22.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [..."
-  },
-  {
     "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
     "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
     "date": "2026-05-08T10:30:00.000Z",
@@ -658,25 +756,11 @@
     "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investi..."
   },
   {
-    "title": "Former govt contractor convicted for wiping dozens of federal databases",
-    "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-    "date": "2026-05-08T08:45:04.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]..."
-  },
-  {
     "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
     "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
     "date": "2026-05-08T08:41:00.000Z",
     "source": "The Hacker News",
     "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"\nTh..."
-  },
-  {
-    "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-    "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-    "date": "2026-05-08T07:45:24.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]..."
   },
   {
     "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
@@ -693,25 +777,11 @@
     "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, af..."
   },
   {
-    "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-    "date": "2026-05-07T22:36:54.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and univer..."
-  },
-  {
     "title": "Developing:  ShinyHunters Hacks Instructure Again; Canvas Down (1)",
     "link": "https://databreaches.net/2026/05/07/developing-shinyhunters-hacks-instructure-again-canvas-down/?pk_campaign=feed&pk_kwd=developing-shinyhunters-hacks-instructure-again-canvas-down",
     "date": "2026-05-07T22:08:00.000Z",
     "source": "DataBreaches.net",
     "summary": "When Instructure did not contact ShinyHunters to negotiate any payment after ShinyHunters attacked them for a second time in April,  the threat actors threatened to leak every school’s data, and poste..."
-  },
-  {
-    "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-    "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-    "date": "2026-05-07T22:06:52.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]..."
   },
   {
     "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets",
@@ -726,13 +796,6 @@
     "date": "2026-05-07T19:07:17.000Z",
     "source": "Dark Reading",
     "summary": "Dark Reading investigates rumors that Tom Parker, a board room \"operator\" and longtime cyber exec, could be next in line to take over CISA...."
-  },
-  {
-    "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-    "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-    "date": "2026-05-07T18:35:50.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]..."
   },
   {
     "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
@@ -756,13 +819,6 @@
     "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026.\nThe vulnerability in question is..."
   },
   {
-    "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
-    "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
-    "date": "2026-05-07T13:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs...."
-  },
-  {
     "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
     "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
     "date": "2026-05-07T13:00:00.000Z",
@@ -770,73 +826,17 @@
     "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen...."
   },
   {
+    "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
+    "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
+    "date": "2026-05-07T13:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs...."
+  },
+  {
     "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
     "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
     "date": "2026-05-07T11:33:00.000Z",
     "source": "The Hacker News",
     "summary": "Bad week.\nTurns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels..."
-  },
-  {
-    "title": "Cybersecurity Stolen ChipSoft claims patient data confirmed destroyed following cyberattack",
-    "link": "https://databreaches.net/2026/05/07/cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack/?pk_campaign=feed&pk_kwd=cybersecurity-stolen-chipsoft-claims-patient-data-confirmed-destroyed-following-cyberattack",
-    "date": "2026-05-07T11:25:01.000Z",
-    "source": "DataBreaches.net",
-    "summary": "There’s an update to the ChipSoft ransomware attack.  DigitalShield reports that although ChipSoft hasn’t revealed whether it paid Embargo ransom, it did disclose that some negotiations had occurred. ..."
-  },
-  {
-    "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-    "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-    "date": "2026-05-07T10:54:00.000Z",
-    "source": "The Hacker News",
-    "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operationa..."
-  },
-  {
-    "title": "TrustedVolumes hit by $6.7M exploit as 1inch denies breach",
-    "link": "https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2026-05-07T09:43:41.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "1inch said its protocols, infrastructure and user funds were not affected by the exploit targeting independent resolver TrustedVolumes...."
-  },
-  {
-    "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-    "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-    "date": "2026-05-07T04:15:00.000Z",
-    "source": "The Hacker News",
-    "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible sys..."
-  },
-  {
-    "title": "‘GothFerrari’ Sentenced to 78 Months in Prison for Role in Massive Cryptocurrency Heist",
-    "link": "https://databreaches.net/2026/05/06/gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist/?pk_campaign=feed&pk_kwd=gothferrari-sentenced-to-78-months-in-prison-for-role-in-massive-cryptocurrency-heist",
-    "date": "2026-05-06T22:25:35.000Z",
-    "source": "DataBreaches.net",
-    "summary": "He’s 20 years old and has just been sentenced to 6 1/2 years in prison. The U.S. Attorney’s Office for the District of Columbia announced today: WASHINGTON – Marlon Ferro, 20, of Santa Ana, California..."
-  },
-  {
-    "title": "VoidStealer Malware Darts Past Google Chrome's Encryption",
-    "link": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
-    "date": "2026-05-06T21:19:11.000Z",
-    "source": "Dark Reading",
-    "summary": "Authors of the VoidStealer Trojan uncovered yet another way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers...."
-  },
-  {
-    "title": "Instructure Breach Exposes Schools' Vendor Dependence",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence",
-    "date": "2026-05-06T21:02:57.000Z",
-    "source": "Dark Reading",
-    "summary": "ShinyHunters' attack on Instructure, which owns the widely used Canvas learning management system (LMS), carries big questions about the trust educational institutions put into their vendors...."
-  },
-  {
-    "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-    "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-    "date": "2026-05-06T20:21:00.000Z",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network c..."
-  },
-  {
-    "title": "Missouri regulators escalate pressure on Conduent over data breach potentially affecting millions",
-    "link": "https://databreaches.net/2026/05/06/missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions/?pk_campaign=feed&pk_kwd=missouri-regulators-escalate-pressure-on-conduent-over-data-breach-potentially-affecting-millions",
-    "date": "2026-05-06T16:55:58.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Sarah Motter reports: Missouri regulators say a major national vendor is stonewalling their investigation into a cybersecurity breach that could affect millions of consumers. The Missouri Department o..."
   }
 ]
