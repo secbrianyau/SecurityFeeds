@@ -1,5 +1,61 @@
 [
   {
+    "title": "West Pharmaceutical says hackers stole data, encrypted systems",
+    "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+    "date": "2026-05-13T22:23:31.000Z",
+    "source": "Bleeping Computer",
+    "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]..."
+  },
+  {
+    "title": "Iranian hackers targeted major South Korean electronics maker",
+    "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+    "date": "2026-05-13T21:59:33.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and count..."
+  },
+  {
+    "title": "Trump’s CEO-filled China visit can decide whether Bitcoin’s $80,000 risk rally survives this week",
+    "link": "https://cryptoslate.com/trump-china-visit-bitcoin-80000-risk-rally/",
+    "date": "2026-05-13T21:45:36.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitcoin is hovering just below $80,000 as President Donald Trump arrives in Beijing for a high-stakes meeting with Chinese leader Xi Jinping, turning the visit into a live test of whether the crypto m..."
+  },
+  {
+    "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
+    "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
+    "date": "2026-05-13T21:17:07.000Z",
+    "source": "Dark Reading",
+    "summary": "Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools...."
+  },
+  {
+    "title": "Attackers Weaponize RubyGems for Data Dead Drops",
+    "link": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
+    "date": "2026-05-13T21:09:20.000Z",
+    "source": "Dark Reading",
+    "summary": "Threat actors are publishing RubyGems packages that include scrapers targeting public-facing UK government servers, but with no clear objective...."
+  },
+  {
+    "title": "ZachXBT Links Teen Crypto Flaunter to $19M Theft Network",
+    "link": "https://cryptopotato.com/zachxbt-links-teen-crypto-flaunter-to-19m-theft-network/",
+    "date": "2026-05-13T21:07:42.000Z",
+    "source": "CryptoPotato",
+    "summary": "A Discord wallet flex allegedly exposed connections between Dritan Kapllani Jr. and a massive 185 BTC social engineering theft...."
+  },
+  {
+    "title": "Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak",
+    "link": "https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak",
+    "date": "2026-05-13T20:47:46.000Z",
+    "source": "Dark Reading",
+    "summary": "An OPSEC failure provides a window into what helped the ransomware group rise: a generous affiliate model, opportunistic TTPs, and an effective organizational structure...."
+  },
+  {
+    "title": "New critical Exim mailer flaw allows remote code execution",
+    "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+    "date": "2026-05-13T20:23:50.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]..."
+  },
+  {
     "title": "CLARITY Act Faces Wave of Amendments Ahead of Markup",
     "link": "https://cryptopotato.com/clarity-act-faces-wave-of-amendments-ahead-of-markup/",
     "date": "2026-05-13T19:19:46.000Z",
@@ -602,13 +658,6 @@
     "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]..."
   },
   {
-    "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
-    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-    "date": "2026-05-12T18:23:09.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]..."
-  },
-  {
     "title": "Roaring Kitty’s Deleted X Post Triggers 90% Crash in RKC Meme Coin",
     "link": "https://cryptopotato.com/roaring-kittys-deleted-x-post-triggers-90-crash-in-rkc-meme-coin/",
     "date": "2026-05-12T18:12:21.000Z",
@@ -616,32 +665,11 @@
     "summary": "There is speculation that the account activity may not have come from Roaring Kitty himself, as the account had been quiet for 16 months...."
   },
   {
-    "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-    "date": "2026-05-12T18:09:12.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]..."
-  },
-  {
-    "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-    "date": "2026-05-12T18:08:06.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]..."
-  },
-  {
     "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
     "link": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
     "date": "2026-05-12T17:31:53.000Z",
     "source": "Coindesk",
     "summary": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand...."
-  },
-  {
-    "title": "Bitcoin only has one path through 2026 because massive oil price contagion just spread to 8 major economies",
-    "link": "https://cryptoslate.com/hormuz-oil-contagion-spreads-to-8-major-economies-and-bitcoin-has-just-one-route-through/",
-    "date": "2026-05-12T17:10:00.000Z",
-    "source": "CryptoSlate",
-    "summary": "Bitcoin's path through 2026 now runs through global economic policy. The disruption around the Strait of Hormuz has moved beyond a commodity-price event and into the machinery of governments. The Inte..."
   },
   {
     "title": "Top Cardano (ADA) Price Predictions as of Late: 10x Explosion on the Way?",
@@ -770,13 +798,6 @@
     "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as..."
   },
   {
-    "title": "XRP Inflows at 5-Month High: Why Institutional Giants Are Flocking Back to Ripple",
-    "link": "https://cryptopotato.com/xrp-inflows-at-5-month-high-why-institutional-giants-are-flocking-back-to-ripple/",
-    "date": "2026-05-12T11:45:26.000Z",
-    "source": "CryptoPotato",
-    "summary": "Inflows into spot XRP ETFs have surpassed $25 million in a single day...."
-  },
-  {
     "title": "Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain",
     "link": "https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain",
     "date": "2026-05-12T11:07:43.000Z",
@@ -817,26 +838,5 @@
     "date": "2026-05-11T21:45:06.000Z",
     "source": "DataBreaches.net",
     "summary": "Ah, more drama in the cybercrime ecosystem.  Matthew J. Schwartz reports: A ransomware organization is suffering an extreme case of turnabout is fair play through a data breach that splaying internal ..."
-  },
-  {
-    "title": "FCC Softens Ban on Foreign-Made Routers",
-    "link": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
-    "date": "2026-05-11T21:15:48.000Z",
-    "source": "Dark Reading",
-    "summary": "The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place...."
-  },
-  {
-    "title": "Tech Can't Stop These Threats — Your People Can",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can",
-    "date": "2026-05-11T19:50:20.000Z",
-    "source": "Dark Reading",
-    "summary": "Security controls can do only so much. Here are four attacks where your employees are usually your first, and only, line of cyber defense...."
-  },
-  {
-    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-    "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-    "date": "2026-05-11T17:54:00.000Z",
-    "source": "The Hacker News",
-    "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.\nThe attack ex..."
   }
 ]
