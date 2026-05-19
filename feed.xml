@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 19:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 22:19:16 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 19:53:58 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 22:19:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,8 +22,129 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 19:49:36 GMT</pubDate>
+            <pubDate>Tue, 19 May 2026 22:14:20 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut]]></title>
+            <description><![CDATA[Verizon's "2026 Data Breach Investigations Report" ("DBIR") finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 21:55:35 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cybercrime service disrupted for abusing Microsoft platform to sign malware]]></title>
+            <description><![CDATA[Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 21:47:31 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Vitalik Buterin Says AI Could Strengthen Crypto Security]]></title>
+            <description><![CDATA[Instead of relying solely on human auditors, developers may increasingly use AI to mathematically prove code behaves correctly....]]></description>
+            <link>https://cryptopotato.com/vitalik-buterin-says-ai-could-strengthen-crypto-security/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/vitalik-buterin-says-ai-could-strengthen-crypto-security/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 21:25:08 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Windows Zero-Day Barrage Continues After Patch Tuesday]]></title>
+            <description><![CDATA[YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 21:06:54 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says]]></title>
+            <description><![CDATA[The head of digital assets and tokenization at one of Germany’s largest asset managers said that USDT and USDC are not stablecoins, from his perspective....]]></description>
+            <link>https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 20:47:28 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Discord rolls out end-to-end encryption on voice, video calls]]></title>
+            <description><![CDATA[Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 20:37:45 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[This bitcoin bear market is different with 'uniquely pessimistic' traders limiting downside, K33 says]]></title>
+            <description><![CDATA[The research firm said bitcoin traders remain unusually defensive, reducing the risk of the kind of leverage-driven collapse seen in prior downturns....]]></description>
+            <link>https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 20:30:21 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Faces Correction as Institutional Demand Weakens Amid Macro Pressure: Bitfinex]]></title>
+            <description><![CDATA[With the possibility of renewed tightening rising, bitcoin is losing momentum and becoming more vulnerable to exogenous shocks and potential rate hikes....]]></description>
+            <link>https://cryptopotato.com/bitcoin-faces-correction-as-institutional-demand-weakens-amid-macro-pressure-bitfinex/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-faces-correction-as-institutional-demand-weakens-amid-macro-pressure-bitfinex/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 19:51:37 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CISA Exposes Secrets, Credentials in 'Private' Repo]]></title>
+            <description><![CDATA[The agency's GitHub repository, publicly available since November 2025, was ironically named "Private-CISA."...]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 19:49:53 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS]]></title>
+            <description><![CDATA[The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 19:49:40 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-05-19</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[FBI: Americans lost over $388 million to scams using crypto ATMs in 2025]]></title>
+            <description><![CDATA[The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 19 May 2026 19:45:39 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-05-19</dc:date>
         </item>
         <item>
@@ -472,17 +593,6 @@ The tar...]]></description>
             <dc:date>2026-05-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS]]></title>
-            <description><![CDATA[The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution....]]></description>
-            <link>https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos</link>
-            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 19 May 2026 11:13:44 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-05-19</dc:date>
-        </item>
-        <item>
             <title><![CDATA[BSC’s quantum defense works. The trade-off is 40% slower transaction throughput.]]></title>
             <description><![CDATA[BSC’s quantum-security test worked, but bigger transaction data slowed network throughput by about 40%....]]></description>
             <link>https://www.coindesk.com/markets/2026/05/19/bsc-s-quantum-defense-works-the-trade-off-is-40-slower-transaction-throughput</link>
@@ -795,17 +905,6 @@ The extension in question is rwl...]]></description>
             <dc:date>2026-05-18</dc:date>
         </item>
         <item>
-            <title><![CDATA[Minnesotan banks and credit unions set to provide crypto custody Aug. 1]]></title>
-            <description><![CDATA[Minnesota established the midwest’s first unified digital asset safety net for banks and credit unions....]]></description>
-            <link>https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 21:07:08 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-05-18</dc:date>
-        </item>
-        <item>
             <title><![CDATA[CISA Admin Leaked AWS GovCloud Keys on Github]]></title>
             <description><![CDATA[Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovC...]]></description>
             <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
@@ -814,17 +913,6 @@ The extension in question is rwl...]]></description>
             <dc:creator><![CDATA[Krebs On Security]]></dc:creator>
             <pubDate>Mon, 18 May 2026 20:48:21 GMT</pubDate>
             <dc:source>Krebs On Security</dc:source>
-            <dc:date>2026-05-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say]]></title>
-            <description><![CDATA[The revenue share deal could shift an estimated $160 million in revenue from Coinbase and Circle into Hyperliquid's ecosystem, Compass Point analysts said....]]></description>
-            <link>https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 20:18:37 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-05-18</dc:date>
         </item>
         <item>
@@ -1027,17 +1115,6 @@ The initi...]]></description>
             <dc:date>2026-05-18</dc:date>
         </item>
         <item>
-            <title><![CDATA[Grafana says stolen GitHub token let hackers steal codebase]]></title>
-            <description><![CDATA[Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 13:46:26 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-05-18</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin (BTC) Recovery Unlikely Until Toxic Supply Is Absorbed: Data]]></title>
             <description><![CDATA[Bitcoin's brutal sell-off may continue as panic spreads from long-term holders to short-term traders across markets....]]></description>
             <link>https://cryptopotato.com/bitcoin-btc-recovery-unlikely-until-toxic-supply-is-absorbed-data/</link>
@@ -1148,17 +1225,6 @@ The initi...]]></description>
             <dc:date>2026-05-18</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft testing adjustable taskbar, Start menu in Windows 11]]></title>
-            <description><![CDATA[Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 11:14:28 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-05-18</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws]]></title>
             <description><![CDATA[Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.
 Topping the l...]]></description>
@@ -1201,17 +1267,6 @@ Topping the l...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Mon, 18 May 2026 08:57:34 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-05-18</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft confirms Windows 11 security update install issues]]></title>
-            <description><![CDATA[Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 18 May 2026 08:33:14 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-05-18</dc:date>
         </item>
         <item>
@@ -1290,65 +1345,6 @@ Topping the l...]]></description>
             <pubDate>Sun, 17 May 2026 18:24:39 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-05-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[$33K Could Be Bitcoin’s Next Stop if History Repeats: Analyst]]></title>
-            <description><![CDATA[Even the less bearish prediction envisions a substantial decline....]]></description>
-            <link>https://cryptopotato.com/33k-could-be-bitcoins-next-stop-if-history-repeats-analyst/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/33k-could-be-bitcoins-next-stop-if-history-repeats-analyst/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 17 May 2026 16:35:52 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-05-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and Ethereum ETFs See Heavy Outflows as Prices Hit Brick Wall]]></title>
-            <description><![CDATA[Why did the SOL and XRP ETFs saw only inflows, while the BTC and ETH counterparts were deep in the red?...]]></description>
-            <link>https://cryptopotato.com/bitcoin-and-ethereum-etfs-see-heavy-outflows-as-prices-hit-brick-wall/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-and-ethereum-etfs-see-heavy-outflows-as-prices-hit-brick-wall/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 17 May 2026 15:47:52 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-05-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE]]></title>
-            <description><![CDATA[A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.
-The vulnerability, tracked...]]></description>
-            <link>https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Sun, 17 May 2026 11:57:53 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-05-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt]]></title>
-            <description><![CDATA[Grafana has disclosed that an "unauthorized party" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.
-
-
-  "Our investigation has deter...]]></description>
-            <link>https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Sun, 17 May 2026 07:13:33 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-05-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Another detail emerges about Instructure’s agreement with ShinyHunters; Debate continues about whether to pay]]></title>
-            <description><![CDATA[Media outlets have been understandably eager to learn whether Instructure paid ShinyHunters after the latter attacked them for a second time on May 7. Considering that they pledged to be more transpar...]]></description>
-            <link>https://databreaches.net/2026/05/16/another-detail-emerges-about-instructures-agreement-with-shinyhunters-debate-continues-about-whether-to-pay/?pk_campaign=feed&amp;pk_kwd=another-detail-emerges-about-instructures-agreement-with-shinyhunters-debate-continues-about-whether-to-pay</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/05/16/another-detail-emerges-about-instructures-agreement-with-shinyhunters-debate-continues-about-whether-to-pay/?pk_campaign=feed&amp;pk_kwd=another-detail-emerges-about-instructures-agreement-with-shinyhunters-debate-continues-about-whether-to-pay</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sat, 16 May 2026 17:29:56 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-05-16</dc:date>
         </item>
     </channel>
 </rss>
