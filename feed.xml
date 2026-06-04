@@ -9,12 +9,100 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 20:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 22:23:55 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 20:07:18 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 22:23:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Name That Toon Contest]]></title>
+            <description><![CDATA[No summary available]]></description>
+            <link>https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</link>
+            <guid isPermaLink="false">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:19:19 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Rust-Written IronWorm Hits NPM Supply Chain]]></title>
+            <description><![CDATA[Like Shai-Hulud, the campaign targets developers to steal credentials and reuses them to propagate across the software supply channel....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 21:47:06 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Brave Software releases Origin for a paid, bloat-free browsing experience]]></title>
+            <description><![CDATA[Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 21:37:10 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hola Browser for Windows compromised to deliver cryptominer]]></title>
+            <description><![CDATA[The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 21:27:25 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[China's TA4922 Expands Cybercrime Attacks Globally]]></title>
+            <description><![CDATA[One of the world's most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia....]]></description>
+            <link>https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally</link>
+            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 21:23:59 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[4 Critical Threats Where Attackers Have the Advantage]]></title>
+            <description><![CDATA[Gartner analysts issued a call to action to bolster defenses against several emerging critical threats, such as deepfakes and prompt injections....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 21:08:16 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Credit card theft campaign abuses Stripe to host stolen payment info]]></title>
+            <description><![CDATA[A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 20:47:16 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[STRC Falls 5% Below Par: Normal Preferred Behavior or Warning Sign?]]></title>
+            <description><![CDATA[Some observers noted that lower share prices and higher yields can create a feedback loop that may become harder for Strategy to manage....]]></description>
+            <link>https://cryptopotato.com/strc-falls-5-below-par-normal-preferred-behavior-or-warning-sign/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/strc-falls-5-below-par-normal-preferred-behavior-or-warning-sign/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 20:35:29 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
         <item>
             <title><![CDATA[Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward]]></title>
             <description><![CDATA[The industry has been trying to make a case this week the Clarity Act provides law enforcement strong tools to combat illicit finance involving cryptocurrency....]]></description>
@@ -293,6 +381,17 @@ It is tracked as CVE-2026-20230, ...]]></description>
             <dc:date>2026-06-04</dc:date>
         </item>
         <item>
+            <title><![CDATA[Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs]]></title>
+            <description><![CDATA[Organizations are growing serious about what nation’s rules apply to their data. Experts point to geopolitical tensions as a main contributing factor....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 14:22:20 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
             <title><![CDATA[Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook]]></title>
             <description><![CDATA[Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflo...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/</link>
@@ -429,7 +528,7 @@ These efforts have been complement...]]></description>
             <dc:date>2026-06-04</dc:date>
         </item>
         <item>
-            <title><![CDATA[Live updates: Bitcoin bounces, HYPE falls, NEAR gets demolished as crypto deals with a wipe out]]></title>
+            <title><![CDATA[Bitcoin bounces, HYPE falls, NEAR gets demolished as crypto deals with a wipe out]]></title>
             <description><![CDATA[Amid the crypto price crash, a handful of tokens have been performing well, but they're tumbling now as Arthur Hayes exits....]]></description>
             <link>https://www.coindesk.com/markets/2026/06/04/live-markets-saylor-speaks-as-bitcoin-plunges-to-usd62-000</link>
             <guid isPermaLink="false">https://www.coindesk.com/markets/2026/06/04/live-markets-saylor-speaks-as-bitcoin-plunges-to-usd62-000</guid>
@@ -759,6 +858,17 @@ These efforts have been complement...]]></description>
             <dc:date>2026-06-04</dc:date>
         </item>
         <item>
+            <title><![CDATA[Pakistan Spies on Afghan Finance Ministry With Xeno RAT]]></title>
+            <description><![CDATA[Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan's porous cybersecurity....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 04:01:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-04</dc:date>
+        </item>
+        <item>
             <title><![CDATA[160 Security Veterans Urge US Senate to Pass CLARITY Act]]></title>
             <description><![CDATA[Concerns over illicit finance remain high after reported crypto-related criminal flows jumped 162% last year....]]></description>
             <link>https://cryptopotato.com/160-security-veterans-urge-us-senate-to-pass-clarity-act/</link>
@@ -814,6 +924,17 @@ These efforts have been complement...]]></description>
             <dc:date>2026-06-03</dc:date>
         </item>
         <item>
+            <title><![CDATA[Attackers Use AI to Automate EDR Evasion Testing]]></title>
+            <description><![CDATA[Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender....]]></description>
+            <link>https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing</link>
+            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 21:34:07 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-03</dc:date>
+        </item>
+        <item>
             <title><![CDATA[U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors]]></title>
             <description><![CDATA[The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. ...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/</link>
@@ -847,6 +968,17 @@ These efforts have been complement...]]></description>
             <dc:date>2026-06-03</dc:date>
         </item>
         <item>
+            <title><![CDATA[Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America]]></title>
+            <description><![CDATA[China-linked espionage groups have attacked at least a dozen nations in the region, gathering information on maritime shipping, oil production, and other geopolitical interests....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 19:52:32 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-03</dc:date>
+        </item>
+        <item>
             <title><![CDATA[WhatsApp, Slack Notifications Could Hijack Google Gemini on Android]]></title>
             <description><![CDATA[A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, ...]]></description>
             <link>https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html</link>
@@ -858,6 +990,17 @@ These efforts have been complement...]]></description>
             <dc:date>2026-06-03</dc:date>
         </item>
         <item>
+            <title><![CDATA[Cyber Insurance Rates Are Dropping, but Exclusions Widen]]></title>
+            <description><![CDATA[Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 19:10:58 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-03</dc:date>
+        </item>
+        <item>
             <title><![CDATA[New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute]]></title>
             <description><![CDATA[A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/</link>
@@ -866,6 +1009,17 @@ These efforts have been complement...]]></description>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Wed, 03 Jun 2026 19:08:19 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-03</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover]]></title>
+            <description><![CDATA[A disabled security setting meant to protect authentication across Android versions of key apps like Word, PowerPoint, and Excel paved the way for attackers to steal logins and data....]]></description>
+            <link>https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 19:00:41 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-06-03</dc:date>
         </item>
         <item>
@@ -1126,17 +1280,6 @@ Any other app on the sam...]]></description>
             <dc:date>2026-06-03</dc:date>
         </item>
         <item>
-            <title><![CDATA[What 345 Days of Untested Exposure Looks Like at a Bank]]></title>
-            <description><![CDATA[A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. ...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 14:02:12 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
             <title><![CDATA[KR: Tving CEO Apologizes for Unprecedented Data Leak]]></title>
             <description><![CDATA[This is what incident response and accountability should look like in the U.S., too, but almost never does.  The Chosun Daily reports: OTT platform Tving, TVING, has faced controversy over leaking mem...]]></description>
             <link>https://databreaches.net/2026/06/03/kr-tving-ceo-apologizes-for-unprecedented-data-leak/?pk_campaign=feed&amp;pk_kwd=kr-tving-ceo-apologizes-for-unprecedented-data-leak</link>
@@ -1181,17 +1324,6 @@ Any other app on the sam...]]></description>
             <dc:date>2026-06-03</dc:date>
         </item>
         <item>
-            <title><![CDATA[$GCOIN Lists on WEEX: Five Exchanges This June as Real Utility Drives Global Expansion]]></title>
-            <description><![CDATA[[PRESS RELEASE – Tel Aviv, Israel, June 3rd, 2026] The market moves, $GCOIN leads. Today, $GCOIN officially lists on leading global exchange WEEX – marking the powerful start of five major exchange li...]]></description>
-            <link>https://cryptopotato.com/gcoin-lists-on-weex-five-exchanges-this-june-as-real-utility-drives-global-expansion/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/gcoin-lists-on-weex-five-exchanges-this-june-as-real-utility-drives-global-expansion/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 13:09:46 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ethereum Price to $250,000, Claims Tom Lee — Says Traders Are Bearish at Wrong Time]]></title>
             <description><![CDATA[Fundstrat’s Tom Lee said Ethereum could eventually reach $250,000. Lee believes investors are becoming bearish at the wrong time. Regulation and institutional adoption remain key ......]]></description>
             <link>https://www.ccn.com/news/crypto/ethereum-price-to-250000-claims-tom-lee-says-traders-bearish/</link>
@@ -1203,157 +1335,15 @@ Any other app on the sam...]]></description>
             <dc:date>2026-06-03</dc:date>
         </item>
         <item>
-            <title><![CDATA[Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)]]></title>
-            <description><![CDATA[The Fragmented State of Modern Enterprise Identity
-
-Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, d...]]></description>
-            <link>https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 11:58:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
+            <title><![CDATA[Malicious Notifications Could Trick Google Gemini Users]]></title>
+            <description><![CDATA[A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more....]]></description>
+            <link>https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 03 Jun 2026 12:01:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Acer working to patch max severity zero-days in Wave 7 routers]]></title>
-            <description><![CDATA[Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 11:35:47 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes]]></title>
-            <description><![CDATA[Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker.
-
-Like in the case of CVE-2026-33829, which impacted the...]]></description>
-            <link>https://thehackernews.com/2026/06/unpatched-windows-search-uri.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/unpatched-windows-search-uri.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 10:18:52 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Police dismantles 9 crime groups in illegal streaming crackdown]]></title>
-            <description><![CDATA[European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 10:12:24 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Most Crypto Tokens Never Recover: 70% of Their Lifespan Is Spent Below Launch Price]]></title>
-            <description><![CDATA[Delphi found that the average token spends roughly 70% of its lifetime below its launch price, as post-launch underperformance is the norm rather than the ......]]></description>
-            <link>https://www.ccn.com/news/crypto/most-crypto-tokens-never-recover-70-percent-lifespan-below-launch-price/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/most-crypto-tokens-never-recover-70-percent-lifespan-below-launch-price/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 09:47:15 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto Winter Getting Worse? Bloomberg’s Joe Weisenthal Lists 12 Reasons Why]]></title>
-            <description><![CDATA[Bloomberg’s Joe Weisenthal says crypto’s problems are getting worse. Investors are finding bigger opportunities outside crypto. Privacy coins may be one of the few bright ......]]></description>
-            <link>https://www.ccn.com/news/crypto/crypto-winter-bloombergs-joe-weisenthal-12-reasons/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/crypto-winter-bloombergs-joe-weisenthal-12-reasons/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 09:12:52 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare]]></title>
-            <description><![CDATA[Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.
-
-The vulnerabi...]]></description>
-            <link>https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 08:33:35 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Error 524 Decoy: Unmasking a Global Smishing Operation Hiding Behind Error Pages]]></title>
-            <description><![CDATA[Group-IB researchers expose a large-scale smishing and phishing operation impersonating 260+ brands across 72 countries, using fake Cloudflare error pages, geofencing, and encrypted WebSocket channels...]]></description>
-            <link>https://www.group-ib.com/blog/error-524-decoy-smishing/</link>
-            <guid isPermaLink="false">https://www.group-ib.com/blog/error-524-decoy-smishing/</guid>
-            <category><![CDATA[GroupIB Blog]]></category>
-            <dc:creator><![CDATA[GroupIB Blog]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 07:00:05 GMT</pubDate>
-            <dc:source>GroupIB Blog</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content]]></title>
-            <description><![CDATA[Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems.
-
-The Minecraft-focused malware-as-a-serv...]]></description>
-            <link>https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 03 Jun 2026 06:16:54 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-03</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Most organizations that miss 24-hour patch window report breaches]]></title>
-            <description><![CDATA[Steve Zurier reports: The Cloud Security Alliance (CSA) found that 80% of organizations that miss the 24-hour patch window report security incidents involving known vulnerabilities. CSA’s study, relea...]]></description>
-            <link>https://databreaches.net/2026/06/02/most-organizations-that-miss-24-hour-patch-window-report-breaches/?pk_campaign=feed&amp;pk_kwd=most-organizations-that-miss-24-hour-patch-window-report-breaches</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/06/02/most-organizations-that-miss-24-hour-patch-window-report-breaches/?pk_campaign=feed&amp;pk_kwd=most-organizations-that-miss-24-hour-patch-window-report-breaches</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 23:24:54 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-06-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[6.8 Million Bitcoin At Risk: Justin Drake Puts 50% Odds on Quantum Hack by 2032]]></title>
-            <description><![CDATA[Around 6.8 million BTC have public keys visible onchain. Those are the wallets a quantum computer targets first. Drake puts Q-Day at 50% by ......]]></description>
-            <link>https://www.ccn.com/news/crypto/6-8-million-bitcoin-quantum-hack-risk-justin-drake-2032/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/6-8-million-bitcoin-quantum-hack-risk-justin-drake-2032/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 23:00:49 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2026-06-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited]]></title>
-            <description><![CDATA[Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that h...]]></description>
-            <link>https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:46:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-02</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine]]></title>
-            <description><![CDATA[The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation.
-
-Per ...]]></description>
-            <link>https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 02 Jun 2026 18:21:49 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-02</dc:date>
         </item>
     </channel>
 </rss>
