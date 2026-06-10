@@ -2,9 +2,30 @@
   {
     "title": "Name That Toon Contest",
     "link": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
-    "date": "2026-06-10T20:27:11.939Z",
+    "date": "2026-06-10T22:49:35.546Z",
     "source": "Dark Reading",
     "summary": ""
+  },
+  {
+    "title": "Coinbase Urges Congress to Treat Stablecoins Like Cash and Ease Crypto Tax Burdens",
+    "link": "https://cryptopotato.com/coinbase-urges-congress-to-treat-stablecoins-like-cash-and-ease-crypto-tax-burdens/",
+    "date": "2026-06-10T21:47:49.000Z",
+    "source": "CryptoPotato",
+    "summary": "The exchange argued that tracking gains on stablecoin purchases creates administrative complexity without generating meaningful tax revenue...."
+  },
+  {
+    "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+    "date": "2026-06-10T21:23:44.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]..."
+  },
+  {
+    "title": "CISA Rewrites Federal Patching Requirements for AI Threat Era",
+    "link": "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era",
+    "date": "2026-06-10T21:17:12.000Z",
+    "source": "Dark Reading",
+    "summary": "The new directive gives federal agencies three days to fix the most dangerous flaws, while less severe issues can be deferred...."
   },
   {
     "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
@@ -54,6 +75,13 @@
     "date": "2026-06-10T19:41:44.000Z",
     "source": "Bleeping Computer",
     "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command...."
+  },
+  {
+    "title": "AI Risk Worries Insurers and Businesses Alike",
+    "link": "https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike",
+    "date": "2026-06-10T19:34:43.000Z",
+    "source": "Dark Reading",
+    "summary": "As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?..."
   },
   {
     "title": "Solana (SOL) Bleeds Heavily, Yet Key Indicator Flashes a Buy Signal: Details",
@@ -581,11 +609,11 @@
     "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesda..."
   },
   {
-    "title": "The Invisible Battlefield: How Cyber War Is Reshaping Everyday Life",
+    "title": "The Invisible Battlefield: How Cyberwar Is Reshaping Everyday Life",
     "link": "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
     "date": "2026-06-09T21:57:11.000Z",
     "source": "Dark Reading",
-    "summary": "Former National Cyber Director Chris Inglis warns that cyber attacks threaten hospitals, utilities and essential services...."
+    "summary": "Former National Cyber Director Chris Inglis warns that cyberattacks threaten hospitals, utilities, and essential services...."
   },
   {
     "title": "Blame AI: Patch Tuesday Hits Record 206 CVEs",
@@ -677,13 +705,6 @@
     "date": "2026-06-09T18:37:12.000Z",
     "source": "CryptoPotato",
     "summary": "LINK remains below cycle highs, yet wallet growth continues accelerating...."
-  },
-  {
-    "title": "Microsoft releases Windows 10 KB5094127 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-    "date": "2026-06-09T18:35:00.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Bo..."
   },
   {
     "title": "Shiba Inu (SHIB) Investors Face Big Questions After 65% Yearly Collapse",
@@ -817,26 +838,5 @@
     "date": "2026-06-09T12:05:39.000Z",
     "source": "DataBreaches.net",
     "summary": "Sergiu Gatlan reports: CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day atta..."
-  },
-  {
-    "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
-    "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
-    "date": "2026-06-09T11:59:03.000Z",
-    "source": "The Hacker News",
-    "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, gene..."
-  },
-  {
-    "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
-    "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-    "date": "2026-06-09T11:58:49.000Z",
-    "source": "The Hacker News",
-    "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-11645 (CVSS..."
-  },
-  {
-    "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
-    "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
-    "date": "2026-06-09T11:30:00.000Z",
-    "source": "The Hacker News",
-    "summary": "Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce..."
   }
 ]
