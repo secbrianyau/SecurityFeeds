@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 20:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 22:27:31 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 20:12:18 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 22:27:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,7 +22,29 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 20:07:44 GMT</pubDate>
+            <pubDate>Fri, 12 Jun 2026 22:22:53 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple’s Garlinghouse Fires Back After Jamie Dimon Targets Coinbase and CLARITY ACT]]></title>
+            <description><![CDATA[Garlinghouse accused Jamie Dimon of doing a disservice by falsely suggesting the CLARITY Act would weaken compliance standards....]]></description>
+            <link>https://cryptopotato.com/ripples-garlinghouse-fires-back-after-jamie-dimon-targets-coinbase-and-clarity-act/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripples-garlinghouse-fires-back-after-jamie-dimon-targets-coinbase-and-clarity-act/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Fri, 12 Jun 2026 21:28:48 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-06-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed]]></title>
+            <description><![CDATA[A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 12 Jun 2026 20:26:32 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2026-06-12</dc:date>
         </item>
@@ -60,6 +82,19 @@
             <dc:date>2026-06-12</dc:date>
         </item>
         <item>
+            <title><![CDATA[Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit]]></title>
+            <description><![CDATA[Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.
+
+The malware is a...]]></description>
+            <link>https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Fri, 12 Jun 2026 19:33:25 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-06-12</dc:date>
+        </item>
+        <item>
             <title><![CDATA[Ukrainian national pleads guilty to role in Conti ransomware operation]]></title>
             <description><![CDATA[Lawrence Abrams reports: A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. The U.S. Departmen...]]></description>
             <link>https://databreaches.net/2026/06/12/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/?pk_campaign=feed&amp;pk_kwd=ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation</link>
@@ -79,19 +114,6 @@
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 19:32:38 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-06-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer]]></title>
-            <description><![CDATA[Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.
-
-The malware is a...]]></description>
-            <link>https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 12 Jun 2026 19:24:50 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-06-12</dc:date>
         </item>
         <item>
@@ -743,7 +765,7 @@ Europol, in a statement issued Thursday, said the dismantling of ...]]></descrip
             <dc:date>2026-06-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Live updates: SpaceX rally loses momentum, while bitcoin trades near $64,000]]></title>
+            <title><![CDATA[Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000]]></title>
             <description><![CDATA[Crypto firmed across the board following the largest equity listing in history. The token most tied to Elon Musk traded right in line with the market....]]></description>
             <link>https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged</link>
             <guid isPermaLink="false">https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged</guid>
@@ -1308,17 +1330,6 @@ The camp...]]></description>
             <dc:date>2026-06-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[The Indicator That Called DOGE’s Collapse Just Flashed a Rare Buy Signal: Analyst]]></title>
-            <description><![CDATA[Dogecoin whales have also gone on a substantial accumulation spree lately....]]></description>
-            <link>https://cryptopotato.com/the-indicator-that-called-doges-collapse-just-flashed-a-rare-buy-signal-analyst/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/the-indicator-that-called-doges-collapse-just-flashed-a-rare-buy-signal-analyst/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 11 Jun 2026 07:44:40 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-06-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Chinese, N. Korean Threat Groups Build on Asia-Pacific Success]]></title>
             <description><![CDATA[North Korea's gross domestic product (GDP) has grown, in part because of the nation's state-sponsored cybercrime groups, which target financial firms and other businesses....]]></description>
             <link>https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success</link>
@@ -1337,17 +1348,6 @@ The camp...]]></description>
             <category><![CDATA[DataBreaches.net]]></category>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 23:47:59 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-06-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[WA: Chelan County enters third week of disruptions with no recovery timeline]]></title>
-            <description><![CDATA[On June 8, Andrew Simpson reported:  Chelan County entered its third week of system-wide disruptions Monday following a malware incident discovered over Memorial Day weekend, with officials saying the...]]></description>
-            <link>https://databreaches.net/2026/06/10/wa-chelan-county-enters-third-week-of-disruptions-with-no-recovery-timeline/?pk_campaign=feed&amp;pk_kwd=wa-chelan-county-enters-third-week-of-disruptions-with-no-recovery-timeline</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/06/10/wa-chelan-county-enters-third-week-of-disruptions-with-no-recovery-timeline/?pk_campaign=feed&amp;pk_kwd=wa-chelan-county-enters-third-week-of-disruptions-with-no-recovery-timeline</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 23:42:43 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
             <dc:date>2026-06-10</dc:date>
         </item>
