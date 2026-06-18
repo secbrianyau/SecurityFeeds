@@ -9,12 +9,34 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 20:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 22:59:18 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 20:27:35 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 22:59:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Gentlemen ransomware uses multiple EDR killers to disable defenses]]></title>
+            <description><![CDATA[The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 22:31:52 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-18</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cardano’s Meltdown: Is ADA at Risk of Further Decline?]]></title>
+            <description><![CDATA[Will ADA crash to $0.13 in the coming days?...]]></description>
+            <link>https://cryptopotato.com/cardanos-meltdown-is-ada-at-risk-of-further-decline/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/cardanos-meltdown-is-ada-at-risk-of-further-decline/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 18 Jun 2026 21:12:33 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-06-18</dc:date>
+        </item>
         <item>
             <title><![CDATA[Novo Nordisk Breach Exposes Software Development Pipeline Risk]]></title>
             <description><![CDATA[A leaked GitHub token underscores what most organizations get wrong: Treating secrets management as a tooling problem rather than an identity problem....]]></description>
@@ -1159,17 +1181,6 @@ The problem is no longer visibility. It's validation. Security teams must deci..
             <dc:date>2026-06-17</dc:date>
         </item>
         <item>
-            <title><![CDATA[India's Telegram ban hit the UAE too. Here's how to get around it]]></title>
-            <description><![CDATA[India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE....]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 17 Jun 2026 13:12:45 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-17</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Crypto Market Braces for Kevin Warsh’s First Fed Decision]]></title>
             <description><![CDATA[Bitget's Gracy Chen says a dovish surprise could spark a relief rally across both traditional and digital markets....]]></description>
             <link>https://cryptopotato.com/crypto-market-braces-for-kevin-warshs-first-fed-decision/</link>
@@ -1344,17 +1355,6 @@ The problem is no longer visibility. It's validation. Security teams must deci..
             <pubDate>Wed, 17 Jun 2026 03:49:11 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-06-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Fileless Phantom Stealer Targets Browser Credentials]]></title>
-            <description><![CDATA[In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to evade detection....]]></description>
-            <link>https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 16 Jun 2026 22:26:34 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-06-16</dc:date>
         </item>
     </channel>
 </rss>
