@@ -9,12 +9,100 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 20:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 22:50:14 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 20:48:37 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 22:50:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[WhatsApp phishing attack uses fake business docs to hack PCs]]></title>
+            <description><![CDATA[An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 22:42:21 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New Proposal Redirects 10% of Staking Rewards to Fund Ethereum Ecosystem]]></title>
+            <description><![CDATA[At current staking levels, the proposal could channel as much as 76,000 ETH ($131.6 million) into ecosystem development....]]></description>
+            <link>https://cryptopotato.com/new-proposal-redirects-10-of-staking-rewards-to-fund-ethereum-ecosystem/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/new-proposal-redirects-10-of-staking-rewards-to-fund-ethereum-ecosystem/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 22:01:07 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-06-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[JaredFromSubway MEV bot hacked in $15 million crypto theft]]></title>
+            <description><![CDATA[The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading oppor...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 21:52:18 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up]]></title>
+            <description><![CDATA[tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention....]]></description>
+            <link>https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 21:08:50 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-06-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Strategy used $300 million of MSTR dilution to backstop its Bitcoin’s biggest buying machine]]></title>
+            <description><![CDATA[Strategy (formerly MicroStrategy) raised $335.5 million by selling common stock last week, then placed almost 90% of the proceeds into cash rather than Bitcoin as the company moved to shore up the pre...]]></description>
+            <link>https://cryptoslate.com/strategy-used-300-million-mstr-dilution-backstop-bitcoin-buying-machine/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/strategy-used-300-million-mstr-dilution-backstop-bitcoin-buying-machine/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 21:07:42 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-06-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[FFmpeg fixes PixelSmash flaw in widely used video decoder]]></title>
+            <description><![CDATA[A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in appl...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 21:05:01 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ric Edelman says crypto’s biggest growth story is happening off the price chart]]></title>
+            <description><![CDATA[Crypto prices remain under pressure, but Ric Edelman says institutional adoption and tokenization are accelerating behind the scenes....]]></description>
+            <link>https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 20:58:40 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-06-22</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[21Shares co-founder warns tokenization hype is outrunning Wall Street reality]]></title>
+            <description><![CDATA[Tokenization can improve settlement and asset movement, but key pieces of financial infrastructure remain unprepared for institutional-scale adoption....]]></description>
+            <link>https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 22 Jun 2026 20:53:39 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-06-22</dc:date>
+        </item>
         <item>
             <title><![CDATA[How Polymarket Reportedly Used Fake Winning Bets to Drive Viral Growth]]></title>
             <description><![CDATA[The same bets that won millions in the promotional clips incurred losses for traders in reality....]]></description>
@@ -745,18 +833,6 @@ The post Europe’s Swedish krona stablecoin arrives with a warning: dollar liqu
             <dc:date>2026-06-22</dc:date>
         </item>
         <item>
-            <title><![CDATA[Wall Street’s idle cash just found a way into crypto trading, but the fine print is still hidden]]></title>
-            <description><![CDATA[The first-client deployment shows tokenized money-market funds can become working collateral, but the hard questions sit in custody, valuation, and liquidation terms.
-The post Wall Street’s idle cash ...]]></description>
-            <link>https://cryptoslate.com/ubs-umint-collateral-bybit/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ubs-umint-collateral-bybit/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 04:25:38 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-06-22</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Algorand Reveals Plans to Become Quantum Resistant by 2027]]></title>
             <description><![CDATA[Algorand hopes to ensure protection against both classical and quantum-era threats by exploring post-quantum multisignatures as a generic policy layer....]]></description>
             <link>https://cryptopotato.com/algorand-reveals-plans-to-become-quantum-resistant-by-2027/</link>
@@ -798,17 +874,6 @@ The post Wall Street’s idle cash ...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 19:09:27 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-06-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Are perps swaps? A quick look at that CME suit: State of Crypto ]]></title>
-            <description><![CDATA[CME Group sued the CFTC on Thursday, alleging that the agency was wrong in how it approved Kalshi's first U.S. perpetual futures product....]]></description>
-            <link>https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 18:30:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-06-21</dc:date>
         </item>
         <item>
@@ -911,17 +976,6 @@ The post Wall Street’s idle cash ...]]></description>
             <dc:date>2026-06-21</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit]]></title>
-            <description><![CDATA[Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT....]]></description>
-            <link>https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit</link>
-            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 07:12:35 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-06-21</dc:date>
-        </item>
-        <item>
             <title><![CDATA[‘Bitcoin Looks Dead Now:’ Analyst Reveals When the Next Moonshot Could Begin]]></title>
             <description><![CDATA[The asset has also touched its electrical cost for the fifth time in history, which is typically a bullish signal....]]></description>
             <link>https://cryptopotato.com/bitcoin-looks-dead-now-analyst-reveals-when-the-next-moonshot-could-begin/</link>
@@ -930,17 +984,6 @@ The post Wall Street’s idle cash ...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 07:02:44 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-06-21</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks]]></title>
-            <description><![CDATA[Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revi...]]></description>
-            <link>https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 06:46:28 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-06-21</dc:date>
         </item>
         <item>
@@ -1086,17 +1129,6 @@ The vulnerability, tracked as CVE-2026-4020 (CVSS sco...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Sat, 20 Jun 2026 09:56:04 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-20</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[SOL, HYPE, and ZEC Post Substantial Gains as BTC Reclaims $63K: Weekend Watch]]></title>
-            <description><![CDATA[In contrast, XMR and WLD have declined by over 4% in the past day....]]></description>
-            <link>https://cryptopotato.com/sol-hype-and-zec-post-substantial-gains-as-btc-reclaims-63k-weekend-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/sol-hype-and-zec-post-substantial-gains-as-btc-reclaims-63k-weekend-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 20 Jun 2026 09:38:42 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-06-20</dc:date>
         </item>
         <item>
@@ -1249,28 +1281,6 @@ The average enterprise security team has 40 or more security tools, giving a lot
             <dc:date>2026-06-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[Microsoft: June 2026 Windows updates break Recycle Bin prompts]]></title>
-            <description><![CDATA[Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 11:32:34 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[CISA: Splunk Enterprise flaw actively exploited, patch by Sunday]]></title>
-            <description><![CDATA[CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 10:39:58 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-19</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Forget Data Leakage: Shadow AI's Real Threat Is Access Control]]></title>
             <description><![CDATA[The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data ...]]></description>
             <link>https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html</link>
@@ -1292,17 +1302,6 @@ T...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 09:03:57 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[NY man charged after harassing college student with AI-generated nudes]]></title>
-            <description><![CDATA[A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 19 Jun 2026 08:44:08 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-06-19</dc:date>
         </item>
         <item>
