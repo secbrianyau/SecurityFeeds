@@ -1,5 +1,243 @@
 [
   {
+    "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+    "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+    "date": "2026-06-23T14:22:03.000Z",
+    "source": "The Hacker News",
+    "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to ru..."
+  },
+  {
+    "title": "Ripple gives RLUSD a MiCA foothold in Europe and route into African payments – but is volume there?",
+    "link": "https://cryptoslate.com/ripples-biggest-stablecoin-challenge-was-distribution-it-just-found-a-route-into-africa-and-europe/",
+    "date": "2026-06-23T14:05:23.000Z",
+    "source": "CryptoSlate",
+    "summary": "Ripple is pursuing a coordinated expansion of its stablecoin infrastructure across Europe and Africa, combining a strategic investment in payments company Flutterwave with preliminary regulatory appro..."
+  },
+  {
+    "title": "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
+    "link": "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief",
+    "date": "2026-06-23T14:01:44.000Z",
+    "source": "Coindesk",
+    "summary": "Before we rush to tokenize U.S. equities, we need compliance systems that understand context, not just checkboxes. Investors like Michael Burry see the danger, so should the rest of us, urges Chamaraj..."
+  },
+  {
+    "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+    "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+    "date": "2026-06-23T14:01:11.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public ex..."
+  },
+  {
+    "title": "LastPass confirms data breach in Klue supply chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+    "date": "2026-06-23T13:58:25.000Z",
+    "source": "Bleeping Computer",
+    "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]..."
+  },
+  {
+    "title": "US Senate Clears Housing Bill That Also Halts CBDC Push",
+    "link": "https://cryptopotato.com/us-senate-clears-housing-bill-that-also-halts-cbdc-push/",
+    "date": "2026-06-23T13:57:51.000Z",
+    "source": "CryptoPotato",
+    "summary": "The housing bill unexpectedly became a vehicle for one of the most significant policy battles over the issuance of a digital dollar...."
+  },
+  {
+    "title": "SocGholish Takedown Highlights Malicious TDS Threats",
+    "link": "https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats",
+    "date": "2026-06-23T13:51:33.000Z",
+    "source": "Dark Reading",
+    "summary": "SocGholish uses traffic distribution systems (TDSs) to provide initial access into victims' networks for cybercrime groups such as the notorious Evil Corp...."
+  },
+  {
+    "title": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
+    "link": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
+    "date": "2026-06-23T13:45:22.000Z",
+    "source": "Coindesk",
+    "summary": "The reduction follows a period of significant upheaval at the organization’s leadership level...."
+  },
+  {
+    "title": "Bitcoin Caught in Crossfire as Tech Stocks Unravel",
+    "link": "https://cryptopotato.com/bitcoin-caught-in-crossfire-as-tech-stocks-unravel/",
+    "date": "2026-06-23T13:42:10.000Z",
+    "source": "CryptoPotato",
+    "summary": "The AI-powered bull run in global stock markets was challenged this morning with major price corrections across the board...."
+  },
+  {
+    "title": "Investors pulled $2.5B from Bitcoin and Ethereum ETFs, but Hyperliquid and XRP still found buyers",
+    "link": "https://cryptoslate.com/bitcoin-etfs-lost-2-3b-while-hype-and-xrp-got-the-scraps/",
+    "date": "2026-06-23T13:15:23.000Z",
+    "source": "CryptoSlate",
+    "summary": "Through June 18, US-traded spot Bitcoin ETFs shed nearly $2.3 billion, and Ethereum ETFs lost around $200 million. Hyperliquid products attracted about $50 million in net inflows, XRP ETFs added rough..."
+  },
+  {
+    "title": "Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator",
+    "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time-indicator",
+    "date": "2026-06-23T13:08:31.000Z",
+    "source": "Coindesk",
+    "summary": "With bitcoin testing its 200 week moving average, on-chain data suggests the $50,000 to $54,000 range could become the next key battleground...."
+  },
+  {
+    "title": "Ripple Price Prediction: XRP Risks Deeper Drop as $1.07 Support Comes Under Pressure",
+    "link": "https://cryptopotato.com/ripple-price-prediction-xrp-risks-deeper-drop-as-1-07-support-comes-under-pressure/",
+    "date": "2026-06-23T13:05:11.000Z",
+    "source": "CryptoPotato",
+    "summary": "XRP remains under pressure after failing to sustain last week’s recovery attempt. The latest price action shows sellers regaining control near a key resistance zone, pushing the asset back toward a ma..."
+  },
+  {
+    "title": "Bitcoin Price Prediction: BTC Risks Drop Toward $55K as $60K Support Comes Under Pressure",
+    "link": "https://cryptopotato.com/bitcoin-price-prediction-btc-risks-drop-toward-55k-as-60k-support-comes-under-pressure/",
+    "date": "2026-06-23T13:03:28.000Z",
+    "source": "CryptoPotato",
+    "summary": "Bitcoin remains trapped beneath a major resistance cluster after failing to sustain last week’s recovery. The latest price action has shifted back in favor of the bears, with BTC breaking below its sh..."
+  },
+  {
+    "title": "Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations",
+    "link": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
+    "date": "2026-06-23T13:00:00.000Z",
+    "source": "Coindesk",
+    "summary": "The former Robinhood Crypto executive will oversee operations as Agora scales its rapidly growing AUSD stablecoin business...."
+  },
+  {
+    "title": "In Clarity Act's final weeks, its path through U.S. Senate not getting much clearer",
+    "link": "https://www.coindesk.com/news-analysis/2026/06/22/in-clarity-act-s-final-weeks-its-path-through-u-s-senate-not-getting-much-clearer",
+    "date": "2026-06-23T13:00:00.000Z",
+    "source": "Coindesk",
+    "summary": "Tough negotiations linger in several difficult arenas, but crypto's Washington lobbyists are flying in allies this week and still hoping for a July vote...."
+  },
+  {
+    "title": "The ECB digital euro takes step forward after winning key European Parliament vote",
+    "link": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
+    "date": "2026-06-23T12:37:20.000Z",
+    "source": "Coindesk",
+    "summary": "EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop relying entirely on U.S. credit card and stablecoin giants...."
+  },
+  {
+    "title": "Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division",
+    "link": "https://www.coindesk.com/business/2026/06/23/franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-crypto-division",
+    "date": "2026-06-23T12:35:57.000Z",
+    "source": "Coindesk",
+    "summary": "The $1.7 trillion asset manager did not disclose the amount paid for the acquisition of 250 Digital but revealed its plans for a new corporate division exclusively for crypto investments...."
+  },
+  {
+    "title": "FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers",
+    "date": "2026-06-23T12:34:54.000Z",
+    "source": "Dark Reading",
+    "summary": "The threat actors engineered a Golang-based sniffer to target 430,000 FortiGate firewalls and identify 110 million credentials in the ongoing global campaign...."
+  },
+  {
+    "title": "Cybersecurity Incidents: The Problem Isn’t Just Who Attacks",
+    "link": "https://databreaches.net/2026/06/23/cybersecurity-incidents-the-problem-isnt-just-who-attacks/?pk_campaign=feed&pk_kwd=cybersecurity-incidents-the-problem-isnt-just-who-attacks",
+    "date": "2026-06-23T12:20:12.000Z",
+    "source": "DataBreaches.net",
+    "summary": "Over on SuspectFile, Marco A. De Felice reflects on how we may overfocus on identifying threat actors exploiting vulnerabilities while failing to focus enough on root causes and incident response. He ..."
+  },
+  {
+    "title": "Strategy's STRC slump prompts Terra comparisons that don't hold up, says analyst",
+    "link": "https://www.coindesk.com/markets/2026/06/23/strategy-s-strc-slid-below-par-reviving-terra-comparisons-that-don-t-hold-up",
+    "date": "2026-06-23T12:14:07.000Z",
+    "source": "Coindesk",
+    "summary": "Benchmark's Mark Palmer says the comparison misreads what STRC is — a dividend-paying share backed indirectly by bitcoin, not a peg waiting to break...."
+  },
+  {
+    "title": "Webinar: Why email security teams are drowning in alerts",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+    "date": "2026-06-23T12:12:20.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workfl..."
+  },
+  {
+    "title": "BitMine, SharpLink, and Joe Lubin Back New Ethereum Nonprofit ETHLabs",
+    "link": "https://cryptopotato.com/bitmine-sharplink-and-joe-lubin-back-new-ethereum-nonprofit-ethlabs/",
+    "date": "2026-06-23T11:46:15.000Z",
+    "source": "CryptoPotato",
+    "summary": "The initiative follows a wave of high-profile departures from the Ethereum Foundation in the last few months...."
+  },
+  {
+    "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+    "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+    "date": "2026-06-23T11:30:00.000Z",
+    "source": "The Hacker News",
+    "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile..."
+  },
+  {
+    "title": "Why Is the Pi Network (PI) Price Down Today? (June 23)",
+    "link": "https://cryptopotato.com/why-is-the-pi-network-pi-price-down-today-june-23/",
+    "date": "2026-06-23T11:22:14.000Z",
+    "source": "CryptoPotato",
+    "summary": "PI is down 4% this week and is struggling to hold above $0.13. PI Network (PI) Price Predictions: Analysis Key support levels: $0.13, $0.10 Key resistance levels: $0.16 Key Support Under Pressure Afte..."
+  },
+  {
+    "title": "Bitcoin volatility looks cheap as $10 billion options settlement nears",
+    "link": "https://www.coindesk.com/daybook-us/2026/06/23/bitcoin-volatility-looks-cheap-as-usd10-billion-options-settlement-nears",
+    "date": "2026-06-23T11:16:11.000Z",
+    "source": "Coindesk",
+    "summary": "Your day-ahead look for June 23, 2026..."
+  },
+  {
+    "title": "The oil scare is fading, but Bitcoin is still trapped by the gas-price hangover",
+    "link": "https://cryptoslate.com/the-oil-scare-is-fading-but-bitcoin-is-still-trapped-by-the-gas-price-hangover/",
+    "date": "2026-06-23T11:10:13.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitcoin is trading near $64,000, roughly mid-channel in the $57,000-$77,000 range that has defined the market since the Strait of Hormuz shock. Can-Luca Köymen, investment strategist at Sygnum, called..."
+  },
+  {
+    "title": "Crypto market drops as Nasdaq tech selloff spills into digital assets",
+    "link": "https://www.coindesk.com/markets/2026/06/23/crypto-market-drops-as-nasdaq-tech-selloff-spills-into-digital-assets",
+    "date": "2026-06-23T10:45:50.000Z",
+    "source": "Coindesk",
+    "summary": "Bitcoin lost 2.5% to $62,300 and ether fell more than 4% while $717 million in liquidations amplified losses across altcoins...."
+  },
+  {
+    "title": "Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator",
+    "link": "https://www.coindesk.com/policy/2026/06/23/ripple-targets-eu-wins-preliminary-mica-approval-from-luxembourg-financial-regulator",
+    "date": "2026-06-23T10:17:19.000Z",
+    "source": "Coindesk",
+    "summary": "The license will enable Ripple to offer its stablecoin payment systems to European companies and expand into broader crypto functions...."
+  },
+  {
+    "title": "MyTonWallet Rebrands to My Wallet After Expanding to 11 Blockchains",
+    "link": "https://cryptopotato.com/mytonwallet-rebrands-to-my-wallet-after-expanding-to-11-blockchains/",
+    "date": "2026-06-23T10:05:28.000Z",
+    "source": "CryptoPotato",
+    "summary": "Dubai, United Arab Emirates, 23rd June 2026, Chainwire..."
+  },
+  {
+    "title": "Bitcoin Suisse Receives MiCAR License and Launches European Expansion",
+    "link": "https://cryptopotato.com/bitcoin-suisse-receives-micar-license-and-launches-european-expansion/",
+    "date": "2026-06-23T10:03:47.000Z",
+    "source": "CryptoPotato",
+    "summary": "[PRESS RELEASE – Zug, Switzerland, June 23rd, 2026] The Liechtenstein Financial Market Authority has granted Bitcoin Suisse (Europe) AG a license as a Crypto Asset Service Provider (CASP) under MiCAR...."
+  },
+  {
+    "title": "Bitcoin (BTC) Dips Below $62K, Ethereum (ETH) Plunges 6% Daily: Market Watch",
+    "link": "https://cryptopotato.com/bitcoin-btc-dips-below-62k-ethereum-eth-plunges-6-daily-market-watch/",
+    "date": "2026-06-23T10:00:37.000Z",
+    "source": "CryptoPotato",
+    "summary": "The total crypto market capitalization slipped to nearly $2.2 trillion...."
+  },
+  {
+    "title": "Hut 8 to pay $2.35 million to settle investor suit over U.S. Bitcoin merger",
+    "link": "https://www.coindesk.com/markets/2026/06/23/hut-8-to-pay-usd2-35-million-to-settle-investor-suit-over-u-s-bitcoin-merger",
+    "date": "2026-06-23T09:57:11.000Z",
+    "source": "Coindesk",
+    "summary": "The former bitcoin miner denied any wrongdoing related to its 2023 merger with U.S. Bitcoin Corp...."
+  },
+  {
+    "title": "What Happens When MiCA’s Crypto Grace Period Ends on July 1? NEAR Foundation CLO Weighs In",
+    "link": "https://www.ccn.com/news/crypto/mica-july-1-deadline-near-foundation-clo-explains-impact/",
+    "date": "2026-06-23T09:48:05.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "MiCA’s July 1 deadline is final, forcing thousands of unlicensed crypto firms to exit the EU market. Only about 17% of registered crypto firms ......"
+  },
+  {
+    "title": "South Korea’s KOSPI crashes 10% as regulator admits ETF mistake – Bitcoin falls below $63,000",
+    "link": "https://cryptoslate.com/south-koreas-kospi-crashes-10-after-regulator-admits-etf-mistake-as-bitcoin-falls-below-63000/",
+    "date": "2026-06-23T09:47:41.000Z",
+    "source": "CryptoSlate",
+    "summary": "South Korea’s benchmark KOSPI stock index plunged nearly 10% today, triggering a market-wide trading halt one day after the country’s top financial regulator acknowledged that authorities had rushed t..."
+  },
+  {
     "title": "Ethereum breakaway developers turn a funding gap into a fight over who steers the network",
     "link": "https://cryptoslate.com/ethereums-post-foundation-era-is-starting-with-an-eth-value-bet/",
     "date": "2026-06-23T09:02:28.000Z",
@@ -14,11 +252,25 @@
     "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-..."
   },
   {
+    "title": "BlackRock’s Mitchnick Says Bitcoin Wins If Washington Cannot Fix Its Deficit Problem",
+    "link": "https://www.ccn.com/news/crypto/blackrock-robert-mitchnick-bitcoin-rally-us-debt-deficit-concerns/",
+    "date": "2026-06-23T08:52:15.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "Robert Mitchnick believes growing concerns over US debt and budget deficits could drive the next major Bitcoin rally. Debates over government spending, borrowing, and fiscal ......"
+  },
+  {
     "title": "Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests",
     "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests",
     "date": "2026-06-23T08:24:00.000Z",
     "source": "Coindesk",
     "summary": "The bitcoin price's long-term moving averages are set to flash a bearish signal soon. That's good news for the bulls...."
+  },
+  {
+    "title": "Can LitVM Bring Smart Contracts to Litecoin Without Changing Its Identity?",
+    "link": "https://www.ccn.com/news/crypto/litvm-litecoin-defi-network-without-changing-identity/",
+    "date": "2026-06-23T08:15:34.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "LitVM aims to bring smart contracts and DeFi capabilities to Litecoin without altering Litecoin’s base-layer design as a simple payments network. Nasdaq-listed Lite Strategy ......"
   },
   {
     "title": "Why Is the Ripple (XRP) Price Down This Week? (June 23)",
@@ -32,7 +284,7 @@
     "link": "https://cryptopotato.com/ripple-secures-preliminary-mica-license-heres-why-thats-important/",
     "date": "2026-06-23T07:43:45.000Z",
     "source": "CryptoPotato",
-    "summary": "Ripple has received preliminary approval for an important EU crypto licenses. This clears the firm's path for broader regulated payments services in Europe...."
+    "summary": "Ripple has received preliminary approval for an important EU crypto license. This clears the firm's path for broader regulated payments services in Europe...."
   },
   {
     "title": "Brace Before The Impact: 7 Signals Your Organization Needs A Cybersecurity Services Retainer",
@@ -63,11 +315,11 @@
     "summary": "Bitcoin is facing pressure on two fronts with continued selling pressure and a new macro headwind, say analysts...."
   },
   {
-    "title": "Live updates: An 'altcoin season' signal flashed, but bitcoin's slide is what set it off",
+    "title": "Live updates: Bitcoin drops to $62,000 as South Korea's Kospi crashes 10%",
     "link": "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off",
     "date": "2026-06-23T06:30:21.000Z",
     "source": "Coindesk",
-    "summary": "After nearly two years of declines, alts have run out of sellers and steadied, while bitcoin has dropped hard, sliding back toward $63,600...."
+    "summary": "The fast decline in prices set off $700 million in forced liquidations across the market...."
   },
   {
     "title": "XRP drifts toward $1.10 support as traders await break from three-week range",
@@ -98,7 +350,7 @@
     "summary": "A rotation out of this year's best AI and chip stocks sank Asian markets, with South Korea's Kospi down 6%, and crypto fell with them. Bitcoin is down more than 3% on the week...."
   },
   {
-    "title": "Trump signs orders to build a quantum computer and protect against the one that could break encryption",
+    "title": "Quantum computing is often seen as a risk to bitcoin. Now Trump wants to develop it.",
     "link": "https://www.coindesk.com/tech/2026/06/23/trump-signs-orders-to-build-a-quantum-computer-and-protect-against-the-one-that-could-break-encryption",
     "date": "2026-06-23T05:15:16.000Z",
     "source": "Coindesk",
@@ -140,11 +392,11 @@
     "summary": "E-commerce is the second most targeted sector for cyberattacks in 2026. Get the 10 priorities every security team must act on, with Group-IB intelligence behind each...."
   },
   {
-    "title": "Centralized Wall Street gatekeepers to control investors’ route into tokenized stocks through old pipes",
+    "title": "Wall Street gatekeepers to control investors’ route into tokenized stocks through old pipes",
     "link": "https://cryptoslate.com/centralized-wall-street-gatekeepers-to-control-investors-route-into-tokenized-stocks-through-old-pipes/",
     "date": "2026-06-22T23:25:01.000Z",
     "source": "CryptoSlate",
-    "summary": "The filing points to tokenized equity access inside exchange and DTC controls, with shareholder rights and settlement kept on familiar rails.\nThe post Centralized Wall Street gatekeepers to control in..."
+    "summary": "The filing points to tokenized equity access inside exchange and DTC controls, with shareholder rights and settlement kept on familiar rails.\nThe post Wall Street gatekeepers to control investors’ rou..."
   },
   {
     "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
@@ -173,6 +425,13 @@
     "date": "2026-06-22T21:52:18.000Z",
     "source": "Bleeping Computer",
     "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading oppor..."
+  },
+  {
+    "title": "DifyTap Bugs Let Attackers 'Wiretap' AI Chat Histories",
+    "link": "https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories",
+    "date": "2026-06-22T21:14:11.000Z",
+    "source": "Dark Reading",
+    "summary": "Four vulnerabilities allow attackers to exploit Dify, a platform for AI application building and management, to silently access and exfiltrate sensitive data...."
   },
   {
     "title": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
@@ -301,6 +560,13 @@
     "summary": "SOL is the \"easiest pick,\" ChatGPT said...."
   },
   {
+    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+    "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+    "date": "2026-06-22T16:29:00.000Z",
+    "source": "The Hacker News",
+    "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the sa..."
+  },
+  {
     "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
     "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
     "date": "2026-06-22T16:13:28.000Z",
@@ -322,25 +588,11 @@
     "summary": "Xsolis, Inc. is a business associate in the healthcare sector, providing utilization and case management services. They describe themselves as applying “industry-leading AI and automation to ensure ap..."
   },
   {
-    "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
-    "link": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-    "date": "2026-06-22T15:56:13.000Z",
-    "source": "Coindesk",
-    "summary": "The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax committee to advance a bill to clarify treatment of assets from mining and staking...."
-  },
-  {
     "title": "XRP’s Biggest Warning Sign Is Still Flashing Despite Easing Whale Activity",
     "link": "https://cryptopotato.com/xrps-biggest-warning-sign-is-still-flashing-despite-easing-whale-activity/",
     "date": "2026-06-22T15:45:42.000Z",
     "source": "CryptoPotato",
     "summary": "XRP whales have reduced transfers to Binance, but new analysts suggest that the asset must regain a critical indicator to strengthen recovery...."
-  },
-  {
-    "title": "Bitcoin price rebounds to $65K as oil falls, but US market data still blocks the all-clear",
-    "link": "https://cryptoslate.com/bitcoin-price-rebounds-to-65k-as-oil-falls-but-us-market-data-still-blocks-the-all-clear/",
-    "date": "2026-06-22T15:25:12.000Z",
-    "source": "CryptoSlate",
-    "summary": "DXY near 101 and the 10-year yield near 4.5% keep the reclaim in test mode.\nThe post Bitcoin price rebounds to $65K as oil falls, but US market data still blocks the all-clear appeared first on Crypto..."
   },
   {
     "title": "Cherry Health provides preliminary notice of recent data breach",
@@ -357,13 +609,6 @@
     "summary": "Attention has shifted to Pi2Day, which could act as a catalyst for a major price increase...."
   },
   {
-    "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
-    "link": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
-    "date": "2026-06-22T15:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems...."
-  },
-  {
     "title": "Ethereum Price Analysis: ETH Technical Aspects Quietly Improve, but These Hurdles Remain",
     "link": "https://cryptopotato.com/ethereum-price-analysis-eth-technical-aspects-quietly-improve-but-these-hurdles-remain/",
     "date": "2026-06-22T14:54:30.000Z",
@@ -371,11 +616,25 @@
     "summary": "Ethereum has staged a notable recovery after its sharp selloff toward the $1.5K region earlier this month. While the broader market structure remains bearish on the higher timeframe, buyers have manag..."
   },
   {
-    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-    "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-    "date": "2026-06-22T14:29:46.000Z",
-    "source": "The Hacker News",
-    "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the sa..."
+    "title": "Senate’s Last-Ditch CLARITY Act Talks Could Decide Crypto’s Fate for the Rest of the Decade",
+    "link": "https://www.ccn.com/news/crypto/clarity-act-make-or-break-moment-senate-emergency-meetings/",
+    "date": "2026-06-22T14:52:16.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "The CLARITY Act faces fresh setbacks after bipartisan talks on ethics rules and law enforcement provisions collapsed, threatening its path to a Senate floor ......"
+  },
+  {
+    "title": "Bitcoin Price Could Fall to $23,000 in 2026 if Stock Market Crashes Over 50% — Is It Likely?",
+    "link": "https://www.ccn.com/news/crypto/bitcoin-price-23000-2026-stock-market-crash/",
+    "date": "2026-06-22T14:22:15.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "Crypto analyst Jesse Olson warned Bitcoin could fall to around $24,000 by 2026. Some analysts argued that SpaceX’s soaring valuation could trigger a broader market ......"
+  },
+  {
+    "title": "He Thought He Was Secure; His Phone Number Got Stolen Anyway",
+    "link": "https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover",
+    "date": "2026-06-22T14:12:11.000Z",
+    "source": "Dark Reading",
+    "summary": "Threat actors can easily steal one-time passwords sent by text when they conduct a SIM swap attack. This can lead to account takeovers, so users must layer up their security measures...."
   },
   {
     "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
@@ -385,25 +644,18 @@
     "summary": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for spe..."
   },
   {
-    "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
-    "link": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-    "date": "2026-06-22T13:53:16.000Z",
-    "source": "Coindesk",
-    "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy...."
+    "title": "$500 XRP Price Prediction Under Microscope as RippleX Chief Engineer Says XRPL Preparing For Quantum",
+    "link": "https://www.ccn.com/news/crypto/analyst-500-xrp-price-prediction-ripplex-heads-xrpl-quantum/",
+    "date": "2026-06-22T13:47:15.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "XRPL is preparing for the quantum computing era. XRPL’s engineering head sees growing institutional demand beyond payments. Analyst says a $500 XRP price remains unrealistic. ......"
   },
   {
-    "title": "Tokenized stocks as DeFi collateral arrive before the borrowing risk is settled",
-    "link": "https://cryptoslate.com/tokenized-stocks-defi-collateral-venus/",
-    "date": "2026-06-22T13:45:17.000Z",
-    "source": "CryptoSlate",
-    "summary": "bStocks tied to Tesla, Nvidia, and SpaceX exposure are now in Venus' Core Pool, but launch caps keep the borrowing story unfinished.\nThe post Tokenized stocks as DeFi collateral arrive before the borr..."
-  },
-  {
-    "title": "OKX and NYSE partner to bridge tradfi and crypto markets in joint venture led by Andrew Cuomo",
-    "link": "https://www.coindesk.com/markets/2026/06/22/okx-and-nyse-partner-to-bridge-tradfi-and-crypto-markets-in-joint-venture-led-by-andrew-cuomo",
-    "date": "2026-06-22T13:40:27.000Z",
-    "source": "Coindesk",
-    "summary": "The goal is to enable OKX’s 120 million global users to access ICE futures and NYSE tokenized equities markets, the two U.S. companies announced...."
+    "title": "Bank of England Eases Stablecoin Rules with £40 Billion Cap, Removes Holding Limits for Issuers",
+    "link": "https://www.ccn.com/news/crypto/bank-of-england-eases-stablecoin-rules-issuance-cap/",
+    "date": "2026-06-22T13:35:17.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "The Bank of England has significantly softened its proposed stablecoin framework, removing earlier plans to cap individual holdings at £20,000. A temporary £40 billion issuance ......"
   },
   {
     "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
@@ -413,18 +665,11 @@
     "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ..."
   },
   {
-    "title": "Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'",
-    "link": "https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring",
-    "date": "2026-06-22T13:04:44.000Z",
-    "source": "Coindesk",
-    "summary": "The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply...."
-  },
-  {
-    "title": "Bitcoin mining network becoming more sensitive to price swings, JPMorgan says",
-    "link": "https://www.coindesk.com/markets/2026/06/22/bitcoin-mining-network-becoming-more-sensitive-to-price-swings-jpmorgan-says",
-    "date": "2026-06-22T12:51:16.000Z",
-    "source": "Coindesk",
-    "summary": "A growing share of miners are operating near breakeven levels, making hashrate and mining difficulty increasingly responsive to bitcoin's price movements, the bank said...."
+    "title": "Bitget Expands Beyond Crypto With Direct Access to US Stocks and ETFs",
+    "link": "https://www.ccn.com/news/crypto/bitget-stock-plus-us-stocks-etfs-direct-trading-launch/",
+    "date": "2026-06-22T13:17:15.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "Bitget has launched Stock+, a new feature that allows users to buy and own real US stocks and ETFs directly through the platform using crypto-funded ......"
   },
   {
     "title": "Bitmine Buys 52K ETH as Tom Lee Believes the Best Years for Crypto Are Still Ahead",
@@ -441,11 +686,11 @@
     "summary": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start.\n\nOn that date..."
   },
   {
-    "title": "Strategy added $35 million in bitcoin, $300 million in cash reserves last week",
-    "link": "https://www.coindesk.com/markets/2026/06/22/strategy-added-usd35-million-in-bitcoin-usd300-million-in-cash-reserves-last-week",
-    "date": "2026-06-22T12:39:40.000Z",
-    "source": "Coindesk",
-    "summary": "The boost to cash reserves is meant to reassure investors about dividend payments on the company's hard-hit preferred shares, STRC...."
+    "title": "What Keir Starmer’s Resignation Means for Crypto in the UK",
+    "link": "https://www.ccn.com/news/crypto/keir-starmer-resignation-uk-crypto-policy/",
+    "date": "2026-06-22T12:37:56.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "Keir Starmer’s resignation creates uncertainty around UK crypto policy, but the FCA’s crypto framework and 2027 implementation timeline remain intact. Andy Burnham, the leading contender ......"
   },
   {
     "title": "Strategy Buys More Bitcoin but Turns Attention to USD Reserve With $300M Injection",
@@ -455,11 +700,11 @@
     "summary": "The decline in the amount of BTC purchase comes amid growing criticism against the company's STRC...."
   },
   {
-    "title": "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
-    "link": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny",
-    "date": "2026-06-22T12:01:03.000Z",
-    "source": "Coindesk",
-    "summary": "Baillie Gifford Enhanced Yield Fund (BAGEY) is denominated in dollars, and gives eligible investors access to an actively managed, short-duration portfolio of public corporate bonds...."
+    "title": "EU to Ban Privacy Coins, Anonymous Accounts and Cap Cash at €10,000 by July 2027",
+    "link": "https://www.ccn.com/news/crypto/eu-ban-privacy-coins-anonymous-accounts-cash-limit-2027/",
+    "date": "2026-06-22T12:02:15.000Z",
+    "source": "CNN.com - Crypto News",
+    "summary": "Cash payments above €10,000 are banned across the EU, while transactions of €3,000 or more require identity checks. Crypto platforms must delist privacy coins ......"
   },
   {
     "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
@@ -476,32 +721,11 @@
     "summary": "How realistic is it for XRP to skyrocket into double-digit territory?..."
   },
   {
-    "title": "Bitcoin ETF outflow pain eases just as another headwind gathers strength",
-    "link": "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens",
-    "date": "2026-06-22T11:30:13.000Z",
-    "source": "Coindesk",
-    "summary": "Your day-ahead look for June 22, 2026..."
-  },
-  {
     "title": "Major Figure in $15 Billion Bitcoin Scam Network Arrested in Tokyo",
     "link": "https://cryptopotato.com/major-figure-in-15-billion-bitcoin-scam-network-arrested-in-tokyo/",
     "date": "2026-06-22T11:27:44.000Z",
     "source": "CryptoPotato",
     "summary": "Japanese police arrested an alleged high-ranking member of one of Asia's largest crypto-facing crime organizations...."
-  },
-  {
-    "title": "Charles Schwab prediction market partnership with Cboe to take traders away from Polymarket, Kalshi",
-    "link": "https://cryptoslate.com/schwab-prediction-markets-cboe/",
-    "date": "2026-06-22T11:20:38.000Z",
-    "source": "CryptoSlate",
-    "summary": "WSJ says Schwab is working with Cboe on S&P 500 prediction-style products, while Cboe's Mini-SPX materials show how Wall Street can package yes-or-no trades inside listed options.\nThe post Charles Sch..."
-  },
-  {
-    "title": "As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally",
-    "link": "https://www.coindesk.com/markets/2026/06/22/as-bitcoin-altcoin-prices-gain-derivatives-signal-skepticism-over-a-sustained-rally",
-    "date": "2026-06-22T11:05:38.000Z",
-    "source": "Coindesk",
-    "summary": "Analysts noted bitcoin is stuck between key support near $60,000 and resistance around $68,000, and a bearish chart pattern could send prices toward $54,000...."
   },
   {
     "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
@@ -516,27 +740,6 @@
     "date": "2026-06-22T10:52:50.000Z",
     "source": "Cointelegraph - Security",
     "summary": "Crypto hackers stole $755 million across 83 cybersecurity incidents, as cross–chain bridges remained the most costly attack vector of the crypto industry...."
-  },
-  {
-    "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
-    "link": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
-    "date": "2026-06-22T10:48:14.000Z",
-    "source": "Coindesk",
-    "summary": "The U.K. central bank abandons retail holding limits for a 40-billion-pound aggregate cap and sweetens yield terms for token issuers ahead of a 2027 market launch...."
-  },
-  {
-    "title": "ETH stakers could see rewards cut as Ethereum fights to fund its future",
-    "link": "https://cryptoslate.com/ethereum-staking-rewards-funding-proposal/",
-    "date": "2026-06-22T10:37:02.000Z",
-    "source": "CryptoSlate",
-    "summary": "Ethereum core contributors are debating a structural overhaul that could redirect Ethereum staking rewards toward ecosystem development. The protocol-level proposal seeks to solve a persistent coordin..."
-  },
-  {
-    "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
-    "date": "2026-06-22T10:22:22.000Z",
-    "source": "Coindesk",
-    "summary": "Your look at what's coming in the week starting June 22...."
   },
   {
     "title": "UK Central Bank Eases Stablecoin Rules Following Market Response",
@@ -635,208 +838,5 @@
     "date": "2026-06-21T15:01:03.000Z",
     "source": "DataBreaches.net",
     "summary": "Lawrence Abrams reports: Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers’ Salesforce e..."
-  },
-  {
-    "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-    "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-    "date": "2026-06-21T14:14:22.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]..."
-  },
-  {
-    "title": "Is Bitcoin (And Peace) In Trouble as Trump Warns Iran of Fresh Strikes?",
-    "link": "https://cryptopotato.com/is-bitcoin-and-peace-in-trouble-as-trump-warns-iran-of-fresh-strikes/",
-    "date": "2026-06-21T14:03:42.000Z",
-    "source": "CryptoPotato",
-    "summary": "Trump's comments came as the high-level meeting between the US and Iran was supposed to start in Switzerland...."
-  },
-  {
-    "title": "Bitcoin ETFs in Red for 6 Weeks in a Row Amid Major Filings From Franklin Templeton",
-    "link": "https://cryptopotato.com/bitcoin-etfs-in-red-for-6-weeks-in-a-row-amid-major-filings-from-franklin-templeton/",
-    "date": "2026-06-21T13:30:00.000Z",
-    "source": "CryptoPotato",
-    "summary": "Franklin's filings envision more BTC ETFs buying through dividend payments from US stocks...."
-  },
-  {
-    "title": "Is Now the Ideal Time to Buy ETH? Analysts See a Path to $5K But There’s a Catch",
-    "link": "https://cryptopotato.com/is-now-the-ideal-time-to-buy-eth-analysts-see-a-path-to-5k-but-theres-a-catch/",
-    "date": "2026-06-21T11:46:11.000Z",
-    "source": "CryptoPotato",
-    "summary": "One of the analysts said investors would be extremely grateful in years if they accumulate now...."
-  },
-  {
-    "title": "Bitcoin’s Biggest Risk Is Boredom, Not Another Price Crash: CryptoQuant CEO",
-    "link": "https://cryptopotato.com/bitcoins-biggest-risk-is-boredom-not-another-price-crash-cryptoquant-ceo/",
-    "date": "2026-06-21T09:35:54.000Z",
-    "source": "CryptoPotato",
-    "summary": "The popular CEO also weighed in on the hot topic of Strategy and its controversial STRC...."
-  },
-  {
-    "title": "LAB Nears Top 20 Alts After 25% Surge, BTC Price Taps $64K: Weekend Watch",
-    "link": "https://cryptopotato.com/lab-nears-top-20-alts-after-25-surge-btc-price-taps-64k-weekend-watch/",
-    "date": "2026-06-21T07:43:45.000Z",
-    "source": "CryptoPotato",
-    "summary": "AERO has entered the top 100 alts after a 50% weekly increase...."
-  },
-  {
-    "title": "‘Bitcoin Looks Dead Now:’ Analyst Reveals When the Next Moonshot Could Begin",
-    "link": "https://cryptopotato.com/bitcoin-looks-dead-now-analyst-reveals-when-the-next-moonshot-could-begin/",
-    "date": "2026-06-21T07:02:44.000Z",
-    "source": "CryptoPotato",
-    "summary": "The asset has also touched its electrical cost for the fifth time in history, which is typically a bullish signal...."
-  },
-  {
-    "title": "CZ Says AI Agents Could Drive Crypto’s Next Adoption Wave",
-    "link": "https://cryptopotato.com/cz-says-ai-agents-could-drive-cryptos-next-adoption-wave/",
-    "date": "2026-06-21T03:33:25.000Z",
-    "source": "CryptoPotato",
-    "summary": "CZ believes AI-powered trading and payments could arrive within months rather than years, with crypto as the default rail...."
-  },
-  {
-    "title": "The Revenue Divergence: Why Record-Breaking Ethereum Activity Isn’t Boosting ETH Price",
-    "link": "https://cryptopotato.com/the-revenue-divergence-why-record-breaking-ethereum-activity-isnt-boosting-eth-price/",
-    "date": "2026-06-20T21:58:28.000Z",
-    "source": "CryptoPotato",
-    "summary": "The Ethereum network's growth strategy seems to focus first on winning the adoption race and then on generating fees later...."
-  },
-  {
-    "title": "Why Grayscale Thinks AAVE Has a Path to $175 Despite Trading Near 60% Away",
-    "link": "https://cryptopotato.com/why-grayscale-thinks-aave-has-a-path-to-175-despite-trading-near-60-away/",
-    "date": "2026-06-20T20:20:08.000Z",
-    "source": "CryptoPotato",
-    "summary": "If tokenized assets gain traction under clearer regulations, Grayscale believes that AAVE could emerge as one of DeFi's biggest beneficiaries...."
-  },
-  {
-    "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-    "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-    "date": "2026-06-20T15:23:46.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]..."
-  },
-  {
-    "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-    "date": "2026-06-20T14:09:19.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]..."
-  },
-  {
-    "title": "Global Schools Group Obtained Two Court Injunctions That Didn’t Seem to Change Much—and Might Backfire (1)",
-    "link": "https://databreaches.net/2026/06/20/global-schools-group-obtained-two-court-injunctions-that-didnt-seem-to-change-much-and-might-backfire/?pk_campaign=feed&pk_kwd=global-schools-group-obtained-two-court-injunctions-that-didnt-seem-to-change-much-and-might-backfire",
-    "date": "2026-06-20T13:01:17.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Following a major data security incident involving sensitive student and parent information, Global Schools Group sought court injunctions prohibiting the publication of data acquired by FulcrumSec. T..."
-  },
-  {
-    "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
-    "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-    "date": "2026-06-20T09:56:04.000Z",
-    "source": "The Hacker News",
-    "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.\n\nThe vulnerability, tracked as CVE-2026-4020 (CVSS sco..."
-  },
-  {
-    "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-    "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-    "date": "2026-06-19T22:31:04.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"..."
-  },
-  {
-    "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-    "date": "2026-06-19T20:25:02.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]..."
-  },
-  {
-    "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-    "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-    "date": "2026-06-19T18:37:41.000Z",
-    "source": "The Hacker News",
-    "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.\n\nThat code is burne..."
-  },
-  {
-    "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-    "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-    "date": "2026-06-19T18:33:07.000Z",
-    "source": "The Hacker News",
-    "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing sys..."
-  },
-  {
-    "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-    "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-    "date": "2026-06-19T16:12:41.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]..."
-  },
-  {
-    "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-    "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-    "date": "2026-06-19T15:30:47.000Z",
-    "source": "The Hacker News",
-    "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.\n\nSteer the agent to load an attacker's web page..."
-  },
-  {
-    "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
-    "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
-    "date": "2026-06-19T15:07:54.000Z",
-    "source": "The Hacker News",
-    "summary": "Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infe..."
-  },
-  {
-    "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-    "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-    "date": "2026-06-19T14:00:21.000Z",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thou..."
-  },
-  {
-    "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-    "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-    "date": "2026-06-19T13:10:19.000Z",
-    "source": "Bleeping Computer",
-    "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identit..."
-  },
-  {
-    "title": "Bombay High Court Blocks FulcrumSec Data Leak (3)",
-    "link": "https://databreaches.net/2026/06/19/bombay-high-court-blocks-fulcrumsec-data-leak/?pk_campaign=feed&pk_kwd=bombay-high-court-blocks-fulcrumsec-data-leak",
-    "date": "2026-06-19T13:03:48.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Another day, another injunction. When DataBreaches read the news headline, our first thought was that this was an injunction sought by Global Schools Group. Our first impression was correct, but it to..."
-  },
-  {
-    "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
-    "link": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
-    "date": "2026-06-19T13:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis...."
-  },
-  {
-    "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-    "date": "2026-06-19T12:12:20.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral..."
-  },
-  {
-    "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
-    "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
-    "date": "2026-06-19T11:58:00.000Z",
-    "source": "The Hacker News",
-    "summary": "Introduction\n\nThe average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, gener..."
-  },
-  {
-    "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
-    "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
-    "date": "2026-06-19T10:30:00.000Z",
-    "source": "The Hacker News",
-    "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data ..."
-  },
-  {
-    "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-    "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-    "date": "2026-06-19T09:03:57.000Z",
-    "source": "The Hacker News",
-    "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026.\n\nT..."
   }
 ]
