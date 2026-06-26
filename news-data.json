@@ -1,5 +1,187 @@
 [
   {
+    "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+    "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+    "date": "2026-06-26T14:01:11.000Z",
+    "source": "Bleeping Computer",
+    "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and op..."
+  },
+  {
+    "title": "A ‘Solana Summer’ could lead the next altcoin rebound if Bitcoin holds the line",
+    "link": "https://cryptoslate.com/a-solana-summer-could-lead-the-next-altcoin-rebound-if-bitcoin-holds-the-line/",
+    "date": "2026-06-26T14:00:14.000Z",
+    "source": "CryptoSlate",
+    "summary": "SOL touched $64.56 intraday on June 25 before recovering toward $66.56 as Bitcoin fell to $58,189. Fed hike odds for September held above 60% after the PCE print, and tight liquidity kept the broader ..."
+  },
+  {
+    "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
+    "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
+    "date": "2026-06-26T13:30:00.000Z",
+    "source": "Dark Reading",
+    "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps...."
+  },
+  {
+    "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
+    "date": "2026-06-26T13:22:16.000Z",
+    "source": "Coindesk",
+    "summary": "Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer...."
+  },
+  {
+    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+    "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+    "date": "2026-06-26T13:00:41.000Z",
+    "source": "The Hacker News",
+    "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-..."
+  },
+  {
+    "title": "Bitcoin nearly loses $58K as ETF outflows decide whether inflation relief holds",
+    "link": "https://cryptoslate.com/bitcoin-nearly-loses-58k-as-etf-outflows-decide-whether-inflation-relief-holds/",
+    "date": "2026-06-26T13:00:14.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitcoin registered an intraday low of $58,189 on June 25 before clawing back toward $60,100 as of press time, even as the Federal Reserve's preferred inflation gauge landed roughly in line with expect..."
+  },
+  {
+    "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
+    "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
+    "date": "2026-06-26T13:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "It might be taking a bit longer than usual to respond to your submissions — here's why...."
+  },
+  {
+    "title": "Crypto Price Analysis Jun-26: ETH, XRP, ADA, BNB, and HYPE",
+    "link": "https://cryptopotato.com/crypto-price-analysis-jun-26-eth-xrp-ada-bnb-and-hype/",
+    "date": "2026-06-26T12:46:22.000Z",
+    "source": "CryptoPotato",
+    "summary": "This Friday, we examine Ethereum, Ripple, Cardano, Binance Coin, and Hyperliquid in greater detail. Ethereum (ETH This week, Ethereum crashed by 8% as most of the market turned red and key support lev..."
+  },
+  {
+    "title": "XRP Selling Pressure Intensifies as Profit-to-Loss Ratio Reaches Multi-Year Low",
+    "link": "https://cryptopotato.com/xrp-selling-pressure-intensifies-as-profit-to-loss-ratio-reaches-multi-year-low/",
+    "date": "2026-06-26T12:33:33.000Z",
+    "source": "CryptoPotato",
+    "summary": "The current reading indicates that only 33 cents in realized profit is recorded for every dollar of realized losses...."
+  },
+  {
+    "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+    "date": "2026-06-26T12:31:56.000Z",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat..."
+  },
+  {
+    "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
+    "link": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
+    "date": "2026-06-26T12:25:36.000Z",
+    "source": "Coindesk",
+    "summary": "U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current surge lacks the deal volume and speculative excess that defined the dot-com era...."
+  },
+  {
+    "title": "These crypto tokens could be the biggest winners from the CLARITY Act",
+    "link": "https://cryptoslate.com/these-crypto-tokens-could-be-the-biggest-winners-from-the-clarity-act/",
+    "date": "2026-06-26T12:00:13.000Z",
+    "source": "CryptoSlate",
+    "summary": "A group of crypto tokens tied to some of the industry’s largest revenue-generating applications could be positioned for a revaluation as Congress moves closer to establishing a federal rulebook for di..."
+  },
+  {
+    "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+    "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+    "date": "2026-06-26T11:51:35.000Z",
+    "source": "The Hacker News",
+    "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration f..."
+  },
+  {
+    "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
+    "link": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
+    "date": "2026-06-26T11:36:01.000Z",
+    "source": "Coindesk",
+    "summary": "Your day-ahead look for June 26, 2026..."
+  },
+  {
+    "title": "SharpLink Resumes ETH Buying After 8-Month Hiatus but OG Whales Capitulate",
+    "link": "https://cryptopotato.com/sharplink-resumes-eth-buying-after-8-month-hiatus-but-og-whales-capitulate/",
+    "date": "2026-06-26T11:34:46.000Z",
+    "source": "CryptoPotato",
+    "summary": "In addition, Tom Lee's Bitmine continues to stake ETH tokens...."
+  },
+  {
+    "title": "Guardian Agents: The Next Layer of Identity Governance",
+    "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+    "date": "2026-06-26T11:30:00.000Z",
+    "source": "The Hacker News",
+    "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to ..."
+  },
+  {
+    "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
+    "link": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
+    "date": "2026-06-26T11:03:20.000Z",
+    "source": "Coindesk",
+    "summary": "BTC touched its lowest level since September 2024 before rebounding to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out...."
+  },
+  {
+    "title": "Strategy’s Bitcoin bet sinks $12 billion underwater as STRC traders brace for more pain",
+    "link": "https://cryptoslate.com/strategys-bitcoin-bet-sinks-12-billion-underwater-as-strc-traders-brace-for-more-pain/",
+    "date": "2026-06-26T11:00:12.000Z",
+    "source": "CryptoSlate",
+    "summary": "Strategy’s Bitcoin holdings have fallen roughly $12 billion below their purchase cost, placing the company’s capital-raising model under its sharpest pressure since it accelerated its Bitcoin treasury..."
+  },
+  {
+    "title": "Metaplanet Stock Down 88% in a Year While BTC Holdings Grow",
+    "link": "https://cryptopotato.com/metaplanet-stock-down-88-in-a-year-while-btc-holdings-grow/",
+    "date": "2026-06-26T10:52:28.000Z",
+    "source": "CryptoPotato",
+    "summary": "Analysts argue that investors are effectively buying the company's Bitcoin holdings at a discount to their estimated value...."
+  },
+  {
+    "title": "What Are XRP’s Most Important Levels After Crash to $1.00?",
+    "link": "https://cryptopotato.com/what-are-xrps-most-important-levels-after-crash-to-1-00/",
+    "date": "2026-06-26T10:30:01.000Z",
+    "source": "CryptoPotato",
+    "summary": "Meanwhile, a Ripple whale was liquidated for almost $30 million during yesterday's massacre...."
+  },
+  {
+    "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
+    "link": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
+    "date": "2026-06-26T10:28:24.000Z",
+    "source": "Coindesk",
+    "summary": "Investors are watching the preferred stock's ex-dividend date and monthly dividend rate reset closely...."
+  },
+  {
+    "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+    "link": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+    "date": "2026-06-26T10:19:22.000Z",
+    "source": "Coindesk",
+    "summary": "A day after withdrawing its MiCA license application in Greece and saying it is ‘not leaving Europe,’ Binance notified users across the European Union that it will suspend some services...."
+  },
+  {
+    "title": "Crypto’s RWA boom finds retail demand in physical trading cards as users chase collectibles over Treasuries",
+    "link": "https://cryptoslate.com/cryptos-rwa-boom-finds-retail-demand-in-physical-trading-card-packs-but-buybacks-decide-what-lasts/",
+    "date": "2026-06-26T10:10:53.000Z",
+    "source": "CryptoSlate",
+    "summary": "DeFiLlama shows real activity, but durability depends on redemption, custody, buybacks and CARDS incentives.\nThe post Crypto’s RWA boom finds retail demand in physical trading cards as users chase col..."
+  },
+  {
+    "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
+    "link": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
+    "date": "2026-06-26T09:47:07.000Z",
+    "source": "Coindesk",
+    "summary": "The second-largest corporate ether holder purchased 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion...."
+  },
+  {
+    "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+    "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+    "date": "2026-06-26T09:27:12.000Z",
+    "source": "The Hacker News",
+    "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into fr..."
+  },
+  {
+    "title": "Critical Moment for Ripple (XRP), Important Pi Network (PI) Updates, and More: Bits Recap June 26",
+    "link": "https://cryptopotato.com/critical-moment-for-ripple-xrp-important-pi-network-pi-updates-and-more-bits-recap-june-26/",
+    "date": "2026-06-26T09:26:06.000Z",
+    "source": "CryptoPotato",
+    "summary": "XRP and ADA have been bleeding heavily, while Pi Network's community has set its attention on Sunday (June 28)...."
+  },
+  {
     "title": "USDT gets a Brazil payment route to 170 million people by making crypto disappear",
     "link": "https://cryptoslate.com/usdt-gets-a-brazil-payment-route-to-170-million-people-by-making-crypto-disappear/",
     "date": "2026-06-26T09:05:51.000Z",
@@ -91,7 +273,7 @@
     "summary": "[PRESS RELEASE – Palo Alto, United States, June 25th, 2026] Story rebrands as The DATA Foundation, launches DATA Network with flagship Kled AI integration, registering 1.5 billion user-contributed rec..."
   },
   {
-    "title": "Live markets: Bitcoin rebounds to nearly $60,000. Kospi, Nikkei sink",
+    "title": "Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink",
     "link": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
     "date": "2026-06-26T05:10:37.000Z",
     "source": "Coindesk",
@@ -103,6 +285,13 @@
     "date": "2026-06-25T22:53:32.000Z",
     "source": "Bleeping Computer",
     "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]..."
+  },
+  {
+    "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
+    "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
+    "date": "2026-06-25T22:42:36.000Z",
+    "source": "Dark Reading",
+    "summary": "The fintech company's engineering-first application security team re-engineered the process for granting system access, making it easier and more secure for developers working on their projects. Here ..."
   },
   {
     "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
@@ -224,13 +413,6 @@
     "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until O..."
   },
   {
-    "title": "Cynthia Lummis gave CLARITY Act a July promise, but it still needs a Senate path",
-    "link": "https://cryptoslate.com/cynthia-lummis-gave-clarity-act-a-july-promise-but-it-still-needs-a-senate-path/",
-    "date": "2026-06-25T18:15:54.000Z",
-    "source": "CryptoSlate",
-    "summary": "Senator Cynthia Lummis told Fox Business on June 24 that negotiators expect final Senate compromise language around the July 4 recess and then plan to “move in July,” the most public deadline any spon..."
-  },
-  {
     "title": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
     "link": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
     "date": "2026-06-25T17:48:18.000Z",
@@ -252,13 +434,6 @@
     "summary": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked...."
   },
   {
-    "title": "Bitcoin’s bear market struggle is killing crypto jobs but fueling a $10 billion Wall Street-backed M&A boom",
-    "link": "https://cryptoslate.com/bitcoins-bear-market-struggle-is-killing-crypto-jobs-but-fueling-a-10-billion-wall-street-backed-ma-boom/",
-    "date": "2026-06-25T17:10:43.000Z",
-    "source": "CryptoSlate",
-    "summary": "Bitcoin’s prolonged decline is forcing cryptocurrency companies to cut staff, automate more work, and abandon the expansion plans that defined the last bull market. At the same time, it is also creati..."
-  },
-  {
     "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI’s global copyright headache",
     "link": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
     "date": "2026-06-25T17:06:10.000Z",
@@ -278,13 +453,6 @@
     "date": "2026-06-25T16:23:16.000Z",
     "source": "DataBreaches.net",
     "summary": "In August 2025, DataBreaches added the Colorado Health Network (CHN) to our non-public worksheets after threat actors called Cephalus added the provider to its’ dark web leak site with a claim that th..."
-  },
-  {
-    "title": "Why Europe is struggling to give Binance the MiCA license it needs",
-    "link": "https://cryptoslate.com/why-europe-is-struggling-to-give-binance-the-mica-license-it-needs/",
-    "date": "2026-06-25T16:10:41.000Z",
-    "source": "CryptoSlate",
-    "summary": "Binance withdrew its MiCA application in Greece after reported resistance and told users the absence of a formal decision before the transition deadline forced it to seek authorization elsewhere. Repo..."
   },
   {
     "title": "Bitcoin Didn’t Lose to Gold, the Rotation Story Is Wrong: Analyst",
@@ -320,13 +488,6 @@
     "date": "2026-06-25T15:14:01.000Z",
     "source": "Coindesk",
     "summary": "Hyperion Decimus' Chris Sullivan said four historically reliable indicators have aligned, leaving bitcoin one move away from confirming a major turning point...."
-  },
-  {
-    "title": "Bitcoin’s $60K rebound just collapsed as $427M in long liquidations followed sticky inflation data",
-    "link": "https://cryptoslate.com/bitcoins-60k-rebound-just-collapsed-as-427m-in-long-liquidations-followed-sticky-inflation-data/",
-    "date": "2026-06-25T15:03:27.000Z",
-    "source": "CryptoSlate",
-    "summary": "Sticky inflation, firmer activity data, and lower claims left buyers without the rate-cut cover they needed.\nThe post Bitcoin’s $60K rebound just collapsed as $427M in long liquidations followed stick..."
   },
   {
     "title": "Bitcoin tumbles to new multi-year low of $58,000, but a short-squeeze setup emerges",
@@ -371,13 +532,6 @@
     "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.\n\nAccording to Island, the extension, named Adblock for YouTube (ID..."
   },
   {
-    "title": "Chainlink’s latest stablecoin push targets the capital stuck in bank FX settlement",
-    "link": "https://cryptoslate.com/chainlinks-stablecoin-push-targets-the-capital-stuck-in-bank-fx-settlement/",
-    "date": "2026-06-25T14:05:31.000Z",
-    "source": "CryptoSlate",
-    "summary": "The framework targets T+0 payment-versus-payment settlement while keeping banks on familiar Swift and ISO 20022 workflows.\nThe post Chainlink’s latest stablecoin push targets the capital stuck in bank..."
-  },
-  {
     "title": "Déjà Vu: Bitcoin Tumbles Below $59K as Strategy’s MSTR Crumbles Again",
     "link": "https://cryptopotato.com/deja-vu-bitcoin-tumbles-below-59k-as-strategys-mstr-crumbles-again/",
     "date": "2026-06-25T14:03:50.000Z",
@@ -413,32 +567,11 @@
     "summary": "Bitcoin Cash (BCH), up 5.8% from Wednesday, joined Aave (AAVE) as a top performer...."
   },
   {
-    "title": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
-    "link": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
-    "date": "2026-06-25T13:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "The protocols are building shared liquidity and trading infrastructure for a future with hundreds of competing digital currencies on blockchain rails...."
-  },
-  {
-    "title": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
-    "link": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
-    "date": "2026-06-25T13:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "The pardoned ex-CEO called prison a character-building \"plus\" as he's pursued a venture-capital career, despite his majority stake in the world's biggest crypto exchange...."
-  },
-  {
     "title": "No need to hack when it’s leaking: Dialog edition",
     "link": "https://databreaches.net/2026/06/25/no-need-to-hack-when-its-leaking-dialog-edition/?pk_campaign=feed&pk_kwd=no-need-to-hack-when-its-leaking-dialog-edition",
     "date": "2026-06-25T12:48:24.000Z",
     "source": "DataBreaches.net",
     "summary": "Yes, another entry in our “no need to hack when it’s leaking” archives, and another example of entities trying to excuse their security  failures by claiming they were “hacked.” Danny Bradbury cuts to..."
-  },
-  {
-    "title": "Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan ",
-    "link": "https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan",
-    "date": "2026-06-25T12:29:21.000Z",
-    "source": "Coindesk",
-    "summary": "The stablecoin giant and the Japanese financial corporation plan to deploy cross-border foreign exchange settlements as early as next year...."
   },
   {
     "title": "Prediction: Bitcoin Could Bottom Between $42K and $44K This Year",
@@ -476,13 +609,6 @@
     "summary": "The two entities have launched an on-chain warehouse financing facility designed to bring traditional structure credit protections to crypto-backed lending...."
   },
   {
-    "title": "Bitcoin derivatives signal panic. A weak core PCE reading could trigger snapback.",
-    "link": "https://www.coindesk.com/daybook-us/2026/06/25/bitcoin-derivatives-signal-panic-a-weak-core-pce-reading-could-trigger-snapback",
-    "date": "2026-06-25T11:31:02.000Z",
-    "source": "Coindesk",
-    "summary": "Your day-ahead look for June 25, 2026..."
-  },
-  {
     "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
     "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
     "date": "2026-06-25T11:17:31.000Z",
@@ -495,27 +621,6 @@
     "date": "2026-06-25T11:02:21.000Z",
     "source": "CryptoPotato",
     "summary": "This is the moment investors have been waiting for, said one of the analysts...."
-  },
-  {
-    "title": "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
-    "link": "https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms",
-    "date": "2026-06-25T10:56:58.000Z",
-    "source": "Coindesk",
-    "summary": "Blockchain analysts TRM Labs says CoinEx facilitated more than $3.8 billion in blockchain-traced flows with sanctioned Iranian crypto entities. CoinEx disputes the findings...."
-  },
-  {
-    "title": "Crypto relief rally fails to shake persistent bearish derivatives signal",
-    "link": "https://www.coindesk.com/markets/2026/06/25/crypto-relief-rally-fails-to-shake-persistent-bearish-derivatives-signal",
-    "date": "2026-06-25T10:53:24.000Z",
-    "source": "Coindesk",
-    "summary": "A relief rally tied to recovering U.S. equities lifted BTC and ETH off weekly lows, but bearish derivatives positioning and negative CVD suggest the rebound may be fragile...."
-  },
-  {
-    "title": "Bitcoin supply in loss reaches record high 10.83 million BTC",
-    "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-supply-in-loss-reaches-record-high-10-83-million-btc",
-    "date": "2026-06-25T10:28:37.000Z",
-    "source": "Coindesk",
-    "summary": "Almost 11 million bitcoin are now held at a loss, while long-term holders control a record 14.8 million coins...."
   },
   {
     "title": "Breaking Binance News Affecting European Clients",
@@ -707,13 +812,6 @@
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]..."
   },
   {
-    "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-    "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-    "date": "2026-06-24T14:35:11.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ran..."
-  },
-  {
     "title": "From Wallets to Agents: CoinFello’s Bet on the Future of DeFi (Interview)",
     "link": "https://cryptopotato.com/from-wallets-to-agents-coinfellos-bet-on-the-future-of-defi-interview/",
     "date": "2026-06-24T14:33:03.000Z",
@@ -740,103 +838,5 @@
     "date": "2026-06-24T13:16:07.000Z",
     "source": "DataBreaches.net",
     "summary": "Password manager LastPass is still dealing with the settlement from its 2022 data breach (see Related Posts, below, for background on that), but now it has another breach to disclose. Zack Whittaker r..."
-  },
-  {
-    "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-    "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-    "date": "2026-06-24T12:48:11.000Z",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.\n\nThe \"critical exploitable pattern\" ha..."
-  },
-  {
-    "title": "Binance Makes a New Push to Secure EU Approval",
-    "link": "https://cryptopotato.com/binance-makes-a-new-push-to-secure-eu-approval-report/",
-    "date": "2026-06-24T12:39:53.000Z",
-    "source": "CryptoPotato",
-    "summary": "The exchange has only one week left to comply with the necessary MiCA standards...."
-  },
-  {
-    "title": "Apple's MacOS Gap Lets Users Disable Security Tools",
-    "link": "https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools",
-    "date": "2026-06-24T12:00:00.000Z",
-    "source": "Dark Reading",
-    "summary": "Attackers can exploit the issue to disable security and integrated browser tools without needing administrator privileges or kernel exploits...."
-  },
-  {
-    "title": "Ripple (XRP) News Today: June 24",
-    "link": "https://cryptopotato.com/ripple-xrp-news-today-june-24/",
-    "date": "2026-06-24T11:47:33.000Z",
-    "source": "CryptoPotato",
-    "summary": "A closer look at the latest and most important updates surrounding Ripple's ecosystem...."
-  },
-  {
-    "title": "Dawn of the Apex Agentic Adversary",
-    "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
-    "date": "2026-06-24T11:30:00.000Z",
-    "source": "The Hacker News",
-    "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats.\n\nFor years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE ..."
-  },
-  {
-    "title": "Meta Bets on Prediction Markets as It Hunts for Next-Growth Engine (Report)",
-    "link": "https://cryptopotato.com/meta-bets-on-prediction-markets-as-it-hunts-for-next-growth-engine-report/",
-    "date": "2026-06-24T10:40:00.000Z",
-    "source": "CryptoPotato",
-    "summary": "Arena revives Meta's earlier attempt at prediction markets after the shutdown of its Forecast app in 2022...."
-  },
-  {
-    "title": "Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON",
-    "link": "https://cryptopotato.com/virell-trade-launches-stabliq-wallet-for-stablecoin-management-on-ethereum-and-tron/",
-    "date": "2026-06-24T10:32:28.000Z",
-    "source": "CryptoPotato",
-    "summary": "[PRESS RELEASE – Ras Al Khaimah, UAE, June 24th, 2026] Fintech developer Virell Trade has officially announced the launch of Stabliq Wallet, a secure, non-custodial cryptocurrency wallet engineered sp..."
-  },
-  {
-    "title": "Important Ripple (XRP) Deadline Concerning Many Users",
-    "link": "https://cryptopotato.com/important-ripple-xrp-deadline-concerning-many-users/",
-    "date": "2026-06-24T10:03:40.000Z",
-    "source": "CryptoPotato",
-    "summary": "The team said that funding gaps made the project unsustainable despite the early support it received during launch...."
-  },
-  {
-    "title": "Bitcoin’s Price Rejected at $63K as This Altcoin Explodes by 40%: Market Watch",
-    "link": "https://cryptopotato.com/bitcoins-price-rejected-at-63k-as-this-altcoin-explodes-by-40-market-watch/",
-    "date": "2026-06-24T09:17:10.000Z",
-    "source": "CryptoPotato",
-    "summary": "The total crypto market cap has risen by a mere 0.5% over the last day...."
-  },
-  {
-    "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
-    "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
-    "date": "2026-06-24T08:55:12.000Z",
-    "source": "The Hacker News",
-    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unv..."
-  },
-  {
-    "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
-    "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
-    "date": "2026-06-24T06:50:38.000Z",
-    "source": "The Hacker News",
-    "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Editio..."
-  },
-  {
-    "title": "Scope of Salesforce Attacks Expands as Icarus Leaks Data",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data",
-    "date": "2026-06-23T20:44:09.000Z",
-    "source": "Dark Reading",
-    "summary": "More victims have emerged after attackers breached application vendor Klue and used its OAuth tokens to steal customers' Salesforce data...."
-  },
-  {
-    "title": "'Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows",
-    "link": "https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows",
-    "date": "2026-06-23T19:16:42.000Z",
-    "source": "Dark Reading",
-    "summary": "The CI/CD workflow weakness affects Microsoft's Azure Sentinel, Google's AI Agent Development Kit, Apache's Doris analytics database, Cloudflare's Workers SDK, and Python Software Foundation's Black...."
-  },
-  {
-    "title": "“The Timeline Is Months, Not Years”: Five Eyes Warns of AI-Powered Cyberattacks",
-    "link": "https://databreaches.net/2026/06/23/the-timeline-is-months-not-years-five-eyes-warns-of-ai-powered-cyberattacks/?pk_campaign=feed&pk_kwd=the-timeline-is-months-not-years-five-eyes-warns-of-ai-powered-cyberattacks",
-    "date": "2026-06-23T18:44:03.000Z",
-    "source": "DataBreaches.net",
-    "summary": "MITSloan reports: The intelligence alliance of the United States, United Kingdom, Canada, Australia, and New Zealand, commonly known as Five Eyes, has raised concerns over rapidly advancing artificial..."
   }
 ]
