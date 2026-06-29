@@ -9,12 +9,78 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 19:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 22:11:34 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 19:59:12 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 22:11:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Ripple CTO Emeritus Unveils Plan to Tackle XRPL DEX Front-Running]]></title>
+            <description><![CDATA[The proposal aims to give XRPL users guaranteed execution priority if they pay a reservation fee before a ledger closes....]]></description>
+            <link>https://cryptopotato.com/ripple-cto-emeritus-unveils-plan-to-tackle-xrpl-dex-front-running/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripple-cto-emeritus-unveils-plan-to-tackle-xrpl-dex-front-running/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 21:48:28 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-06-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['Djinn' Stealer Targets Cloud, AI Credentials]]></title>
+            <description><![CDATA[The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise sys...]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 21:29:15 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Vulnerabilities Expose Private Data in Indian Government Systems]]></title>
+            <description><![CDATA[One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 21:05:29 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Nissan discloses employee data breach linked to Oracle zero-day attacks]]></title>
+            <description><![CDATA[Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 20:40:44 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[NAIC says public data stolen in ShinyHunters' PeopleSoft breach]]></title>
+            <description><![CDATA[The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 20:30:28 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-29</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase (COIN) Down 62% One Year After Jim Cramer’s PARC Basket]]></title>
+            <description><![CDATA[Data shows Coinbase is trading near the lower end of its yearly range, far from the momentum levels seen at PARC's launch....]]></description>
+            <link>https://cryptopotato.com/coinbase-coin-down-62-one-year-after-jim-cramers-parc-basket/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/coinbase-coin-down-62-one-year-after-jim-cramers-parc-basket/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 29 Jun 2026 20:01:42 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-06-29</dc:date>
+        </item>
         <item>
             <title><![CDATA[Can Clothes Make You Invisible to Facial Recognition?]]></title>
             <description><![CDATA[Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras....]]></description>
@@ -126,7 +192,7 @@
             <dc:date>2026-06-29</dc:date>
         </item>
         <item>
-            <title><![CDATA[JPMorgan backs U.S. crypto bill but warns of risks in digital asset framework]]></title>
+            <title><![CDATA[JPMorgan urges strong safeguards as congress weighs crypto market structure rules]]></title>
             <description><![CDATA[The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act....]]></description>
             <link>https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework</link>
             <guid isPermaLink="false">https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework</guid>
@@ -1133,28 +1199,6 @@ While ...]]></description>
             <dc:date>2026-06-27</dc:date>
         </item>
         <item>
-            <title><![CDATA[XRP’s Slide to Sub-$1.00 Could Set Up ‘Risk-Reward’ Zone: Analyst]]></title>
-            <description><![CDATA[Analysts are watching former resistance levels from 2023 and 2024 that could now become long-term support zones....]]></description>
-            <link>https://cryptopotato.com/xrps-slide-to-sub-1-00-could-set-up-risk-reward-zone-analyst/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/xrps-slide-to-sub-1-00-could-set-up-risk-reward-zone-analyst/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 06:11:39 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-06-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum (ETH) Suffers a Major Blow: Is a Crash to $1,000 Coming Next?]]></title>
-            <description><![CDATA[USDT temporarily flipped ETH to become the second-biggest cryptocurrency....]]></description>
-            <link>https://cryptopotato.com/ethereum-eth-suffers-a-major-blow-is-a-crash-to-1000-coming-next/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ethereum-eth-suffers-a-major-blow-is-a-crash-to-1000-coming-next/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 27 Jun 2026 03:45:56 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-06-27</dc:date>
-        </item>
-        <item>
             <title><![CDATA[FBI: Russian hackers now target Signal backup recovery keys]]></title>
             <description><![CDATA[The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victim...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/</link>
@@ -1221,17 +1265,6 @@ While ...]]></description>
             <dc:date>2026-06-26</dc:date>
         </item>
         <item>
-            <title><![CDATA[Cybersecurity firms targeted by fraudulent OpenAI organization invites]]></title>
-            <description><![CDATA[Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company inf...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 17:49:07 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-26</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions]]></title>
             <description><![CDATA[Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane....]]></description>
             <link>https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield</link>
@@ -1262,17 +1295,6 @@ While ...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 16:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-06-26</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Your First GRC Agent: A Red Teamer's Walkthrough]]></title>
-            <description><![CDATA[AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and op...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 14:01:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-06-26</dc:date>
         </item>
         <item>
@@ -1319,28 +1341,6 @@ CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-.
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-06-26</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue]]></title>
-            <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat...]]></description>
-            <link>https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 12:31:56 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-26</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets]]></title>
-            <description><![CDATA[DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration f...]]></description>
-            <link>https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 26 Jun 2026 11:51:35 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-06-26</dc:date>
         </item>
     </channel>
