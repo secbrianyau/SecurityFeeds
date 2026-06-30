@@ -9,12 +9,100 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 19:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 22:19:06 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 19:59:13 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 22:19:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[New BioShocking attack manipulates AI browser into data theft]]></title>
+            <description><![CDATA[A new prompt injection attack dubbed "BioShocking" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 21:50:24 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Fake Bug Report Hijacks AI Coding Agents at Scale]]></title>
+            <description><![CDATA["Agentjacking" is the latest demonstration of how easily attackers can exploit an AI agent's inability to differentiate between content and instructions....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 21:37:50 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft accelerates quantum-safe roadmap as risks grow]]></title>
+            <description><![CDATA[Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than prev...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 21:20:06 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Critics Say BIP-110 Could Break Self-Custody and Risk User Funds]]></title>
+            <description><![CDATA[Existing Bitcoin software supporting BIP-110 may reportedly create addresses that become invalid after the proposed upgrade....]]></description>
+            <link>https://cryptopotato.com/critics-say-bip-110-could-break-self-custody-and-risk-user-funds/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/critics-say-bip-110-could-break-self-custody-and-risk-user-funds/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 21:15:13 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-06-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Malicious PyPI packages give hackers control of Telegram bot servers]]></title>
+            <description><![CDATA[A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 21:02:55 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-06-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Attackers Hijack Exposed AI Endpoints to Power Offensive Ops]]></title>
+            <description><![CDATA[Attackers don't need any special authentication to reach a target endpoint — they just need to know where it is....]]></description>
+            <link>https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 21:01:58 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-06-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Phantom doubles down on perpetual futures with hire of Hyperliquid market builders]]></title>
+            <description><![CDATA[The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments....]]></description>
+            <link>https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 21:00:19 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-06-30</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Companies spending the most on AI are growing jobs, Ramp study finds]]></title>
+            <description><![CDATA[A new study from Ramp found companies making the biggest investments in AI are expanding their workforces, with heavy adopters increasing headcount by about 10% and entry-level hiring by 12%, challeng...]]></description>
+            <link>https://www.coindesk.com/business/2026/06/30/companies-spending-the-most-on-ai-are-growing-jobs-ramp-study-finds</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/06/30/companies-spending-the-most-on-ai-are-growing-jobs-ramp-study-finds</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 30 Jun 2026 20:21:49 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-06-30</dc:date>
+        </item>
         <item>
             <title><![CDATA[Why Identity Security Is Your Cyber Career Entry Point]]></title>
             <description><![CDATA[As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at SIlverfort, says the technology is creating opportunities rather than eliminating jobs — and there are more ways than ever to brea...]]></description>
@@ -230,7 +318,7 @@ The post ...]]></description>
             <dc:date>2026-06-30</dc:date>
         </item>
         <item>
-            <title><![CDATA[Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network]]></title>
+            <title><![CDATA[Circle craters 17% as Stripe, Coinbase and BlackRock back rival stablecoin network]]></title>
             <description><![CDATA[Open Standard's Open USD aims to let partners keep reserve income and eliminate minting fees, challenging Circle's USDC....]]></description>
             <link>https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network</link>
             <guid isPermaLink="false">https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network</guid>
@@ -757,7 +845,7 @@ The flaw, tracked...]]></description>
             <dc:date>2026-06-30</dc:date>
         </item>
         <item>
-            <title><![CDATA[Live updates: Bitcoin falls back below $59,000, Circle's stock gets crushed]]></title>
+            <title><![CDATA[Live updates: bitcoin closes out weak quarter; Trump reports over $1 billion in crypto proceeds]]></title>
             <description><![CDATA[IBIT alone shed $300 million while smaller funds absorbed some of the outflow. The selloff lands as the same AI trade that crashed Korea a week ago now powers a record quarterly rally there....]]></description>
             <link>https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles</link>
             <guid isPermaLink="false">https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles</guid>
@@ -1023,17 +1111,6 @@ The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), ...]]></descript
             <dc:date>2026-06-29</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank]]></title>
-            <description><![CDATA[The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs....]]></description>
-            <link>https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 17:57:18 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-06-29</dc:date>
-        </item>
-        <item>
             <title><![CDATA[MOVEit Breach Defendants Lose 2nd Bid to Toss Negligence Claims]]></title>
             <description><![CDATA[Christopher Brown reports: Bellwether defendants in multi-district litigation over a massive data breach of Progress Software’s MOVEit file-transfer application failed to convince a federal court to t...]]></description>
             <link>https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&amp;pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims</link>
@@ -1064,17 +1141,6 @@ The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), ...]]></descript
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 17:48:28 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[JPMorgan urges strong safeguards as congress weighs crypto market structure rules]]></title>
-            <description><![CDATA[The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act....]]></description>
-            <link>https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 17:31:33 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-06-29</dc:date>
         </item>
         <item>
@@ -1212,39 +1278,6 @@ The optional featu...]]></description>
             <dc:date>2026-06-29</dc:date>
         </item>
         <item>
-            <title><![CDATA[Agentic AI Has an Identity Problem and Attackers Know It]]></title>
-            <description><![CDATA[AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 14:01:11 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Critical SimpleHelp flaw exploited to deploy new stealer malware]]></title>
-            <description><![CDATA[Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Window...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 14:00:00 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hackers now exploit critical Oracle E-Business flaw in attacks]]></title>
-            <description><![CDATA[Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 13:46:17 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-06-29</dc:date>
-        </item>
-        <item>
             <title><![CDATA[XRP Price to $11? Former Ripple CTO David Schwartz Proposes XRPL Security Overhaul]]></title>
             <description><![CDATA[David Schwartz proposes anti-front-running upgrade. XRPL community raises fairness concerns. $11 XRP price target questioned. Former Ripple Chief Technology Officer David Schwartz has proposed a ......]]></description>
             <link>https://www.ccn.com/news/crypto/xrp-price-11-ripple-cto-david-schwartz-xrpl-overhaul/</link>
@@ -1319,39 +1352,6 @@ The optional featu...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 29 Jun 2026 12:15:05 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-06-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers]]></title>
-            <description><![CDATA[New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framewo...]]></description>
-            <link>https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 11:57:40 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-06-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Amazon Q VS Extension Flaw Leads to Cloud Credential Theft]]></title>
-            <description><![CDATA[Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk....]]></description>
-            <link>https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 11:44:42 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-06-29</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Why Post-Quantum Cryptography Starts With Credentials]]></title>
-            <description><![CDATA[Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no mac...]]></description>
-            <link>https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 29 Jun 2026 11:42:16 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-06-29</dc:date>
         </item>
     </channel>

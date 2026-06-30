@@ -1,5 +1,61 @@
 [
   {
+    "title": "New BioShocking attack manipulates AI browser into data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+    "date": "2026-06-30T21:50:24.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails...."
+  },
+  {
+    "title": "Fake Bug Report Hijacks AI Coding Agents at Scale",
+    "link": "https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents",
+    "date": "2026-06-30T21:37:50.000Z",
+    "source": "Dark Reading",
+    "summary": "\"Agentjacking\" is the latest demonstration of how easily attackers can exploit an AI agent's inability to differentiate between content and instructions...."
+  },
+  {
+    "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
+    "date": "2026-06-30T21:20:06.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than prev..."
+  },
+  {
+    "title": "Critics Say BIP-110 Could Break Self-Custody and Risk User Funds",
+    "link": "https://cryptopotato.com/critics-say-bip-110-could-break-self-custody-and-risk-user-funds/",
+    "date": "2026-06-30T21:15:13.000Z",
+    "source": "CryptoPotato",
+    "summary": "Existing Bitcoin software supporting BIP-110 may reportedly create addresses that become invalid after the proposed upgrade...."
+  },
+  {
+    "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+    "date": "2026-06-30T21:02:55.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...."
+  },
+  {
+    "title": "Attackers Hijack Exposed AI Endpoints to Power Offensive Ops",
+    "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
+    "date": "2026-06-30T21:01:58.000Z",
+    "source": "Dark Reading",
+    "summary": "Attackers don't need any special authentication to reach a target endpoint — they just need to know where it is...."
+  },
+  {
+    "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
+    "link": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
+    "date": "2026-06-30T21:00:19.000Z",
+    "source": "Coindesk",
+    "summary": "The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments...."
+  },
+  {
+    "title": "Companies spending the most on AI are growing jobs, Ramp study finds",
+    "link": "https://www.coindesk.com/business/2026/06/30/companies-spending-the-most-on-ai-are-growing-jobs-ramp-study-finds",
+    "date": "2026-06-30T20:21:49.000Z",
+    "source": "Coindesk",
+    "summary": "A new study from Ramp found companies making the biggest investments in AI are expanding their workforces, with heavy adopters increasing headcount by about 10% and entry-level hiring by 12%, challeng..."
+  },
+  {
     "title": "Why Identity Security Is Your Cyber Career Entry Point",
     "link": "https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point",
     "date": "2026-06-30T19:11:40.000Z",
@@ -133,7 +189,7 @@
     "summary": "From Nisos: Earlier this year, our DPRK employment fraud investigation revealed how North Korean operatives infiltrate US companies at industrial scale. In June, we released Part 2 of our research, fe..."
   },
   {
-    "title": "Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+    "title": "Circle craters 17% as Stripe, Coinbase and BlackRock back rival stablecoin network",
     "link": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
     "date": "2026-06-30T14:32:33.000Z",
     "source": "Coindesk",
@@ -462,7 +518,7 @@
     "summary": "Bitcoin’s price has shown an unusually strong negative 52-week correlation with the dollar-yen exchange rate...."
   },
   {
-    "title": "Live updates: Bitcoin falls back below $59,000, Circle's stock gets crushed",
+    "title": "Live updates: bitcoin closes out weak quarter; Trump reports over $1 billion in crypto proceeds",
     "link": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles",
     "date": "2026-06-30T07:01:09.000Z",
     "source": "Coindesk",
@@ -630,13 +686,6 @@
     "summary": "Niall Glynn and Auryn Cox report: The number of schools in Northern Ireland affected by a recent cyber-attack is larger than previously thought. In a letter issued by the Education Authority (EA) on T..."
   },
   {
-    "title": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
-    "link": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank",
-    "date": "2026-06-29T17:57:18.000Z",
-    "source": "Coindesk",
-    "summary": "The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs...."
-  },
-  {
     "title": "MOVEit Breach Defendants Lose 2nd Bid to Toss Negligence Claims",
     "link": "https://databreaches.net/2026/06/29/moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims/?pk_campaign=feed&pk_kwd=moveit-breach-defendants-lose-2nd-bid-to-toss-negligence-claims",
     "date": "2026-06-29T17:56:32.000Z",
@@ -656,13 +705,6 @@
     "date": "2026-06-29T17:48:28.000Z",
     "source": "Bleeping Computer",
     "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]..."
-  },
-  {
-    "title": "JPMorgan urges strong safeguards as congress weighs crypto market structure rules",
-    "link": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
-    "date": "2026-06-29T17:31:33.000Z",
-    "source": "Coindesk",
-    "summary": "The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act...."
   },
   {
     "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
@@ -749,27 +791,6 @@
     "summary": "After yielding to heavy selling pressure and losing several key support levels over the past few weeks, Bitcoin is now holding at a key support level. The broader market structure continues to favor t..."
   },
   {
-    "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-    "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-    "date": "2026-06-29T14:01:11.000Z",
-    "source": "Bleeping Computer",
-    "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security..."
-  },
-  {
-    "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-    "date": "2026-06-29T14:00:00.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Window..."
-  },
-  {
-    "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-    "date": "2026-06-29T13:46:17.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]..."
-  },
-  {
     "title": "XRP Price to $11? Former Ripple CTO David Schwartz Proposes XRPL Security Overhaul",
     "link": "https://www.ccn.com/news/crypto/xrp-price-11-ripple-cto-david-schwartz-xrpl-overhaul/",
     "date": "2026-06-29T13:22:15.000Z",
@@ -817,26 +838,5 @@
     "date": "2026-06-29T12:15:05.000Z",
     "source": "CryptoPotato",
     "summary": "Michael Saylor hinted on X yesterday that a new BTC purchase will be announced today. However, it was something different...."
-  },
-  {
-    "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-    "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-    "date": "2026-06-29T11:57:40.000Z",
-    "source": "The Hacker News",
-    "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framewo..."
-  },
-  {
-    "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
-    "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
-    "date": "2026-06-29T11:44:42.000Z",
-    "source": "Dark Reading",
-    "summary": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk...."
-  },
-  {
-    "title": "Why Post-Quantum Cryptography Starts With Credentials",
-    "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-    "date": "2026-06-29T11:42:16.000Z",
-    "source": "The Hacker News",
-    "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no mac..."
   }
 ]
