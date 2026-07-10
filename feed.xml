@@ -9,12 +9,169 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 14:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 17:02:45 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 14:25:34 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 17:02:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Police suspects Dutch hackers were involved in Odido breach]]></title>
+            <description><![CDATA[The Dutch National Police (Politie) says it has found "strong indications" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:37:01 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Pi Network Holders Breakdown: How Many Pioneers Actually Hold Over 10 Million PI?]]></title>
+            <description><![CDATA[Approximately 80% of all Pioneers hold less than 10 PI each....]]></description>
+            <link>https://cryptopotato.com/pi-network-holders-breakdown-how-many-pioneers-actually-hold-over-10-million-pi/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/pi-network-holders-breakdown-how-many-pioneers-actually-hold-over-10-million-pi/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:35:23 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong gives crypto platforms one year to ditch one-time passwords or cover user losses]]></title>
+            <description><![CDATA[The SFC wants phishing-resistant login and device binding by July 8, 2027, while monitoring and response duties apply immediately.
+The post Hong Kong gives crypto platforms one year to ditch one-time ...]]></description>
+            <link>https://cryptoslate.com/hong-kong-gives-crypto-platforms-one-year-to-ditch-one-time-passwords-or-cover-user-losses/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/hong-kong-gives-crypto-platforms-one-year-to-ditch-one-time-passwords-or-cover-user-losses/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:30:05 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Progress urges ShareFile customers to shut down servers over "credible" threat]]></title>
+            <description><![CDATA[Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a "credible external security threat" t...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:26:10 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[U.S. government digital dollar set to be banned tonight under housing law's CBDC limit]]></title>
+            <description><![CDATA[Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it....]]></description>
+            <link>https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 16:02:21 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers exploit critical auth bypass in Gitea Docker image]]></title>
+            <description><![CDATA[Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [.....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 15:48:38 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Analysis: ETH Faces a Crucial Test After Latest Rebound]]></title>
+            <description><![CDATA[Ethereum has staged a notable recovery after defending its recent lows, with buyers gradually rebuilding momentum. While the higher time frames remain constrained beneath major resistance, the lower t...]]></description>
+            <link>https://cryptopotato.com/ethereum-price-analysis-eth-faces-a-crucial-test-after-latest-rebound/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ethereum-price-analysis-eth-faces-a-crucial-test-after-latest-rebound/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 15:32:50 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Money launderer accused of stealing seized crypto while in prison]]></title>
+            <description><![CDATA[A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [.....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 15:30:19 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hyundai becomes first major South Korean company to introduce internal stablecoin transfers]]></title>
+            <description><![CDATA[The initiative builds on a broader shift by companies exploring stablecoins to move money between international operations more efficiently....]]></description>
+            <link>https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 15:26:43 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Judge lets Terraform use Jump lawsuit evidence while blocking four late creditor claims]]></title>
+            <description><![CDATA[The trust can use disputed documents in its $4 billion-plus case, but the rulings still leave creditor payouts unresolved.
+The post Judge lets Terraform use Jump lawsuit evidence while blocking four l...]]></description>
+            <link>https://cryptoslate.com/judge-lets-terraform-use-jump-lawsuit-evidence-while-blocking-four-late-creditor-claims/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/judge-lets-terraform-use-jump-lawsuit-evidence-while-blocking-four-late-creditor-claims/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 15:24:25 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched]]></title>
+            <description><![CDATA[Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker...]]></description>
+            <link>https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 14:51:49 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Reclaims $64K Despite Strategy’s New Sale and Resumed US-Iran Strikes: Weekly Recap]]></title>
+            <description><![CDATA[Meanwhile, Ethereum is back at $1,800, SOL is struggling to maintain $80, while XRP has defended the $1.10 support....]]></description>
+            <link>https://cryptopotato.com/bitcoin-reclaims-64k-despite-strategys-new-sale-and-resumed-us-iran-strikes-weekly-recap/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-reclaims-64k-despite-strategys-new-sale-and-resumed-us-iran-strikes-weekly-recap/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 14:39:00 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[GENIUS Act deadline puts stablecoin issuers on the clock]]></title>
+            <description><![CDATA[July 18 is not a user cutoff, but it forces regulators to define which permitted, foreign, and state-qualified issuers can operate cleanly in the US framework.
+The post GENIUS Act deadline puts stable...]]></description>
+            <link>https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 14:20:13 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws]]></title>
+            <description><![CDATA[Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege es...]]></description>
+            <link>https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 14:19:50 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
         <item>
             <title><![CDATA[The Replicant in Your Directory: AI Agents and the Identity Security Gap]]></title>
             <description><![CDATA[AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibili...]]></description>
@@ -46,6 +203,17 @@
             <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 13:54:50 GMT</pubDate>
             <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[More Countries Jump on the Social Media Ban Wagon]]></title>
+            <description><![CDATA[Age restrictions on accounts may be more of a ban(d) aid, because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users....]]></description>
+            <link>https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 13:50:24 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-07-10</dc:date>
         </item>
         <item>
@@ -373,7 +541,7 @@ FoxIO resea...]]></description>
             <dc:date>2026-07-10</dc:date>
         </item>
         <item>
-            <title><![CDATA[Live markets: Bitcoin takes aim at $65,000, erasing losses from earlier this week]]></title>
+            <title><![CDATA[Live updates: Bitcoin rises to $64,000 as SK Hynix opens for trade after $26.5 billion IPO]]></title>
             <description><![CDATA[Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $52 million, ending the one bright spot in crypto's institutional flows even as prices rallied....]]></description>
             <link>https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak</link>
             <guid isPermaLink="false">https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak</guid>
@@ -696,17 +864,6 @@ The post Kalshi court loss shows federal approval cannot erase state barriers ap
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M cat coin first]]></title>
-            <description><![CDATA[Robinhood launched the public mainnet of Robinhood Chain this month, describing it as a permissionless Layer 2 built on Arbitrum for tokenized stocks, real-world assets, DeFi lending, and AI-native fi...]]></description>
-            <link>https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 16:25:31 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Is in Deep Value Zone, Yet $53K Drop Cannot Be Ruled Out]]></title>
             <description><![CDATA[Bitcoin shows signs of bottoming, but capitulation, ETF outflows, and defensive options markets still threaten recovery....]]></description>
             <link>https://cryptopotato.com/bitcoin-is-in-deep-value-zone-yet-53k-drop-cannot-be-ruled-out/</link>
@@ -726,18 +883,6 @@ The post Kalshi court loss shows federal approval cannot erase state barriers ap
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 15:53:42 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Why Bitcoin ATMs are becoming the last stop in America’s $11B crypto scam pipeline]]></title>
-            <description><![CDATA[FBI and IC3 data show how online coercion can end at a kiosk before anyone can stop the transfer.
-The post Why Bitcoin ATMs are becoming the last stop in America’s $11B crypto scam pipeline appeared f...]]></description>
-            <link>https://cryptoslate.com/bitcoin-atms-are-becoming-the-last-stop-in-americas-11b-crypto-scam-pipeline/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-atms-are-becoming-the-last-stop-in-americas-11b-crypto-scam-pipeline/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 15:35:53 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
@@ -773,17 +918,6 @@ This week is full of that kind of...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 14:51:49 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Cardano’s wallet hack exposed the user layer holding its on-chain government together]]></title>
-            <description><![CDATA[EMURGO said it is stepping down from its role in Pentad, the five-member group coordinating Cardano's infrastructure funding, to focus resources on recovering funds lost in the SecondFi exploit. The a...]]></description>
-            <link>https://cryptoslate.com/cardanos-wallet-hack-exposed-the-user-layer-holding-its-on-chain-government-together/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/cardanos-wallet-hack-exposed-the-user-layer-holding-its-on-chain-government-together/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 14:40:07 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
@@ -941,28 +1075,6 @@ This week is full of that kind of...]]></description>
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[Pricing houses in bitcoin exposes dollar's loss of value]]></title>
-            <description><![CDATA[Your day-ahead look for July 9, 2026...]]></description>
-            <link>https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value</link>
-            <guid isPermaLink="false">https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 11:27:10 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants]]></title>
-            <description><![CDATA[HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform....]]></description>
-            <link>https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 11:08:37 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Microsoft to retire the OWA Light client in Exchange Server]]></title>
             <description><![CDATA[Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/</link>
@@ -1077,17 +1189,6 @@ The vulnerability, tracked as CVE-2026-50656 (CVSS s...]]></description>
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[AssuranceAmerica data breach exposes records of 6.9 million drivers]]></title>
-            <description><![CDATA[American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year.  [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 07:47:16 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Is Stuck in ‘No Man’s Land’ as $63K Emerges as Major Barrier]]></title>
             <description><![CDATA[Bitcoin traders face a crucial test as $63,000 remains the barrier bulls must overcome before further upside....]]></description>
             <link>https://cryptopotato.com/bitcoin-is-stuck-in-no-mans-land-as-63k-emerges-as-major-barrier/</link>
@@ -1131,17 +1232,6 @@ The vulnerability, tracked as CVE-2026-50656 (CVSS s...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 06:29:49 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft patches RoguePlanet Defender zero-day vulnerability]]></title>
-            <description><![CDATA[Microsoft has released a security patch to address a Defender zero-day vulnerability known as "RoguePlanet," disclosed after the June 2026 Patch Tuesday. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 05:42:49 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
@@ -1235,17 +1325,6 @@ That is the finding in a proof-of-concept published Wednesday by ...]]></descr
             <dc:date>2026-07-08</dc:date>
         </item>
         <item>
-            <title><![CDATA[Mount Royal University confirms breach as hackers claim attack]]></title>
-            <description><![CDATA[Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 21:26:59 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-08</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours]]></title>
             <description><![CDATA[The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer....]]></description>
             <link>https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment</link>
@@ -1268,17 +1347,6 @@ That is the finding in a proof-of-concept published Wednesday by ...]]></descr
             <dc:date>2026-07-08</dc:date>
         </item>
         <item>
-            <title><![CDATA[Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials]]></title>
-            <description><![CDATA[Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 19:54:59 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-08</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Uniondale Union Free School District – Audit Follow-Up by New York State Comptroller (2023M-61-F)]]></title>
             <description><![CDATA[In October 2023, NYS Comptroller Thomas DiNapoli released an IT audit of the Uniondale Union Free School District on Long Island. The purpose of the audit was to examine management of non-student user...]]></description>
             <link>https://databreaches.net/2026/07/08/uniondale-union-free-school-district-audit-follow-up-by-new-york-state-comptroller-2023m-61-f/?pk_campaign=feed&amp;pk_kwd=uniondale-union-free-school-district-audit-follow-up-by-new-york-state-comptroller-2023m-61-f</link>
@@ -1286,74 +1354,6 @@ That is the finding in a proof-of-concept published Wednesday by ...]]></descr
             <category><![CDATA[DataBreaches.net]]></category>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 19:27:53 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Maxi Warns BIP-110 Failure Could Mean the End of Permissionless Money]]></title>
-            <description><![CDATA[BIP-110 has become a symbolic battle over Bitcoin's future direction, from censorship resistance to network governance....]]></description>
-            <link>https://cryptopotato.com/bitcoin-maxi-warns-bip-110-failure-could-mean-the-end-of-permissionless-money/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-maxi-warns-bip-110-failure-could-mean-the-end-of-permissionless-money/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 18:34:32 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers]]></title>
-            <description><![CDATA[Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.
-
-The ag...]]></description>
-            <link>https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 17:02:12 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Altcoin Market Reaches Extreme Underperformance, 40% of Coins Trade Near Their ATL]]></title>
-            <description><![CDATA[One of the major drivers of this underperformance is the low liquidity despite thousands of coins being created and added to the market daily....]]></description>
-            <link>https://cryptopotato.com/altcoin-market-reaches-extreme-underperformance-40-of-coins-trade-near-their-atl/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/altcoin-market-reaches-extreme-underperformance-40-of-coins-trade-near-their-atl/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 16:53:19 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Vidar Infostealer Hammers SMBs via Malvertising Campaign]]></title>
-            <description><![CDATA[A financially motivated operation uses lures of cracked or pirated software to deliver a two-for-one malware combo for data theft and cryptomining....]]></description>
-            <link>https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 16:45:54 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-07-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Patients Sue Healthcare Corporations Over Data Breaches, Sharing of Personal Information]]></title>
-            <description><![CDATA[Mikeie Honda Reiland reports: A suite of recent class action lawsuits in state and federal courts seeks to hold large healthcare corporations accountable for exposing or leaking patients’ personally i...]]></description>
-            <link>https://databreaches.net/2026/07/08/patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information/?pk_campaign=feed&amp;pk_kwd=patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/08/patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information/?pk_campaign=feed&amp;pk_kwd=patients-sue-healthcare-corporations-over-data-breaches-sharing-of-personal-information</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 15:31:58 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-08</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh’s new data protection law may fail to protect your data]]></title>
-            <description><![CDATA[Meem Arafat Manab reports: On August 19, 2025, hackers broke into Shwapno’s customer database. They took 410 gigabytes of data: the names, phone numbers, and purchase histories of forty lakh registere...]]></description>
-            <link>https://databreaches.net/2026/07/08/why-bangladeshs-new-data-protection-law-may-fail-to-protect-your-data/?pk_campaign=feed&amp;pk_kwd=why-bangladeshs-new-data-protection-law-may-fail-to-protect-your-data</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/08/why-bangladeshs-new-data-protection-law-may-fail-to-protect-your-data/?pk_campaign=feed&amp;pk_kwd=why-bangladeshs-new-data-protection-law-may-fail-to-protect-your-data</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 15:23:34 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
             <dc:date>2026-07-08</dc:date>
         </item>
