@@ -9,12 +9,45 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 19:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 22:04:18 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 19:28:30 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 22:04:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[New U-Boot flaws could enable stealthy firmware attacks]]></title>
+            <description><![CDATA[Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks th...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 21:59:02 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Meta's Chief Data Officer Says Agentic Commerce is the "Next Tier of Business"]]></title>
+            <description><![CDATA[Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there....]]></description>
+            <link>https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business</link>
+            <guid isPermaLink="false">https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 21:26:55 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitwise Report: Crypto Fundamentals Are Getting Stronger Despite Third Straight Negative Quarter]]></title>
+            <description><![CDATA[Usage metrics tell a different story from price action, with adoption continuing to outpace market performance this cycle....]]></description>
+            <link>https://cryptopotato.com/bitwise-report-crypto-fundamentals-are-getting-stronger-despite-third-straight-negative-quarter/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitwise-report-crypto-fundamentals-are-getting-stronger-despite-third-straight-negative-quarter/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 20:13:39 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
         <item>
             <title><![CDATA[NOWPayments CEO Kate Lifshits Says Businesses Should Stop Paying for Crypto Payouts]]></title>
             <description><![CDATA[[PRESS RELEASE – Amsterdam, Netherlands, July 10th, 2026] NOWPayment believes the crypto industry has accepted unnecessary costs for too long – and that businesses no longer have to. For years, paying...]]></description>
@@ -24,6 +57,17 @@
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Fri, 10 Jul 2026 19:14:03 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-10</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Jen Ellis: Connecting Cyber Community With Political Machinery]]></title>
+            <description><![CDATA[Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security resea...]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Fri, 10 Jul 2026 19:08:04 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
             <dc:date>2026-07-10</dc:date>
         </item>
         <item>
@@ -850,7 +894,7 @@ FoxIO resea...]]></description>
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[AI Agents Are a New Kind of Identity—and Most Organizations Aren't Ready]]></title>
+            <title><![CDATA[AI Agents Are a New Kind of Identity — and Most Organizations Aren't Ready]]></title>
             <description><![CDATA[If you're handling AI agents like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach....]]></description>
             <link>https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready</link>
             <guid isPermaLink="false">https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready</guid>
@@ -1129,17 +1173,6 @@ This week is full of that kind of...]]></description>
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
-            <title><![CDATA[Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus]]></title>
-            <description><![CDATA[Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets....]]></description>
-            <link>https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ethereum (ETH) Rises 8% Weekly: Is a Bigger Pump Coming Next?]]></title>
             <description><![CDATA["ETH to $2,500 before September," one analyst predicted....]]></description>
             <link>https://cryptopotato.com/ethereum-eth-rises-8-weekly-is-a-bigger-pump-coming-next/</link>
@@ -1148,17 +1181,6 @@ This week is full of that kind of...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 11:56:15 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft to retire the OWA Light client in Exchange Server]]></title>
-            <description><![CDATA[Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 11:00:35 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-07-09</dc:date>
         </item>
         <item>
@@ -1331,28 +1353,6 @@ That is the finding in a proof-of-concept published Wednesday by ...]]></descr
             <category><![CDATA[The Hacker News]]></category>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Thu, 09 Jul 2026 04:27:18 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Rolls Out New XRPL Upgrade, but Less Than Half of Nodes Have Upgraded]]></title>
-            <description><![CDATA[Despite the majority of nodes still operating on v3.1.3, roughly 61% of XRPL validators running on rippled versions have adopted the new upgrade....]]></description>
-            <link>https://cryptopotato.com/ripple-rolls-out-new-xrpl-upgrade-but-less-than-half-of-nodes-have-upgraded/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ripple-rolls-out-new-xrpl-upgrade-but-less-than-half-of-nodes-have-upgraded/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 04:02:08 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-09</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes]]></title>
-            <description><![CDATA[Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprisi...]]></description>
-            <link>https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 09 Jul 2026 04:01:49 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2026-07-09</dc:date>
         </item>
