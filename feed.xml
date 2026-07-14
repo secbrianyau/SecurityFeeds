@@ -9,12 +9,480 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 10:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 16:20:52 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 10:47:08 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 16:20:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown]]></title>
+            <description><![CDATA[Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 16:08:47 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Frontier AI: The Genie's Out of the Bottle, But Where's the Rulebook?]]></title>
+            <description><![CDATA[Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use....]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 16:02:39 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ClickFix's Mushrooming Ecosystem Demands New Defense Tactics]]></title>
+            <description><![CDATA[The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 15:53:54 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[XRP’s $1 rebound faces holders trapped above $2]]></title>
+            <description><![CDATA[Glassnode reported that XRP holders who bought between 6 and 12 months ago have an average cost basis near $2.22, roughly 52% above the token's price of $1.08 on July 14, and far above the $ 1.09-$1.1...]]></description>
+            <link>https://cryptoslate.com/xrps-1-rebound-faces-holders-trapped-above-2/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/xrps-1-rebound-faces-holders-trapped-above-2/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 15:50:06 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple Price Analysis: This One Level Could Decide XRP’s Next Major Move]]></title>
+            <description><![CDATA[Ripple’s XRP remains trapped within a broader bearish market structure despite several recovery attempts over the past few weeks. While the recent price action suggests sellers remain active at higher...]]></description>
+            <link>https://cryptopotato.com/ripple-price-analysis-this-one-level-could-decide-xrps-next-major-move/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripple-price-analysis-this-one-level-could-decide-xrps-next-major-move/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 15:49:09 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[LastPass, Bitwarden users targeted with fake security alerts]]></title>
+            <description><![CDATA[LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 15:31:52 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Analysis: Will ETH Finally Break the $1.85K Barrier?]]></title>
+            <description><![CDATA[Ethereum has stabilized after its sharp correction from the $2.4K May highs, with the price attempting to build momentum beneath major resistance. Both the daily and 4-hour charts suggest buyers are g...]]></description>
+            <link>https://cryptopotato.com/ethereum-price-analysis-will-eth-finally-break-the-1-85k-barrier/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ethereum-price-analysis-will-eth-finally-break-the-1-85k-barrier/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 15:22:36 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[JPMorgan says Hyperliquid's rise threatens Circle's USDC economics]]></title>
+            <description><![CDATA[Hyperliquid's deal with Circle and Coinbase creates a "prisoner's dilemma" that puts pressure on earnings from the dollar-pegged stablecoin....]]></description>
+            <link>https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 14:57:16 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[The next currency crisis could turn $300 billion in stablecoins into national currencies]]></title>
+            <description><![CDATA[Bolivia's government is evaluating whether to include USDT in its regulated payment system alongside the boliviano and the US dollar, according to local media. Cryptoassets are authorized in the count...]]></description>
+            <link>https://cryptoslate.com/the-next-currency-crisis-could-turn-300-billion-in-stablecoins-into-national-currency/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/the-next-currency-crisis-could-turn-300-billion-in-stablecoins-into-national-currency/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 14:50:37 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology]]></title>
+            <description><![CDATA[The spinout comes amid one of the biggest organizational shakeups at the Ethereum Foundation in years....]]></description>
+            <link>https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 14:31:44 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[For pension funds, tokenization’s real play is balance-sheet management, Fidelity’s Lai says]]></title>
+            <description><![CDATA[Fidelity International’s Giselle Lai argues that the most compelling long-term use case for tokenized funds is balance-sheet management for large, global institutions, not 24/7 liquidity....]]></description>
+            <link>https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 14:05:18 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[You Don't Have to Run an Exploit to Know If You're Vulnerable]]></title>
+            <description><![CDATA[Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizatio...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 14:00:10 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Is a Bitcoin whale from 2018 about to cash in after awakening to transfer $188 million?]]></title>
+            <description><![CDATA[The 2,931 BTC balance moved twice and still sits in an unlabeled second-hop address with no outbound transaction.
+The post Is a Bitcoin whale from 2018 about to cash in after awakening to transfer $18...]]></description>
+            <link>https://cryptoslate.com/is-a-bitcoin-whale-from-2018-about-to-cash-in-after-awakening-to-transfer-188-million/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/is-a-bitcoin-whale-from-2018-about-to-cash-in-after-awakening-to-transfer-188-million/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:55:35 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata]]></title>
+            <description><![CDATA[Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enter...]]></description>
+            <link>https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:48:07 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple, Coinbase, Circle Join Linux x402 Foundation to Help Shape AI Payments]]></title>
+            <description><![CDATA[Ripple has joined the newly launched x402 Foundation as a premier member, backing an open protocol designed to enable seamless internet-native payments for AI agents and applications....]]></description>
+            <link>https://cryptopotato.com/ripple-coinbase-circle-join-linux-x402-foundation-to-help-shape-ai-payments/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripple-coinbase-circle-join-linux-x402-foundation-to-help-shape-ai-payments/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:37:37 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[XRP Price to $0.54? 50% Crash Warning as SBI and Solana Partnership Hits Japan]]></title>
+            <description><![CDATA[SBI’s Solana partnership raised concerns about competition with XRPL. The Motley Fool’s Johnny Rice predicts XRP price could lose another 50%. XRP’s weekly RSI recently ......]]></description>
+            <link>https://www.ccn.com/news/crypto/xrp-price-bearish-predictions-sbi-solana-venture-japan/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/xrp-price-bearish-predictions-sbi-solana-venture-japan/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:27:15 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[As AI Platforms Move Away From Unlimited, Sogni AI Launches a $20 Fair-Use Unlimited Plan on Community GPUs]]></title>
+            <description><![CDATA[[PRESS RELEASE – Singapore, Singapore, July 14th, 2026] New plans cover image, video, music, language models and agent workflows while allocating 51% of net subscription revenue to participating GPU o...]]></description>
+            <link>https://cryptopotato.com/as-ai-platforms-move-away-from-unlimited-sogni-ai-launches-a-20-fair-use-unlimited-plan-on-community-gpus/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/as-ai-platforms-move-away-from-unlimited-sogni-ai-launches-a-20-fair-use-unlimited-plan-on-community-gpus/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:08:19 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin ETFs lose over $424M, wiping out last week’s gains as recovery fails first test]]></title>
+            <description><![CDATA[FBTC and IBIT drove the $424.7 million reversal, leaving the July 6-13 balance $227.3 million in the red.
+The post Bitcoin ETFs lose over $424M, wiping out last week’s gains as recovery fails first te...]]></description>
+            <link>https://cryptoslate.com/bitcoin-etfs-lose-over-424m-wiping-out-last-weeks-gains-as-recovery-fails-first-test/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-etfs-lose-over-424m-wiping-out-last-weeks-gains-as-recovery-fails-first-test/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:05:20 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cursor IDE Auto-Executes Malicious Code in Poisoned Repos]]></title>
+            <description><![CDATA[Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks....]]></description>
+            <link>https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos</link>
+            <guid isPermaLink="false">https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 13:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation]]></title>
+            <description><![CDATA[Mark Palmer said Hut 8's Beacon Point project transforms the company into an AI infrastructure platform with a long growth runway....]]></description>
+            <link>https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:53:05 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Entra ID gets passkeys default authentication starting September]]></title>
+            <description><![CDATA[Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:49:56 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New phishing kits target Microsoft 365 accounts, evade MFA]]></title>
+            <description><![CDATA[Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:49:00 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot]]></title>
+            <description><![CDATA[Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the moder...]]></description>
+            <link>https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:46:18 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes]]></title>
+            <description><![CDATA[This morning's report could go a long way toward determining whether the Federal Reserve raises interest rates at its late-July meeting....]]></description>
+            <link>https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:33:24 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Rockets as US CPI for June Comes in Well Below Expectations]]></title>
+            <description><![CDATA[BTC had stalled below $63,000 before the CPI numbers went out....]]></description>
+            <link>https://cryptopotato.com/bitcoin-price-rockets-as-us-cpi-for-june-comes-in-well-below-expectations/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-price-rockets-as-us-cpi-for-june-comes-in-well-below-expectations/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:33:20 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[ECB picks firms including Deutsche Bank, Revolut for digital euro pilot]]></title>
+            <description><![CDATA[The pilot will test a beta version of the digital euro for online, offline, in-store, and e-commerce payments with ECB and central bank staff as users....]]></description>
+            <link>https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:10:03 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants]]></title>
+            <description><![CDATA[JCB and Circle will explore using USDC for cross-border payments and merchant transactions as Japan ramps up efforts to bring stablecoins into everyday commerce....]]></description>
+            <link>https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 12:01:50 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks]]></title>
+            <description><![CDATA[Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.
+
+The way...]]></description>
+            <link>https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:55:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin faces a 90-minute Fed shock as CPI and Warsh testimony collide today]]></title>
+            <description><![CDATA[June inflation arrives at 8:30 a.m. ET today, and it should be the friendliest number the market has seen all year. Economists expect headline CPI to slow to roughly 3.8% year over year from May's 4.2...]]></description>
+            <link>https://cryptoslate.com/bitcoin-faces-a-90-minute-fed-shock-as-cpi-and-warsh-testimony-collide/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-faces-a-90-minute-fed-shock-as-cpi-and-warsh-testimony-collide/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:50:04 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SAP warns of critical flaws in NetWeaver and Commerce Cloud]]></title>
+            <description><![CDATA[SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:42:21 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[US Govt Moves $244M in Bitcoin to Coinbase: Did Trump Break His Promise?]]></title>
+            <description><![CDATA[The US government also transferred some ETH to the exchange....]]></description>
+            <link>https://cryptopotato.com/us-govt-moves-244m-in-bitcoin-to-coinbase-did-trump-break-his-promise/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/us-govt-moves-244m-in-bitcoin-to-coinbase-did-trump-break-his-promise/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:42:17 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[How Pentera Turns AI Security Workflows into Validation Engines]]></title>
+            <description><![CDATA[AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragment...]]></description>
+            <link>https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:30:00 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Brace for US CPI Report as Fed Rate Fears Grow]]></title>
+            <description><![CDATA[Analysts believe inflation data, rather than crypto-specific news, may prove the dominant catalyst for Bitcoin's next significant price move....]]></description>
+            <link>https://cryptopotato.com/bitcoin-brace-for-us-cpi-report-as-fed-rate-fears-grow/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-brace-for-us-cpi-report-as-fed-rate-fears-grow/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:25:24 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials]]></title>
+            <description><![CDATA[At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.
+
+The activity allows users to enumerate...]]></description>
+            <link>https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:21:35 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs]]></title>
+            <description><![CDATA[Your day-ahead look for July 14, 2026...]]></description>
+            <link>https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs</link>
+            <guid isPermaLink="false">https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:15:06 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple’s XRP Is Finishing The Correction It Started a Year Ago: What’s Next?]]></title>
+            <description><![CDATA[Here's what needs to play out in the following weeks and months for XRP to validate one analyst's view....]]></description>
+            <link>https://cryptopotato.com/ripples-xrp-is-finishing-the-correction-it-started-a-year-ago-whats-next/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripples-xrp-is-finishing-the-correction-it-started-a-year-ago-whats-next/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:14:59 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin]]></title>
+            <description><![CDATA[BIP-110 sought to limit non-financial data on Bitcoin's blockchain but instead reignited debates over censorship and decentralization....]]></description>
+            <link>https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:01:16 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Prediction markets just crushed traditional sportsbooks in a massive $50 billion World Cup breakout]]></title>
+            <description><![CDATA[Prediction markets just topped $50 billion in monthly volume, capping off the first month of the 2026 FIFA World Cup....]]></description>
+            <link>https://www.coindesk.com/business/2026/07/14/prediction-markets-just-crushed-traditional-sportsbooks-in-a-massive-usd50-billion-world-cup-breakout</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/14/prediction-markets-just-crushed-traditional-sportsbooks-in-a-massive-usd50-billion-world-cup-breakout</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 11:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin (BTC) in Trouble: Analyst Sees a Potential Drop Below $40K]]></title>
+            <description><![CDATA["BTC has around 80 days to bottom," one market observer said....]]></description>
+            <link>https://cryptopotato.com/bitcoin-btc-in-trouble-analyst-sees-a-potential-drop-below-40k/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-btc-in-trouble-analyst-sees-a-potential-drop-below-40k/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 10:54:33 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Banks are building the rails to profit from 13.9 million BTC they do not own]]></title>
+            <description><![CDATA[Strategy's new Bitcoin Banking Adoption Index gives 25 major banks and financial institutions an overall 32% score based on activity across custody, trading, investment products, lending, and leadersh...]]></description>
+            <link>https://cryptoslate.com/banks-are-building-the-rails-to-profit-from-13-9-million-btc-they-do-not-own/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/banks-are-building-the-rails-to-profit-from-13-9-million-btc-they-do-not-own/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 10:50:47 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft starts testing cleaner Windows Search without ads]]></title>
+            <description><![CDATA[Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 10:47:23 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin’s great rotation: Long-term holders pass supply to a new generation of buyers]]></title>
+            <description><![CDATA[Long-term holders are quietly transferring supply to a new generation of buyers, but looming Federal Reserve rate hikes could still trigger the capitulation markets have been waiting for....]]></description>
+            <link>https://www.coindesk.com/markets/2026/07/14/bitcoin-s-great-rotation-long-term-holders-pass-supply-to-a-new-generation-of-buyers</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/14/bitcoin-s-great-rotation-long-term-holders-pass-supply-to-a-new-generation-of-buyers</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 10:46:42 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
         <item>
             <title><![CDATA[Bitcoin steadies at $62,600 as South Koreans flee stocks rout for crypto]]></title>
             <description><![CDATA[Bitcoin consolidated after Monday's selloff as Donald Trump threatened more Iran strikes, gold extended its slide and a KOSPI index meltdown sent South Korean crypto volumes soaring....]]></description>
@@ -24,6 +492,17 @@
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 10:39:03 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto ETFs End 8-Week Outflow Streak With $282M Inflows as Bitcoin and Ethereum Demand Rebounds]]></title>
+            <description><![CDATA[Crypto investment products attracted $281.8 million in net inflows last week, ending an eight-week streak of outflows. Spot Bitcoin ETFs recorded $197.4 million in weekly ......]]></description>
+            <link>https://www.ccn.com/news/crypto/crypto-etfs-end-8-week-outflow-streak-282m-inflows-bitcoin-ethereum/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/crypto-etfs-end-8-week-outflow-streak-282m-inflows-bitcoin-ethereum/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 10:34:11 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2026-07-14</dc:date>
         </item>
         <item>
@@ -60,6 +539,17 @@
             <dc:date>2026-07-14</dc:date>
         </item>
         <item>
+            <title><![CDATA[Bitcoin Price Fall Below $60K? Coinbase CEO Poll Shows Most Expect Further Losses]]></title>
+            <description><![CDATA[Most respondents to Brian Armstrong’s poll believe Bitcoin has not yet reached its bottom. US-Iran tensions, rising oil prices, and leveraged liquidations are increasing ......]]></description>
+            <link>https://www.ccn.com/news/crypto/bitcoin-price-drop-coinbase-ceo-bottom-iran-tensions-60k/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/bitcoin-price-drop-coinbase-ceo-bottom-iran-tensions-60k/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 09:42:09 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
             <title><![CDATA[US sanctions VPN, malware providers for enabling ransomware attacks]]></title>
             <description><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/</link>
@@ -82,7 +572,18 @@
             <dc:date>2026-07-14</dc:date>
         </item>
         <item>
-            <title><![CDATA[Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads]]></title>
+            <title><![CDATA[Robinhood Chain Could Be Ethereum’s Biggest Onboarding Engine, Not Its Biggest Fee Generator]]></title>
+            <description><![CDATA[Robinhood Chain is an Ethereum Layer-2 designed for tokenized real-world assets, starting with tokenized US stocks. The network generated roughly $843,000 in user fees while ......]]></description>
+            <link>https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/robinhood-chain-ethereum-tokenized-stocks-onboarding-engine/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 09:07:15 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read]]></title>
             <description><![CDATA[xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.
 
 A researcher publ...]]></description>
@@ -114,6 +615,17 @@ A researcher publ...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Tue, 14 Jul 2026 08:37:34 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple Joins UK Treasury Taskforce to Scale Tokenized Bond and Repo Markets]]></title>
+            <description><![CDATA[Ripple joins BlackRock, JPMorgan, Goldman Sachs, and 50 others in a government-backed taskforce targeting live tokenized repo trials by spring 2027 Productivity gains from ......]]></description>
+            <link>https://www.ccn.com/news/crypto/ripple-uk-treasury-tokenization-taskforce-xrpl-rwas-4b/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/ripple-uk-treasury-tokenization-taskforce-xrpl-rwas-4b/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 08:34:46 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2026-07-14</dc:date>
         </item>
         <item>
@@ -161,8 +673,8 @@ A researcher publ...]]></description>
             <dc:date>2026-07-14</dc:date>
         </item>
         <item>
-            <title><![CDATA[ Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms]]></title>
-            <description><![CDATA[Trump reinstated the Hormuz blockade, sending oil higher and rate-hike bets up, reversing the peace trade that helped bitcoin recover in early July. Today's inflation print is the next test....]]></description>
+            <title><![CDATA[ Live updates: Bitcoin rises past $64,000 after soft inflation data, Warsh testimony]]></title>
+            <description><![CDATA[Trump reinstated the Hormuz blockade, sending oil higher, reversing the peace trade that helped bitcoin recover in early July....]]></description>
             <link>https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms</link>
             <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms</guid>
             <category><![CDATA[Coindesk]]></category>
@@ -240,6 +752,17 @@ Th...]]></description>
             <dc:date>2026-07-14</dc:date>
         </item>
         <item>
+            <title><![CDATA[Andy Burnham’s Crypto Plans Unclear as UK FCA Rules Leave 90% of Firms ‘Not Ready’]]></title>
+            <description><![CDATA[Only 10% of surveyed crypto firms consider themselves fully prepared for the UK’s incoming FCA regime. Applications open on Sept. 30, 2026, before the rules ......]]></description>
+            <link>https://www.ccn.com/news/crypto/uk-crypto-rules-fca-firms-not-ready-andy-burnham/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/uk-crypto-rules-fca-firms-not-ready-andy-burnham/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Tue, 14 Jul 2026 01:34:54 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
+            <dc:date>2026-07-14</dc:date>
+        </item>
+        <item>
             <title><![CDATA[Scammer Makes $135K After Hijacking SpaceX, Starlink Accounts to Shill Meme Coin]]></title>
             <description><![CDATA[The attacker relied on trusted corporate accounts to create instant credibility before quickly cashing out their token holdings....]]></description>
             <link>https://cryptopotato.com/scammer-makes-135k-after-hijacking-spacex-starlink-accounts-to-shill-meme-coin/</link>
@@ -252,7 +775,7 @@ Th...]]></description>
         </item>
         <item>
             <title><![CDATA[Weak Security Continues to Fuel Russian Cyberattacks]]></title>
-            <description><![CDATA[In a first, the UK and the EU jointly impose sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region....]]></description>
+            <description><![CDATA[In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region....]]></description>
             <link>https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks</link>
             <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks</guid>
             <category><![CDATA[Dark Reading]]></category>
@@ -450,18 +973,6 @@ The post Robinhood Chain tokens are reportedly vanishing from wallets causing bu
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[How a zeroed oracle signature unlocked $9M from Hedera DeFi lender Bonzo Lend]]></title>
-            <description><![CDATA[The verifier accepted identity inputs as proof, letting 250 SAUCE support $9.05 million in principal borrowing.
-The post How a zeroed oracle signature unlocked $9M from Hedera DeFi lender Bonzo Lend a...]]></description>
-            <link>https://cryptoslate.com/how-a-zeroed-oracle-signature-unlocked-9m-from-hedera-defi-lender-bonzo-lend/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/how-a-zeroed-oracle-signature-unlocked-9m-from-hedera-defi-lender-bonzo-lend/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 16:45:52 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks]]></title>
             <description><![CDATA[Japanese investment bank Mizuho reiterated its neutral rating on Circle, saying OCC approval for a national trust bank doesn't address slowing USDC growth or rising competition....]]></description>
             <link>https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks</link>
@@ -481,18 +992,6 @@ The post How a zeroed oracle signature unlocked $9M from Hedera DeFi lender Bonz
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 15:49:41 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DOJ moves to drop $722M BitClub case before trial as victims wait to learn what they will recover]]></title>
-            <description><![CDATA[The $722 million alleged scheme total is separate from recovery, while final terms and a court filing remain unresolved.
-The post DOJ moves to drop $722M BitClub case before trial as victims wait to l...]]></description>
-            <link>https://cryptoslate.com/doj-moves-to-drop-722m-bitclub-case-before-trial-as-victims-wait-to-learn-what-they-will-recover/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/doj-moves-to-drop-722m-bitclub-case-before-trial-as-victims-wait-to-learn-what-they-will-recover/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 15:40:24 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
@@ -562,25 +1061,14 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bolivia weighs adding Tether's USDT to its national payments system]]></title>
-            <description><![CDATA[Crypto usage has spiked in the country, with transaction volumes hitting $430 million in the year after the central bank removed restrictions in mid-2024....]]></description>
-            <link>https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 14:47:52 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Stablecoins are moving more money while crypto’s cash pile gets smaller]]></title>
-            <description><![CDATA[Adjusted stablecoin transaction volume reached a record $1.79 trillion in June, according to Visa Onchain Analytics, up 63% from May's $1.10 trillion and 125% higher than a year earlier. Across the sa...]]></description>
-            <link>https://cryptoslate.com/stablecoins-are-moving-more-money-while-cryptos-cash-pile-gets-smaller/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/stablecoins-are-moving-more-money-while-cryptos-cash-pile-gets-smaller/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 14:20:09 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
+            <title><![CDATA[Bitcoin to $300K After September Low? 4 AI Models Assess Peter Brandt’s Major BTC Rally Call]]></title>
+            <description><![CDATA[Peter Brandt says Bitcoin could form an “investable low” in September or October. After this, Brandt believes Bitcoin will rally to between $300,000 and $500,000. ......]]></description>
+            <link>https://www.ccn.com/news/crypto/bitcoin-price-300k-september-ai-models-peter-brandt-btc-rally/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/bitcoin-price-300k-september-ai-models-peter-brandt-btc-rally/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 14:37:15 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
@@ -595,14 +1083,14 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[UK Treasury report on tokenization cites Ripple as convergence model]]></title>
-            <description><![CDATA[A Treasury-backed report targets putting repo, gilts and funds onchain within two years, and warms to permissionless networks that firms like Ripple have been building on....]]></description>
-            <link>https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 14:06:53 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
+            <title><![CDATA[BlackRock’s BUIDL Nears $1 Billion Milestone on Avalanche as Real-World Asset Boom Accelerates]]></title>
+            <description><![CDATA[BUIDL added $436 million on Avalanche in one week, its single largest weekly inflow on any chain. Total BUIDL assets under management reached $2.87 billion ......]]></description>
+            <link>https://www.ccn.com/news/crypto/blackrock-buidl-avalanche-avax-price/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/blackrock-buidl-avalanche-avax-price/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 14:07:15 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
@@ -614,17 +1102,6 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 14:06:04 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply]]></title>
-            <description><![CDATA[The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum....]]></description>
-            <link>https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 14:04:01 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
@@ -650,14 +1127,14 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity]]></title>
-            <description><![CDATA[The Securities Transfer Association, an industry group for transfer agents, said company-authorized tokenization should receive preferential treatment under future rules....]]></description>
-            <link>https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 13:45:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
+            <title><![CDATA[XRP Price To $13? Rare 1,100% Growth Signal Flashes as XRP Tops Forbes Ranking]]></title>
+            <description><![CDATA[XRP’s weekly RSI has entered oversold territory for only the second time in its 12-year history. If XRP repeated that 1,100% gain from around $1.07, ......]]></description>
+            <link>https://www.ccn.com/news/crypto/xrp-price-12-rare-growth-forbes-ranks-xrp-4th-investable/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/xrp-price-12-rare-growth-forbes-ranks-xrp-4th-investable/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 13:32:15 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
@@ -683,17 +1160,6 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Tether’s $20 billion mountain of gold – equal to a national reserve – to be used for lending]]></title>
-            <description><![CDATA[Tether is already the world's largest stablecoin issuer, with approximately $141 billion in direct and indirect exposure to US Treasuries. It reported $15 billion in revenue in 2025 and $1.04 billion ...]]></description>
-            <link>https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 13:15:28 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft]]></title>
             <description><![CDATA[A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assis...]]></description>
             <link>https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html</link>
@@ -702,6 +1168,17 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 13:03:33 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Michael Saylor and Adam Back Reject Bitcoin BIP 110, Warn of Fork and Consensus Risks]]></title>
+            <description><![CDATA[Adam Back argues that the proposal conflicts with Bitcoin’s decentralized, permissionless design by attempting to police how others use the network. Michael Saylor says BIP ......]]></description>
+            <link>https://www.ccn.com/news/crypto/michael-saylor-adam-back-reject-bitcoin-bip-110-fork-risks/</link>
+            <guid isPermaLink="false">https://www.ccn.com/news/crypto/michael-saylor-adam-back-reject-bitcoin-bip-110-fork-risks/</guid>
+            <category><![CDATA[CNN.com - Crypto News]]></category>
+            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 13:02:15 GMT</pubDate>
+            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
@@ -716,17 +1193,6 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Robinhood Chain surges into top five by DEX volume: Bernstein]]></title>
-            <description><![CDATA[Robinhood's new blockchain quickly became a top-five network by DEX volume, signaling strong early demand for its tokenized asset platform, the broker said....]]></description>
-            <link>https://www.coindesk.com/tech/2026/07/13/robinhood-chain-surges-into-top-five-by-dex-volume-bernstein</link>
-            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/07/13/robinhood-chain-surges-into-top-five-by-dex-volume-bernstein</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 12:49:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitmine Snaps Up Over 30,500 ETH as Tom Lee Focuses on Crypto’s New Success Story]]></title>
             <description><![CDATA[Lee outlined the breakaway success of the Robinhood Chain L2 mainnet launch, built on Arbitrum....]]></description>
             <link>https://cryptopotato.com/bitmine-snaps-up-over-30500-eth-as-tom-lee-focuses-on-cryptos-new-success-story/</link>
@@ -738,17 +1204,6 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Michael Saylor’s Strategy added $467 million in cash, made no changes to bitcoin holdings]]></title>
-            <description><![CDATA[The company raised the fresh cash via sales of common stock; its USD Reserve now stands at $3 billion....]]></description>
-            <link>https://www.coindesk.com/markets/2026/07/13/michael-saylor-s-strategy-added-usd467-million-in-cash-made-no-changes-to-bitcoin-holdings</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/13/michael-saylor-s-strategy-added-usd467-million-in-cash-made-no-changes-to-bitcoin-holdings</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 12:15:17 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Saylor’s Strategy Boosts USD Reserves by $450M Without Selling BTC: Here’s How]]></title>
             <description><![CDATA[What will be the impact on BTC's price after the latest Strategy move?...]]></description>
             <link>https://cryptopotato.com/saylors-strategy-boosts-usd-reserves-by-450m-without-selling-btc-heres-how/</link>
@@ -757,18 +1212,6 @@ The post DOJ moves to drop $722M BitClub case before trial as victims wait to l.
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 12:09:16 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ripple CEO says SEC suit nearly pushed company to shut down]]></title>
-            <description><![CDATA[Brad Garlinghouse's account shows how a token reserve can shape a company's room to survive a long regulatory fight.
-The post Ripple CEO says SEC suit nearly pushed company to shut down appeared first...]]></description>
-            <link>https://cryptoslate.com/ripple-ceo-says-sec-suit-nearly-pushed-company-to-shut-down/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ripple-ceo-says-sec-suit-nearly-pushed-company-to-shut-down/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 12:09:15 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
@@ -817,28 +1260,6 @@ The post Ripple CEO says SEC suit nearly pushed company to shut down appeared fi
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance]]></title>
-            <description><![CDATA[The SBI Solana Global joint venture now includes the Solana Foundation, the Swiss organization that oversees the layer-1 network....]]></description>
-            <link>https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 11:40:51 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce]]></title>
-            <description><![CDATA[The 54 firm-strong group, which is backed by the City of London Corporation, will spend the next year working on live tokenisation use cases across UK financial markets....]]></description>
-            <link>https://www.coindesk.com/business/2026/07/13/uk-government-unveils-tokenization-taskforce-with-blackrock-goldman-jpmorgan-morgan-stanley</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/07/13/uk-government-unveils-tokenization-taskforce-with-blackrock-goldman-jpmorgan-morgan-stanley</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 11:40:21 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Price Analysis: Could BTC’s Latest Pullback Be a Long-Term Bullish Signal?]]></title>
             <description><![CDATA[Bitcoin is yet to recover after its sharp rejection from the mid-$80K region in May, but the latest price action suggests sellers may be losing momentum. While the broader trend is still bearish acros...]]></description>
             <link>https://cryptopotato.com/bitcoin-price-analysis-could-btcs-latest-pullback-be-a-long-term-bullish-signal/</link>
@@ -872,28 +1293,6 @@ The post Ripple CEO says SEC suit nearly pushed company to shut down appeared fi
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand]]></title>
-            <description><![CDATA[Your day-ahead look for July 13, 2026...]]></description>
-            <link>https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand</link>
-            <guid isPermaLink="false">https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 11:20:49 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[EU sanctions Russian GRU military hackers over cyberattacks]]></title>
-            <description><![CDATA[The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Eu...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 11:19:05 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory]]></title>
             <description><![CDATA[Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.
 
@@ -904,50 +1303,6 @@ The post Ripple CEO says SEC suit nearly pushed company to shut down appeared fi
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 11:02:33 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Profit-taking, MidEast hostilities drag crypto lower after bullish week]]></title>
-            <description><![CDATA[Crypto's weekend gains gave way to a Monday selloff as Middle East tensions resurfaced, South Korea's Kospi lost 9.2% and $253 million in leveraged positions were wiped out....]]></description>
-            <link>https://www.coindesk.com/markets/2026/07/13/profit-taking-mideast-hostilities-drag-crypto-lower-after-bullish-week</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/13/profit-taking-mideast-hostilities-drag-crypto-lower-after-bullish-week</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 10:30:39 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin falls below $63,000 as markets give Hormuz traffic just 3% chance to normalize by August]]></title>
-            <description><![CDATA[Bitcoin slipped below $63,000 as renewed fighting between the United States and Iran pushed oil prices higher, drove bond yields up, and revived concern that an extended disruption in the Strait of Ho...]]></description>
-            <link>https://cryptoslate.com/bitcoin-falls-below-63000-as-markets-price-a-97-chance-hormuz-stays-disrupted-through-july/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-falls-below-63000-as-markets-price-a-97-chance-hormuz-stays-disrupted-through-july/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 10:30:22 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections]]></title>
-            <description><![CDATA[Structural change can create lasting opportunities, but explosive rallies in semiconductors, metals and bitcoin show how quickly strong narratives can become speculative excess....]]></description>
-            <link>https://www.coindesk.com/markets/2026/07/13/paradigm-shifts-vs-bubbles-ai-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/13/paradigm-shifts-vs-bubbles-ai-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 09:32:41 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[US and allies warn of Russian critical infrastructure attacks]]></title>
-            <description><![CDATA[Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate crit...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 09:32:23 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-07-13</dc:date>
         </item>
         <item>
@@ -993,360 +1348,6 @@ The post Ripple CEO says SEC suit nearly pushed company to shut down appeared fi
             <pubDate>Mon, 13 Jul 2026 07:30:00 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Pi Network’s PI Hits New ATL After 11% Crash as 130M Token Unlock Looms]]></title>
-            <description><![CDATA[Is there any hope left for the PI token holders?...]]></description>
-            <link>https://cryptopotato.com/pi-networks-pi-hits-new-atl-after-11-crash-as-130m-token-unlock-looms/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/pi-networks-pi-hits-new-atl-after-11-crash-as-130m-token-unlock-looms/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 07:21:16 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Legend Awakes Reveals the Story Behind Its Mystery-Driven Campaign]]></title>
-            <description><![CDATA[[PRESS RELEASE – Dover, Delaware, USA, July 13th, 2026] Legend Awakes has released its official cinematic reveal video, concluding the mystery-driven teaser campaign that has unfolded across X in rece...]]></description>
-            <link>https://cryptopotato.com/legend-awakes-reveals-the-story-behind-its-mystery-driven-campaign/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/legend-awakes-reveals-the-story-behind-its-mystery-driven-campaign/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 06:57:33 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[XRP Price Drops to 10-Day Low as Whale Demand and ETF Flows Fade]]></title>
-            <description><![CDATA[XRP needs a major bounce to the 50-MA at around $1.60 before it can restart its rally, said one analyst....]]></description>
-            <link>https://cryptopotato.com/xrp-price-drops-to-10-day-low-as-whale-demand-and-etf-flows-fade/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/xrp-price-drops-to-10-day-low-as-whale-demand-and-etf-flows-fade/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:48:16 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days]]></title>
-            <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabiliti...]]></description>
-            <link>https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 05:36:02 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[4 Things That Could Impact Crypto Markets This Week]]></title>
-            <description><![CDATA[A busy week lies ahead on the US economic calendar with a raft of inflation data, while tensions are mounting again in the Middle East....]]></description>
-            <link>https://cryptopotato.com/4-things-that-could-impact-crypto-markets-this-week-4/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/4-things-that-could-impact-crypto-markets-this-week-4/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 03:07:27 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI temporarily relaxes GPT-5.6 Sol usage limits]]></title>
-            <description><![CDATA[OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 00:44:44 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin’s Recovery Gains Momentum, Putting July Off to a Strong Start]]></title>
-            <description><![CDATA[Market conditions are still extremely bearish despite recent positive developments, so every rebound will be treated as a bear-market recovery, not a trend reversal....]]></description>
-            <link>https://cryptopotato.com/bitcoins-recovery-gains-momentum-putting-july-off-to-a-strong-start/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoins-recovery-gains-momentum-putting-july-off-to-a-strong-start/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 22:33:03 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Report: AI, Warsh, and Geopolitics Break Bitcoin Correlation With Stocks and Gold]]></title>
-            <description><![CDATA[Shifting expectations around Fed policy have repeatedly redirected capital between crypto, commodities, and technology stocks....]]></description>
-            <link>https://cryptopotato.com/report-ai-warsh-and-geopolitics-break-bitcoin-correlation-with-stocks-and-gold/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/report-ai-warsh-and-geopolitics-break-bitcoin-correlation-with-stocks-and-gold/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 20:48:31 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time]]></title>
-            <description><![CDATA[Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 19:39:12 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Analysis: ETH Reaches Its Biggest Obstacle on the Road to $2K]]></title>
-            <description><![CDATA[Ethereum has continued its recovery from the June lows and is now approaching a major technical inflection point. While the recent rally has improved short-term sentiment, the asset is still trading b...]]></description>
-            <link>https://cryptopotato.com/ethereum-price-analysis-eth-reaches-its-biggest-obstacle-on-the-road-to-2k/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ethereum-price-analysis-eth-reaches-its-biggest-obstacle-on-the-road-to-2k/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 19:07:26 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[The End of a Ripple Era: XRP ETFs Record First Red Week In Months]]></title>
-            <description><![CDATA[The XRP products continue to operate differently than those tracking BTC and ETH....]]></description>
-            <link>https://cryptopotato.com/the-end-of-a-ripple-era-xrp-etfs-record-first-red-week-in-months/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/the-end-of-a-ripple-era-xrp-etfs-record-first-red-week-in-months/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 15:40:01 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[KR: Military targeted in nearly 19,000 cyberattack attempts in 2025: lawmaker]]></title>
-            <description><![CDATA[Chae Yun-hwan reports: Cyberattack attempts against the South Korean military reached nearly 19,000 last year, marking the highest figure in five years, a lawmaker said Sunday. The military was target...]]></description>
-            <link>https://databreaches.net/2026/07/12/kr-military-targeted-in-nearly-19000-cyberattack-attempts-in-2025-lawmaker/?pk_campaign=feed&amp;pk_kwd=kr-military-targeted-in-nearly-19000-cyberattack-attempts-in-2025-lawmaker</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/12/kr-military-targeted-in-nearly-19000-cyberattack-attempts-in-2025-lawmaker/?pk_campaign=feed&amp;pk_kwd=kr-military-targeted-in-nearly-19000-cyberattack-attempts-in-2025-lawmaker</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 15:17:57 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Michael Saylor Hints at Another Bitcoin Move for Strategy: Buy or Sell?]]></title>
-            <description><![CDATA[Saylor made a similar comment last week, and it turned out to be a big sale....]]></description>
-            <link>https://cryptopotato.com/michael-saylor-hints-at-another-bitcoin-move-for-strategy-buy-or-sell/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/michael-saylor-hints-at-another-bitcoin-move-for-strategy-buy-or-sell/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 14:42:01 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[RedHook Android malware now uses Wireless ADB for shell access]]></title>
-            <description><![CDATA[A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 14:27:32 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Predictions for H2 2026: Which AI Sees the Biggest Rally and Why?]]></title>
-            <description><![CDATA[Is a new all-time high possible this year? Some AIs believe so....]]></description>
-            <link>https://cryptopotato.com/bitcoin-price-predictions-for-h2-2026-which-ai-sees-the-biggest-rally-and-why/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-price-predictions-for-h2-2026-which-ai-sees-the-biggest-rally-and-why/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 12:23:21 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin, Ethereum Remain Fragile at Key Levels as US Strikes Iran Again: Weekend Watch]]></title>
-            <description><![CDATA[APX and HASH have rocketed the most in the past day, while BEAT has dumped by over 20%....]]></description>
-            <link>https://cryptopotato.com/bitcoin-ethereum-remain-fragile-at-key-levels-as-us-strikes-iran-again-weekend-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-ethereum-remain-fragile-at-key-levels-as-us-strikes-iran-again-weekend-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 10:02:38 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Price Predictions: We Asked 4 AIs How High Will XRP Go in 2026 – Their Answers Were Wild]]></title>
-            <description><![CDATA[Some of the most bullish cases envisioned a massive run toward $6 or even beyond....]]></description>
-            <link>https://cryptopotato.com/ripple-price-predictions-we-asked-4-ais-how-high-will-xrp-go-in-2026-their-answers-were-wild/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ripple-price-predictions-we-asked-4-ais-how-high-will-xrp-go-in-2026-their-answers-were-wild/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 08:40:49 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[AI Found a Real Ethereum Bug – But the Bigger Story Is What Comes Next]]></title>
-            <description><![CDATA[The Ethereum Foundation said it used AI agents to uncover a real vulnerability, which could be the new way of improving blockchain security....]]></description>
-            <link>https://cryptopotato.com/ai-found-a-real-ethereum-bug-but-the-bigger-story-is-what-comes-next/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/ai-found-a-real-ethereum-bug-but-the-bigger-story-is-what-comes-next/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 06:07:34 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[LAB Token Crashes 97% as ZachXBT Links Massive Sales to Team-Funded Wallets]]></title>
-            <description><![CDATA[The token, which was once within the top 20 alts by market cap, is now out of the largest 150....]]></description>
-            <link>https://cryptopotato.com/lab-token-crashes-97-as-zachxbt-links-massive-sales-to-team-funded-wallets/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/lab-token-crashes-97-as-zachxbt-links-massive-sales-to-team-funded-wallets/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 05:28:36 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Could Japan Become XRP’s Biggest Growth Market? Here’s Why the Odds Are Rising]]></title>
-            <description><![CDATA[From SBI's expanding Ripple partnership to potential crypto ETF reforms, Japan's role is growing....]]></description>
-            <link>https://cryptopotato.com/could-japan-become-xrps-biggest-growth-market-heres-why-the-odds-are-rising/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/could-japan-become-xrps-biggest-growth-market-heres-why-the-odds-are-rising/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 04:42:27 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[It’s Not Just Strategy: This Corporate Holder Sold $87M in Bitcoin]]></title>
-            <description><![CDATA[The worrisome trend has been extended to new companies after the recent sales by many miners and Strategy....]]></description>
-            <link>https://cryptopotato.com/its-not-just-strategy-this-corporate-holder-sold-87m-in-bitcoin/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/its-not-just-strategy-this-corporate-holder-sold-87m-in-bitcoin/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 20:47:25 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install]]></title>
-            <description><![CDATA[The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook th...]]></description>
-            <link>https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 17:59:26 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns]]></title>
-            <description><![CDATA[Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat a...]]></description>
-            <link>https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 17:49:31 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Australia warns of global campaign targeting vulnerable CMS platforms]]></title>
-            <description><![CDATA[The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 14:18:23 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Armenian National Extradited to the United States Pleads Guilty to Ransomware Extortion Conspiracy]]></title>
-            <description><![CDATA[PORTLAND, Ore.— An Armenian national extradited from Ukraine to the United States pleaded guilty yesterday for his role in Ryuk ransomware attacks and an extortion conspiracy targeting companies throu...]]></description>
-            <link>https://databreaches.net/2026/07/11/armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy/?pk_campaign=feed&amp;pk_kwd=armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/11/armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy/?pk_campaign=feed&amp;pk_kwd=armenian-national-extradited-to-the-united-states-pleads-guilty-to-ransomware-extortion-conspiracy</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 13:06:42 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Ransomware negotiator who conspired with BlackCat threat actors sentenced to 70 months in prison]]></title>
-            <description><![CDATA[Jon Brodkin reports that a third co-conspirator who helped BlackCat attackers by giving them inside information on victims’ defense strategies has now been sentenced. A former ransomware negotiator wa...]]></description>
-            <link>https://databreaches.net/2026/07/11/ransomware-negotiator-who-conspired-with-blackcat-threat-actors-sentenced-to-70-months-in-prison/?pk_campaign=feed&amp;pk_kwd=ransomware-negotiator-who-conspired-with-blackcat-threat-actors-sentenced-to-70-months-in-prison</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/11/ransomware-negotiator-who-conspired-with-blackcat-threat-actors-sentenced-to-70-months-in-prison/?pk_campaign=feed&amp;pk_kwd=ransomware-negotiator-who-conspired-with-blackcat-threat-actors-sentenced-to-70-months-in-prison</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 13:06:25 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[TikTok class action alleges data breach affected 2.4B users]]></title>
-            <description><![CDATA[Brandon Richards reports: California resident Sean Mortazi filed a class action lawsuit against TikTok Inc. on June 11, 2026, alleging a data breach exposed the personal data of more than 2.4 billion ...]]></description>
-            <link>https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&amp;pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/11/tiktok-class-action-alleges-data-breach-affected-2-4b-users/?pk_campaign=feed&amp;pk_kwd=tiktok-class-action-alleges-data-breach-affected-2-4b-users</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 12:56:27 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Dutch police trace Odido telco cyberattack to suspected local accomplice; May leak voice recording]]></title>
-            <description><![CDATA[Daryna Antoniuk reports: Dutch police said Thursday they had uncovered evidence suggesting that Dutch criminals were involved in the cyberattack on telecom provider Odido that exposed the personal dat...]]></description>
-            <link>https://databreaches.net/2026/07/11/dutch-police-trace-odido-telco-cyberattack-to-suspected-local-accomplice-may-leak-voice-recording/?pk_campaign=feed&amp;pk_kwd=dutch-police-trace-odido-telco-cyberattack-to-suspected-local-accomplice-may-leak-voice-recording</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/11/dutch-police-trace-odido-telco-cyberattack-to-suspected-local-accomplice-may-leak-voice-recording/?pk_campaign=feed&amp;pk_kwd=dutch-police-trace-odido-telco-cyberattack-to-suspected-local-accomplice-may-leak-voice-recording</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 12:51:45 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets]]></title>
-            <description><![CDATA[A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open im...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 09:03:57 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions]]></title>
-            <description><![CDATA[Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.
-
-The vulnerability has been des...]]></description>
-            <link>https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Sat, 11 Jul 2026 06:45:55 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Jen Ellis: Connecting Cyber Community With Political Machinery]]></title>
-            <description><![CDATA[Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security resea...]]></description>
-            <link>https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 19:08:04 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-07-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Cybercriminals Flock to Healthcare Businesses as Attacks Surge]]></title>
-            <description><![CDATA[While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled....]]></description>
-            <link>https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge</link>
-            <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Fri, 10 Jul 2026 16:51:34 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-07-10</dc:date>
         </item>
     </channel>
 </rss>
