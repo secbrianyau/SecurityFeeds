@@ -1,5 +1,152 @@
 [
   {
+    "title": "ZachXBT’s Hardware Wallet Criticism Ignites Debate Over Crypto Self-Custody",
+    "link": "https://cryptopotato.com/zachxbts-hardware-wallet-criticism-ignites-debate-over-crypto-self-custody/",
+    "date": "2026-07-17T21:36:39.000Z",
+    "source": "CryptoPotato",
+    "summary": "Mobile wallets may offer a smoother experience, but critics warn they introduce a much broader attack surface than dedicated hardware...."
+  },
+  {
+    "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+    "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+    "date": "2026-07-17T21:20:10.000Z",
+    "source": "The Hacker News",
+    "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.\n\nEvery 6.9 and 7.0 site was in range until Friday, when WordPress sh..."
+  },
+  {
+    "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+    "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+    "date": "2026-07-17T20:45:52.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also ..."
+  },
+  {
+    "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+    "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+    "date": "2026-07-17T20:20:53.000Z",
+    "source": "The Hacker News",
+    "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.\n..."
+  },
+  {
+    "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+    "date": "2026-07-17T20:01:13.000Z",
+    "source": "Dark Reading",
+    "summary": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances...."
+  },
+  {
+    "title": "Citadel backs two rival crypto exchanges with $600 million as both chase the same Wall Street prize",
+    "link": "https://cryptoslate.com/citadel-backs-two-rival-crypto-exchanges-with-600-million-as-both-chase-the-same-wall-street-prize/",
+    "date": "2026-07-17T19:25:38.000Z",
+    "source": "CryptoSlate",
+    "summary": "Crypto.com and Kraken are pursuing the same tokenized-market expansion, while only one has disclosed Citadel’s operational role.\nThe post Citadel backs two rival crypto exchanges with $600 million as ..."
+  },
+  {
+    "title": "JST Hits Record Deflationary Milestone: Over 355M Tokens Burned as JustLend DAO Revenue Fuels Value Appreciation",
+    "link": "https://cryptoslate.com/jst-hits-record-deflationary-milestone-over-355m-tokens-burned-as-justlend-dao-revenue-fuels-value-appreciation/",
+    "date": "2026-07-17T19:15:37.000Z",
+    "source": "CryptoSlate",
+    "summary": "Summary: The fourth round of JST's buyback and burn has concluded with higher-than-expected results. A total of over 355 million JST tokens—valued at more than $34.59 million—were burned in this round..."
+  },
+  {
+    "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+    "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+    "date": "2026-07-17T18:54:51.000Z",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.\n\nThe malicious package camp..."
+  },
+  {
+    "title": "Bitcoin’s Surprising Reaction to Trump’s Iran Threats and Rising US Margin Debt",
+    "link": "https://cryptopotato.com/bitcoins-surprising-reaction-to-trumps-iran-threats-and-rising-us-margin-debt/",
+    "date": "2026-07-17T18:54:48.000Z",
+    "source": "CryptoPotato",
+    "summary": "BTC tends to move south after such reports come out, but there's more to the story now...."
+  },
+  {
+    "title": "CASHCAT Plummets 65% in a Week: The Doom of Another Meme Coin or New Pump Loading?",
+    "link": "https://cryptopotato.com/cashcat-plummets-65-in-a-week-the-doom-of-another-meme-coin-or-new-pump-loading/",
+    "date": "2026-07-17T18:05:08.000Z",
+    "source": "CryptoPotato",
+    "summary": "Several market observers have labeled the meme coin a scam, warning investors to stay away from it...."
+  },
+  {
+    "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+    "link": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
+    "date": "2026-07-17T18:00:11.000Z",
+    "source": "Coindesk",
+    "summary": "Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved...."
+  },
+  {
+    "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+    "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+    "date": "2026-07-17T17:56:21.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]..."
+  },
+  {
+    "title": "Bitcoin treasury company offers 10% income and still can’t sell nearly half its shares",
+    "link": "https://cryptoslate.com/a-bitcoin-treasury-company-offered-10-income-and-still-could-not-sell-nearly-half-its-shares/",
+    "date": "2026-07-17T17:50:46.000Z",
+    "source": "CryptoSlate",
+    "summary": "BTC PREF is expected to begin trading July 20, with any discount to SEK 120 lifting the indicated cash yield above 10%.\nThe post Bitcoin treasury company offers 10% income and still can’t sell nearly ..."
+  },
+  {
+    "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+    "link": "https://databreaches.net/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/?pk_campaign=feed&pk_kwd=fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets",
+    "date": "2026-07-17T17:40:54.000Z",
+    "source": "DataBreaches.net",
+    "summary": "Lorenzo Franceschi-Bicchierai reports: U.S. prosecutors have accused a Florida man of uploading fake video games that contained malware to Steam, the popular PC games platform. Once victims downloaded..."
+  },
+  {
+    "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
+    "link": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
+    "date": "2026-07-17T17:23:01.000Z",
+    "source": "Coindesk",
+    "summary": "Crypto and blockchain experts say this week's moves show the two established finance companies are increasingly competing for control of the infrastructure behind digital payments...."
+  },
+  {
+    "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+    "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+    "date": "2026-07-17T17:12:23.000Z",
+    "source": "The Hacker News",
+    "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.\n\nA Shodan harvester keeps the scan queue stocked with Com..."
+  },
+  {
+    "title": "Trump aide allegedly made $100K betting on 12 speeches before anyone knew – then Kalshi stepped in",
+    "link": "https://cryptoslate.com/trump-aide-allegedly-made-100k-betting-on-12-speeches-before-anyone-knew-when-kalshi-stepped-in/",
+    "date": "2026-07-17T16:50:22.000Z",
+    "source": "CryptoSlate",
+    "summary": "More than a dozen speeches are alleged, but no cited report dates the first alert, restriction, or CFTC referral.\nThe post Trump aide allegedly made $100K betting on 12 speeches before anyone knew – t..."
+  },
+  {
+    "title": "The Real AI Threat Is Blind Trust",
+    "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
+    "date": "2026-07-17T16:43:13.000Z",
+    "source": "Dark Reading",
+    "summary": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight...."
+  },
+  {
+    "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+    "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+    "date": "2026-07-17T16:39:16.000Z",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.\n\nExpel, which shared technical details of the event, describe..."
+  },
+  {
+    "title": "Is the Worst Over for Bitcoin? New Analysis Examines Whether $57.7K Marked the Bottom",
+    "link": "https://cryptopotato.com/is-the-worst-over-for-bitcoin-new-analysis-examines-whether-57-7k-marked-the-bottom/",
+    "date": "2026-07-17T16:34:00.000Z",
+    "source": "CryptoPotato",
+    "summary": "Attention is now shifting from finding a bottom to determining whether a genuine trend reversal is beginning...."
+  },
+  {
+    "title": "Cardano hands core development to outside teams in decentralization push",
+    "link": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
+    "date": "2026-07-17T16:23:26.000Z",
+    "source": "Coindesk",
+    "summary": "Input Output will transfer control of the Haskell node, Plutus, Hydra and other components as founder Charles Hoskinson says the network must change and start growing again...."
+  },
+  {
     "title": "Dutch crypto exchange collapses exposing customer balances’ true value amid multi-million-euro hole",
     "link": "https://cryptoslate.com/dutch-crypto-exchange-collapses-exposing-customer-balances-true-value-amid-multi-million-euro-hole/",
     "date": "2026-07-17T15:50:24.000Z",
@@ -7,7 +154,7 @@
     "summary": "The court found an undisclosed deficit and said Knaken cannot repay customers in full, leaving recovery to an independent trustee.\nThe post Dutch crypto exchange collapses exposing customer balances’ ..."
   },
   {
-    "title": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
+    "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
     "link": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
     "date": "2026-07-17T15:36:39.000Z",
     "source": "Coindesk",
@@ -84,7 +231,7 @@
     "summary": "Bitcoin remains trapped inside a broader corrective structure after its sharp drop from the mid-$80K region. While buyers have managed to defend the $60K support multiple times, the inability to recla..."
   },
   {
-    "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+    "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
     "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
     "date": "2026-07-17T13:00:00.000Z",
     "source": "Dark Reading",
@@ -175,7 +322,7 @@
     "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.\n\nHis wife, Maria Y..."
   },
   {
-    "title": "Live markets: Bitcoin slips below $63,000 as the chip rout goes global",
+    "title": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
     "link": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
     "date": "2026-07-17T10:43:57.000Z",
     "source": "Coindesk",
@@ -208,13 +355,6 @@
     "date": "2026-07-17T09:10:15.000Z",
     "source": "Bleeping Computer",
     "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]..."
-  },
-  {
-    "title": "Bitcoin buyers and bagholders are both selling into the rebound below $70,000",
-    "link": "https://cryptoslate.com/bitcoin-buyers-and-bagholders-are-both-selling-into-the-rebound-below-70000/",
-    "date": "2026-07-17T09:01:13.000Z",
-    "source": "CryptoSlate",
-    "summary": "Bitcoin’s recent price rebound faltered as the advance gave long-term holders and recent buyers an opportunity to sell before the cryptocurrency reached its next major resistance zone. Data from Crypt..."
   },
   {
     "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
@@ -350,13 +490,6 @@
     "summary": "Jeff Piontek comments on the Instructure breach: The forensic review has taken far longer than anyone expected. Through June, Instructure was still finalizing customer-specific findings and asking ins..."
   },
   {
-    "title": "Steak ‘n Shake credits Bitcoin for company growth – But is PR value now worth more than people actually using BTC?",
-    "link": "https://cryptoslate.com/steak-n-shake-credits-bitcoin-for-company-growth-but-is-the-pr-value-worth-more-than-people-actually-using-btc/",
-    "date": "2026-07-16T20:30:41.000Z",
-    "source": "CryptoSlate",
-    "summary": "The chain reports 16% July sales growth, but without BTC payment share its merchant model cannot be measured.\nThe post Steak ‘n Shake credits Bitcoin for company growth – But is PR value now worth mor..."
-  },
-  {
     "title": "Crypto Gambler Lost $1.5 Million After Argentina Beat England in the World Cup: Details",
     "link": "https://cryptopotato.com/crypto-gambler-lost-1-5-million-after-argentina-beat-england-in-the-world-cup-details/",
     "date": "2026-07-16T19:57:34.000Z",
@@ -376,13 +509,6 @@
     "date": "2026-07-16T19:26:07.000Z",
     "source": "Bleeping Computer",
     "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access..."
-  },
-  {
-    "title": "Japan passes the crypto law traders wanted but its 20% tax could still wait until 2028",
-    "link": "https://cryptoslate.com/japan-passes-the-crypto-law-traders-wanted-but-its-20-tax-could-still-wait-until-2028/",
-    "date": "2026-07-16T19:10:54.000Z",
-    "source": "CryptoSlate",
-    "summary": "A 2028 start depends on FIEA enforcement landing in 2027, while eligible assets and product approvals face separate gates.\nThe post Japan passes the crypto law traders wanted but its 20% tax could sti..."
   },
   {
     "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
@@ -411,13 +537,6 @@
     "date": "2026-07-16T18:29:19.000Z",
     "source": "CryptoPotato",
     "summary": "According to the analyst, waiting for universal confirmation of a market bottom could mean missing the strongest early opportunities...."
-  },
-  {
-    "title": "Prices from the future fooled this crypto oracle into sending millions to wrong wallet",
-    "link": "https://cryptoslate.com/how-prices-from-the-future-fooled-a-crypto-oracle-into-paying-out-up-to-24-million/",
-    "date": "2026-07-16T18:10:43.000Z",
-    "source": "CryptoSlate",
-    "summary": "Future-dated reports allegedly cleared an authorized signer check, while Ostium has yet to publish final loss accounting or a postmortem.\nThe post Prices from the future fooled this crypto oracle into..."
   },
   {
     "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
@@ -567,13 +686,6 @@
     "summary": "The crypto financial services firm launched Galaxy Curator, a Morpho-based platform that gives Fireblocks' 2,400 institutional clients access to onchain yield strategies...."
   },
   {
-    "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-    "date": "2026-07-16T11:59:24.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]..."
-  },
-  {
     "title": "20+ Hijacked Government Websites Became an Attack Channel",
     "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
     "date": "2026-07-16T11:58:00.000Z",
@@ -609,13 +721,6 @@
     "summary": "Your day-ahead look for July 18, 2026..."
   },
   {
-    "title": "Inside the high-stakes race to build an open financial system specifically for AI bots",
-    "link": "https://www.coindesk.com/business/2026/07/16/ai-payments-have-a-new-open-standards-body-its-aim-is-to-reinvent-the-internet",
-    "date": "2026-07-16T11:22:37.000Z",
-    "source": "Coindesk",
-    "summary": "The newly-convened x402 Foundation is a neutral space where competitors and payment methods can work together to create an open standard for AI agentic commerce...."
-  },
-  {
     "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
     "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
     "date": "2026-07-16T11:17:23.000Z",
@@ -628,27 +733,6 @@
     "date": "2026-07-16T11:03:54.000Z",
     "source": "CryptoPotato",
     "summary": "Whales have renewed their interest in the asset...."
-  },
-  {
-    "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-    "date": "2026-07-16T10:56:03.000Z",
-    "source": "Bleeping Computer",
-    "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]..."
-  },
-  {
-    "title": "Bitcoin pulls back to $64,000 after hitting monthly high as bears take control",
-    "link": "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control",
-    "date": "2026-07-16T10:35:56.000Z",
-    "source": "Coindesk",
-    "summary": "Profit-taking after bitcoin hit a $65,500 monthly high combined with fresh Iranian strikes on U.S. bases sent crypto lower, with bears leading price action across most tokens...."
-  },
-  {
-    "title": "Tether invests $20 million in Argentine neobank Ualá as it expands Latin America push",
-    "link": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
-    "date": "2026-07-16T10:12:05.000Z",
-    "source": "Coindesk",
-    "summary": "Ualá’s CEO clarified Tether is acting solely as a financial investor, citing current regional regulations preventing any immediate USDT integration...."
   },
   {
     "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
@@ -754,89 +838,5 @@
     "date": "2026-07-15T20:19:04.000Z",
     "source": "CryptoPotato",
     "summary": "US authorities froze over $130 million, while renewed strikes and a naval blockade intensified regional tensions...."
-  },
-  {
-    "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
-    "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
-    "date": "2026-07-15T20:16:13.000Z",
-    "source": "Dark Reading",
-    "summary": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise...."
-  },
-  {
-    "title": "Calgary 911 employee charged with breach of trust",
-    "link": "https://databreaches.net/2026/07/15/calgary-911-employee-charged-with-breach-of-trust/?pk_campaign=feed&pk_kwd=calgary-911-employee-charged-with-breach-of-trust",
-    "date": "2026-07-15T18:48:10.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Manjot Singh reports: Calgary police say a City of Calgary 911 employee has been charged following an investigation into the unauthorized disclosure of confidential information. Police say the investi..."
-  },
-  {
-    "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-    "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-    "date": "2026-07-15T18:43:08.000Z",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance fro..."
-  },
-  {
-    "title": "Key Solana (SOL) Indicator Finally Flashes a Buy Signal: Can Bulls Push to $120?",
-    "link": "https://cryptopotato.com/key-solana-sol-indicator-finally-flashes-a-buy-signal-can-bulls-push-to-120/",
-    "date": "2026-07-15T18:30:22.000Z",
-    "source": "CryptoPotato",
-    "summary": "Martinez warned that the bullish outlook would be invalidated if the price slips under $60...."
-  },
-  {
-    "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
-    "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
-    "date": "2026-07-15T18:08:56.000Z",
-    "source": "Dark Reading",
-    "summary": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America...."
-  },
-  {
-    "title": "WilmerHale Sued Over Client Personal Information Data Breach",
-    "link": "https://databreaches.net/2026/07/15/wilmerhale-sued-over-client-personal-information-data-breach/?pk_campaign=feed&pk_kwd=wilmerhale-sued-over-client-personal-information-data-breach",
-    "date": "2026-07-15T18:08:17.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Alex Ebert reports: Wilmer Cutler Pickering Hale & Dorr should pay millions of dollars in damages for loss of clients’ personal information in a May data breach, a putative class action claims. The la..."
-  },
-  {
-    "title": "Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
-    "link": "https://databreaches.net/2026/07/15/files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach/?pk_campaign=feed&pk_kwd=files-relating-to-indias-largest-nuclear-power-plant-kudankulam-exposed-in-data-breach",
-    "date": "2026-07-15T17:30:34.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Munsif Vengattil and Aditya Kalra Ransomware group World Leaks has posted on the dark web a huge cache of files related to India’s largest nuclear plant, including purported blueprints of parts of its..."
-  },
-  {
-    "title": "Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife",
-    "link": "https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife",
-    "date": "2026-07-15T17:03:23.000Z",
-    "source": "Dark Reading",
-    "summary": "The US government's restrictions on Anthropic and OpenAI frontier models have intensified calls in the UK and other countries to reduce their reliance on US tech companies, with significant cyber impl..."
-  },
-  {
-    "title": "Peter Schiff: Bitcoin Holders Will Soon Regret Not Selling at Current Levels",
-    "link": "https://cryptopotato.com/peter-schiff-bitcoin-holders-will-soon-regret-not-selling-at-current-levels/",
-    "date": "2026-07-15T16:49:04.000Z",
-    "source": "CryptoPotato",
-    "summary": "Schiff warned that BTC could fall below $50,000 if current support fails and eventually bottom out between $30,000 and $20,000...."
-  },
-  {
-    "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
-    "date": "2026-07-15T15:27:35.000Z",
-    "source": "Dark Reading",
-    "summary": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system...."
-  },
-  {
-    "title": "Top Cardano (ADA) Price Predictions: Are Bulls Ready to Take Over?",
-    "link": "https://cryptopotato.com/top-cardano-ada-price-predictions-are-bulls-ready-to-take-over/",
-    "date": "2026-07-15T15:18:52.000Z",
-    "source": "CryptoPotato",
-    "summary": "\"I expect the parabolic rally to begin,\" one analyst stated...."
-  },
-  {
-    "title": "Bitcoin Price Analysis: BTC Pushes Past $65K – Can It Keep Climbing?",
-    "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-pushes-past-65k-can-it-keep-climbing/",
-    "date": "2026-07-15T14:33:40.000Z",
-    "source": "CryptoPotato",
-    "summary": "Bitcoin’s notable rally is now approaching a major technical decision point. The asset has reclaimed several short-term resistance levels and is once again testing a critical supply area that could de..."
   }
 ]
