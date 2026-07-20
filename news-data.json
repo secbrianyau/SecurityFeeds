@@ -1,5 +1,47 @@
 [
   {
+    "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
+    "date": "2026-07-20T21:38:18.000Z",
+    "source": "Dark Reading",
+    "summary": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet...."
+  },
+  {
+    "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+    "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+    "date": "2026-07-20T21:14:42.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two ..."
+  },
+  {
+    "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+    "date": "2026-07-20T21:08:02.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]..."
+  },
+  {
+    "title": "FTX begins $900M payout as creditors in 45 countries could lose their claims within 6 months",
+    "link": "https://cryptoslate.com/ftx-begins-900m-payout-as-creditors-in-45-jurisdictions-could-lose-their-claims-within-6-months/",
+    "date": "2026-07-20T21:00:53.000Z",
+    "source": "CryptoSlate",
+    "summary": "Only creditors who cleared the June 16 requirements and can onboard with BitGo, Kraken or Payoneer are on the July 31 clock.\nThe post FTX begins $900M payout as creditors in 45 countries could lose th..."
+  },
+  {
+    "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+    "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+    "date": "2026-07-20T20:26:56.000Z",
+    "source": "Dark Reading",
+    "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions...."
+  },
+  {
+    "title": "PUMP Climbs to a 2-Month High: Key Catalysts and What’s Next?",
+    "link": "https://cryptopotato.com/pump-climbs-to-a-2-month-high-key-catalysts-and-whats-next/",
+    "date": "2026-07-20T20:16:40.000Z",
+    "source": "CryptoPotato",
+    "summary": "\"A clean breakout above $0.0020 could trigger the next bullish leg,\" one analyst assumed...."
+  },
+  {
     "title": "CISOs Feel the Heat Over AI Risk",
     "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
     "date": "2026-07-20T19:07:01.000Z",
@@ -364,11 +406,11 @@
     "summary": "Despite the announcement, HYPE's price showed little immediate reaction, suggesting traders remain focused on broader market conditions...."
   },
   {
-    "title": "Live updates: Bitcoin rises to one-month high of $65,400",
+    "title": "Live updates: Bitcoin rises to one-month high of $65,700 before pulling back with stocks",
     "link": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
     "date": "2026-07-20T07:15:47.000Z",
     "source": "Coindesk",
-    "summary": "The equity market, meanwhile, awaits second-quarter earnings reports from key tech firms, which begin this week...."
+    "summary": "Equity markets await second-quarter earnings reports from key tech firms, which begin this week...."
   },
   {
     "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
@@ -446,13 +488,6 @@
     "date": "2026-07-19T19:12:19.000Z",
     "source": "CryptoPotato",
     "summary": "Monday was extremely painful for the BTC funds, but the rest of the week managed to offset the losses...."
-  },
-  {
-    "title": "UK turns delayed wallet identification into a 14-year criminal risk for crypto firms",
-    "link": "https://cryptoslate.com/uk-turns-delayed-wallet-identification-into-a-14-year-criminal-risk-for-crypto-firms/",
-    "date": "2026-07-19T19:00:46.000Z",
-    "source": "CryptoSlate",
-    "summary": "The offence took effect July 17 without naming crypto, forcing UK-linked firms to reconstruct what they knew and when.\nThe post UK turns delayed wallet identification into a 14-year criminal risk for ..."
   },
   {
     "title": "The GENIUS Act turns 1: State of Crypto ",
@@ -714,13 +749,6 @@
     "summary": "Meanwhile, FTX's ex-CEO requested a pardon but it was unanimously rejected by the US Senate...."
   },
   {
-    "title": "Numerai Completes Third Strategic NMR Buyback, Bringing Total Repurchases to $3.2 Million",
-    "link": "https://cryptopotato.com/numerai-completes-third-strategic-nmr-buyback-bringing-total-repurchases-to-3-2-million/",
-    "date": "2026-07-18T05:22:47.000Z",
-    "source": "CryptoPotato",
-    "summary": "[PRESS RELEASE – San Francisco, CA, July 17th, 2026] Crowdsourced Hedge Fund Completes Third Open-Market Purchase as Contributor Network and Assets Continue to Grow Numerai, the decentralized hedge fu..."
-  },
-  {
     "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
     "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
     "date": "2026-07-17T21:20:10.000Z",
@@ -791,21 +819,7 @@
     "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.\n\nExpel, which shared technical details of the event, describe..."
   },
   {
-    "title": "Ernst & Young discloses data breach after support system hack",
-    "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-    "date": "2026-07-17T14:55:28.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]..."
-  },
-  {
-    "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-    "date": "2026-07-17T14:00:10.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprin..."
-  },
-  {
-    "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
+    "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
     "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
     "date": "2026-07-17T13:00:00.000Z",
     "source": "Dark Reading",
@@ -824,19 +838,5 @@
     "date": "2026-07-17T11:50:25.000Z",
     "source": "Dark Reading",
     "summary": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks...."
-  },
-  {
-    "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-    "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-    "date": "2026-07-17T11:44:41.000Z",
-    "source": "The Hacker News",
-    "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that ..."
-  },
-  {
-    "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-    "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-    "date": "2026-07-17T11:30:00.000Z",
-    "source": "The Hacker News",
-    "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acqu..."
   }
 ]
