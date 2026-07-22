@@ -1,10 +1,59 @@
 [
   {
+    "title": "LG to Ban Residential Proxies from Smart TV Apps",
+    "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "date": "2026-07-22T01:10:38.000Z",
+    "source": "Krebs On Security",
+    "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less..."
+  },
+  {
+    "title": "Milford, New Hampshire Confirms Unauthorized Activity, Withholds Details of Suspected Cyberattack",
+    "link": "https://databreaches.net/2026/07/21/milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack/?pk_campaign=feed&pk_kwd=milford-new-hampshire-confirms-unauthorized-activity-withholds-details-of-suspected-cyberattack",
+    "date": "2026-07-22T00:01:07.000Z",
+    "source": "DataBreaches.net",
+    "summary": "Milford, New Hampshire is a quintessential New England town. But charm is no defense against cyberattackers, and it appears that the town may have been attacked last week. As DysruptionHub was the fir..."
+  },
+  {
+    "title": "Police dismantle Kratos phishing platform, arrest developer",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+    "date": "2026-07-21T23:07:33.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]..."
+  },
+  {
+    "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+    "date": "2026-07-21T22:34:17.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]..."
+  },
+  {
+    "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
+    "link": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+    "date": "2026-07-21T22:08:10.000Z",
+    "source": "Coindesk",
+    "summary": "Illinois enacted a 0.2% tax on all crypto transactions last month, with the tax taking effect next year...."
+  },
+  {
+    "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
+    "link": "https://databreaches.net/2026/07/21/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/?pk_campaign=feed&pk_kwd=pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices",
+    "date": "2026-07-21T22:02:43.000Z",
+    "source": "DataBreaches.net",
+    "summary": "Hannah Murphy reports: Nearly half of companies that are targets of a ransomware cyber attack end up paying a ransom to release their data or systems, according to 2025 research from cybersecurity gro..."
+  },
+  {
     "title": "Bitcoin’s Spot Market Remains Sluggish, but Derivatives Tell a Different Story",
     "link": "https://cryptopotato.com/bitcoins-spot-market-remains-sluggish-but-derivatives-tell-a-different-story/",
     "date": "2026-07-21T21:49:36.000Z",
     "source": "CryptoPotato",
     "summary": "Glassnode reported improving derivatives activity despite muted spot trading in the Bitcoin market...."
+  },
+  {
+    "title": "Ransomware Is Accelerating, But It's Not Because of AI",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
+    "date": "2026-07-21T21:48:05.000Z",
+    "source": "Dark Reading",
+    "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations...."
   },
   {
     "title": "Senator Lummis says with CLARITY “your crypto stays yours” – but bankruptcy shields have limits",
@@ -595,13 +644,6 @@
     "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger...."
   },
   {
-    "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
-    "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-    "date": "2026-07-20T17:43:01.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [......"
-  },
-  {
     "title": "3 Reasons Why Bitcoin (BTC) Could Rally Soon",
     "link": "https://cryptopotato.com/3-reasons-why-bitcoin-btc-could-rally-soon/",
     "date": "2026-07-20T16:22:52.000Z",
@@ -628,13 +670,6 @@
     "date": "2026-07-20T14:31:23.000Z",
     "source": "Coindesk",
     "summary": "The Van Rossem hard fork moved Cardano to version 11 on Saturday. And for the first time, Cardano's community voted in the upgrade, not the company that built it...."
-  },
-  {
-    "title": "An AI SOC Evaluation Guide for Security Leaders",
-    "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-    "date": "2026-07-20T14:01:11.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC soluti..."
   },
   {
     "title": "Cybersecurity Keeps Events 'Uneventful'",
@@ -763,13 +798,6 @@
     "summary": "Your day-ahead look for July 20, 2026..."
   },
   {
-    "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
-    "link": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
-    "date": "2026-07-20T11:10:07.000Z",
-    "source": "Coindesk",
-    "summary": "Major banking heavyweights join a massive blockchain network test that will allow retail consumers to trade tokenized won freely across commercial lines...."
-  },
-  {
     "title": "Risks, Vulnerabilities And Response: Threat Intelligence is Quietly Becoming The Connected Layer in Security",
     "link": "https://www.group-ib.com/blog/threat-intelligence-connected-layer/",
     "date": "2026-07-20T10:58:51.000Z",
@@ -810,33 +838,5 @@
     "date": "2026-07-20T07:00:33.000Z",
     "source": "GroupIB Blog",
     "summary": "Group-IB uncovers HOLLOWGRAPH, a Windows malware that abuses Microsoft Graph API to exfiltrate files and receive commands from the attacker using Microsoft 365 calendar events, and DNS tunneling to re..."
-  },
-  {
-    "title": "Allbridge Pauses Protocol After $1.65M Exploit Drains Stablecoin Liquidity Pools",
-    "link": "https://cryptopotato.com/allbridge-pauses-protocol-after-1-65m-exploit-drains-stablecoin-liquidity-pools/",
-    "date": "2026-07-20T06:24:43.000Z",
-    "source": "CryptoPotato",
-    "summary": "Allbridge has asked users to withdraw liquidity immediately after a $1.65 million exploit...."
-  },
-  {
-    "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-    "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-    "date": "2026-07-20T05:27:26.000Z",
-    "source": "The Hacker News",
-    "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected..."
-  },
-  {
-    "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-    "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-    "date": "2026-07-20T05:15:39.000Z",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of s..."
-  },
-  {
-    "title": "3 Macro Events That Could Shake Crypto Markets This Week",
-    "link": "https://cryptopotato.com/3-macro-events-that-could-shake-crypto-markets-this-week/",
-    "date": "2026-07-20T04:54:33.000Z",
-    "source": "CryptoPotato",
-    "summary": "A relatively light week lies ahead on the US economic calendar as investors look for signals ahead of the Federal Reserve’s next meeting...."
   }
 ]
