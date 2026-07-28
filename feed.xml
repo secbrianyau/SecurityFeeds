@@ -9,12 +9,125 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 16:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 19:23:58 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 16:42:54 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 19:23:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack]]></title>
+            <description><![CDATA[Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.
+
+The HAWK attack exploits a p...]]></description>
+            <link>https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 18:59:07 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[AmericanFortress proposes quantum-safe crypto wallet protection without fund migration]]></title>
+            <description><![CDATA[The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and Solana wallets from future quantum attacks without requiring users to move funds or change wallet addresses....]]></description>
+            <link>https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
+            <guid isPermaLink="false">https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
+            <category><![CDATA[Cointelegraph - Security]]></category>
+            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 18:47:26 GMT</pubDate>
+            <dc:source>Cointelegraph - Security</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CISA shares advice on isolating vital systems during cyberattacks]]></title>
+            <description><![CDATA[The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or ...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 18:41:04 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Apple’s App Store promoted fake Bitcoin wallet that stole $1.8M after developer spent a year warning them]]></title>
+            <description><![CDATA[Apple’s tightly controlled App Store is facing renewed scrutiny after three Bitcoin holders alleged they lost $1.8 million to a fake crypto wallet, adding to a growing list of malicious wallet apps th...]]></description>
+            <link>https://cryptoslate.com/apples-app-store-security-promise-faces-test-as-fake-crypto-wallets-keep-getting-through/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/apples-app-store-security-promise-faces-test-as-fake-crypto-wallets-keep-getting-through/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 18:10:55 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[vBulletin fixes critical pre-auth RCE flaw with public exploit]]></title>
+            <description><![CDATA[A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 18:08:50 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Minnesota’s Prediction Market Ban Hits Legal Roadblock After Federal Court Ruling]]></title>
+            <description><![CDATA[Kalshi and Polymarket can keep serving Minnesota users after a judge found federal law likely preempts the state's prediction market ban....]]></description>
+            <link>https://cryptopotato.com/minnesotas-prediction-market-ban-hits-legal-roadblock-after-federal-court-ruling/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/minnesotas-prediction-market-ban-hits-legal-roadblock-after-federal-court-ruling/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 18:02:24 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Wall Street veteran Don Wilson says regulators are getting perps all wrong]]></title>
+            <description><![CDATA[DRW CEO Don Wilson says perpetual futures aren't inherently risky crypto gambling tools, and it’s time traditional markets and regulators start embracing them....]]></description>
+            <link>https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 17:23:35 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Inside the brutal 2-minute flash crash sending a $400M South Korean market plunging on Hyperliquid]]></title>
+            <description><![CDATA[A later snapshot showed open interest down 20.29% while Trade.xyz investigated the price inputs submitted to HyperCore.
+The post Inside the brutal 2-minute flash crash sending a $400M South Korean mar...]]></description>
+            <link>https://cryptoslate.com/inside-the-brutal-2-minute-flash-crash-sending-a-400m-south-korean-market-plunging-on-hyperliquid/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/inside-the-brutal-2-minute-flash-crash-sending-a-400m-south-korean-market-plunging-on-hyperliquid/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 17:05:53 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Shiba Inu (SHIB) Drops 20% From Its Recent High: Is It Time to Buy?]]></title>
+            <description><![CDATA[Some factors hint that SHIB may experience a further decline in the short term....]]></description>
+            <link>https://cryptopotato.com/shiba-inu-shib-drops-20-from-its-recent-high-is-it-time-to-buy/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/shiba-inu-shib-drops-20-from-its-recent-high-is-it-time-to-buy/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 16:49:35 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
+        <item>
+            <title><![CDATA['Certighost' Flaw Haunts Microsoft Active Directory Certificates]]></title>
+            <description><![CDATA[Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 16:38:48 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-07-28</dc:date>
+        </item>
         <item>
             <title><![CDATA[BlackRock, Fidelity, other Wall Street giants back the Clarity Act]]></title>
             <description><![CDATA[BlackRock, Fidelity, Franklin Templeton, Goldman Sachs and SoFi have publicly endorsed the crypto market structure bill as the Senate's timeline tightens....]]></description>
@@ -813,18 +926,6 @@ The vulnerability, tracked as CVE-2026-16812 (CV...]]></description>
             <dc:date>2026-07-27</dc:date>
         </item>
         <item>
-            <title><![CDATA[Compromised contract let hackers print 5.2 million WEMIX stablecoins, forcing a complete network freeze]]></title>
-            <description><![CDATA[WEMIX says the issuance became WEMIX and USDC.e, but final losses and user impact remain unknown.
-The post Compromised contract let hackers print 5.2 million WEMIX stablecoins, forcing a complete netw...]]></description>
-            <link>https://cryptoslate.com/wemix-owner-breach-minted-5-23m-tokens-outside-its-100-backed-stablecoin-controls/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/wemix-owner-breach-minted-5-23m-tokens-outside-its-100-backed-stablecoin-controls/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 18:05:48 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-07-27</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow]]></title>
             <description><![CDATA[Regulated perpetual futures are officially landing in the U.S., but while agile trading firms and crypto exchanges race to capture massive retail demand, traditional Wall Street banks are holding back...]]></description>
             <link>https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow</link>
@@ -913,18 +1014,6 @@ The post Compromised contract let hackers print 5.2 million WEMIX stablecoins, f
             <dc:date>2026-07-27</dc:date>
         </item>
         <item>
-            <title><![CDATA[Lawsuit claims BitMEX used server freezes and internal trading to seize 622 Bitcoin ahead of its September closure]]></title>
-            <description><![CDATA[The new complaint alleges an internal desk exploited customer data, while BitMEX says the case has no basis.
-The post Lawsuit claims BitMEX used server freezes and internal trading to seize 622 Bitcoi...]]></description>
-            <link>https://cryptoslate.com/lawsuit-claims-bitmex-used-server-freezes-and-internal-trading-to-seize-622-bitcoin-ahead-of-its-september-closure/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/lawsuit-claims-bitmex-used-server-freezes-and-internal-trading-to-seize-622-bitcoin-ahead-of-its-september-closure/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 16:35:08 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-07-27</dc:date>
-        </item>
-        <item>
             <title><![CDATA[PUMP Hits an 11-Week High: Momentum Building or Pullback Ahead?]]></title>
             <description><![CDATA["Hate it or love it. It’s here to stay," a former PUMP critic said about the token....]]></description>
             <link>https://cryptopotato.com/pump-hits-an-11-week-high-momentum-building-or-pullback-ahead/</link>
@@ -965,17 +1054,6 @@ The post Lawsuit claims BitMEX used server freezes and internal trading to seize
             <category><![CDATA[Coindesk]]></category>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Mon, 27 Jul 2026 15:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Fanatics buys regulated exchange in bid to grow prediction markets business]]></title>
-            <description><![CDATA[The deal gives Fanatics control of its own prediction market infrastructure as event-based trading gains traction across sports, finance and crypto....]]></description>
-            <link>https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 14:46:10 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
             <dc:date>2026-07-27</dc:date>
         </item>
@@ -1230,28 +1308,6 @@ The intrusions have resulted in the de...]]></description>
             <dc:date>2026-07-27</dc:date>
         </item>
         <item>
-            <title><![CDATA[4 Things That May Move Crypto Markets This Week as Fed Rate Hike Odds Increase]]></title>
-            <description><![CDATA[A huge week lies ahead on the economic calendar with the Federal Reserve rate decision, key inflation data, and some high-profile earnings reports....]]></description>
-            <link>https://cryptopotato.com/4-things-that-may-move-crypto-markets-this-week-as-fed-rate-hike-odds-increase/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/4-things-that-may-move-crypto-markets-this-week-as-fed-rate-hike-odds-increase/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 05:04:53 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-27</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Robinhood Chain Becomes Largest Blockchain by RWA Holder Count]]></title>
-            <description><![CDATA[The network has become the largest blockchain by RWA holder count just weeks after launch, highlighting strong early adoption of tokenized stocks....]]></description>
-            <link>https://cryptopotato.com/robinhood-chain-becomes-largest-blockchain-by-rwa-holder-count/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/robinhood-chain-becomes-largest-blockchain-by-rwa-holder-count/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 04:51:44 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-27</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Garden Finance disables app as Blockaid reports $450,000 exploit]]></title>
             <description><![CDATA[Garden Finance said no user funds or smart contracts were affected after an attacker compromised an independent solver’s off-chain database and inserted fraudulent swap records....]]></description>
             <link>https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
@@ -1303,61 +1359,6 @@ The intrusions have resulted in the de...]]></description>
             <category><![CDATA[Bleeping Computer]]></category>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 22:37:47 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Malicious sites use JavaScript to build malware in browser memory]]></title>
-            <description><![CDATA[A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 15:21:09 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[US House Votes to Extend Cyber Sharing Law for 10 Years]]></title>
-            <description><![CDATA[Chris Liotta reports: Lawmakers voted to extend a key cyberthreat sharing law for another decade, attaching the long-stalled reauthorization to Washington’s annual defense policy bill. The U.S. House ...]]></description>
-            <link>https://databreaches.net/2026/07/25/us-house-votes-to-extend-cyber-sharing-law-for-10-years/?pk_campaign=feed&amp;pk_kwd=us-house-votes-to-extend-cyber-sharing-law-for-10-years</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/25/us-house-votes-to-extend-cyber-sharing-law-for-10-years/?pk_campaign=feed&amp;pk_kwd=us-house-votes-to-extend-cyber-sharing-law-for-10-years</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 14:25:16 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[AU: Sydney nurse accused of downloading patients’ data in alleged ‘breach of trust’]]></title>
-            <description><![CDATA[Caitlin Powell reports: A male registered nurse from northern Sydney has been charged after allegedly downloading the data of multiple patients. Police received a report on Wednesday, July 22, that a ...]]></description>
-            <link>https://databreaches.net/2026/07/25/au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust/?pk_campaign=feed&amp;pk_kwd=au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/25/au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust/?pk_campaign=feed&amp;pk_kwd=au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 14:24:50 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[No Need to Hack When It’s Leaking: Click to Pray edition]]></title>
-            <description><![CDATA[Jessica Lyons reports on today’s entry in the “No Need to Hack When It’s Leaking” files: Click To Pray, a prayer app endorsed by the Pope with hundreds of thousands of users worldwide, has leaked peop...]]></description>
-            <link>https://databreaches.net/2026/07/25/no-need-to-hack-when-its-leaking-click-to-pray-edition/?pk_campaign=feed&amp;pk_kwd=no-need-to-hack-when-its-leaking-click-to-pray-edition</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/07/25/no-need-to-hack-when-its-leaking-click-to-pray-edition/?pk_campaign=feed&amp;pk_kwd=no-need-to-hack-when-its-leaking-click-to-pray-edition</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 14:24:35 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-07-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ShinyHunters data leaks fuel $2,000 sextortion email scam]]></title>
-            <description><![CDATA[Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2026 14:16:26 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-07-25</dc:date>
         </item>

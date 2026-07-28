@@ -1,5 +1,75 @@
 [
   {
+    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+    "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+    "date": "2026-07-28T18:59:07.000Z",
+    "source": "The Hacker News",
+    "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a p..."
+  },
+  {
+    "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
+    "link": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
+    "date": "2026-07-28T18:47:26.000Z",
+    "source": "Cointelegraph - Security",
+    "summary": "The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and Solana wallets from future quantum attacks without requiring users to move funds or change wallet addresses...."
+  },
+  {
+    "title": "CISA shares advice on isolating vital systems during cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+    "date": "2026-07-28T18:41:04.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or ..."
+  },
+  {
+    "title": "Apple’s App Store promoted fake Bitcoin wallet that stole $1.8M after developer spent a year warning them",
+    "link": "https://cryptoslate.com/apples-app-store-security-promise-faces-test-as-fake-crypto-wallets-keep-getting-through/",
+    "date": "2026-07-28T18:10:55.000Z",
+    "source": "CryptoSlate",
+    "summary": "Apple’s tightly controlled App Store is facing renewed scrutiny after three Bitcoin holders alleged they lost $1.8 million to a fake crypto wallet, adding to a growing list of malicious wallet apps th..."
+  },
+  {
+    "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+    "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+    "date": "2026-07-28T18:08:50.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]..."
+  },
+  {
+    "title": "Minnesota’s Prediction Market Ban Hits Legal Roadblock After Federal Court Ruling",
+    "link": "https://cryptopotato.com/minnesotas-prediction-market-ban-hits-legal-roadblock-after-federal-court-ruling/",
+    "date": "2026-07-28T18:02:24.000Z",
+    "source": "CryptoPotato",
+    "summary": "Kalshi and Polymarket can keep serving Minnesota users after a judge found federal law likely preempts the state's prediction market ban...."
+  },
+  {
+    "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
+    "link": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
+    "date": "2026-07-28T17:23:35.000Z",
+    "source": "Coindesk",
+    "summary": "DRW CEO Don Wilson says perpetual futures aren't inherently risky crypto gambling tools, and it’s time traditional markets and regulators start embracing them...."
+  },
+  {
+    "title": "Inside the brutal 2-minute flash crash sending a $400M South Korean market plunging on Hyperliquid",
+    "link": "https://cryptoslate.com/inside-the-brutal-2-minute-flash-crash-sending-a-400m-south-korean-market-plunging-on-hyperliquid/",
+    "date": "2026-07-28T17:05:53.000Z",
+    "source": "CryptoSlate",
+    "summary": "A later snapshot showed open interest down 20.29% while Trade.xyz investigated the price inputs submitted to HyperCore.\nThe post Inside the brutal 2-minute flash crash sending a $400M South Korean mar..."
+  },
+  {
+    "title": "Shiba Inu (SHIB) Drops 20% From Its Recent High: Is It Time to Buy?",
+    "link": "https://cryptopotato.com/shiba-inu-shib-drops-20-from-its-recent-high-is-it-time-to-buy/",
+    "date": "2026-07-28T16:49:35.000Z",
+    "source": "CryptoPotato",
+    "summary": "Some factors hint that SHIB may experience a further decline in the short term...."
+  },
+  {
+    "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+    "date": "2026-07-28T16:38:48.000Z",
+    "source": "Dark Reading",
+    "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment...."
+  },
+  {
     "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
     "link": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
     "date": "2026-07-28T16:08:19.000Z",
@@ -497,13 +567,6 @@
     "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.\n\n..."
   },
   {
-    "title": "Compromised contract let hackers print 5.2 million WEMIX stablecoins, forcing a complete network freeze",
-    "link": "https://cryptoslate.com/wemix-owner-breach-minted-5-23m-tokens-outside-its-100-backed-stablecoin-controls/",
-    "date": "2026-07-27T18:05:48.000Z",
-    "source": "CryptoSlate",
-    "summary": "WEMIX says the issuance became WEMIX and USDC.e, but final losses and user impact remain unknown.\nThe post Compromised contract let hackers print 5.2 million WEMIX stablecoins, forcing a complete netw..."
-  },
-  {
     "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
     "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
     "date": "2026-07-27T18:00:00.000Z",
@@ -560,13 +623,6 @@
     "summary": "The crypto trading platform said the layoffs reflect a strategic shift toward its fast-growing enterprise business...."
   },
   {
-    "title": "Lawsuit claims BitMEX used server freezes and internal trading to seize 622 Bitcoin ahead of its September closure",
-    "link": "https://cryptoslate.com/lawsuit-claims-bitmex-used-server-freezes-and-internal-trading-to-seize-622-bitcoin-ahead-of-its-september-closure/",
-    "date": "2026-07-27T16:35:08.000Z",
-    "source": "CryptoSlate",
-    "summary": "The new complaint alleges an internal desk exploited customer data, while BitMEX says the case has no basis.\nThe post Lawsuit claims BitMEX used server freezes and internal trading to seize 622 Bitcoi..."
-  },
-  {
     "title": "PUMP Hits an 11-Week High: Momentum Building or Pullback Ahead?",
     "link": "https://cryptopotato.com/pump-hits-an-11-week-high-momentum-building-or-pullback-ahead/",
     "date": "2026-07-27T15:59:36.000Z",
@@ -593,13 +649,6 @@
     "date": "2026-07-27T15:00:00.000Z",
     "source": "Coindesk",
     "summary": "Perps, which launched on BitMEX in 2016, have become one of the most traded financial products in the world...."
-  },
-  {
-    "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
-    "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
-    "date": "2026-07-27T14:46:10.000Z",
-    "source": "Coindesk",
-    "summary": "The deal gives Fanatics control of its own prediction market infrastructure as event-based trading gains traction across sports, finance and crypto...."
   },
   {
     "title": "Circle’s IBM Patent Deal Brings Nearly 1,000 Blockchain Patents",
@@ -756,20 +805,6 @@
     "summary": "Dr. Profit said he holds more ETH than BTC for the first time ever...."
   },
   {
-    "title": "4 Things That May Move Crypto Markets This Week as Fed Rate Hike Odds Increase",
-    "link": "https://cryptopotato.com/4-things-that-may-move-crypto-markets-this-week-as-fed-rate-hike-odds-increase/",
-    "date": "2026-07-27T05:04:53.000Z",
-    "source": "CryptoPotato",
-    "summary": "A huge week lies ahead on the economic calendar with the Federal Reserve rate decision, key inflation data, and some high-profile earnings reports...."
-  },
-  {
-    "title": "Robinhood Chain Becomes Largest Blockchain by RWA Holder Count",
-    "link": "https://cryptopotato.com/robinhood-chain-becomes-largest-blockchain-by-rwa-holder-count/",
-    "date": "2026-07-27T04:51:44.000Z",
-    "source": "CryptoPotato",
-    "summary": "The network has become the largest blockchain by RWA holder count just weeks after launch, highlighting strong early adoption of tokenized stocks...."
-  },
-  {
     "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
     "link": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
     "date": "2026-07-27T01:58:54.000Z",
@@ -803,40 +838,5 @@
     "date": "2026-07-25T22:37:47.000Z",
     "source": "Bleeping Computer",
     "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]..."
-  },
-  {
-    "title": "Malicious sites use JavaScript to build malware in browser memory",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-    "date": "2026-07-25T15:21:09.000Z",
-    "source": "Bleeping Computer",
-    "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]..."
-  },
-  {
-    "title": "US House Votes to Extend Cyber Sharing Law for 10 Years",
-    "link": "https://databreaches.net/2026/07/25/us-house-votes-to-extend-cyber-sharing-law-for-10-years/?pk_campaign=feed&pk_kwd=us-house-votes-to-extend-cyber-sharing-law-for-10-years",
-    "date": "2026-07-25T14:25:16.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Chris Liotta reports: Lawmakers voted to extend a key cyberthreat sharing law for another decade, attaching the long-stalled reauthorization to Washington’s annual defense policy bill. The U.S. House ..."
-  },
-  {
-    "title": "AU: Sydney nurse accused of downloading patients’ data in alleged ‘breach of trust’",
-    "link": "https://databreaches.net/2026/07/25/au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust/?pk_campaign=feed&pk_kwd=au-sydney-nurse-accused-of-downloading-patients-data-in-alleged-breach-of-trust",
-    "date": "2026-07-25T14:24:50.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Caitlin Powell reports: A male registered nurse from northern Sydney has been charged after allegedly downloading the data of multiple patients. Police received a report on Wednesday, July 22, that a ..."
-  },
-  {
-    "title": "No Need to Hack When It’s Leaking: Click to Pray edition",
-    "link": "https://databreaches.net/2026/07/25/no-need-to-hack-when-its-leaking-click-to-pray-edition/?pk_campaign=feed&pk_kwd=no-need-to-hack-when-its-leaking-click-to-pray-edition",
-    "date": "2026-07-25T14:24:35.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Jessica Lyons reports on today’s entry in the “No Need to Hack When It’s Leaking” files: Click To Pray, a prayer app endorsed by the Pope with hundreds of thousands of users worldwide, has leaked peop..."
-  },
-  {
-    "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-    "date": "2026-07-25T14:16:26.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]..."
   }
 ]
