@@ -1,5 +1,96 @@
 [
   {
+    "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+    "link": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+    "date": "2026-07-28T23:50:38.000Z",
+    "source": "Coindesk",
+    "summary": "Coinbase Canada's new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized financ..."
+  },
+  {
+    "title": "Why Is Lido Moving $16B in Staked ETH to Pectra-Era Validators?",
+    "link": "https://cryptopotato.com/why-is-lido-moving-16b-in-staked-eth-to-pectra-era-validators/",
+    "date": "2026-07-28T22:59:28.000Z",
+    "source": "CryptoPotato",
+    "summary": "Operators have to lock up their own ETH as collateral now...."
+  },
+  {
+    "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+    "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
+    "date": "2026-07-28T21:33:23.000Z",
+    "source": "Dark Reading",
+    "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths...."
+  },
+  {
+    "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+    "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+    "date": "2026-07-28T21:17:39.000Z",
+    "source": "Bleeping Computer",
+    "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]..."
+  },
+  {
+    "title": "Crypto Pioneers Sound Alarm Over Government Control of AI Knowledge",
+    "link": "https://cryptopotato.com/crypto-pioneers-sound-alarm-over-government-control-of-ai-knowledge/",
+    "date": "2026-07-28T21:12:24.000Z",
+    "source": "CryptoPotato",
+    "summary": "Anthropic says its AI concerns focus on misuse, including cyberattacks and biological threats, rather than banning open models...."
+  },
+  {
+    "title": "Thousands of Data Center Controllers Open to Takeover",
+    "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+    "date": "2026-07-28T21:07:55.000Z",
+    "source": "Dark Reading",
+    "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note...."
+  },
+  {
+    "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+    "date": "2026-07-28T20:37:06.000Z",
+    "source": "Bleeping Computer",
+    "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attac..."
+  },
+  {
+    "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+    "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+    "date": "2026-07-28T20:27:36.000Z",
+    "source": "Dark Reading",
+    "summary": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything...."
+  },
+  {
+    "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
+    "link": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
+    "date": "2026-07-28T20:23:31.000Z",
+    "source": "Coindesk",
+    "summary": "Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks...."
+  },
+  {
+    "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+    "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+    "date": "2026-07-28T20:05:32.000Z",
+    "source": "Dark Reading",
+    "summary": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action...."
+  },
+  {
+    "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
+    "link": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network",
+    "date": "2026-07-28T19:44:26.000Z",
+    "source": "Coindesk",
+    "summary": "The new network powers Ondo's recently-launched perpetual futures platform and will eventually support trading across onchain financial assets...."
+  },
+  {
+    "title": "‘OC’ Actor Ben McKenzie Urges Congress to Block CLARITY Act Over Trump Ties",
+    "link": "https://cryptopotato.com/oc-actor-ben-mckenzie-urges-congress-to-block-clarity-act-over-trump-ties/",
+    "date": "2026-07-28T19:34:25.000Z",
+    "source": "CryptoPotato",
+    "summary": "New York Attorney General Letitia James has also warned the bill could reduce states' ability to pursue crypto fraud cases...."
+  },
+  {
+    "title": "AI firms are shredding physical books because copyright law is quietly rewarding them",
+    "link": "https://cryptoslate.com/why-copyright-law-is-quietly-rewarding-ai-firms-for-shredding-physical-books/",
+    "date": "2026-07-28T19:20:39.000Z",
+    "source": "CryptoSlate",
+    "summary": "A case-specific Anthropic ruling valued one-for-one replacement while physical preservation remained outside the legal test.\nThe post AI firms are shredding physical books because copyright law is qui..."
+  },
+  {
     "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
     "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
     "date": "2026-07-28T18:59:07.000Z",
@@ -238,11 +329,11 @@
     "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]..."
   },
   {
-    "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible",
+    "title": "Multiple water facilities in Minnesota attacked;  Iranian hackers may be responsible (UPDATED)",
     "link": "https://databreaches.net/2026/07/28/multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible/?pk_campaign=feed&pk_kwd=multiple-water-facilities-in-minnesota-attacked-iranian-hackers-may-be-responsible",
     "date": "2026-07-28T12:02:45.000Z",
     "source": "DataBreaches.net",
-    "summary": "On June 16, media reported that Iran-linked Handala had attacked Cal Water. There was no evidence that they tampered with the water supply, but the group warned it would be increasing attacks on U.S. ..."
+    "summary": "UPDATE:  More than 30 Minnesota community water systems were attacked between Sunday and Monday. Original post: On June 16, media reported that Iran-linked Handala had attacked Cal Water. There was no..."
   },
   {
     "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
@@ -371,13 +462,6 @@
     "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\nTh..."
   },
   {
-    "title": "Strategy hits a 5 week pause on Bitcoin, using $25M to quietly buy back its own discounted stock",
-    "link": "https://cryptoslate.com/strategy-hits-a-five-week-pause-on-bitcoin-using-25-million-to-quietly-buy-back-its-own-discounted-stock/",
-    "date": "2026-07-28T08:05:30.000Z",
-    "source": "CryptoSlate",
-    "summary": "Strategy (formerly MicroStrategy) has begun buying back its STRC preferred stock as the Bitcoin treasury company shifts more capital toward supporting its financing structure. In a July 27 SEC update,..."
-  },
-  {
     "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
     "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
     "date": "2026-07-28T08:04:44.000Z",
@@ -490,7 +574,7 @@
     "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]..."
   },
   {
-    "title": "Agentic Browsers Rewind Web Security by 20 years",
+    "title": "Agentic Browsers Rewind Web Security by 20 Years",
     "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
     "date": "2026-07-27T21:39:09.000Z",
     "source": "Dark Reading",
@@ -567,13 +651,6 @@
     "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.\n\n..."
   },
   {
-    "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
-    "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
-    "date": "2026-07-27T18:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "Regulated perpetual futures are officially landing in the U.S., but while agile trading firms and crypto exchanges race to capture massive retail demand, traditional Wall Street banks are holding back..."
-  },
-  {
     "title": "Bitcoin Trading Far Below Historical Norms: Rebound or a Warning Sign?",
     "link": "https://cryptopotato.com/bitcoin-trading-far-below-historical-norms-rebound-or-a-warning-sign/",
     "date": "2026-07-27T17:37:22.000Z",
@@ -616,13 +693,6 @@
     "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against Jac..."
   },
   {
-    "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
-    "link": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
-    "date": "2026-07-27T16:47:06.000Z",
-    "source": "Coindesk",
-    "summary": "The crypto trading platform said the layoffs reflect a strategic shift toward its fast-growing enterprise business...."
-  },
-  {
     "title": "PUMP Hits an 11-Week High: Momentum Building or Pullback Ahead?",
     "link": "https://cryptopotato.com/pump-hits-an-11-week-high-momentum-building-or-pullback-ahead/",
     "date": "2026-07-27T15:59:36.000Z",
@@ -642,13 +712,6 @@
     "date": "2026-07-27T15:12:27.000Z",
     "source": "Bleeping Computer",
     "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attac..."
-  },
-  {
-    "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
-    "link": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
-    "date": "2026-07-27T15:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "Perps, which launched on BitMEX in 2016, have become one of the most traded financial products in the world...."
   },
   {
     "title": "Circle’s IBM Patent Deal Brings Nearly 1,000 Blockchain Patents",
@@ -775,68 +838,5 @@
     "date": "2026-07-27T08:29:53.000Z",
     "source": "CryptoPotato",
     "summary": "SHIB has corrected after yesterday's big rally, while PUMP is today's most impressive gainer...."
-  },
-  {
-    "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-    "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-    "date": "2026-07-27T08:01:23.000Z",
-    "source": "The Hacker News",
-    "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n\"The cooldown configuration opti..."
-  },
-  {
-    "title": "Bitcoin’s 200-Week MA Is Back in Play: Why It Matters for BTC’s Price",
-    "link": "https://cryptopotato.com/bitcoins-200-week-ma-is-back-in-play-why-it-matters-for-btcs-price/",
-    "date": "2026-07-27T07:54:44.000Z",
-    "source": "CryptoPotato",
-    "summary": "Bitcoin is in a mid-term accumulation phase whose results could emerge over the next two months, the analyst said...."
-  },
-  {
-    "title": "Ripple (XRP) News and Price Update: July 27",
-    "link": "https://cryptopotato.com/ripple-xrp-news-and-price-update-july-27/",
-    "date": "2026-07-27T05:46:08.000Z",
-    "source": "CryptoPotato",
-    "summary": "Ripple expanded its stablecoin infrastructure as XRP ETFs reached a new milestone, while the token struggled to hold its latest recovery...."
-  },
-  {
-    "title": "Arthur Hayes Bets Even Bigger on Ethereum as $4K Calls Grow Louder",
-    "link": "https://cryptopotato.com/arthur-hayes-bets-even-bigger-on-ethereum-as-4k-calls-grow-louder/",
-    "date": "2026-07-27T05:31:19.000Z",
-    "source": "CryptoPotato",
-    "summary": "Dr. Profit said he holds more ETH than BTC for the first time ever...."
-  },
-  {
-    "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
-    "link": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2026-07-27T01:58:54.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "Garden Finance said no user funds or smart contracts were affected after an attacker compromised an independent solver’s off-chain database and inserted fraudulent swap records...."
-  },
-  {
-    "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-    "date": "2026-07-26T14:13:39.000Z",
-    "source": "Bleeping Computer",
-    "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]..."
-  },
-  {
-    "title": "Developing: AnMed reports phone and internet outage impacting all hospital locations; ERs remain open",
-    "link": "https://databreaches.net/2026/07/26/developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open/?pk_campaign=feed&pk_kwd=developing-anmed-reports-phone-and-internet-outage-impacting-all-hospital-locations-ers-remain-open",
-    "date": "2026-07-26T14:10:29.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Media outlets are reporting that all AnMed  hospital locations are experiencing a phone and internet outage, but patients are being seen in the emergency rooms. AnMed is an independent, not-for-profit..."
-  },
-  {
-    "title": "A-list directors, actors and celebrities exposed in Tribeca film festival data leak",
-    "link": "https://databreaches.net/2026/07/26/a-list-directors-actors-and-celebrities-exposed-in-tribeca-film-festival-data-leak/?pk_campaign=feed&pk_kwd=a-list-directors-actors-and-celebrities-exposed-in-tribeca-film-festival-data-leak",
-    "date": "2026-07-26T13:06:14.000Z",
-    "source": "DataBreaches.net",
-    "summary": "Researcher Jeremiah Fowler provides today’s entry in the “No Need to Hack When It’s Leaking” files: I recently discovered a publicly accessible database that was not password-protected or encrypted an..."
-  },
-  {
-    "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-    "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-    "date": "2026-07-25T22:37:47.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]..."
   }
 ]
