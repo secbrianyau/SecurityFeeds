@@ -9,12 +9,89 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 13:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 16:03:03 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 13:19:40 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 16:03:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot]]></title>
+            <description><![CDATA[Difficulty falls as weak mining economics reduce capacity, while forward markets signal little relief through year-end....]]></description>
+            <link>https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:51:10 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-08-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SEC to review Nasdaq bitcoin options approval after CME challenge]]></title>
+            <description><![CDATA[CME argues that because bitcoin is a commodity, options tied to its value fall under CFTC jurisdiction, not the SEC's authority....]]></description>
+            <link>https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:48:27 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-08-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Why a guaranteed 4.47% yield on $44 billion of US debt just raised the hurdle for Bitcoin]]></title>
+            <description><![CDATA[The US government sold $44 billion of seven-year debt on July 28, and buyers accepted it at a yield of 4.473%. That was 21.3 basis points above the 4.260% yield awarded at June’s Treasury auction. Inv...]]></description>
+            <link>https://cryptoslate.com/why-a-guaranteed-4-47-yield-on-44-billion-of-us-debt-just-raised-the-hurdle-for-bitcoin/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/why-a-guaranteed-4-47-yield-on-44-billion-of-us-debt-just-raised-the-hurdle-for-bitcoin/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:05:57 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Rails patches critical Active Storage flaw with RCE potential]]></title>
+            <description><![CDATA[A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE)...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 14:20:30 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-08-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Fear Reaches Record High as Coldcard Exploit Shakes Confidence in Self-Custody]]></title>
+            <description><![CDATA[The Coldcard firmware exploit has reignated concerns about the security of hardware wallets and self-custody....]]></description>
+            <link>https://cryptopotato.com/bitcoin-fear-reaches-record-high-as-coldcard-exploit-shakes-confidence-in-self-custody/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-fear-reaches-record-high-as-coldcard-exploit-shakes-confidence-in-self-custody/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 14:19:50 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-08-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[If Bitcoin breaks $62k over the weekend, a $1.1B short overhang stands ready to pull price down to $60k]]></title>
+            <description><![CDATA[Bitcoin enters the weekend near $62,900, less than 1% above the July 31 intraday low, and Deribit has already settled roughly $9.6 billion in monthly Bitcoin options. The venue settles monthly contrac...]]></description>
+            <link>https://cryptoslate.com/if-bitcoin-breaks-62k-over-the-weekend-a-1-17-billion-put-option-overhang-stands-ready-to-pull-price-down-to-60k/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/if-bitcoin-breaks-62k-over-the-weekend-a-1-17-billion-put-option-overhang-stands-ready-to-pull-price-down-to-60k/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 14:10:53 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-01</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Why CME wants phone traders slinging leveraged Nvidia contracts at 3 AM after earnings drop]]></title>
+            <description><![CDATA[At 4:05 pm in New York, a large tech company releases earnings. The main stock session has ended, executives begin their conference call, and billions of dollars start shifting through every instrumen...]]></description>
+            <link>https://cryptoslate.com/why-cme-wants-phone-traders-slinging-leveraged-nvidia-contracts-at-3-am-after-earnings-drop/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/why-cme-wants-phone-traders-slinging-leveraged-nvidia-contracts-at-3-am-after-earnings-drop/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 13:05:11 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-01</dc:date>
+        </item>
         <item>
             <title><![CDATA[Solana Foundation's new CISO warns AI is making crypto scams more convincing]]></title>
             <description><![CDATA[Michael Coates, the foundation’s new CISO, said that AI vulnerabilities and fake identities will drive the next wave of blockchain security concerns....]]></description>
@@ -319,18 +396,6 @@ The post Why DeFi giant Aave is pulling the plug on six hyped b...]]></descripti
             <dc:date>2026-07-31</dc:date>
         </item>
         <item>
-            <title><![CDATA[The free ride for VanEck’s Bitcoin ETF is officially over after falling $1.4 billion short of growth target]]></title>
-            <description><![CDATA[The 0.20% sponsor fee applies after July 31, putting HODL level with BITB but one basis point above EZBC.
-The post The free ride for VanEck’s Bitcoin ETF is officially over after falling $1.4 billion ...]]></description>
-            <link>https://cryptoslate.com/the-free-ride-for-vanecks-bitcoin-etf-is-officially-over-after-falling-1-4-billion-short-of-growth-target/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/the-free-ride-for-vanecks-bitcoin-etf-is-officially-over-after-falling-1-4-billion-short-of-growth-target/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 20:45:48 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-07-31</dc:date>
-        </item>
-        <item>
             <title><![CDATA[UNI Just Hit a 6-Month High as Uniswap Rolls Out New Token Discovery Tab]]></title>
             <description><![CDATA[Uniswap's native token, UNI, has surged to a level not seen in six months....]]></description>
             <link>https://cryptopotato.com/uni-just-hit-a-6-month-high-as-uniswap-rolls-out-new-token-discovery-tab/</link>
@@ -339,18 +404,6 @@ The post The free ride for VanEck’s Bitcoin ETF is officially over after falli
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 19:56:10 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-07-31</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Why a $20 billion Bitstamp slump makes Robinhood’s retail app look far weaker than it really is]]></title>
-            <description><![CDATA[Bitstamp volume fell 48% from Q1 to Q2, compared with a 25% decline on the Robinhood App. The App metric also began including WonderFi trades in June.
-The post Why a $20 billion Bitstamp slump makes R...]]></description>
-            <link>https://cryptoslate.com/bitstamp-drove-77-of-robinhoods-crypto-volume-decline/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitstamp-drove-77-of-robinhoods-crypto-volume-decline/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 19:50:01 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-07-31</dc:date>
         </item>
         <item>
@@ -373,18 +426,6 @@ The post Why a $20 billion Bitstamp slump makes R...]]></description>
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Fri, 31 Jul 2026 18:52:04 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-31</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New Bitcoin study shows the strongest recurring liquidation warning signs cannot warn of an individual crash]]></title>
-            <description><![CDATA[The order-flow pattern stood out across six events, while two observations still overlapped ordinary-market conditions.
-The post New Bitcoin study shows the strongest recurring liquidation warning sig...]]></description>
-            <link>https://cryptoslate.com/new-bitcoin-study-shows-the-strongest-recurring-liquidation-warning-signs-cannot-warn-of-an-individual-crash/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/new-bitcoin-study-shows-the-strongest-recurring-liquidation-warning-signs-cannot-warn-of-an-individual-crash/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 18:45:08 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-07-31</dc:date>
         </item>
         <item>
@@ -922,28 +963,6 @@ After an initial Telegram instruction, th...]]></description>
             <dc:date>2026-07-31</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched]]></title>
-            <description><![CDATA[Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week....]]></description>
-            <link>https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 05:43:39 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-31</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Major bitcoin wallet flaw drains $38 million worth of BTC in 25-minute sweep]]></title>
-            <description><![CDATA[A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone....]]></description>
-            <link>https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep</link>
-            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 05:12:55 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-07-31</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Down 99.7% From ATH: Is Internet Computer (ICP) Due for a Comeback or Total Collapse?]]></title>
             <description><![CDATA[An ascent to $9 or further crash to $0.50: what comes next for ICP?...]]></description>
             <link>https://cryptopotato.com/down-99-7-from-ath-is-internet-computer-icp-due-for-a-comeback-or-total-collapse/</link>
@@ -1127,17 +1146,6 @@ After an initial Telegram instruction, th...]]></description>
             <category><![CDATA[Bleeping Computer]]></category>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 16:46:15 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-07-30</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft Teams vishing attacks lead to Chaos ransomware attacks]]></title>
-            <description><![CDATA[Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [......]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 15:56:33 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-07-30</dc:date>
         </item>
@@ -1339,17 +1347,6 @@ This week, that screen might be a login page, an install guide, a recruiter call
             <dc:creator><![CDATA[The Hacker News]]></dc:creator>
             <pubDate>Thu, 30 Jul 2026 07:40:48 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-07-30</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[MSSPs: Your SOC Already Detects Fraud. Missed Opportunity Is Selling It As a Service.]]></title>
-            <description><![CDATA[Managed cyber-fraud protection is the most overlooked growth line in the MSSP playbook, and most of the capability is already sitting in your SOC....]]></description>
-            <link>https://www.group-ib.com/blog/mssp-fraud-as-a-service/</link>
-            <guid isPermaLink="false">https://www.group-ib.com/blog/mssp-fraud-as-a-service/</guid>
-            <category><![CDATA[GroupIB Blog]]></category>
-            <dc:creator><![CDATA[GroupIB Blog]]></dc:creator>
-            <pubDate>Thu, 30 Jul 2026 07:40:01 GMT</pubDate>
-            <dc:source>GroupIB Blog</dc:source>
             <dc:date>2026-07-30</dc:date>
         </item>
     </channel>
