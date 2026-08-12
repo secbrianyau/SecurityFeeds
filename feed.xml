@@ -9,12 +9,146 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 16:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 19:04:05 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 16:03:33 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 19:04:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Hundreds of fake Chrome VPN extensions route traffic through a proxy]]></title>
+            <description><![CDATA[More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [.....]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 18:54:57 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[A $36 billion lawsuit just turned Kalshi’s $40 billion valuation race into a federal market emergency]]></title>
+            <description><![CDATA[The federal order preserves trading, but the regulator’s explosive description of New York’s TRO request is not a final ruling.
+The post A $36 billion lawsuit just turned Kalshi’s $40 billion valuatio...]]></description>
+            <link>https://cryptoslate.com/a-36-billion-lawsuit-just-turned-kalshis-40-billion-valuation-race-into-a-federal-market-emergency/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/a-36-billion-lawsuit-just-turned-kalshis-40-billion-valuation-race-into-a-federal-market-emergency/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 17:58:19 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Rebound Faces Risk as Futures Demand Outpaces Spot Buying: Analysts]]></title>
+            <description><![CDATA[April's failed rally offers a warning after BTC climbed toward $79K then faded when leverage unwound without stronger spot demand behind it....]]></description>
+            <link>https://cryptopotato.com/bitcoin-rebound-faces-risk-as-futures-demand-outpaces-spot-buying-analysts/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-rebound-faces-risk-as-futures-demand-outpaces-spot-buying-analysts/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 17:56:11 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor]]></title>
+            <description><![CDATA[The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdo...]]></description>
+            <link>https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 17:39:27 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout]]></title>
+            <description><![CDATA[The $2.25 billion deal expands Goldman’s derivative platform to $130 billion in total ETF assets, taking direct aim at BlackRock's rival BITA fund, according to an analyst....]]></description>
+            <link>https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 17:21:03 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Tron Inc. put over 90% of assets behind an uninsured JustLend dependency as its TRX treasury kept growing]]></title>
+            <description><![CDATA[Nearly all treasury TRX is sTRX, with no token insurance and a standard 14-day route back to native TRX.
+The post Tron Inc. put over 90% of assets behind an uninsured JustLend dependency as its TRX tr...]]></description>
+            <link>https://cryptoslate.com/tron-inc-put-over-90-of-assets-behind-an-uninsured-justlend-dependency-as-its-trx-treasury-kept-growing/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/tron-inc-put-over-90-of-assets-behind-an-uninsured-justlend-dependency-as-its-trx-treasury-kept-growing/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 16:50:11 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CA: Snoopers Beware; NL’s Privacy Commissioner Recommends Naming Individuals in Snooping-Related Breaches]]></title>
+            <description><![CDATA[VOCM reports: The province’s Privacy Commissioner is recommending that public bodies consider providing the name of anyone involved in snooping-related privacy breaches to affected individuals. The re...]]></description>
+            <link>https://databreaches.net/2026/08/12/ca-snoopers-beware-nls-privacy-commissioner-recommends-naming-individuals-in-snooping-related-breaches/</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/08/12/ca-snoopers-beware-nls-privacy-commissioner-recommends-naming-individuals-in-snooping-related-breaches/</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 16:43:49 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Wintermute plans $1 billion AI push beyond crypto: Bloomberg]]></title>
+            <description><![CDATA[The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up from 10% currently, as it seeks to diversify its business....]]></description>
+            <link>https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 16:34:24 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming]]></title>
+            <description><![CDATA[Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises...]]></description>
+            <link>https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 16:28:04 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: What Does BTC’s Bearish Market Structure Signal Next?]]></title>
+            <description><![CDATA[Bitcoin remains trapped in a broad consolidation phase, with the price struggling to break above the descending resistance that has governed the market for several months. At around $63.5K, BTC is sho...]]></description>
+            <link>https://cryptopotato.com/bitcoin-price-analysis-what-does-btcs-bearish-market-structure-signal-next/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-price-analysis-what-does-btcs-bearish-market-structure-signal-next/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 16:19:45 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Kalshi taps Solana platform for Wall Street-style high-speed data feed]]></title>
+            <description><![CDATA[Kalshi is looking to meet institutional demands by adding Solana-based DoubleZero data to its order book....]]></description>
+            <link>https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed</link>
+            <guid isPermaLink="false">https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 16:14:49 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Plug and Pwn attack uses fake USB devices for Windows SYSTEM access]]></title>
+            <description><![CDATA[Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM pr...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 16:05:12 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-08-12</dc:date>
+        </item>
         <item>
             <title><![CDATA[Lazarus hackers exploited Windows zero-day to target defense firms]]></title>
             <description><![CDATA[North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]...]]></description>
@@ -72,7 +206,7 @@ The post After selling 832 BTC to clear debt, this Nasdaq-listed crypto firm is 
             <dc:date>2026-08-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Crypto Long & Short:]]></title>
+            <title><![CDATA[Crypto Long & Short: When capital can't move fast enough, markets pay the price]]></title>
             <description><![CDATA[In this week's Crypto Long & Short, LMAX Group's Jenna Wright argues that markets break down not from too little capital but from capital stuck in the wrong place, trapped by settlement cycles while r...]]></description>
             <link>https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short</link>
             <guid isPermaLink="false">https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short</guid>
@@ -722,30 +856,6 @@ The hi...]]></description>
             <dc:date>2026-08-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Strategy’s $4.6 billion cash buffer gives it almost 3 years before Bitcoin sales create real stress]]></title>
-            <description><![CDATA[The company now treats BTC as a managed reserve for dollar obligations, testing whether sales can remain voluntary.
-The post Strategy’s $4.6 billion cash buffer gives it almost 3 years before Bitcoin ...]]></description>
-            <link>https://cryptoslate.com/strategys-4-6-billion-cash-buffer-gives-it-almost-3-years-before-bitcoin-sales-become-a-bigger-test/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/strategys-4-6-billion-cash-buffer-gives-it-almost-3-years-before-bitcoin-sales-become-a-bigger-test/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 23:20:19 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-08-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[This spot Bitcoin ETF only logged six inflow days ever – now investors have until August 17 before forced cash liquidation]]></title>
-            <description><![CDATA[The $11.77 million fund stops trading after the Aug. 17 close, with cash expected around Aug. 28.
-The post This spot Bitcoin ETF only logged six inflow days ever – now investors have until August 17 b...]]></description>
-            <link>https://cryptoslate.com/hashdex-gives-defi-holders-until-aug-17-after-fund-sheds-25-of-shares/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/hashdex-gives-defi-holders-until-aug-17-after-fund-sheds-25-of-shares/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 22:30:08 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-08-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[DeadLock ransomware uses blockchain to resist infrastructure takedown]]></title>
             <description><![CDATA[The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/</link>
@@ -893,17 +1003,6 @@ The flaw sat in the annotation tool, th...]]></description>
             <dc:date>2026-08-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[Brazil's largest lender Itaú is stepping deeper into the tokenization]]></title>
-            <description><![CDATA[Itaú Unibanco said it teamed up with tokenization specialist OpenAssets to test tokenized bonds and funds in a pilot run by Brazil's financial watchdog ANBIMA....]]></description>
-            <link>https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 19:06:23 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-08-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands]]></title>
             <description><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the coun...]]></description>
             <link>https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html</link>
@@ -970,28 +1069,6 @@ The flaw sat in the annotation tool, th...]]></description>
             <dc:date>2026-08-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[Windows 11 KB5121003 & KB5120240 cumulative updates released]]></title>
-            <description><![CDATA[Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 17:38:42 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-08-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[EToro reports second quarter crypto loss even as total profit beats estimates]]></title>
-            <description><![CDATA[The trading platform’s gross crypto revenue fell to $1.35 billion in the second quarter. It also agreed to buy U.S. brokerage TradeZero for up to $231 million....]]></description>
-            <link>https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 17:12:11 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-08-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Internet Computer (ICP) Rebounds 10% Weekly: What’s Happening and What’s Next?]]></title>
             <description><![CDATA[ICP hit a two-month high, but the bears prevented a further move north....]]></description>
             <link>https://cryptopotato.com/internet-computer-icp-rebounds-10-weekly-whats-happening-and-whats-next/</link>
@@ -1038,17 +1115,6 @@ The flaw sat in the annotation tool, th...]]></description>
             <dc:date>2026-08-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[Wesco confirms security incident after ExfilSquad claims data theft]]></title>
-            <description><![CDATA[Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 15:59:35 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-08-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ripple (XRP) Just Dipped Below $1: Collapse Warning or Hidden Opportunity?]]></title>
             <description><![CDATA[XRP is "basically dead," a popular analyst claimed....]]></description>
             <link>https://cryptopotato.com/ripple-xrp-just-dipped-below-1-collapse-warning-or-hidden-opportunity/</link>
@@ -1057,17 +1123,6 @@ The flaw sat in the annotation tool, th...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 15:02:53 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[If crypto goes back to the congressional drawing board, 3 Democrat women loom large]]></title>
-            <description><![CDATA[The Democrats who may get a bigger say in future crypto legislative efforts are familiar figures, and they generally look at digital assets with distrust....]]></description>
-            <link>https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large</link>
-            <guid isPermaLink="false">https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 14:40:15 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-08-11</dc:date>
         </item>
         <item>
@@ -1303,61 +1358,6 @@ Targets of these...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 21:54:22 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-08-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[North Korea’s Kimsuky Turns to AI as Crypto Firms Face New Threats]]></title>
-            <description><![CDATA[Kimsuky appears to be researching ways to use existing AI technology in its attack operations, including malware development, data analysis, and the advancement of attack techniques....]]></description>
-            <link>https://cryptopotato.com/north-koreas-kimsuky-turns-to-ai-as-crypto-firms-face-new-threats/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/north-koreas-kimsuky-turns-to-ai-as-crypto-firms-face-new-threats/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 21:48:39 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Multistate Water System Attacks Widen, Iran Suspected]]></title>
-            <description><![CDATA[Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs....]]></description>
-            <link>https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected</link>
-            <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 21:34:38 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-08-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius]]></title>
-            <description><![CDATA[The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 21:02:23 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-08-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Keith Grossman Warns Crypto Must Prove Its Value as 100+ Projects Fold in 2026]]></title>
-            <description><![CDATA[Some projects attracted significant usage before closing, raising questions about whether activity alone can support viable businesses....]]></description>
-            <link>https://cryptopotato.com/keith-grossman-warns-crypto-must-prove-its-value-as-100-projects-fold-in-2026/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/keith-grossman-warns-crypto-must-prove-its-value-as-100-projects-fold-in-2026/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 20:16:44 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-10</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Key Shiba Inu (SHIB) Metric Hits Monthly High: Breakout Ahead or Not Yet?]]></title>
-            <description><![CDATA[Despite the positive signal, SHIB's wider outlook still leans bearish....]]></description>
-            <link>https://cryptopotato.com/key-shiba-inu-shib-metric-hits-monthly-high-breakout-ahead-or-not-yet/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/key-shiba-inu-shib-metric-hits-monthly-high-breakout-ahead-or-not-yet/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 19:09:32 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-08-10</dc:date>
         </item>
     </channel>
