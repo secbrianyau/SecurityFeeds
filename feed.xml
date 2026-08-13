@@ -9,12 +9,80 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 19:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 21:48:05 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 19:03:58 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 21:48:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Ukraine shuts down 94 fraudulent call centers, seize millions in cash]]></title>
+            <description><![CDATA[Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 21:12:47 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt]]></title>
+            <description><![CDATA[An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 20:47:02 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Global Threat Campaign Hits Critical VMware vCenter Flaw]]></title>
+            <description><![CDATA[Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat....]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 20:45:17 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[DATA Foundation (ex-Story Protocol) keeps insider tokens locked past deadline with no new unlock date]]></title>
+            <description><![CDATA[A June extension superseded the earlier schedule without identifying its start point, affected wallets or token amount.
+The post DATA Foundation (ex-Story Protocol) keeps insider tokens locked past de...]]></description>
+            <link>https://cryptoslate.com/data-foundation-ex-story-protocol-keeps-insider-tokens-locked-past-deadline-with-no-new-unlock-date/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/data-foundation-ex-story-protocol-keeps-insider-tokens-locked-past-deadline-with-no-new-unlock-date/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 20:40:39 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Solana Overtakes Bitcoin and Ether in GSR’s Latest Crypto Portfolio Shake-Up]]></title>
+            <description><![CDATA[Solana is now GSR's largest allocation....]]></description>
+            <link>https://cryptopotato.com/solana-overtakes-bitcoin-and-ether-in-gsrs-latest-crypto-portfolio-shake-up/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/solana-overtakes-bitcoin-and-ether-in-gsrs-latest-crypto-portfolio-shake-up/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 20:09:35 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-08-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Gaming firm GameSquare boasts a $26M Ethereum fortune, but quiet debt fine print leaves just $2.1M in real cash]]></title>
+            <description><![CDATA[In its Aug. 12 earnings exhibit, GameSquare did not disclose how much ETH was pledged or update the March 31 rollover terms.
+The post Gaming firm GameSquare boasts a $26M Ethereum fortune, but quiet d...]]></description>
+            <link>https://cryptoslate.com/gaming-firm-gamesquare-boasts-a-26m-ethereum-fortune-but-quiet-debt-fine-print-leaves-just-2-1m-in-real-cash/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/gaming-firm-gamesquare-boasts-a-26m-ethereum-fortune-but-quiet-debt-fine-print-leaves-just-2-1m-in-real-cash/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 19:35:07 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-13</dc:date>
+        </item>
         <item>
             <title><![CDATA[Tether Clears First Full Audit as KPMG Issues Unqualified Opinion on 2025 Statements]]></title>
             <description><![CDATA[The stablecoin giant's reserves exceeded liabilities by $6.81 billion....]]></description>
@@ -538,28 +606,6 @@ The post Study finds 65,340 risky crypto addresses tied to $574 million i...]]><
             <dc:date>2026-08-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[How a wall of 1.79 million Bitcoin is quietly choking every attempt to break above $65,000]]></title>
-            <description><![CDATA[Bitcoin traders are rebuilding bets on a run toward $70,000 while still paying for protection against a fall to $60,000, showing that softer US inflation data has done little to break the market’s def...]]></description>
-            <link>https://cryptoslate.com/how-a-wall-of-1-79-million-bitcoin-is-quietly-choking-every-attempt-to-break-above-65000/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/how-a-wall-of-1-79-million-bitcoin-is-quietly-choking-every-attempt-to-break-above-65000/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 09:10:18 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Strategy sold $100M to defend STRC’s $100 stock price as DeFi packages the risk into a 7% ‘safer’ trade]]></title>
-            <description><![CDATA[Solstice announced a tranched product built on Strategy's Bitcoin-related STRC preferred stock, and said its senior tranche would not begin absorbing losses until STRC trades below $47.66. STRC curren...]]></description>
-            <link>https://cryptoslate.com/strategy-sold-100m-to-defend-strcs-100-stock-price-as-defi-packages-the-risk-into-a-7-safer-trade/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/strategy-sold-100m-to-defend-strcs-100-stock-price-as-defi-packages-the-risk-into-a-7-safer-trade/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 07:45:37 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-08-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[XRP Faces Its Strongest Selling Pressure Since May: What’s Next for Ripple’s Price?]]></title>
             <description><![CDATA[XRP is under pressure again, as heavy leverage and bearish calls pile up....]]></description>
             <link>https://cryptopotato.com/xrp-faces-its-strongest-selling-pressure-since-may-whats-next-for-ripples-price/</link>
@@ -925,17 +971,6 @@ The vulnerability in question is CVE-2026-55040 (CVSS ...]]></description>
             <dc:date>2026-08-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Lazarus hackers exploited Windows zero-day to target defense firms]]></title>
-            <description><![CDATA[North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 15:38:08 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-08-12</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Pi Network (PI) Climbs 4% After the Community Shares a Major Milestone]]></title>
             <description><![CDATA[Can PI stretch all the way to $0.15, or is another pullback on the way?...]]></description>
             <link>https://cryptopotato.com/pi-network-pi-climbs-4-after-the-community-shares-a-major-milestone/</link>
@@ -955,17 +990,6 @@ The vulnerability in question is CVE-2026-55040 (CVSS ...]]></description>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 14:52:25 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-08-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[FBI: Hackers target online accounts to steal nude photos]]></title>
-            <description><![CDATA[The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 14:15:09 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-08-12</dc:date>
         </item>
         <item>
@@ -1327,28 +1351,6 @@ The hi...]]></description>
             <pubDate>Wed, 12 Aug 2026 05:04:18 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-08-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Arthur Hayes: Japan Yen Fix Could Fuel Bitcoin and Ethereum Rally]]></title>
-            <description><![CDATA[Hayes argues the Fed's existing $60B FIMA limit is too small to support intervention on the scale Japan may require....]]></description>
-            <link>https://cryptopotato.com/arthur-hayes-japan-yen-fix-could-fuel-bitcoin-and-ethereum-rally/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/arthur-hayes-japan-yen-fix-could-fuel-bitcoin-and-ethereum-rally/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 03:50:07 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ZachXBT Names Tiffany Milanovich in Alleged Wallet and Coinbase Theft Network]]></title>
-            <description><![CDATA[Milanovich's connection to John Daghita turned hostile after she recorded him and shared the call. He retaliated by posting her name publicly....]]></description>
-            <link>https://cryptopotato.com/zachxbt-names-tiffany-milanovich-in-alleged-wallet-and-coinbase-theft-network/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/zachxbt-names-tiffany-milanovich-in-alleged-wallet-and-coinbase-theft-network/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 21:51:39 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-11</dc:date>
         </item>
     </channel>
 </rss>
