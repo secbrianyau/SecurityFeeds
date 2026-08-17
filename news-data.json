@@ -1,5 +1,82 @@
 [
   {
+    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+    "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+    "date": "2026-08-17T21:03:04.000Z",
+    "source": "The Hacker News",
+    "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauth..."
+  },
+  {
+    "title": "Forced liquidations begin in 30 days for business crypto accounts missing new verification rules on Bybit",
+    "link": "https://cryptoslate.com/forced-liquidations-begin-in-30-days-for-business-crypto-accounts-missing-new-verification-rules-on-bybit/",
+    "date": "2026-08-17T20:30:06.000Z",
+    "source": "CryptoSlate",
+    "summary": "Only notified business users are covered; access restrictions follow Aug. 21 and market-price liquidation starts Sept. 21.\nThe post Forced liquidations begin in 30 days for business crypto accounts mi..."
+  },
+  {
+    "title": "Strategy’s Future Hinges on Bitcoin Becoming a Real Currency: Jeff Booth",
+    "link": "https://cryptopotato.com/strategys-future-hinges-on-bitcoin-becoming-a-real-currency-jeff-booth/",
+    "date": "2026-08-17T20:26:48.000Z",
+    "source": "CryptoPotato",
+    "summary": "The investor prefers businesses that earn cash through ordinary operations before storing part of it in Bitcoin...."
+  },
+  {
+    "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+    "date": "2026-08-17T19:35:01.000Z",
+    "source": "Bleeping Computer",
+    "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]..."
+  },
+  {
+    "title": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+    "date": "2026-08-17T19:22:56.000Z",
+    "source": "Dark Reading",
+    "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still..."
+  },
+  {
+    "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+    "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+    "date": "2026-08-17T19:12:39.000Z",
+    "source": "Bleeping Computer",
+    "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistic..."
+  },
+  {
+    "title": "Solana’s Agave 4.2 activation target arrives with mainnet feature gates still pending",
+    "link": "https://cryptoslate.com/agave-4-2-activation-target-unconfirmed/",
+    "date": "2026-08-17T19:05:31.000Z",
+    "source": "CryptoSlate",
+    "summary": "The first slot-time gates were still pending, while the 90% rent cut and 4,096-byte transactions lacked confirmed starts.\nThe post Solana’s Agave 4.2 activation target arrives with mainnet feature gat..."
+  },
+  {
+    "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
+    "link": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
+    "date": "2026-08-17T18:53:47.000Z",
+    "source": "Coindesk",
+    "summary": "Strategy is prioritizing STRC, cash reserves, and its credit business over stock buybacks, Executive Chairman Michael Saylor said Monday...."
+  },
+  {
+    "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+    "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+    "date": "2026-08-17T18:44:17.000Z",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploit..."
+  },
+  {
+    "title": "Ripple’s (XRP) $1 Breakdown Could Get Worse Before It Gets Better",
+    "link": "https://cryptopotato.com/ripples-xrp-1-breakdown-could-get-worse-before-it-gets-better/",
+    "date": "2026-08-17T18:34:03.000Z",
+    "source": "CryptoPotato",
+    "summary": "Analysts see further downside for XRP as $0.65 remains possible. A move above $1.081, however, could shift short-term momentum...."
+  },
+  {
+    "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+    "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+    "date": "2026-08-17T18:22:09.000Z",
+    "source": "The Hacker News",
+    "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on suscepti..."
+  },
+  {
     "title": "Bitcoin purchases halted after data breach puts 250,000 crypto users at risk",
     "link": "https://cryptoslate.com/bitcoin-purchases-halted-after-data-breach-puts-250000-crypto-users-at-risk/",
     "date": "2026-08-17T17:50:43.000Z",
@@ -12,6 +89,13 @@
     "date": "2026-08-17T17:45:24.000Z",
     "source": "DataBreaches.net",
     "summary": "“Chaos” is a Ransomware-as-a-Service (RaaS) group first found online in March, 2025.  On August 5, 2026, they added Healthcare Highways to their dedicated leak site, with a 24-hour countdown clock. He..."
+  },
+  {
+    "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+    "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+    "date": "2026-08-17T17:41:06.000Z",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel..."
   },
   {
     "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
@@ -308,13 +392,6 @@
     "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]..."
   },
   {
-    "title": "SafePal breach exposes 40,000 customers as hardware wallet attacks escalate from data leaks to $100 million theft",
-    "link": "https://cryptoslate.com/safepal-breach-exposes-40000-customers-as-hardware-wallet-attacks-escalate-from-data-leaks-to-100-million-theft/",
-    "date": "2026-08-17T08:50:33.000Z",
-    "source": "CryptoSlate",
-    "summary": "An order-tracking flaw exposed contact, shipping and purchase details, while SafePal reported no evidence of compromised wallets or funds.\nThe post SafePal breach exposes 40,000 customers as hardware ..."
-  },
-  {
     "title": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
     "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
     "date": "2026-08-17T08:38:26.000Z",
@@ -383,13 +460,6 @@
     "date": "2026-08-17T03:52:21.000Z",
     "source": "CryptoPotato",
     "summary": "The latest SEC filings showed that some of Wall Street's biggest names have been quietly scooping XRP ETF shares. Here's who holds the most...."
-  },
-  {
-    "title": "This public company quit solar for a $5 million Bitcoin bet, now it has just $166,000 in cash",
-    "link": "https://cryptoslate.com/this-public-company-quit-solar-for-a-5-million-bitcoin-bet-now-it-has-just-166000-in-cash/",
-    "date": "2026-08-17T01:00:43.000Z",
-    "source": "CryptoSlate",
-    "summary": "The June 30 filing puts $4.118 million of Bitcoin at the center of an unresolved going-concern problem.\nThe post This public company quit solar for a $5 million Bitcoin bet, now it has just $166,000 i..."
   },
   {
     "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
@@ -509,13 +579,6 @@
     "date": "2026-08-16T13:07:08.000Z",
     "source": "CryptoPotato",
     "summary": "Meanwhile, bitcoin's open interest has surged to a 3-year high, hinting at a more volatile immediate future...."
-  },
-  {
-    "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-    "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
-    "date": "2026-08-16T13:00:00.000Z",
-    "source": "Coindesk",
-    "summary": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground...."
   },
   {
     "title": "BiggerZ: Building a Fairness-First Crypto Casino, Sportsbook, and Prediction Markets Platform",
@@ -686,20 +749,6 @@
     "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]..."
   },
   {
-    "title": "XRP Ledger’s XAO DAO Plans Major Governance Upgrades to Boost Community Participation",
-    "link": "https://cryptopotato.com/xrp-ledgers-xao-dao-plans-major-governance-upgrades-to-boost-community-participation/",
-    "date": "2026-08-14T21:38:26.000Z",
-    "source": "CryptoPotato",
-    "summary": "XAO DAO has not yet disclosed the final mechanics or timetable for implementing all the proposed governance changes...."
-  },
-  {
-    "title": "It’s Not Just Baltimore: Kalshi and Polymarket Face More Legal Trouble",
-    "link": "https://cryptopotato.com/its-not-just-baltimore-kalshi-and-polymarket-face-more-legal-trouble/",
-    "date": "2026-08-14T19:52:15.000Z",
-    "source": "CryptoPotato",
-    "summary": "Kalshi and Polymarket are offering bets on winners, spreads, totals, and player stats, but Baltimore says they lack the required licenses...."
-  },
-  {
     "title": "Mission-Driven Security: Inside a Global Bank's Defense",
     "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
     "date": "2026-08-14T19:24:18.000Z",
@@ -733,20 +782,6 @@
     "date": "2026-08-14T15:58:50.000Z",
     "source": "Dark Reading",
     "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well...."
-  },
-  {
-    "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-    "date": "2026-08-14T14:59:55.000Z",
-    "source": "Bleeping Computer",
-    "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]..."
-  },
-  {
-    "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-    "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-    "date": "2026-08-14T14:00:10.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need def..."
   },
   {
     "title": "What Boards Need to Know About Tech Risk",
@@ -803,40 +838,5 @@
     "date": "2026-08-14T09:38:56.000Z",
     "source": "The Hacker News",
     "summary": "A new White House memo signed by U.S. President Donald Trump has instructed the National Coordination Center (NCC) to establish a program that would allow private sector companies to take advantage of..."
-  },
-  {
-    "title": "China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud",
-    "link": "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
-    "date": "2026-08-14T07:54:18.000Z",
-    "source": "The Hacker News",
-    "summary": "The China-linked threat actor known as Jewelbug has been observed carrying out cyber espionage operations targeting governments and militaries, while simultaneously engaging in cryptocurrency fraud.\n\n..."
-  },
-  {
-    "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-    "date": "2026-08-13T20:45:17.000Z",
-    "source": "Dark Reading",
-    "summary": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat...."
-  },
-  {
-    "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
-    "link": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
-    "date": "2026-08-13T18:45:12.000Z",
-    "source": "The Hacker News",
-    "summary": "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr.\n\nThe vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability ..."
-  },
-  {
-    "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
-    "link": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
-    "date": "2026-08-13T18:17:10.000Z",
-    "source": "The Hacker News",
-    "summary": "Some weeks have one big security story. Others bring many smaller updates that are easy to miss but still matter. This week has plenty of them, covering cloud services, AI tools, malware, data breache..."
-  },
-  {
-    "title": "Trezor reports data from 14K users exposed through shipping provider",
-    "link": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound",
-    "date": "2026-08-13T15:25:14.000Z",
-    "source": "Cointelegraph - Security",
-    "summary": "The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe...."
   }
 ]

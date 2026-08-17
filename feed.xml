@@ -9,12 +9,135 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 18:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 21:26:55 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 18:39:44 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 21:26:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects]]></title>
+            <description><![CDATA[GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauth...]]></description>
+            <link>https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 21:03:04 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Forced liquidations begin in 30 days for business crypto accounts missing new verification rules on Bybit]]></title>
+            <description><![CDATA[Only notified business users are covered; access restrictions follow Aug. 21 and market-price liquidation starts Sept. 21.
+The post Forced liquidations begin in 30 days for business crypto accounts mi...]]></description>
+            <link>https://cryptoslate.com/forced-liquidations-begin-in-30-days-for-business-crypto-accounts-missing-new-verification-rules-on-bybit/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/forced-liquidations-begin-in-30-days-for-business-crypto-accounts-missing-new-verification-rules-on-bybit/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 20:30:06 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Strategy’s Future Hinges on Bitcoin Becoming a Real Currency: Jeff Booth]]></title>
+            <description><![CDATA[The investor prefers businesses that earn cash through ordinary operations before storing part of it in Bitcoin....]]></description>
+            <link>https://cryptopotato.com/strategys-future-hinges-on-bitcoin-becoming-a-real-currency-jeff-booth/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/strategys-future-hinges-on-bitcoin-becoming-a-real-currency-jeff-booth/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 20:26:48 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hacker claims 3.6 million Azure account records stolen from major companies]]></title>
+            <description><![CDATA[A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 19:35:01 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Adam Shostack Talks Hugging Face &amp; PHANTOM-B]]></title>
+            <description><![CDATA[World-class threat modeler Adam Shostack shared he was "blown away" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both "lightweight yet still...]]></description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</link>
+            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 19:22:56 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Pokémon Center data breach exposes customer info, cancels some orders]]></title>
+            <description><![CDATA[Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistic...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 19:12:39 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Solana’s Agave 4.2 activation target arrives with mainnet feature gates still pending]]></title>
+            <description><![CDATA[The first slot-time gates were still pending, while the 90% rent cut and 4,096-byte transactions lacked confirmed starts.
+The post Solana’s Agave 4.2 activation target arrives with mainnet feature gat...]]></description>
+            <link>https://cryptoslate.com/agave-4-2-activation-target-unconfirmed/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/agave-4-2-activation-target-unconfirmed/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 19:05:31 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve]]></title>
+            <description><![CDATA[Strategy is prioritizing STRC, cash reserves, and its credit business over stock buybacks, Executive Chairman Michael Saylor said Monday....]]></description>
+            <link>https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 18:53:47 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection]]></title>
+            <description><![CDATA[Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploit...]]></description>
+            <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 18:44:17 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple’s (XRP) $1 Breakdown Could Get Worse Before It Gets Better]]></title>
+            <description><![CDATA[Analysts see further downside for XRP as $0.65 remains possible. A move above $1.081, however, could shift short-term momentum....]]></description>
+            <link>https://cryptopotato.com/ripples-xrp-1-breakdown-could-get-worse-before-it-gets-better/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/ripples-xrp-1-breakdown-could-get-worse-before-it-gets-better/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 18:34:03 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads]]></title>
+            <description><![CDATA[A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on suscepti...]]></description>
+            <link>https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 18:22:09 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
         <item>
             <title><![CDATA[Bitcoin purchases halted after data breach puts 250,000 crypto users at risk]]></title>
             <description><![CDATA[The company has more than 250,000 customers, but it has not disclosed how many were affected.
@@ -36,6 +159,17 @@ The post Bitcoin purchases halted after data breach puts 250,000 crypto users at
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 17:45:24 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-08-17</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic]]></title>
+            <description><![CDATA[Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel...]]></description>
+            <link>https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 17:41:06 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-08-17</dc:date>
         </item>
         <item>
@@ -509,18 +643,6 @@ The post Bitfinex gives users 14 days to withdraw 13 delisted tokens or face fee
             <dc:date>2026-08-17</dc:date>
         </item>
         <item>
-            <title><![CDATA[SafePal breach exposes 40,000 customers as hardware wallet attacks escalate from data leaks to $100 million theft]]></title>
-            <description><![CDATA[An order-tracking flaw exposed contact, shipping and purchase details, while SafePal reported no evidence of compromised wallets or funds.
-The post SafePal breach exposes 40,000 customers as hardware ...]]></description>
-            <link>https://cryptoslate.com/safepal-breach-exposes-40000-customers-as-hardware-wallet-attacks-escalate-from-data-leaks-to-100-million-theft/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/safepal-breach-exposes-40000-customers-as-hardware-wallet-attacks-escalate-from-data-leaks-to-100-million-theft/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 08:50:33 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-08-17</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in]]></title>
             <description><![CDATA[Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietl...]]></description>
             <link>https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned</link>
@@ -630,18 +752,6 @@ The attacks involve...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:52:21 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-17</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[This public company quit solar for a $5 million Bitcoin bet, now it has just $166,000 in cash]]></title>
-            <description><![CDATA[The June 30 filing puts $4.118 million of Bitcoin at the center of an unresolved going-concern problem.
-The post This public company quit solar for a $5 million Bitcoin bet, now it has just $166,000 i...]]></description>
-            <link>https://cryptoslate.com/this-public-company-quit-solar-for-a-5-million-bitcoin-bet-now-it-has-just-166000-in-cash/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/this-public-company-quit-solar-for-a-5-million-bitcoin-bet-now-it-has-just-166000-in-cash/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 01:00:43 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-08-17</dc:date>
         </item>
         <item>
@@ -829,17 +939,6 @@ The post This public company quit solar for a $5 million Bitcoin bet, now it has
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 13:07:08 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-16</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[The stablecoin yield clash that won't go away has banks, crypto battling over tradition]]></title>
-            <description><![CDATA[The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground....]]></description>
-            <link>https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition</link>
-            <guid isPermaLink="false">https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 13:00:00 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-08-16</dc:date>
         </item>
         <item>
@@ -1109,28 +1208,6 @@ The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring 
             <dc:date>2026-08-14</dc:date>
         </item>
         <item>
-            <title><![CDATA[XRP Ledger’s XAO DAO Plans Major Governance Upgrades to Boost Community Participation]]></title>
-            <description><![CDATA[XAO DAO has not yet disclosed the final mechanics or timetable for implementing all the proposed governance changes....]]></description>
-            <link>https://cryptopotato.com/xrp-ledgers-xao-dao-plans-major-governance-upgrades-to-boost-community-participation/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/xrp-ledgers-xao-dao-plans-major-governance-upgrades-to-boost-community-participation/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 21:38:26 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[It’s Not Just Baltimore: Kalshi and Polymarket Face More Legal Trouble]]></title>
-            <description><![CDATA[Kalshi and Polymarket are offering bets on winners, spreads, totals, and player stats, but Baltimore says they lack the required licenses....]]></description>
-            <link>https://cryptopotato.com/its-not-just-baltimore-kalshi-and-polymarket-face-more-legal-trouble/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/its-not-just-baltimore-kalshi-and-polymarket-face-more-legal-trouble/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 19:52:15 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-14</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Mission-Driven Security: Inside a Global Bank's Defense]]></title>
             <description><![CDATA[In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI...]]></description>
             <link>https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense</link>
@@ -1183,28 +1260,6 @@ The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring 
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 15:58:50 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hackers exploit macOS Screen Sharing flaw to deploy Monero miner]]></title>
-            <description><![CDATA[The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 14:59:55 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI]]></title>
-            <description><![CDATA[Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need def...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 14:00:10 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-08-14</dc:date>
         </item>
         <item>
@@ -1296,65 +1351,6 @@ In a statement shared with TechCrunch, the iPhone maker said i...]]></descriptio
             <pubDate>Fri, 14 Aug 2026 09:38:56 GMT</pubDate>
             <dc:source>The Hacker News</dc:source>
             <dc:date>2026-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud]]></title>
-            <description><![CDATA[The China-linked threat actor known as Jewelbug has been observed carrying out cyber espionage operations targeting governments and militaries, while simultaneously engaging in cryptocurrency fraud.
-
-...]]></description>
-            <link>https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 07:54:18 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-08-14</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Global Threat Campaign Hits Critical VMware vCenter Flaw]]></title>
-            <description><![CDATA[Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat....]]></description>
-            <link>https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw</link>
-            <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 20:45:17 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE]]></title>
-            <description><![CDATA[A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr.
-
-The vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability ...]]></description>
-            <link>https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 18:45:12 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories]]></title>
-            <description><![CDATA[Some weeks have one big security story. Others bring many smaller updates that are easy to miss but still matter. This week has plenty of them, covering cloud services, AI tools, malware, data breache...]]></description>
-            <link>https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 18:17:10 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-08-13</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Trezor reports data from 14K users exposed through shipping provider]]></title>
-            <description><![CDATA[The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe....]]></description>
-            <link>https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</link>
-            <guid isPermaLink="false">https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&amp;utm_medium=rss_tag_security&amp;utm_campaign=rss_partner_inbound</guid>
-            <category><![CDATA[Cointelegraph - Security]]></category>
-            <dc:creator><![CDATA[Cointelegraph - Security]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 15:25:14 GMT</pubDate>
-            <dc:source>Cointelegraph - Security</dc:source>
-            <dc:date>2026-08-13</dc:date>
         </item>
     </channel>
 </rss>
