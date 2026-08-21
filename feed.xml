@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 03:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 06:45:21 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 03:52:28 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 06:45:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -24,6 +24,75 @@
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-08-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution]]></title>
+            <description><![CDATA[Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.
+
+The vulnerability, tracked as ...]]></description>
+            <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 06:06:11 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-08-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[MANTRA token plunges 18% to record low as blockchain halts after exploit]]></title>
+            <description><![CDATA[The token touched $0.004126 minutes before the network stopped producing blocks, while MANTRA later said an attacker exploited a vulnerability in software used by the chain....]]></description>
+            <link>https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 05:52:27 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-08-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple backs an RLUSD credit fund amid XRP's best week in months]]></title>
+            <description><![CDATA[Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation....]]></description>
+            <link>https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 05:29:48 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-08-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Rockets Past $75K as Analyst Declares the Bull Market Has Begun]]></title>
+            <description><![CDATA[Numerous altcoins have recorded more impressive gains today, led by Ripple's XRP....]]></description>
+            <link>https://cryptopotato.com/bitcoin-rockets-past-75k-as-analyst-declares-the-bull-market-has-begun/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-rockets-past-75k-as-analyst-declares-the-bull-market-has-begun/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 05:09:15 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-08-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[BTCS used Ethereum to repay Aave debt and ended Q2 with just $317,000 in cash]]></title>
+            <description><![CDATA[Most of its $89.3 million balance sheet remained tied to digital assets, staking and DeFi positions.
+The post BTCS used Ethereum to repay Aave debt and ended Q2 with just $317,000 in cash appeared fir...]]></description>
+            <link>https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 05:00:12 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-08-21</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin, ether and solana climb as another $1 billion shorts get wiped out]]></title>
+            <description><![CDATA[The two-day short liquidation total has reached about $3.8 billion, after Thursday's figure set a record going back to 2021....]]></description>
+            <link>https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 04:56:30 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
             <dc:date>2026-08-21</dc:date>
         </item>
         <item>
@@ -266,7 +335,7 @@ The post Nasdaq-listed company warned it may not survive 12 months after its cry
             <dc:date>2026-08-20</dc:date>
         </item>
         <item>
-            <title><![CDATA[ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More]]></title>
+            <title><![CDATA[ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More]]></title>
             <description><![CDATA[A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.
 
 Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header ch...]]></description>
@@ -334,18 +403,6 @@ The activity...]]></description>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 16:17:32 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2026-08-20</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[FBI gets alleged $165 million crypto Ponzi scheme mastermind back after year-long Fiji escape]]></title>
-            <description><![CDATA[Prosecutors say The Crypto Program drew more than $165 million with a promised 25% monthly return.
-The post FBI gets alleged $165 million crypto Ponzi scheme mastermind back after year-long Fiji escap...]]></description>
-            <link>https://cryptoslate.com/fbi-gets-alleged-165-million-crypto-ponzi-mastermind-back-after-year-long-fiji-escape/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/fbi-gets-alleged-165-million-crypto-ponzi-mastermind-back-after-year-long-fiji-escape/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 15:40:03 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-08-20</dc:date>
         </item>
         <item>
@@ -1083,17 +1140,6 @@ The vulnerability, trac...]]></description>
             <dc:date>2026-08-19</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite]]></title>
-            <description><![CDATA[BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks....]]></description>
-            <link>https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 16:18:04 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-08-19</dc:date>
-        </item>
-        <item>
             <title><![CDATA[US charges Iranian hackers over $3.4 billion intellectual property theft]]></title>
             <description><![CDATA[The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/</link>
@@ -1124,28 +1170,6 @@ The vulnerability, trac...]]></description>
             <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 15:27:06 GMT</pubDate>
             <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2026-08-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin nears key technical breakout that could propel prices to $76,000]]></title>
-            <description><![CDATA[Bitcoin is close to forming a pattern that analysts say could signal prices rising to as high as $76,000....]]></description>
-            <link>https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 15:22:47 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-08-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill]]></title>
-            <description><![CDATA[COIN and BLSH rose about 8% and CRCL gained nearly 10% ahead of a key procedural vote scheduled for Sept. 15....]]></description>
-            <link>https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 15:22:29 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-08-19</dc:date>
         </item>
         <item>
@@ -1334,28 +1358,6 @@ The intrusion set makes use of seven remote access tool (RAT) fami...]]></descri
             <category><![CDATA[CryptoPotato]]></category>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 10:20:15 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-08-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price to $1 Million? SEC Rolls Out ‘Fit-for-Purpose’ Crypto Framework]]></title>
-            <description><![CDATA[The SEC has proposed “Regulation Crypto Assets,” a tailored framework for certain crypto-related investment contracts. The proposal creates two registration exemptions: a one-time exemption ......]]></description>
-            <link>https://www.ccn.com/news/crypto/bitcoin-1-million-sec-crypto-framework/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/bitcoin-1-million-sec-crypto-framework/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 09:37:45 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2026-08-19</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Viral Altcoin Explodes to New All-Time High, Bitcoin (BTC) Touched $65K: Market Watch]]></title>
-            <description><![CDATA[The altcoin in question has skyrocketed by over 80% in the past day alone....]]></description>
-            <link>https://cryptopotato.com/viral-altcoin-explodes-to-new-all-time-high-bitcoin-btc-touched-65k-market-watch/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/viral-altcoin-explodes-to-new-all-time-high-bitcoin-btc-touched-65k-market-watch/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 09:35:29 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-08-19</dc:date>
         </item>
