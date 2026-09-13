@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 15:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 20:25:44 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 15:41:37 GMT</pubDate>
+        <pubDate>Sun, 13 Sep 2026 20:25:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,7 +22,7 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 15:36:57 GMT</pubDate>
+            <pubDate>Sun, 13 Sep 2026 20:19:04 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2026-09-13</dc:date>
         </item>
@@ -33,8 +33,135 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 15:36:57 GMT</pubDate>
+            <pubDate>Sun, 13 Sep 2026 20:19:04 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes]]></title>
+            <description><![CDATA[The ack3-affiliated preprint found a 72.1% outside-scope share after excluding two H1 2026 outliers, while August incidents add operational context.
+The post Audited DeFi protocols lost $885M to attac...]]></description>
+            <link>https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 20:15:08 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: BTC Faces a Make-or-Break Week – What’s the Most Likely Scenario?]]></title>
+            <description><![CDATA[Bitcoin is consolidating around $77.3K after a powerful breakout from the $67K area. While the broader structure has improved significantly, BTC is now facing an important resistance cluster near $80K...]]></description>
+            <link>https://cryptopotato.com/bitcoin-price-analysis-btc-faces-a-make-or-break-week-whats-the-most-likely-scenario/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-price-analysis-btc-faces-a-make-or-break-week-whats-the-most-likely-scenario/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 19:36:50 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath]]></title>
+            <description><![CDATA[Banks retain the customer interface, while undisclosed pricing, data, compliance and settlement terms will determine who captures the value.
+The post Coinbase gives community banks a stablecoin bridge...]]></description>
+            <link>https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 19:10:30 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Is Clarity dead? A vibes-based analysis: State of Crypto ]]></title>
+            <description><![CDATA[I dunno, flip a coin....]]></description>
+            <link>https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 18:45:08 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Malicious bots are actively probing exposed Bitcoin payment servers to steal master administrative keys]]></title>
+            <description><![CDATA[The risk is limited to manually exposed APIs, and version 2.4.4 closes the standard public path.
+The post Malicious bots are actively probing exposed Bitcoin payment servers to steal master administra...]]></description>
+            <link>https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 18:30:17 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[What Happens to XRP if the CLARITY Act Vote Fails on September 15? AI Maps the Downside]]></title>
+            <description><![CDATA[XRP investors brace for a potentially volatile 48-hour period as US Senate is scheuled to hold a cloture vote on the motion to proceed with the CLARITY Act....]]></description>
+            <link>https://cryptopotato.com/what-happens-to-xrp-if-the-clarity-act-vote-fails-on-september-15-ai-maps-the-downside/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/what-happens-to-xrp-if-the-clarity-act-vote-fails-on-september-15-ai-maps-the-downside/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 18:10:33 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cosmos is back online after outage, but Ledger users still can’t see or send their ATOM]]></title>
+            <description><![CDATA[Balances, history and transactions remain unavailable in the app, but Ledger lists Cosmostation and Keplr for urgent access.
+The post Cosmos is back online after outage, but Ledger users still can’t s...]]></description>
+            <link>https://cryptoslate.com/cosmos-is-back-online-after-outage-but-ledger-users-still-cant-see-or-send-their-atom/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/cosmos-is-back-online-after-outage-but-ledger-users-still-cant-see-or-send-their-atom/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 17:55:22 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Quantum-proof blockchain: why math, not machines, holds the key ]]></title>
+            <description><![CDATA[lockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools....]]></description>
+            <link>https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key</link>
+            <guid isPermaLink="false">https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 17:00:00 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Why AI faces an immediately difficult choice: Nationalize or decentralize – AI’s 2026 slowdown dilemma]]></title>
+            <description><![CDATA[His three-stage proposal points toward binding cross-lab limits, a narrow public brake and independently distributed scrutiny.
+The post Why AI faces an immediately difficult choice: Nationalize or dec...]]></description>
+            <link>https://cryptoslate.com/does-ai-face-an-immediately-difficult-choice-nationalize-or-decentralize-ais-2026-slowdown-dilemma/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/does-ai-face-an-immediately-difficult-choice-nationalize-or-decentralize-ais-2026-slowdown-dilemma/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 16:55:14 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Critical Bitcoin Lightning bugs exposed nodes to fund theft and restart failure]]></title>
+            <description><![CDATA[LDK v0.2.6 addresses small splice-related fund losses and a payment-handling flaw that could prevent saved channel state from loading.
+The post Critical Bitcoin Lightning bugs exposed nodes to fund th...]]></description>
+            <link>https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/critical-bitcoin-lightning-bugs-exposed-nodes-to-fund-theft-and-restart-failure/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 15:55:14 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-13</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[US Bond Market Is Flashing a Major Warning: Is This the Setup Bitcoin Was Built For?]]></title>
+            <description><![CDATA[The US bond market is sending increasingly uncomfortable signals. How does BTC fit into this?...]]></description>
+            <link>https://cryptopotato.com/us-bond-market-is-flashing-a-major-warning-is-this-the-setup-bitcoin-was-built-for/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/us-bond-market-is-flashing-a-major-warning-is-this-the-setup-bitcoin-was-built-for/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 15:44:34 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-09-13</dc:date>
         </item>
         <item>
@@ -173,18 +300,6 @@ The post UK company sells entire Bitcoin reserve to return 669 BTC to shareholde
             <dc:date>2026-09-13</dc:date>
         </item>
         <item>
-            <title><![CDATA[Crypto wallet creators now have just 24 hours to alert regulators when flaws are exploited]]></title>
-            <description><![CDATA[Qualifying commercial wallet hardware and software now face a rapid three-stage reporting process for serious security events.
-The post Crypto wallet creators now have just 24 hours to alert regulator...]]></description>
-            <link>https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/crypto-wallet-creators-now-have-just-24-hours-to-alert-regulators-when-flaws-are-exploited/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 11:45:33 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-09-13</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ethereum ETFs Stay Strong as Bitcoin Funds Lose $460M in a Week]]></title>
             <description><![CDATA[Friday was particularly positive day for the ETH ETFs, which coincided with the major surge to an eight-month high....]]></description>
             <link>https://cryptopotato.com/ethereum-etfs-stay-strong-as-bitcoin-funds-lose-460m-in-a-week/</link>
@@ -306,18 +421,6 @@ The post Crypto wallet creators now have just 24 hours to alert regulator...]]><
             <dc:date>2026-09-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Thailand’s stablecoin proposal would block transfers to other people’s wallets]]></title>
-            <description><![CDATA[Licensed crypto firms could accept deposits and withdrawals only through accounts verified as the customer’s own.
-The post Thailand’s stablecoin proposal would block transfers to other people’s wallet...]]></description>
-            <link>https://cryptoslate.com/thailands-stablecoin-proposal-would-block-transfers-to-other-peoples-wallets/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/thailands-stablecoin-proposal-would-block-transfers-to-other-peoples-wallets/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 21:25:29 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-09-12</dc:date>
-        </item>
-        <item>
             <title><![CDATA[OpenAI IPO won't happen this year, says Sam Altman]]></title>
             <description><![CDATA["Given everything happening with safety, right now would be an ill-advised moment to go public," OpenAI CEO Sam Altman told Fortune....]]></description>
             <link>https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman</link>
@@ -340,18 +443,6 @@ The post Thailand’s stablecoin proposal would block transfers to other people�
             <dc:date>2026-09-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged off near-5% Treasury yields]]></title>
-            <description><![CDATA[With Bitcoin near $77,743 and weekend options volatility elevated, Wednesday’s Fed decision will test whether the gap persists.
-The post Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged o...]]></description>
-            <link>https://cryptoslate.com/bitcoins-80000-ceiling-looks-different-after-stocks-shrugged-off-near-5-treasury-yields/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoins-80000-ceiling-looks-different-after-stocks-shrugged-off-near-5-treasury-yields/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 20:20:10 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-09-12</dc:date>
-        </item>
-        <item>
             <title><![CDATA[India’s Demat 2.0 Could Change Bond Tokenization: Here’s How It Works]]></title>
             <description><![CDATA[The country has taken a major step toward bringing tokenized real-world assets (RWAs) into its mainstream financial system....]]></description>
             <link>https://cryptopotato.com/indias-demat-2-0-could-change-bond-tokenization-heres-how-it-works/</link>
@@ -360,17 +451,6 @@ The post Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged o...]]>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sat, 12 Sep 2026 20:04:30 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-09-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[The biggest vulnerability in your Bitcoin wallet might be the shipping label]]></title>
-            <description><![CDATA[Hardware wallets might be able to protect your keys, but the paperwork from buying them could expose your identity. To buy a hardware wallet, you give a company your name and address so it can send yo...]]></description>
-            <link>https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/your-bitcoin-wallet-has-a-shipping-problem/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 19:30:23 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-09-12</dc:date>
         </item>
         <item>
@@ -396,18 +476,6 @@ The post Bitcoin’s $80,000 ceiling looks fragile after stocks shrugged o...]]>
             <dc:date>2026-09-12</dc:date>
         </item>
         <item>
-            <title><![CDATA[Why Bitcoin initially held its gain as rate traders put September hike odds at 85%]]></title>
-            <description><![CDATA[Gasoline drove much of August's headline jump, but faster monthly core inflation kept Waller's warning alive.
-The post Why Bitcoin initially held its gain as rate traders put September hike odds at 85...]]></description>
-            <link>https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/why-bitcoin-initially-held-its-gain-as-rate-traders-put-september-hike-odds-at-85/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 18:20:06 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-09-12</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Why Ripple (XRP)? 21Shares Highlights 4 Reasons Investors Should Take Notice]]></title>
             <description><![CDATA[XRP has endured a difficult 2026 price-wise, but 21Shares believes the asset now has a considerably stronger fundamental setup than in previous years....]]></description>
             <link>https://cryptopotato.com/why-ripple-xrp-21shares-highlights-4-reasons-investors-should-take-notice/</link>
@@ -416,17 +484,6 @@ The post Why Bitcoin initially held its gain as rate traders put September hike 
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Sat, 12 Sep 2026 17:48:33 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-09-12</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Stablecoins make sending money easy until someone needs to spend it]]></title>
-            <description><![CDATA[When you send money to someone abroad, the confirmation on your phone is only your half of the transaction: the other half belongs to the person who has to use it. Their rent may be due in local curre...]]></description>
-            <link>https://cryptoslate.com/stablecoins-make-sending-money-easy-until-someone-needs-to-spend-it/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/stablecoins-make-sending-money-easy-until-someone-needs-to-spend-it/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 17:30:53 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-09-12</dc:date>
         </item>
         <item>
@@ -1092,17 +1149,6 @@ The vulnerability i...]]></description>
             <dc:date>2026-09-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[The 3 Most Important Things to Know About the CLARITY Act]]></title>
-            <description><![CDATA[Here are some of the most important things about the CLARITY Act as it heads for a critical Senate vote set for September 15....]]></description>
-            <link>https://cryptopotato.com/the-3-most-important-things-to-know-about-the-clarity-act/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/the-3-most-important-things-to-know-about-the-clarity-act/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 08:04:05 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-09-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Trezor: 347,000 users targeted in phishing attacks after Brevo breach]]></title>
             <description><![CDATA[Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/</link>
@@ -1158,17 +1204,6 @@ The vulnerability i...]]></description>
             <dc:date>2026-09-11</dc:date>
         </item>
         <item>
-            <title><![CDATA[Senate Republicans Update CLARITY Act Before September 15 Vote]]></title>
-            <description><![CDATA[More than 115 Democratic "wins" are now reportedly part of the CLARITY Act, but ethics rules remain unchanged....]]></description>
-            <link>https://cryptopotato.com/senate-republicans-update-clarity-act-before-september-15-vote/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/senate-republicans-update-clarity-act-before-september-15-vote/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 06:45:58 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-09-11</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware]]></title>
             <description><![CDATA[Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilitie...]]></description>
             <link>https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html</link>
@@ -1188,39 +1223,6 @@ The vulnerability i...]]></description>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 06:17:31 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2026-09-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[India starts tokenizing $620 billion corporate bond market with digital rupee settlement]]></title>
-            <description><![CDATA[SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles payment through the RBI’s wholesale digital rupee, with secondary trading and retail access expected in later phases....]]></description>
-            <link>https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 05:13:15 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-09-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike]]></title>
-            <description><![CDATA[Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has shed more than 5% on the week....]]></description>
-            <link>https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 04:46:15 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-09-11</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Tag Markets Names Craig Lund Chief Executive Officer]]></title>
-            <description><![CDATA[[PRESS RELEASE – Dubai, United Arab Emirates, September 10th, 2026] The appointment brings a veteran of regulated digital-asset and brokerage businesses to a firm turning its focus from growth alone t...]]></description>
-            <link>https://cryptopotato.com/tag-markets-names-craig-lund-chief-executive-officer/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/tag-markets-names-craig-lund-chief-executive-officer/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 04:33:29 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
             <dc:date>2026-09-11</dc:date>
         </item>
         <item>
