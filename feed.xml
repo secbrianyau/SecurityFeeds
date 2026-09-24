@@ -9,9 +9,9 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 21:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 03:15:55 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 21:09:55 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 03:15:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
@@ -22,7 +22,109 @@
             <guid isPermaLink="false">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
             <category><![CDATA[Dark Reading]]></category>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 21:04:35 GMT</pubDate>
+            <pubDate>Thu, 24 Sep 2026 03:10:16 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-09-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cardano proposal slashes fees by 55%, but it comes with a cost for small pools]]></title>
+            <description><![CDATA[DReps and the committee now decide the narrower 75 ADA proposal; any delegator gain still depends on what pools charge.
+The post Cardano proposal slashes fees by 55%, but it comes with a cost for smal...]]></description>
+            <link>https://cryptoslate.com/cardano-proposal-slashes-fees-by-55-but-it-comes-with-a-cost-for-small-pools/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/cardano-proposal-slashes-fees-by-55-but-it-comes-with-a-cost-for-small-pools/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 02:50:26 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[White hats recover 52 Bitcoin from Coldcard exploit, and a new public portal lets victims check eligibility]]></title>
+            <description><![CDATA[A Sept. 21 transaction points owners toward a trust address check for an earlier disclosed rescue, with any return subject to verification.
+The post White hats recover 52 Bitcoin from Coldcard exploit...]]></description>
+            <link>https://cryptoslate.com/white-hats-recover-52-bitcoin-from-coldcard-exploit-and-a-new-public-portal-lets-victims-check-eligibility/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/white-hats-recover-52-bitcoin-from-coldcard-exploit-and-a-new-public-portal-lets-victims-check-eligibility/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 01:10:28 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-24</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[FBI Hack Exposed FBI’s Own Hacking Unit]]></title>
+            <description><![CDATA[Joseph Cox reports: The catastrophic hack of at least thousands of FBI officials’ personal data, including their addresses, phone numbers, and even their spouses, includes members of the FBI’s secreti...]]></description>
+            <link>https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/</link>
+            <guid isPermaLink="false">https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/</guid>
+            <category><![CDATA[DataBreaches.net]]></category>
+            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 23:52:58 GMT</pubDate>
+            <dc:source>DataBreaches.net</dc:source>
+            <dc:date>2026-09-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin slips below $85,000 as 5% Treasury yield returns to haunt risk assets]]></title>
+            <description><![CDATA[Bitcoin fell below $85,000 on Sept. 23 after stronger-than-expected US business activity sent Treasury yields higher and flushed leveraged longs. The reversal broke the momentum behind a rebound that ...]]></description>
+            <link>https://cryptoslate.com/bitcoin-slips-below-85000-as-5-treasury-yield-returns-to-haunt-risk-assets/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-slips-below-85000-as-5-treasury-yield-returns-to-haunt-risk-assets/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 23:40:38 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Placeholder domain used in dev docs now serves ClickFix attacks]]></title>
+            <description><![CDATA[The "third-party.com" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into exec...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 22:46:01 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-09-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Report: CFTC Eyes Unusual $5B Trading Pattern on Kalshi ETH Perpetuals]]></title>
+            <description><![CDATA[Kalshi denies wash trading allegations, arguing that repeated transactions stemmed from how market markers' orders were executed....]]></description>
+            <link>https://cryptopotato.com/report-cftc-eyes-unusual-5b-trading-pattern-on-kalshi-eth-perpetuals/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/report-cftc-eyes-unusual-5b-trading-pattern-on-kalshi-eth-perpetuals/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 22:15:48 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-09-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Circle launches 24/7 stablecoin FX engine as it chases a slice of the $10 trillion currency market]]></title>
+            <description><![CDATA[Screened firms can settle supported stablecoin pairs together, while local fiat access and custody require separate arrangements.
+The post Circle launches 24/7 stablecoin FX engine as it chases a slic...]]></description>
+            <link>https://cryptoslate.com/circle-launches-24-7-stablecoin-fx-engine-as-it-chases-a-slice-of-the-10-trillion-currency-market/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/circle-launches-24-7-stablecoin-fx-engine-as-it-chases-a-slice-of-the-10-trillion-currency-market/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 22:00:28 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-09-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New RemControl Android banking malware targets users in Europe and Canada]]></title>
+            <description><![CDATA[A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 21:25:13 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-09-23</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[EDR Evasion Stack Helps Process Injection Slip Past Defenses]]></title>
+            <description><![CDATA[A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for....]]></description>
+            <link>https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses</link>
+            <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 21:03:01 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
             <dc:date>2026-09-23</dc:date>
         </item>
@@ -309,18 +411,6 @@ The post Coin Metrics revises 19 months of ETF wallet data but by how much? appe
             <dc:date>2026-09-23</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin ETFs just erased a $5.7 billion hole, but profit-taking is swallowing the new demand]]></title>
-            <description><![CDATA[A second large inflow met weak price follow-through. Dated fund reports and an earlier rise in profit taking leave the seller behind the move unidentified.
-The post Bitcoin ETFs just erased a $5.7 bil...]]></description>
-            <link>https://cryptoslate.com/bitcoin-etfs-just-erased-a-5-7-billion-hole-but-profit-taking-is-swallowing-the-new-demand/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-etfs-just-erased-a-5-7-billion-hole-but-profit-taking-is-swallowing-the-new-demand/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 15:10:03 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-09-23</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week]]></title>
             <description><![CDATA[Tron launched as a content-distribution project and has become the settlement layer for a large share of the world's USDT, processing roughly $150 billion to $190 billion of stablecoin transfers a wee...]]></description>
             <link>https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week</link>
@@ -340,18 +430,6 @@ The post Bitcoin ETFs just erased a $5.7 bil...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 14:47:09 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-09-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Solana moves Alpenglow into testnet as SOL nears January highs]]></title>
-            <description><![CDATA[Anza began the rollout process, while the feature tracker and a live genesis-certificate check showed the consensus handoff had not yet occurred.
-The post Solana moves Alpenglow into testnet as SOL ne...]]></description>
-            <link>https://cryptoslate.com/solana-moves-alpenglow-into-testnet-as-sol-nears-january-highs/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/solana-moves-alpenglow-into-testnet-as-sol-nears-january-highs/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 14:40:54 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-09-23</dc:date>
         </item>
         <item>
@@ -421,18 +499,6 @@ The post Solana moves Alpenglow into testnet as SOL ne...]]></description>
             <dc:date>2026-09-23</dc:date>
         </item>
         <item>
-            <title><![CDATA[Altcoin demand meets $18B threat as flows move into RWA perps as just 19% of traders keep alts]]></title>
-            <description><![CDATA[Traditional-asset perps filled a crypto-volume gap while Hyperliquid cohorts remained mostly segmented by their entry market.
-The post Altcoin demand meets $18B threat as flows move into RWA perps as ...]]></description>
-            <link>https://cryptoslate.com/altcoin-demand-faces-18b-threat-as-flows-move-into-rwa-perps-while-only-19-of-traders-keep-altcoins/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/altcoin-demand-faces-18b-threat-as-flows-move-into-rwa-perps-while-only-19-of-traders-keep-altcoins/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 13:30:50 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-09-23</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book]]></title>
             <description><![CDATA[Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility....]]></description>
             <link>https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book</link>
@@ -463,18 +529,6 @@ The post Altcoin demand meets $18B threat as flows move into RWA perps as ...]]>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 12:56:39 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-09-23</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Why Mastercard’s $25 billion crypto expansion isn’t what it seems]]></title>
-            <description><![CDATA[SoFi is migrating its card program into SoFiUSD, while the amount already settled in the token remains undisclosed.
-The post Why Mastercard’s $25 billion crypto expansion isn’t what it seems appeared ...]]></description>
-            <link>https://cryptoslate.com/sofis-mastercard-stablecoin-settlement-is-live-but-its-25-billion-figure-is-still-a-projection/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/sofis-mastercard-stablecoin-settlement-is-live-but-its-25-billion-figure-is-still-a-projection/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 12:30:03 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-09-23</dc:date>
         </item>
         <item>
@@ -1075,17 +1129,6 @@ The flaw, CVE-2026-93616, allows an attacker w...]]></description>
             <dc:date>2026-09-22</dc:date>
         </item>
         <item>
-            <title><![CDATA[New ClosedQuorum Windows malware uses AI for attack decisions]]></title>
-            <description><![CDATA[A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 18:04:39 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-09-22</dc:date>
-        </item>
-        <item>
             <title><![CDATA[WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers]]></title>
             <description><![CDATA[WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.
 
@@ -1129,17 +1172,6 @@ On some servers, that can go further, allowi...]]></description>
             <dc:creator><![CDATA[Coindesk]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 17:34:03 GMT</pubDate>
             <dc:source>Coindesk</dc:source>
-            <dc:date>2026-09-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Reducing shadow IT visibility gaps with Wazuh]]></title>
-            <description><![CDATA[Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monit...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 17:17:41 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
             <dc:date>2026-09-22</dc:date>
         </item>
         <item>
@@ -1333,41 +1365,6 @@ The flaw, tracked as CVE-...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:09:01 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-09-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds]]></title>
-            <description><![CDATA[Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk....]]></description>
-            <link>https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle</link>
-            <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle</guid>
-            <category><![CDATA[Dark Reading]]></category>
-            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-            <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-09-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[DORA Year Two: Can Your SOC Actually See the Attack?]]></title>
-            <description><![CDATA[When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establis...]]></description>
-            <link>https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 11:45:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-09-22</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory]]></title>
-            <description><![CDATA[A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.
-
-Th...]]></description>
-            <link>https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 11:38:40 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
             <dc:date>2026-09-22</dc:date>
         </item>
     </channel>
