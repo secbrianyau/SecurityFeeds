@@ -1,5 +1,47 @@
 [
   {
+    "title": "Eclair patches a browser attack that could send commands to your Lightning node",
+    "link": "https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node/",
+    "date": "2026-10-17T12:00:20.000Z",
+    "source": "CryptoSlate",
+    "summary": "The Oct. 15 release blocks a cached-authentication route to Eclair's API and requires direct browser interfaces to add a backend.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that ..."
+  },
+  {
+    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+    "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+    "date": "2026-10-17T12:00:00.000Z",
+    "source": "Coindesk",
+    "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%...."
+  },
+  {
+    "title": "2 Banking Giants Make Major Crypto Moves as Schwab and Deutsche Bank Expand Into Digital Assets",
+    "link": "https://cryptopotato.com/2-banking-giants-make-major-crypto-moves-as-schwab-and-deutsche-bank-expand-into-digital-assets/",
+    "date": "2026-10-17T11:25:46.000Z",
+    "source": "CryptoPotato",
+    "summary": "Two of the world's largest traditional financial institutions are stepping deeper into crypto, but from opposite ends of the market...."
+  },
+  {
+    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+    "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+    "date": "2026-10-17T11:11:56.000Z",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded..."
+  },
+  {
+    "title": "The hidden trade behind Strive’s 16.7% Bitcoin income offer",
+    "link": "https://cryptoslate.com/the-hidden-trade-behind-strives-16-7-bitcoin-income-offer/",
+    "date": "2026-10-17T11:00:07.000Z",
+    "source": "CryptoSlate",
+    "summary": "There's a Bitcoin company that's now offering investors a 15% annual dividend, paid in small installments every business day. While a 15% dividend is high enough to grab everyone's attention, the more..."
+  },
+  {
+    "title": "Bitcoin’s Road to $125K Could Include a Brutal Drop to $68K: Analyst",
+    "link": "https://cryptopotato.com/bitcoins-road-to-125k-could-include-a-brutal-drop-to-68k-analyst/",
+    "date": "2026-10-17T09:01:33.000Z",
+    "source": "CryptoPotato",
+    "summary": "BTC's first battle stands at $84,000 but the bears have the upper hand now...."
+  },
+  {
     "title": "These Alts Bleed the Most as Bitcoin (BTC) Settles Below $82K: Weekend Watch",
     "link": "https://cryptopotato.com/these-alts-bleed-the-most-as-bitcoin-btc-settles-below-82k-weekend-watch/",
     "date": "2026-10-17T07:30:01.000Z",
@@ -217,13 +259,6 @@
     "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the..."
   },
   {
-    "title": "MSCI’s new rules could squeeze Strategy’s Bitcoin buying machine",
-    "link": "https://cryptoslate.com/strategys-mstr-69-decline-exposes-a-bigger-danger-behind-mscis-2-8-billion-selling-threat/",
-    "date": "2026-10-16T16:20:08.000Z",
-    "source": "CryptoSlate",
-    "summary": "MSCI approved rules threatening Strategy's index membership as its shares trade nearly 69% below their peak. On Oct. 15, the global index provider announced that it would adopt a new methodology exclu..."
-  },
-  {
     "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
     "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
     "date": "2026-10-16T16:16:44.000Z",
@@ -243,13 +278,6 @@
     "date": "2026-10-16T15:20:43.000Z",
     "source": "CryptoPotato",
     "summary": "Both CPI and PPI showed notable increases MoM and YoY...."
-  },
-  {
-    "title": "Microsoft exposes how USDT-funded phishing network targeted 75,000 organizations",
-    "link": "https://cryptoslate.com/microsoft-exposes-how-usdt-funded-phishing-network-targeted-75000-organizations/",
-    "date": "2026-10-16T15:20:01.000Z",
-    "source": "CryptoSlate",
-    "summary": "Domain seizures and account shutdowns hit YAM Store and phishing-kit services, while reported asset freezes remain unquantified.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that m..."
   },
   {
     "title": "Big Tech's AI auditors will only see what they're shown",
@@ -810,33 +838,5 @@
     "date": "2026-10-15T11:55:38.000Z",
     "source": "Bleeping Computer",
     "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM..."
-  },
-  {
-    "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-    "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-    "date": "2026-10-15T11:46:59.000Z",
-    "source": "The Hacker News",
-    "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns betwe..."
-  },
-  {
-    "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-    "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-    "date": "2026-10-15T11:46:49.000Z",
-    "source": "The Hacker News",
-    "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-0322 (CVSS score: 8..."
-  },
-  {
-    "title": "Zcash (ZEC) Slips 15% Daily, Yet Analysts View the Correction as a ‘Gift’",
-    "link": "https://cryptopotato.com/zcash-zec-slips-15-daily-yet-analysts-view-the-correction-as-a-gift/",
-    "date": "2026-10-15T11:32:55.000Z",
-    "source": "CryptoPotato",
-    "summary": "\"The next leg of this bull market is coming. We’re ready,\" one X user stated...."
-  },
-  {
-    "title": "Ledger Wallet Scare Reaches 4 Retailers Across 3 Countries: How Many Devices Are Affected?",
-    "link": "https://www.ccn.com/news/crypto/ledger-wallet-attack-four-retailers-trezor/",
-    "date": "2026-10-15T11:21:58.000Z",
-    "source": "CNN.com - Crypto News",
-    "summary": "Ledger’s supply-chain attack has expanded beyond CryptoBilis, with compromised hardware wallets reported at four retailers across three countries. Blockchain investigators estimate losses approaching ..."
   }
 ]
