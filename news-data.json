@@ -1,5 +1,145 @@
 [
   {
+    "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+    "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+    "date": "2026-11-12T05:22:31.000Z",
+    "source": "Coindesk",
+    "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it...."
+  },
+  {
+    "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+    "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+    "date": "2026-11-12T05:18:43.000Z",
+    "source": "Coindesk",
+    "summary": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched...."
+  },
+  {
+    "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+    "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+    "date": "2026-11-12T05:12:26.000Z",
+    "source": "The Hacker News",
+    "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed i..."
+  },
+  {
+    "title": "FSB pressures Turkey regulators to lock down foreign stablecoins",
+    "link": "https://cryptoslate.com/fsb-pressures-turkey-regulators-to-lock-down-foreign-stablecoins/",
+    "date": "2026-11-12T05:10:20.000Z",
+    "source": "CryptoSlate",
+    "summary": "The FSB recommends stronger reserve checks and clearer redemption rights, but its review creates no new legal obligations.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter ..."
+  },
+  {
+    "title": "BTC, ETH, and XRP Face Extreme Fear, But Whales Are Sending Mixed Signals",
+    "link": "https://cryptopotato.com/btc-eth-and-xrp-face-extreme-fear-but-whales-are-sending-mixed-signals/",
+    "date": "2026-11-12T05:06:16.000Z",
+    "source": "CryptoPotato",
+    "summary": "Crypto traders are becoming increasingly bearish, but history suggests that widespread fear can sometimes create opportunities for a market-wide recovery...."
+  },
+  {
+    "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+    "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+    "date": "2026-11-12T04:39:48.000Z",
+    "source": "The Hacker News",
+    "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access.\n\nIn an advisory posted on its site, the company ..."
+  },
+  {
+    "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+    "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+    "date": "2026-11-12T04:03:47.000Z",
+    "source": "Coindesk",
+    "summary": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range...."
+  },
+  {
+    "title": "BitMine posts $2.8B quarterly profit driven by Ethereum gains, but yearly net loss surpasses $6B",
+    "link": "https://cryptoslate.com/bitmine-posts-2-8b-quarterly-profit-but-yearly-net-loss-surpasses-6b/",
+    "date": "2026-11-12T03:20:49.000Z",
+    "source": "CryptoSlate",
+    "summary": "The November 10 filing implies a June–August profit driven by unrealized crypto gains, alongside $17.557 million in operating cash outflow.\nRead the full story on CryptoSlate\nUnderstand the crypto sto..."
+  },
+  {
+    "title": "Novig loses court shield, and New York gambling laws strike back",
+    "link": "https://cryptoslate.com/novig-loses-court-shield-and-new-york-gambling-laws-strike-back/",
+    "date": "2026-11-12T01:40:47.000Z",
+    "source": "CryptoSlate",
+    "summary": "A judge said state rules could apply even if its sports contracts were swaps; Novig appealed the preliminary denial.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and wh..."
+  },
+  {
+    "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+    "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+    "date": "2026-11-12T01:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite...."
+  },
+  {
+    "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+    "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+    "date": "2026-11-12T00:00:00.000Z",
+    "source": "Dark Reading",
+    "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers...."
+  },
+  {
+    "title": "Bitcoin whales stack coins while ETF investors dump millions daily",
+    "link": "https://cryptoslate.com/bitcoin-whales-stack-coins-while-etf-investors-dump-millions-daily/",
+    "date": "2026-11-11T23:50:44.000Z",
+    "source": "CryptoSlate",
+    "summary": "Glassnode's seven-day observations through November 9 show narrow accumulation, while completed ETF sessions through November 10 still record withdrawals.\nRead the full story on CryptoSlate\nUnderstand..."
+  },
+  {
+    "title": "Baker Tilly notifies clients of data breach at third-party provider",
+    "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+    "date": "2026-11-11T23:01:31.000Z",
+    "source": "Bleeping Computer",
+    "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]..."
+  },
+  {
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+    "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+    "date": "2026-11-11T22:56:21.000Z",
+    "source": "Bleeping Computer",
+    "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer de..."
+  },
+  {
+    "title": "Bitcoin faces $70,000 test as $14.2 billion stablecoin contraction exposes demand weakness",
+    "link": "https://cryptoslate.com/bitcoin-faces-70000-test-as-14-2-billion-stablecoin-contraction-exposes-demand-weakness/",
+    "date": "2026-11-11T22:50:27.000Z",
+    "source": "CryptoSlate",
+    "summary": "Bitcoin is facing a fresh liquidity squeeze as mounting losses among recent buyers threaten to derail its recovery. Stablecoin supply has contracted by $14.2 billion over the past month, its sharpest ..."
+  },
+  {
+    "title": "Kalshi Could Be in Serious Trouble as CFTC Threatens Possible Enforcement Action",
+    "link": "https://cryptopotato.com/kalshi-could-be-in-serious-trouble-as-cftc-threatens-possible-enforcement-action/",
+    "date": "2026-11-11T22:46:03.000Z",
+    "source": "CryptoPotato",
+    "summary": "Kalshi stated that its regulatory dispute involves a procedural issue, but the CFTC's warning suggests the investigation could soon escalate...."
+  },
+  {
+    "title": "Binance hacker’s XRP stockpile rapidly crashes driven by Bitcoin swaps",
+    "link": "https://cryptoslate.com/binance-hackers-xrp-stockpile-rapidly-crashes-driven-by-bitcoin-swaps/",
+    "date": "2026-11-11T22:30:57.000Z",
+    "source": "CryptoSlate",
+    "summary": "Elliptic’s November 10 update put remaining stolen XRP at about 60 million, while swap interruptions complicate further conversions.\nRead the full story on CryptoSlate\nUnderstand the crypto stories th..."
+  },
+  {
+    "title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
+    "link": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
+    "date": "2026-11-11T21:54:41.000Z",
+    "source": "DataBreaches.net",
+    "summary": "Aimee Edwards reports: Victoria’s Year 12 exams have been thrown into turmoil after the state’s curriculum and assessment authority website was hacked. A bizarre message appeared on the Victorian Curr..."
+  },
+  {
+    "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
+    "link": "https://databreaches.net/2026/11/11/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data/",
+    "date": "2026-11-11T21:45:18.000Z",
+    "source": "DataBreaches.net",
+    "summary": "Pierluigi Paganini reports: A.P. Moller Maersk, the Danish shipping giant, says it identified an IT security incident involving unauthorized access and data extraction from one of its local legacy sys..."
+  },
+  {
+    "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+    "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+    "date": "2026-11-11T21:44:04.000Z",
+    "source": "Dark Reading",
+    "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs...."
+  },
+  {
     "title": "eMudhra revokes 8 more CA certificates after private key mishap",
     "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
     "date": "2026-11-11T21:27:40.000Z",
@@ -84,13 +224,6 @@
     "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers ..."
   },
   {
-    "title": "Thousands of Bitcoin nodes gave anonymous strangers a pass around security limits",
-    "link": "https://cryptoslate.com/thousands-of-bitcoin-nodes-gave-anonymous-strangers-a-pass-around-security-limits/",
-    "date": "2026-11-11T17:10:30.000Z",
-    "source": "CryptoSlate",
-    "summary": "The November 10 disclosure traces misplaced peer privileges to bundled Tor-and-whitelist settings, with fixes available since October 2025.\nRead the full story on CryptoSlate\nUnderstand the crypto sto..."
-  },
-  {
     "title": "This Is Why Some Bitcoin Core Nodes Can Stop Building Blocks",
     "link": "https://cryptopotato.com/this-is-why-some-bitcoin-core-nodes-can-stop-building-blocks/",
     "date": "2026-11-11T17:01:15.000Z",
@@ -124,13 +257,6 @@
     "date": "2026-11-11T16:12:46.000Z",
     "source": "The Hacker News",
     "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln..."
-  },
-  {
-    "title": "OpenAI adds a 35-second emergency brake for its research AI",
-    "link": "https://cryptoslate.com/openai-adds-a-35-second-emergency-brake-for-its-research-ai/",
-    "date": "2026-11-11T16:05:44.000Z",
-    "source": "CryptoSlate",
-    "summary": "Control Room denies further model output after a stop order, even while the research process may remain alive.\nRead the full story on CryptoSlate\nUnderstand the crypto stories that matter and what to ..."
   },
   {
     "title": "Ethereum Price Analysis: ETH Rebounds From $2K, but the Danger Isn’t Over",
@@ -175,13 +301,6 @@
     "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]..."
   },
   {
-    "title": "Hoskinson says he cannot run Cardano like a CEO. Who is accountable for its growth?",
-    "link": "https://cryptoslate.com/hoskinson-says-he-cannot-run-cardano-like-a-ceo-who-is-accountable-for-its-growth/",
-    "date": "2026-11-11T15:10:14.000Z",
-    "source": "CryptoSlate",
-    "summary": "DReps approve spending, while recipients and administrators answer for funded work that ADA holders can trace through public reports.\nRead the full story on CryptoSlate\nUnderstand the crypto stories t..."
-  },
-  {
     "title": "Hotel giant Wyndham exposed customer data after app security lapse",
     "link": "https://databreaches.net/2026/11/11/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
     "date": "2026-11-11T15:04:50.000Z",
@@ -194,13 +313,6 @@
     "date": "2026-11-11T15:01:11.000Z",
     "source": "Bleeping Computer",
     "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, whe..."
-  },
-  {
-    "title": "Why Pronostyx Is Building Prediction Markets for Questions the Big Platforms Ignore",
-    "link": "https://cryptoslate.com/why-pronostyx-is-building-prediction-markets-for-questions-the-big-platforms-ignore/",
-    "date": "2026-11-11T15:00:11.000Z",
-    "source": "CryptoSlate",
-    "summary": "Illustrative Spanish-language markets on Pronostyx, each with its named resolution source. Image: Pronostyx. Prediction markets have had a breakout few years. What began as a niche corner of crypto ha..."
   },
   {
     "title": "Pi Network (PI) Defies the Latest Market Pullback: Major Rally Ahead or Bull Trap?",
@@ -245,32 +357,11 @@
     "summary": "Mathieu Rosemain, Elizabeth Howcroft and Mateusz Rabiega report: French lender Credit Mutuel Arkea has said that hackers stole around €100 million ($112.61 million) in a cyber heist and it is working ..."
   },
   {
-    "title": "Hundreds of Dutch sports clubs report cyberattack exposing members’ personal data",
-    "link": "https://databreaches.net/2026/11/11/hundreds-of-dutch-sports-clubs-report-cyberattack-exposing-members-personal-data/",
-    "date": "2026-11-11T14:11:34.000Z",
-    "source": "DataBreaches.net",
-    "summary": "NL Times reports: More than 350 Dutch sports clubs have reported a data breach to the Dutch Data Protection Authority (AP) following a cyberattack on membership administration system AllUnited on Mond..."
-  },
-  {
-    "title": "ESET Links Cereal to Turla in Romanian Server Breach Case — Defense News",
-    "link": "https://databreaches.net/2026/11/11/eset-links-cereal-to-turla-in-romanian-server-breach-case-defense-news/",
-    "date": "2026-11-11T14:11:25.000Z",
-    "source": "DataBreaches.net",
-    "summary": "UA News reports: Slovak cybersecurity company ESET said that servers of a Romanian government institution were compromised in December 2025. The malware selected emails related to NATO and the Europea..."
-  },
-  {
     "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
     "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
     "date": "2026-11-11T14:01:00.000Z",
     "source": "The Hacker News",
     "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet's CyOps and Research tea..."
-  },
-  {
-    "title": "Bitcoin holds $73,000 as odds of a December 50 bps rate hike jump",
-    "link": "https://cryptoslate.com/bitcoin-holds-73000-as-odds-of-a-december-50-bps-rate-hike-jump/",
-    "date": "2026-11-11T13:40:04.000Z",
-    "source": "CryptoSlate",
-    "summary": "The odds of a 50-basis-point Federal Reserve hike in December rose from 0% to 13.6% on Nov. 10 after October CPI beat forecasts, as Bitcoin fell to an intraday low below $73,000. Meanwhile, the odds o..."
   },
   {
     "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
@@ -292,13 +383,6 @@
     "date": "2026-11-11T12:57:36.000Z",
     "source": "Coindesk",
     "summary": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month...."
-  },
-  {
-    "title": "Tokenized stock trading hits $2.7B even though trades can cost 3% more",
-    "link": "https://cryptoslate.com/tokenized-stock-trading-hits-2-7b-even-though-trades-can-cost-3-more/",
-    "date": "2026-11-11T12:45:00.000Z",
-    "source": "CryptoSlate",
-    "summary": "Tokenized stocks recorded about $3 billion in decentralized-exchange transactions over seven days, according to figures reported on Nov. 4. US stocks rallied that day as Republicans lost unified contr..."
   },
   {
     "title": "N-able releases security hotfixes for zero-day vulnerabilities",
@@ -595,13 +679,6 @@
     "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen reques..."
   },
   {
-    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-    "date": "2026-11-10T19:07:36.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]..."
-  },
-  {
     "title": "Binance Warns About a Major Threat: Here’s the Best Protection",
     "link": "https://cryptopotato.com/binance-warns-about-a-major-threat-heres-the-best-protection/",
     "date": "2026-11-10T19:03:53.000Z",
@@ -614,13 +691,6 @@
     "date": "2026-11-10T18:46:22.000Z",
     "source": "Dark Reading",
     "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations...."
-  },
-  {
-    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-    "date": "2026-11-10T18:33:26.000Z",
-    "source": "Bleeping Computer",
-    "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]..."
   },
   {
     "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
@@ -768,75 +838,5 @@
     "date": "2026-11-10T12:47:50.000Z",
     "source": "CryptoPotato",
     "summary": "Over the years, the crypto industry has introduced many products and services, giving investors more options. These innovations include perpetual futures trading, decentralized finance (DeFi), memecoi..."
-  },
-  {
-    "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-    "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-    "date": "2026-11-10T12:38:20.000Z",
-    "source": "Coindesk",
-    "summary": "Asch is stepping down as head of the institutional prime brokerage...."
-  },
-  {
-    "title": "Ripple Engineer Teases 2027 XRPL Upgrades as Speed Backlash Tests $10 XRP Hopes",
-    "link": "https://www.ccn.com/news/crypto/ripple-engineer-2027-xrpl-upgrades-speed-backlash-10-xrp-hopes/",
-    "date": "2026-11-10T12:27:17.000Z",
-    "source": "CNN.com - Crypto News",
-    "summary": "Ripple engineering director Vijay Khanna says XRP Ledger performance improvements are planned for 2027. However, his comments provide no throughput target or deployment timetable. The…..."
-  },
-  {
-    "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-    "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-    "date": "2026-11-10T12:15:31.000Z",
-    "source": "The Hacker News",
-    "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malici..."
-  },
-  {
-    "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-    "date": "2026-11-10T12:15:00.000Z",
-    "source": "Coindesk",
-    "summary": "Your day-ahead look for Nov. 10, 2026..."
-  },
-  {
-    "title": "Bitcoin Retail Capitulation Is Here: Could This Be the Signal Bulls Were Waiting For?",
-    "link": "https://cryptopotato.com/bitcoin-retail-capitulation-is-here-could-this-be-the-signal-bulls-were-waiting-for/",
-    "date": "2026-11-10T12:14:49.000Z",
-    "source": "CryptoPotato",
-    "summary": "Here's what has to happen for BTC to reach true capitulation and reverse its long-term trajectory...."
-  },
-  {
-    "title": "Beyond the Alert: The Case for Rich Network Data",
-    "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-    "date": "2026-11-10T11:38:13.000Z",
-    "source": "The Hacker News",
-    "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once..."
-  },
-  {
-    "title": "Bitcoin Wallet Count Falls by 109,000 Since October: What Retail Capitulation Means for BTC",
-    "link": "https://www.ccn.com/news/crypto/bitcoin-wallet-count-drops-109k-retail-capitulation/",
-    "date": "2026-11-10T11:32:15.000Z",
-    "source": "CNN.com - Crypto News",
-    "summary": "Bitcoin’s non-empty wallet count has fallen by roughly 109,000 since October 16 as BTC slipped below $75,000. Fewer funded addresses may signal retail capitulation, but…..."
-  },
-  {
-    "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-    "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-    "date": "2026-11-10T11:24:10.000Z",
-    "source": "Coindesk",
-    "summary": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today...."
-  },
-  {
-    "title": "XRPL to Reset Testnet and Devnet on November 25, Wiping All On-Chain Data",
-    "link": "https://cryptopotato.com/xrpl-to-reset-testnet-and-devnet-on-november-25-wiping-all-on-chain-data/",
-    "date": "2026-11-10T11:11:38.000Z",
-    "source": "CryptoPotato",
-    "summary": "Mainnet users will see no disruption, while devs running their own Testnet servers must clear database files and restart their nodes...."
-  },
-  {
-    "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-    "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-    "date": "2026-11-10T10:48:37.000Z",
-    "source": "Coindesk",
-    "summary": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details...."
   }
 ]
