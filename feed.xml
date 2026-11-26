@@ -9,12 +9,349 @@
             <link>https://secbrianyau.github.io/SecurityFeeds/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 01:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 11:59:40 GMT</lastBuildDate>
         <atom:link href="https://secbrianyau.github.io/SecurityFeeds/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Nov 2026 01:39:53 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 11:59:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>180</ttl>
         <comment>News aggregated from: Cointelegraph - Security, Threatpost, Bleeping Computer, Dark Reading, Blockthreat, CryptoPotato, CryptoSlate, Krebs On Security, The Hacker News, Coindesk, GroupIB Blog, Data Breach Today, CNN.com - Crypto News, DataBreaches.net</comment>
+        <item>
+            <title><![CDATA[SYS010 malware abuses browser management to spy on Gmail, Outlook]]></title>
+            <description><![CDATA[A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, i...]]></description>
+            <link>https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/</link>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/</guid>
+            <category><![CDATA[Bleeping Computer]]></category>
+            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 11:50:17 GMT</pubDate>
+            <dc:source>Bleeping Computer</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong-based crypto trading firm Auros is winding down operations]]></title>
+            <description><![CDATA[The firm previously estimated it handled 4% of global crypto exchange trading volume and raised $17 million after the FTX collapse....]]></description>
+            <link>https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 11:27:50 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving]]></title>
+            <description><![CDATA[Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much....]]></description>
+            <link>https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 11:17:22 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Viral Altcoin Explodes by 40%, Bitcoin (BTC) Reclaims $60K: Market Watch]]></title>
+            <description><![CDATA[PUMP, SEI, and M have also charted double-digit gains, but one altcoin sits above them all today....]]></description>
+            <link>https://cryptopotato.com/viral-altcoin-explodes-by-40-bitcoin-btc-reclaims-60k-market-watch/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/viral-altcoin-explodes-by-40-bitcoin-btc-reclaims-60k-market-watch/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 11:05:32 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto bridge hacks can spread losses far beyond the assets they compromise]]></title>
+            <description><![CDATA[November’s bridge exploits show how a token can keep trading even when its holders lose a route back to the underlying asset.
+Read the full story on CryptoSlate
+Understand the crypto stories that matt...]]></description>
+            <link>https://cryptoslate.com/crypto-bridge-hacks-can-spread-losses-far-beyond-the-assets-they-compromise/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/crypto-bridge-hacks-can-spread-losses-far-beyond-the-assets-they-compromise/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 11:00:57 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls]]></title>
+            <description><![CDATA[Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that secu...]]></description>
+            <link>https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 10:57:55 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach]]></title>
+            <description><![CDATA[Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized...]]></description>
+            <link>https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 10:57:25 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure]]></title>
+            <description><![CDATA[U.S. export controls have halted Nvidia server shipments to four Southeast Asian countries and put billions in data centre financing under review....]]></description>
+            <link>https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 10:56:08 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech]]></title>
+            <description><![CDATA[AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1.37 billion after defrauding hundreds of thousands of people, including 11,000 New Yorkers....]]></description>
+            <link>https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 10:40:33 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[CZ Urges 1Password Users to Change Passwords After Hack Exposes Customer Information]]></title>
+            <description><![CDATA[1Password users may have dodged a much bigger breach, but exposed customer information could still leave them vulnerable to targeted scams....]]></description>
+            <link>https://cryptopotato.com/cz-urges-1password-users-to-change-passwords-after-hack-exposes-customer-information/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/cz-urges-1password-users-to-change-passwords-after-hack-exposes-customer-information/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 10:11:34 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Tether commits $14.5 million to a fintech that uses rival Circle’s USDC for Visa settlement]]></title>
+            <description><![CDATA[Lemon’s April Visa rollout named USDC for card settlement, showing how two stablecoins can play different roles in the same payment app.
+Read the full story on CryptoSlate
+Understand the crypto storie...]]></description>
+            <link>https://cryptoslate.com/tether-lemon-deal-backs-a-wallet-that-turns-bank-dollars-into-usdt/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/tether-lemon-deal-backs-a-wallet-that-turns-bank-dollars-into-usdt/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 09:50:42 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Bears May Be Walking Into a Trap as $16B Short Squeeze Builds]]></title>
+            <description><![CDATA[Meanwhile, some analysts warned that BTC could be on the verge of another massive crash, potentially to under $30,000....]]></description>
+            <link>https://cryptopotato.com/bitcoin-bears-may-be-walking-into-a-trap-as-16b-short-squeeze-builds/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/bitcoin-bears-may-be-walking-into-a-trap-as-16b-short-squeeze-builds/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 08:49:06 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Utah drops 14 criminal charges against Kalshi but threatens to bring them back if trading resumes]]></title>
+            <description><![CDATA[Kalshi says customers can close existing positions and withdraw funds. Utah says it can refile the charges if trading resumes.
+Read the full story on CryptoSlate
+Understand the crypto stories that mat...]]></description>
+            <link>https://cryptoslate.com/utah-drops-14-criminal-charges-against-kalshi-but-threatens-to-bring-them-back-if-trading-resumes/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/utah-drops-14-criminal-charges-against-kalshi-but-threatens-to-bring-them-back-if-trading-resumes/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 08:40:14 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Washington’s Crypto Policy Showdown: 3 Battles to Watch, Including the Bitcoin Reserve Bill]]></title>
+            <description><![CDATA[The proposed Strategic Bitcoin Reserve legislation has reached the House calendar, although a vote before the end of 2026 looks unlikely....]]></description>
+            <link>https://cryptopotato.com/washingtons-crypto-policy-showdown-3-battles-to-watch-including-the-bitcoin-reserve-bill/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/washingtons-crypto-policy-showdown-3-battles-to-watch-including-the-bitcoin-reserve-bill/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 08:05:56 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October]]></title>
+            <description><![CDATA[Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises....]]></description>
+            <link>https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 08:01:33 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Cyprus Becomes Espionage Target for Iranian Hackers]]></title>
+            <description><![CDATA[A previously undocumented Iranian threat group called "Volant Manticore" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran....]]></description>
+            <link>https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers</link>
+            <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers</guid>
+            <category><![CDATA[Dark Reading]]></category>
+            <dc:creator><![CDATA[Dark Reading]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 08:00:00 GMT</pubDate>
+            <dc:source>Dark Reading</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Pi Network Just Revealed What’s Coming Next: Q1 2027 Could Be Huge]]></title>
+            <description><![CDATA[Here's the full recap of Pi Network's first-ever Ecosystem Summit with the most important details you might have missed....]]></description>
+            <link>https://cryptopotato.com/pi-network-just-revealed-whats-coming-next-q1-2027-could-be-huge/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/pi-network-just-revealed-whats-coming-next-q1-2027-could-be-huge/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 07:33:40 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin could double by 2032 and UniCredit investors would still make just 65%]]></title>
+            <description><![CDATA[The Italian offer caps scheduled repayment at €1,650 per certificate, while savers who sell early face the market price.
+Read the full story on CryptoSlate
+Understand the crypto stories that matter an...]]></description>
+            <link>https://cryptoslate.com/bitcoin-could-double-by-2032-and-unicredit-investors-would-still-make-just-65/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-could-double-by-2032-and-unicredit-investors-would-still-make-just-65/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 07:20:18 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Zcash developers want users to move $300 million out of an older privacy system]]></title>
+            <description><![CDATA[Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it....]]></description>
+            <link>https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system</link>
+            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 07:09:25 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation]]></title>
+            <description><![CDATA[Drupal has warned of a new "highly critical" security flaw impacting Drupal core that it said has been exploited in the wild.
+
+The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been...]]></description>
+            <link>https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 07:02:34 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products]]></title>
+            <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mit...]]></description>
+            <link>https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html</link>
+            <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html</guid>
+            <category><![CDATA[The Hacker News]]></category>
+            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 06:44:46 GMT</pubDate>
+            <dc:source>The Hacker News</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route]]></title>
+            <description><![CDATA[An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry....]]></description>
+            <link>https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 06:19:09 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[South Korea wants banks to own more than 50% of domestic stablecoin issuers]]></title>
+            <description><![CDATA[Fintechs could hold the largest individual stake, and reserve managers could repay holders directly if an issuer fails.
+Read the full story on CryptoSlate
+Understand the crypto stories that matter and...]]></description>
+            <link>https://cryptoslate.com/south-korea-wants-banks-to-own-more-than-50-of-domestic-stablecoin-issuers/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/south-korea-wants-banks-to-own-more-than-50-of-domestic-stablecoin-issuers/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 05:50:38 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Ripple is worth $90 a share to one fund and $300 to another, SEC filings show]]></title>
+            <description><![CDATA[Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018....]]></description>
+            <link>https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show</link>
+            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 05:30:38 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Moscow Exchange Set to Launch Bitcoin, Ethereum, and USDT Trading]]></title>
+            <description><![CDATA[Sberbank joined the Bank of Russia's register of crypto exchange organizations in October in a separate adoption move in the country....]]></description>
+            <link>https://cryptopotato.com/moscow-exchange-set-to-launch-bitcoin-ethereum-and-usdt-trading/</link>
+            <guid isPermaLink="false">https://cryptopotato.com/moscow-exchange-set-to-launch-bitcoin-ethereum-and-usdt-trading/</guid>
+            <category><![CDATA[CryptoPotato]]></category>
+            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 05:08:37 GMT</pubDate>
+            <dc:source>CryptoPotato</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Bill to lock up U.S. government bitcoin for 20 years advances to full House]]></title>
+            <description><![CDATA[A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline....]]></description>
+            <link>https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house</link>
+            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house</guid>
+            <category><![CDATA[Coindesk]]></category>
+            <dc:creator><![CDATA[Coindesk]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 04:46:01 GMT</pubDate>
+            <dc:source>Coindesk</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[SBI brings Japanese stocks to Solana but investors face a five-day wait to cash out]]></title>
+            <description><![CDATA[HashKey Earn offers eligible investors access to a Japanese equity strategy through JX, with USDC redemptions expected on T+5 under the issuer’s dealing calendar.
+Read the full story on CryptoSlate
+Un...]]></description>
+            <link>https://cryptoslate.com/sbi-brings-japanese-stocks-to-solana-but-investors-face-a-five-day-wait-to-cash-out/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/sbi-brings-japanese-stocks-to-solana-but-investors-face-a-five-day-wait-to-cash-out/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 04:30:59 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Crypto host who once promoted a $50 billion memecoin vision now tells traders to get out]]></title>
+            <description><![CDATA[Ansem urged users to withdraw after the trading app said account takeovers exposed wallets users had imported.
+Read the full story on CryptoSlate
+Understand the crypto stories that matter and what to ...]]></description>
+            <link>https://cryptoslate.com/crypto-host-who-once-promoted-a-50-billion-memecoin-vision-now-tells-traders-to-get-out/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/crypto-host-who-once-promoted-a-50-billion-memecoin-vision-now-tells-traders-to-get-out/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 03:20:59 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
+        <item>
+            <title><![CDATA[Lido tightens Ethereum staking penalties as operators gain access to larger validators]]></title>
+            <description><![CDATA[A March slashing involving six validators shows why Lido sought wider authority and when recovery could depend on future rewards or bond top-ups.
+Read the full story on CryptoSlate
+Understand the cryp...]]></description>
+            <link>https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/</link>
+            <guid isPermaLink="false">https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/</guid>
+            <category><![CDATA[CryptoSlate]]></category>
+            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
+            <pubDate>Thu, 26 Nov 2026 01:50:48 GMT</pubDate>
+            <dc:source>CryptoSlate</dc:source>
+            <dc:date>2026-11-26</dc:date>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Lightning operators could recover stuck payments even after losing channel data]]></title>
             <description><![CDATA[The 26.12 release candidate can help recover eligible funds after channel data loss if the operator still has key records and can get help from the peer.
@@ -75,19 +412,6 @@ Understand the crypt...]]></description>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[UK to test whether AI can replace a second mammogram reader in trial of 660,000 women]]></title>
-            <description><![CDATA[The first women have joined a trial that compares standard double reading with two AI workflows and requires a human to read every mammogram.
-Read the full story on CryptoSlate
-Understand the crypto s...]]></description>
-            <link>https://cryptoslate.com/uk-to-test-whether-ai-can-replace-a-second-mammogram-reader-in-trial-of-660000-women/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/uk-to-test-whether-ai-can-replace-a-second-mammogram-reader-in-trial-of-660000-women/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 21:30:55 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Zcash (ZEC) Plunges 25% in a Week: 2 Factors That Could Fuel a Rebound]]></title>
             <description><![CDATA[Can ZEC recover, or will it nosedive below $500?...]]></description>
             <link>https://cryptopotato.com/zcash-zec-plunges-25-in-a-week-2-factors-that-could-fuel-a-rebound/</link>
@@ -110,19 +434,6 @@ Understand the crypto s...]]></description>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Ripple’s latest banking partnership opens another route to XRP adoption in Turkey]]></title>
-            <description><![CDATA[Ripple says its custody software is deployed at Yapı Kredi, while a route from lira into withdrawable XRP remains publicly unconfirmed.
-Read the full story on CryptoSlate
-Understand the crypto stories...]]></description>
-            <link>https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 20:10:29 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Ethereum Researchers Recommend Keccak-256 as Core Post-Quantum Hash]]></title>
             <description><![CDATA[Poseidon was long seen as the likely pick until newer proving systems made older and better-studied hash functions fast enough to use....]]></description>
             <link>https://cryptopotato.com/ethereum-researchers-recommend-keccak-256-as-core-post-quantum-hash/</link>
@@ -142,19 +453,6 @@ Understand the crypto stories...]]></description>
             <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 19:39:31 GMT</pubDate>
             <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[CleanSpark is selling Bitcoin to fund its AI expansion as annual losses approach $1 billion]]></title>
-            <description><![CDATA[The miner raised cash for potential acquisitions, and its Two Prime facility shows how a price drop can make borrowing against Bitcoin more demanding.
-Read the full story on CryptoSlate
-Understand the...]]></description>
-            <link>https://cryptoslate.com/cleanspark-is-selling-bitcoin-to-fund-its-ai-expansion-as-annual-losses-approach-1-billion/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/cleanspark-is-selling-bitcoin-to-fund-its-ai-expansion-as-annual-losses-approach-1-billion/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 19:00:01 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
@@ -202,19 +500,6 @@ Understand the...]]></description>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Visa is testing an AI economy where agents work and humans collect the paycheck]]></title>
-            <description><![CDATA[Eligible US cardholders can verify an agent for certain Taskmarket jobs and receive Open USD on Tempo when requesters accept its work.
-Read the full story on CryptoSlate
-Understand the crypto stories ...]]></description>
-            <link>https://cryptoslate.com/visa-is-testing-an-ai-economy-where-agents-work-and-humans-collect-the-paycheck/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/visa-is-testing-an-ai-economy-where-agents-work-and-humans-collect-the-paycheck/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 18:00:17 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA['This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles]]></title>
             <description><![CDATA[Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing....]]></description>
             <link>https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles</link>
@@ -234,19 +519,6 @@ Understand the crypto stories ...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 17:22:04 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[AI agents are reshaping the job market and less-experienced workers are feeling it first]]></title>
-            <description><![CDATA[A study of 34.8 million US postings linked higher estimated exposure to slower growth in ads asking for up to five years of experience.
-Read the full story on CryptoSlate
-Understand the crypto stories...]]></description>
-            <link>https://cryptoslate.com/ai-agents-are-reshaping-the-job-market-and-less-experienced-workers-are-feeling-it-first/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/ai-agents-are-reshaping-the-job-market-and-less-experienced-workers-are-feeling-it-first/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 16:40:10 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
@@ -305,17 +577,6 @@ Understand the crypto stories...]]></description>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Bitcoin’s selloff deepens as Trump tariffs and hot inflation revive market fears]]></title>
-            <description><![CDATA[Bitcoin fell to $57,470 on Wednesday as hotter-than-expected US core inflation and the announcement of new tariffs intensified selling across risk assets. The Nasdaq 100 extended its losses to 2.9%, r...]]></description>
-            <link>https://cryptoslate.com/bitcoins-selloff-deepens-as-trump-tariffs-and-hot-inflation-revive-market-fears/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoins-selloff-deepens-as-trump-tariffs-and-hot-inflation-revive-market-fears/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 15:49:19 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Attackers Target .NET Developers With Poisoned Job Assessments]]></title>
             <description><![CDATA[Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines....]]></description>
             <link>https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments</link>
@@ -335,19 +596,6 @@ Understand the crypto stories...]]></description>
             <dc:creator><![CDATA[Dark Reading]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 15:20:27 GMT</pubDate>
             <dc:source>Dark Reading</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Sky’s withdrawal crisis tests confidence as its stablecoin supply shrinks by nearly $6 billion]]></title>
-            <description><![CDATA[The foundation’s savings could cover about 69% of its loan, and an earlier repayment shows how fast depositors can claim the available cash.
-Read the full story on CryptoSlate
-Understand the crypto st...]]></description>
-            <link>https://cryptoslate.com/skys-withdrawal-crisis-tests-confidence-as-its-stablecoin-supply-shrinks-by-nearly-6-billion/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/skys-withdrawal-crisis-tests-confidence-as-its-stablecoin-supply-shrinks-by-nearly-6-billion/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 15:15:08 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
@@ -403,19 +651,6 @@ Understand the crypto st...]]></description>
             <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 14:44:45 GMT</pubDate>
             <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin is struggling around $60,000 but exchange reserves are telling a different story]]></title>
-            <description><![CDATA[Tracked exchanges averaged about 96,100 BTC a day in combined flows and 2,369 BTC a day in net withdrawals.
-Read the full story on CryptoSlate
-Understand the crypto stories that matter and what to wat...]]></description>
-            <link>https://cryptoslate.com/bitcoin-is-struggling-around-60000-but-exchange-reserves-are-telling-a-different-story/</link>
-            <guid isPermaLink="false">https://cryptoslate.com/bitcoin-is-struggling-around-60000-but-exchange-reserves-are-telling-a-different-story/</guid>
-            <category><![CDATA[CryptoSlate]]></category>
-            <dc:creator><![CDATA[CryptoSlate]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 14:00:05 GMT</pubDate>
-            <dc:source>CryptoSlate</dc:source>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
@@ -866,17 +1101,6 @@ The flaw used in the att...]]></description>
             <dc:date>2026-11-25</dc:date>
         </item>
         <item>
-            <title><![CDATA[Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one]]></title>
-            <description><![CDATA[President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal....]]></description>
-            <link>https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 03:35:20 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-11-25</dc:date>
-        </item>
-        <item>
             <title><![CDATA[A post using an old ShinyHunters account suggests that there’s more to come]]></title>
             <description><![CDATA[Someone using the 2020 ShinyHunters account on Exploit posted yesterday, allegedly explaining what had happened and what would happen going forward. The post was signed with the original PGP key, whic...]]></description>
             <link>https://databreaches.net/2026/11/24/a-post-using-an-old-shinyhunters-account-suggests-that-theres-more-to-come/</link>
@@ -1009,17 +1233,6 @@ The flaw used in the att...]]></description>
             <dc:date>2026-11-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[Utah moves to drop criminal pursuit of Kalshi after the firm halted services there]]></title>
-            <description><![CDATA[The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return....]]></description>
-            <link>https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 17:50:08 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Radware discloses breach exposing customer cloud access keys]]></title>
             <description><![CDATA[Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management...]]></description>
             <link>https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/</link>
@@ -1077,28 +1290,6 @@ Central to the group's...]]></description>
             <dc:date>2026-11-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof]]></title>
-            <description><![CDATA[The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]...]]></description>
-            <link>https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</link>
-            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</guid>
-            <category><![CDATA[Bleeping Computer]]></category>
-            <dc:creator><![CDATA[Bleeping Computer]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 16:30:19 GMT</pubDate>
-            <dc:source>Bleeping Computer</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA['AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story]]></title>
-            <description><![CDATA[Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains near bear-market lows....]]></description>
-            <link>https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 16:00:25 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
             <title><![CDATA[Attention Binance Users: Key Functions Will Be Temporarily Suspended This Week]]></title>
             <description><![CDATA[The disruption is expected to last about 60 minutes....]]></description>
             <link>https://cryptopotato.com/attention-binance-users-key-functions-will-be-temporarily-suspended-this-week/</link>
@@ -1132,17 +1323,6 @@ Central to the group's...]]></description>
             <dc:date>2026-11-24</dc:date>
         </item>
         <item>
-            <title><![CDATA[Anchorage Digital to unveil new asset-management subsidiary]]></title>
-            <description><![CDATA[The crypto custody technology firm said it will unveil a separate subsidiary called 61st Parallel Asset Management....]]></description>
-            <link>https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 15:06:32 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
             <title><![CDATA[USDT Market Cap Drops, Raising Doubts About a Lasting Bitcoin Recovery]]></title>
             <description><![CDATA[USDT’s market capitalization fell by $8.83 billion over the 60 days through Nov. 22, signaling weakening crypto liquidity. The continued decline in USDT’s liquidity indicators…...]]></description>
             <link>https://www.ccn.com/news/crypto/usdt-market-cap-drop-bitcoin-recovery/</link>
@@ -1151,17 +1331,6 @@ Central to the group's...]]></description>
             <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 15:02:16 GMT</pubDate>
             <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment]]></title>
-            <description><![CDATA[Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers....]]></description>
-            <link>https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment</link>
-            <guid isPermaLink="false">https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 14:40:53 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
             <dc:date>2026-11-24</dc:date>
         </item>
         <item>
@@ -1195,175 +1364,6 @@ Central to the group's...]]></description>
             <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
             <pubDate>Tue, 24 Nov 2026 14:00:22 GMT</pubDate>
             <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[State shuts down myColorado app after data breach; up to 150,000 people may be affected]]></title>
-            <description><![CDATA[Kiowa County Press reports: The state’s myColorado app will stay offline while officials investigate a data breach that may have exposed information belonging to as many as 150,000 people. The Governo...]]></description>
-            <link>https://databreaches.net/2026/11/24/state-shuts-down-mycolorado-app-after-data-breach-up-to-150000-people-may-be-affected/</link>
-            <guid isPermaLink="false">https://databreaches.net/2026/11/24/state-shuts-down-mycolorado-app-after-data-breach-up-to-150000-people-may-be-affected/</guid>
-            <category><![CDATA[DataBreaches.net]]></category>
-            <dc:creator><![CDATA[DataBreaches.net]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 14:00:06 GMT</pubDate>
-            <dc:source>DataBreaches.net</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation]]></title>
-            <description><![CDATA[Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authenti...]]></description>
-            <link>https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 13:28:26 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site]]></title>
-            <description><![CDATA[A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Int...]]></description>
-            <link>https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 13:28:21 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia Fuels Crypto Relief Rally as SUI and HBAR Jump 6%]]></title>
-            <description><![CDATA[Nvidia’s reinstatement of Jensen Huang as CEO sparked a technology-driven relief rally across cryptocurrency markets. The Nasdaq surged 6.4%, while Canton gained 9%, SUI and…...]]></description>
-            <link>https://www.ccn.com/news/crypto/nvidia-crypto-relief-rally-sui-hbar/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/nvidia-crypto-relief-rally-sui-hbar/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 13:27:15 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia’s Latest Twist Leaves One Crypto Trader With a Massive Loss: Details Inside]]></title>
-            <description><![CDATA[Numerous cryptocurrencies experienced wild price swings following the news....]]></description>
-            <link>https://cryptopotato.com/nvidias-latest-twist-leaves-one-crypto-trader-with-a-massive-loss-details-inside/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/nvidias-latest-twist-leaves-one-crypto-trader-with-a-massive-loss-details-inside/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 13:03:44 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold]]></title>
-            <description><![CDATA[Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported....]]></description>
-            <link>https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered</link>
-            <guid isPermaLink="false">https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:47:49 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture]]></title>
-            <description><![CDATA[The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ report....]]></description>
-            <link>https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto</link>
-            <guid isPermaLink="false">https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:47:40 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap]]></title>
-            <description><![CDATA[Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.
-
-In Ma...]]></description>
-            <link>https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:42:09 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin drops as November spot ETF outflows increase to record $4.71 billion]]></title>
-            <description><![CDATA[Your day-ahead look for Nov. 24, 2026...]]></description>
-            <link>https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion</link>
-            <guid isPermaLink="false">https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:36:28 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Tom Lee Slams XRP as ‘Far More Inflationary’ Than Ethereum as Bulls Eye $30]]></title>
-            <description><![CDATA[Bitmine’s Tom Lee put XRP’s annualized supply growth at 5.4%, compared with 0.90% for Ethereum and 0.82% for Bitcoin. XRP’s circulating supply can grow as…...]]></description>
-            <link>https://www.ccn.com/news/crypto/tom-lee-slams-xrp-far-more-inflationary-bulls-eye-wild-price-calls/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/tom-lee-slams-xrp-far-more-inflationary-bulls-eye-wild-price-calls/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:32:15 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[JPMorgan, HSBC and StoneX complete first digital gold trades in London]]></title>
-            <description><![CDATA[The banks tested a new way to trade fractions of physical gold bars and use the metal as collateral without moving it from vaults for the first time....]]></description>
-            <link>https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london</link>
-            <guid isPermaLink="false">https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london</guid>
-            <category><![CDATA[Coindesk]]></category>
-            <dc:creator><![CDATA[Coindesk]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:04:39 GMT</pubDate>
-            <dc:source>Coindesk</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Michael Saylor: Strategy Will Buy All Bitcoin and Drive BTC to $10M]]></title>
-            <description><![CDATA[Saylor believes allowing investors to borrow against BTC could reduce forced selling and bring a much larger pool of capital into the market....]]></description>
-            <link>https://cryptopotato.com/michael-saylor-strategy-will-buy-all-bitcoin-and-drive-btc-to-10m/</link>
-            <guid isPermaLink="false">https://cryptopotato.com/michael-saylor-strategy-will-buy-all-bitcoin-and-drive-btc-to-10m/</guid>
-            <category><![CDATA[CryptoPotato]]></category>
-            <dc:creator><![CDATA[CryptoPotato]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:02:10 GMT</pubDate>
-            <dc:source>CryptoPotato</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity]]></title>
-            <description><![CDATA[A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw ...]]></description>
-            <link>https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:02:00 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk]]></title>
-            <description><![CDATA[What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?
-
-According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigate...]]></description>
-            <link>https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html</link>
-            <guid isPermaLink="false">https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html</guid>
-            <category><![CDATA[The Hacker News]]></category>
-            <dc:creator><![CDATA[The Hacker News]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 12:01:54 GMT</pubDate>
-            <dc:source>The Hacker News</dc:source>
-            <dc:date>2026-11-24</dc:date>
-        </item>
-        <item>
-            <title><![CDATA[Matt Rife Says He Won’t Buy Crypto After Starring in Netflix’s $8B FTX Drama]]></title>
-            <description><![CDATA[Matt Rife says working on Netflix’s The Altruists left him unwilling to put his own money into crypto. Rife plays Ryan Salame, the former FTX…...]]></description>
-            <link>https://www.ccn.com/news/crypto/matt-rife-says-wont-buy-crypto-starring-netflixs-ftx-drama/</link>
-            <guid isPermaLink="false">https://www.ccn.com/news/crypto/matt-rife-says-wont-buy-crypto-starring-netflixs-ftx-drama/</guid>
-            <category><![CDATA[CNN.com - Crypto News]]></category>
-            <dc:creator><![CDATA[CNN.com - Crypto News]]></dc:creator>
-            <pubDate>Tue, 24 Nov 2026 11:32:15 GMT</pubDate>
-            <dc:source>CNN.com - Crypto News</dc:source>
             <dc:date>2026-11-24</dc:date>
         </item>
     </channel>
